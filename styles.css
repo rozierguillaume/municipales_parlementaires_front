@@ -70,6 +70,15 @@ a {
   gap: 4px;
 }
 
+.sidebar-home {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+  color: var(--text-primary);
+}
+
 .sidebar-header h1 {
   font-size: 1.25rem;
   font-weight: 700;
@@ -203,6 +212,122 @@ a {
   margin-top: 8px;
   font-size: 0.85rem;
   color: var(--text-secondary);
+}
+
+.summary-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.summary-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.summary-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 12px 14px;
+  min-width: 160px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.summary-card-title {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.summary-card-value {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-top: 4px;
+}
+
+.summary-section {
+  margin-bottom: 26px;
+}
+
+.summary-table-wrapper {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  overflow: hidden;
+  overflow-x: auto;
+}
+
+.summary-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  min-width: 720px;
+}
+
+.summary-table th,
+.summary-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border-color);
+  text-align: left;
+  vertical-align: top;
+}
+
+.summary-table thead th {
+  background: #f8fafc;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.summary-table tfoot th,
+.summary-table tfoot td {
+  background: #f8fafc;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.summary-table tbody tr:hover {
+  background: var(--hover-bg);
+}
+
+.summary-table tbody tr.is-mismatch {
+  background: #fff7ed;
+}
+
+.summary-table-main tbody tr {
+  cursor: pointer;
+}
+
+.summary-table .cell-name {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.summary-table .cell-status {
+  width: 140px;
+}
+
+.summary-table .cell-position {
+  min-width: 220px;
+}
+
+.summary-matrix th,
+.summary-matrix td {
+  text-align: center;
+}
+
+.summary-matrix th:first-child,
+.summary-matrix td:first-child {
+  text-align: left;
+}
+
+.summary-matrix .matrix-total {
+  font-weight: 700;
+  color: var(--text-primary);
 }
 
 .member-header {

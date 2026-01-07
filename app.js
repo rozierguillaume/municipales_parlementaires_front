@@ -8,12 +8,18 @@ const elements = {
   clearBtn: document.getElementById("clearSearchBtn"),
   main: document.getElementById("mainContent"),
   sidebarMeta: document.getElementById("sidebarMeta"),
+  homeBtn: document.getElementById("homeBtn"),
 };
 
 const state = {
   all: [],
   filtered: [],
   activeId: null,
+  view: "summary",
+  detailsById: {},
+  detailsErrors: {},
+  summaryRequestId: 0,
+  byId: {},
 };
 
 const isMissing = (value) => {
@@ -78,6 +84,63 @@ const getStatusInfo = (status) => {
     return { label: "ERREUR JSON", className: "status-error" };
   }
   return { label: "Non analyse", className: "status-empty" };
+};
+
+const getHumanStatusInfo = (position) => {
+  if (isMissing(position)) {
+    return { label: "Non renseigne", className: "status-empty" };
+  }
+  const normalized = normalize(position).replace(/\s+/g, " ").trim();
+  if (normalized.includes("pourrait etre sur la liste")) {
+    return { label: "INCERTAIN", className: "status-incertain" };
+  }
+  if (normalized.includes("tete de liste") || normalized.includes("sur la liste")) {
+    return { label: "OUI", className: "status-oui" };
+  }
+  return { label: "Autre", className: "status-empty" };
+};
+
+const getAiStatusInfo = (details) => {
+  if (!details || !details.analysis) {
+    return getStatusInfo(null);
+  }
+  return getStatusInfo(details.analysis.status || details.analysis.statut);
+};
+
+const getPositionValue = (member, details) => {
+  const position = pickValue(member.position, details?.identity?.position);
+  return position || "Non renseigne";
+};
+
+const getIdentityFields = (member, details) => {
+  const identity = details && details.identity ? details.identity : member;
+  const fullName = pickValue(
+    identity.full_name,
+    pickValue(member.full_name, "")
+  );
+  const prenom = pickValue(identity.prenom, member.prenom);
+  const nom = pickValue(identity.nom, member.nom);
+  const displayName =
+    fullName || [prenom, nom].filter(Boolean).join(" ") || "Nom inconnu";
+  const parti = pickValue(identity.parti, member.parti);
+  const departement = pickValue(identity.departement, member.departement);
+  const commune = pickValue(identity.commune, member.commune);
+  return { displayName, parti, departement, commune };
+};
+
+const formatMemberMetaLine = (departement, commune) => {
+  const parts = [];
+  if (departement) {
+    parts.push(`Departement: ${departement}`);
+  }
+  if (commune) {
+    parts.push(`Commune: ${commune}`);
+  }
+  return parts.join(" - ") || "Informations incompletes";
+};
+
+const isComparableLabel = (label) => {
+  return ["OUI", "INCERTAIN", "NON"].includes(label);
 };
 
 const updateSidebarMeta = () => {
@@ -171,22 +234,14 @@ const renderError = (message, details) => {
 };
 
 const renderMember = (member, details) => {
-  const identity = details && details.identity ? details.identity : member;
-  const fullName = pickValue(
-    identity.full_name,
-    pickValue(member.full_name, "")
+  const { displayName, parti, departement, commune } = getIdentityFields(
+    member,
+    details
   );
-  const prenom = pickValue(identity.prenom, member.prenom);
-  const nom = pickValue(identity.nom, member.nom);
-  const displayName = fullName || [prenom, nom].filter(Boolean).join(" ") || "Nom inconnu";
+  const position = getPositionValue(member, details);
 
-  const parti = pickValue(identity.parti, member.parti);
-  const departement = pickValue(identity.departement, member.departement);
-  const commune = pickValue(identity.commune, member.commune);
-  const position = pickValue(member.position, identity.position) || "Non renseigne";
-
-  const analysis = details ? details.analysis : null;
-  const statusInfo = getStatusInfo(analysis && (analysis.status || analysis.statut));
+  const statusInfo = getAiStatusInfo(details);
+  const positionStatusInfo = getHumanStatusInfo(position);
 
   const tagLabels = [];
   if (parti) {
@@ -202,14 +257,7 @@ const renderMember = (member, details) => {
     ? tagLabels.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")
     : '<span class="tag">Infos manquantes</span>';
 
-  const metaLineParts = [];
-  if (departement) {
-    metaLineParts.push(`Departement: ${departement}`);
-  }
-  if (commune) {
-    metaLineParts.push(`Commune: ${commune}`);
-  }
-  const metaLine = metaLineParts.join(" - ") || "Informations incompletes";
+  const metaLine = formatMemberMetaLine(departement, commune);
 
   const articles = details && Array.isArray(details.search_results) ? details.search_results : [];
   const articlesHtml = articles.length
@@ -263,18 +311,10 @@ const renderMember = (member, details) => {
       </div>
       <div class="info-card">
         <div class="info-label">Position (humain)</div>
+        <div class="status-pill ${positionStatusInfo.className}">${escapeHtml(
+          positionStatusInfo.label
+        )}</div>
         <div class="info-value">${escapeHtml(position)}</div>
-      </div>
-      <div class="info-card">
-        <div class="info-label">Comparaison</div>
-        <div class="comparison">
-          <div><span class="comparison-label">IA</span>${escapeHtml(
-            statusInfo.label
-          )}</div>
-          <div><span class="comparison-label">Humain</span>${escapeHtml(
-            position
-          )}</div>
-        </div>
       </div>
     </section>
 
@@ -285,6 +325,284 @@ const renderMember = (member, details) => {
       </div>
     </section>
   `;
+};
+
+const fetchMemberDetails = async (member) => {
+  if (!member || !member.filename) {
+    return null;
+  }
+  if (state.detailsById[member.id]) {
+    return state.detailsById[member.id];
+  }
+  if (state.detailsErrors[member.id]) {
+    return null;
+  }
+  try {
+    const detailUrl = new URL(member.filename, detailsRoot).toString();
+    const details = await fetchJson(detailUrl);
+    state.detailsById[member.id] = details;
+    return details;
+  } catch (error) {
+    console.error("Detail load failed", member.id, error);
+    state.detailsErrors[member.id] = error.message;
+    return null;
+  }
+};
+
+const prefetchDetails = async (members) => {
+  const queue = members.filter(
+    (member) =>
+      member &&
+      !state.detailsById[member.id] &&
+      !state.detailsErrors[member.id]
+  );
+  if (queue.length === 0) {
+    return;
+  }
+  const limit = Math.min(8, queue.length);
+  const workers = Array.from({ length: limit }, async () => {
+    while (queue.length) {
+      const member = queue.shift();
+      if (!member) {
+        continue;
+      }
+      await fetchMemberDetails(member);
+    }
+  });
+  await Promise.all(workers);
+};
+
+const buildComparisonMatrix = (entries) => {
+  const aiCategories = ["OUI", "INCERTAIN", "NON", "ERREUR JSON", "Non analyse"];
+  const humanCategories = ["OUI", "INCERTAIN", "Non renseigne", "Autre"];
+  const matrix = {};
+  const humanTotals = {};
+  const aiTotals = {};
+
+  aiCategories.forEach((label) => {
+    aiTotals[label] = 0;
+  });
+
+  humanCategories.forEach((label) => {
+    matrix[label] = {};
+    aiCategories.forEach((aiLabel) => {
+      matrix[label][aiLabel] = 0;
+    });
+    humanTotals[label] = 0;
+  });
+
+  entries.forEach((entry) => {
+    const humanLabel = humanCategories.includes(entry.humanStatus.label)
+      ? entry.humanStatus.label
+      : "Autre";
+    const aiLabel = aiCategories.includes(entry.aiStatus.label)
+      ? entry.aiStatus.label
+      : "Non analyse";
+    matrix[humanLabel][aiLabel] += 1;
+    humanTotals[humanLabel] += 1;
+    aiTotals[aiLabel] += 1;
+  });
+
+  return {
+    aiCategories,
+    humanCategories,
+    matrix,
+    humanTotals,
+    aiTotals,
+  };
+};
+
+const renderSummaryView = (entries) => {
+  if (!entries.length) {
+    elements.main.innerHTML =
+      '<div class="empty-state"><p>Aucun parlementaire.</p></div>';
+    return;
+  }
+
+  const total = entries.length;
+  const comparable = entries.filter(
+    (entry) =>
+      isComparableLabel(entry.aiStatus.label) &&
+      isComparableLabel(entry.humanStatus.label)
+  ).length;
+  const mismatch = entries.filter(
+    (entry) =>
+      isComparableLabel(entry.aiStatus.label) &&
+      isComparableLabel(entry.humanStatus.label) &&
+      entry.aiStatus.label !== entry.humanStatus.label
+  ).length;
+
+  const { aiCategories, humanCategories, matrix, humanTotals, aiTotals } =
+    buildComparisonMatrix(entries);
+
+  const matrixHeader = aiCategories
+    .map((label) => `<th>${escapeHtml(label)}</th>`)
+    .join("");
+  const matrixRows = humanCategories
+    .map((label) => {
+      const cells = aiCategories
+        .map((aiLabel) => `<td>${matrix[label][aiLabel]}</td>`)
+        .join("");
+      return `<tr><th>${escapeHtml(label)}</th>${cells}<td class="matrix-total">${humanTotals[label]}</td></tr>`;
+    })
+    .join("");
+  const matrixFooter = `<tr><th>Total</th>${aiCategories
+    .map((aiLabel) => `<td class="matrix-total">${aiTotals[aiLabel]}</td>`)
+    .join("")}<td class="matrix-total">${total}</td></tr>`;
+
+  const rowsHtml = entries
+    .map((entry) => {
+      const mismatchClass =
+        isComparableLabel(entry.aiStatus.label) &&
+        isComparableLabel(entry.humanStatus.label) &&
+        entry.aiStatus.label !== entry.humanStatus.label
+          ? "is-mismatch"
+          : "";
+      const departement = entry.departement || "n/a";
+      const commune = entry.commune || "n/a";
+      const parti = entry.parti || "n/a";
+      return `
+        <tr class="${mismatchClass}" data-member-id="${escapeHtml(
+        entry.member.id
+      )}">
+          <td class="cell-name">${escapeHtml(entry.displayName)}</td>
+          <td>${escapeHtml(parti)}</td>
+          <td>${escapeHtml(departement)}</td>
+          <td>${escapeHtml(commune)}</td>
+          <td class="cell-status"><span class="status-pill ${
+            entry.aiStatus.className
+          }">${escapeHtml(entry.aiStatus.label)}</span></td>
+          <td class="cell-status"><span class="status-pill ${
+            entry.humanStatus.className
+          }">${escapeHtml(entry.humanStatus.label)}</span></td>
+          <td class="cell-position">${escapeHtml(entry.position)}</td>
+        </tr>
+      `;
+    })
+    .join("");
+
+  const filteredNote =
+    state.filtered.length === state.all.length
+      ? `${total} suivis`
+      : `${total} affiches sur ${state.all.length}`;
+
+  elements.main.innerHTML = `
+    <div class="summary-header">
+      <div>
+        <div class="member-kicker">Recapitulatif</div>
+        <h2>Parlementaires suivis</h2>
+        <div class="member-sub">${escapeHtml(filteredNote)}</div>
+      </div>
+      <div class="summary-metrics">
+        <div class="summary-card">
+          <div class="summary-card-title">Total</div>
+          <div class="summary-card-value">${total}</div>
+        </div>
+        <div class="summary-card">
+          <div class="summary-card-title">Comparables</div>
+          <div class="summary-card-value">${comparable}</div>
+        </div>
+        <div class="summary-card">
+          <div class="summary-card-title">Divergences</div>
+          <div class="summary-card-value">${mismatch}</div>
+        </div>
+      </div>
+    </div>
+
+    <section class="summary-section">
+      <div class="section-title">Comparaison IA / Humain</div>
+      <div class="summary-table-wrapper">
+        <table class="summary-table summary-matrix">
+          <thead>
+            <tr>
+              <th>Humain \\ IA</th>
+              ${matrixHeader}
+              <th>Total</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${matrixRows}
+          </tbody>
+          <tfoot>
+            ${matrixFooter}
+          </tfoot>
+        </table>
+      </div>
+    </section>
+
+    <section class="summary-section">
+      <div class="section-title">Tous les parlementaires</div>
+      <div class="summary-table-wrapper">
+        <table class="summary-table summary-table-main">
+          <thead>
+            <tr>
+              <th>Nom</th>
+              <th>Parti</th>
+              <th>Departement</th>
+              <th>Commune</th>
+              <th>IA</th>
+              <th>Humain</th>
+              <th>Position</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${rowsHtml}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  `;
+};
+
+const loadSummary = async () => {
+  const requestId = (state.summaryRequestId += 1);
+  const members = [...state.filtered];
+  const needsPrefetch = members.some(
+    (member) =>
+      member &&
+      !state.detailsById[member.id] &&
+      !state.detailsErrors[member.id]
+  );
+  if (needsPrefetch) {
+    renderLoading("Chargement du recapitulatif...");
+  }
+  await prefetchDetails(members);
+  if (requestId !== state.summaryRequestId) {
+    return;
+  }
+  if (state.view !== "summary") {
+    return;
+  }
+
+  const entries = members.map((member) => {
+    const details = state.detailsById[member.id] || null;
+    const { displayName, parti, departement, commune } = getIdentityFields(
+      member,
+      details
+    );
+    const position = getPositionValue(member, details);
+    const aiStatus = getAiStatusInfo(details);
+    const humanStatus = getHumanStatusInfo(position);
+    return {
+      member,
+      displayName,
+      parti,
+      departement,
+      commune,
+      position,
+      aiStatus,
+      humanStatus,
+    };
+  });
+
+  renderSummaryView(entries);
+};
+
+const showSummary = () => {
+  state.view = "summary";
+  state.activeId = null;
+  renderList();
+  loadSummary();
 };
 
 const parseJsonSafe = (text) => {
@@ -322,6 +640,8 @@ const selectMember = (member) => {
   if (!member) {
     return;
   }
+  state.view = "detail";
+  state.summaryRequestId += 1;
   state.activeId = member.id;
   renderList();
   loadMember(member);
@@ -348,13 +668,18 @@ const applyFilter = () => {
   }
   renderList();
   updateSidebarMeta();
+  if (state.view === "summary") {
+    loadSummary();
+  }
 };
 
 const loadMember = async (member) => {
   renderLoading("Chargement du parlementaire...");
   try {
-    const detailUrl = new URL(member.filename, detailsRoot).toString();
-    const details = await fetchJson(detailUrl);
+    const details = await fetchMemberDetails(member);
+    if (!details) {
+      throw new Error(state.detailsErrors[member.id] || "Details manquants.");
+    }
     renderMember(member, details);
   } catch (error) {
     console.error("Member load failed", error);
@@ -372,11 +697,13 @@ const loadList = async () => {
         sensitivity: "base",
       })
     );
+    state.byId = state.all.reduce((acc, member) => {
+      acc[member.id] = member;
+      return acc;
+    }, {});
     state.filtered = [...state.all];
-    renderList();
     updateSidebarMeta();
-    elements.main.innerHTML =
-      '<div class="empty-state"><p>Selectionnez un parlementaire pour voir les details.</p></div>';
+    showSummary();
   } catch (error) {
     console.error("List load failed", error, listUrl);
     if (window.location.protocol === "file:") {
@@ -399,6 +726,22 @@ elements.clearBtn.addEventListener("click", () => {
   elements.filterInput.value = "";
   applyFilter();
   elements.filterInput.focus();
+});
+if (elements.homeBtn) {
+  elements.homeBtn.addEventListener("click", showSummary);
+}
+elements.main.addEventListener("click", (event) => {
+  if (state.view !== "summary") {
+    return;
+  }
+  const row = event.target.closest("tr[data-member-id]");
+  if (!row) {
+    return;
+  }
+  const member = state.byId[row.dataset.memberId];
+  if (member) {
+    selectMember(member);
+  }
 });
 
 loadList();
