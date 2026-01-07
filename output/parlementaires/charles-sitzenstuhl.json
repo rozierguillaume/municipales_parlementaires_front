@@ -1,0 +1,76 @@
+{
+  "id": "charles-sitzenstuhl",
+  "identity": {
+    "id": "charles-sitzenstuhl",
+    "nom": "SITZENSTUHL",
+    "prenom": "Charles",
+    "full_name": "Charles SITZENSTUHL",
+    "parti": "nan",
+    "departement": "Bas-Rhin",
+    "commune": "nan",
+    "filename": "charles-sitzenstuhl.json"
+  },
+  "search_results": [
+    {
+      "title": "Un député alsacien surpris par l’adoption de son amendement supprimant un impôt rapportant 5,4 milliards d’euros - DNA - Les Dernières Nouvelles d'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTFFOVU5Bc0hfMk4xS2JicURwX3NWNjNhQWtGX0ltNGktMjZQMHk0TGtYbC1oU3g5YjNaUm1VZ0dpUEQ0QWh3eVAzQzNoRXU3NEd2cVdWRzZPNzVmMlhicGZBWlJUZzI5ODdmZDdTYVJuQTFiTlE5MjNiM2hWaldmRGJqOHBNWEtrM25ZNEdrckNvTHo2bTJ2U3J6ZTNRYmdJQ3g4b2gtUE5TRWwwNTRjY1pROGc1RF9oWE5fZA?oc=5",
+      "snippet": "Un député alsacien surpris par l’adoption de son amendement supprimant un impôt rapportant 5,4 milliards d’euros&nbsp;&nbsp;DNA - Les Dernières Nouvelles d'Alsace",
+      "date": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "source": "DNA - Les Dernières Nouvelles d'Alsace"
+    },
+    {
+      "title": "Après de bons résultats à Sélestat, la gauche unie vise la victoire aux municipales - Rue89 Strasbourg",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWVSTkRQQ2xVTkEtYnlkUVpMYzNfVVRPOU9xS1lWTEdlckF5dm9aaDFNaWh2QkVtckdnRHZjNTVWTEhxOVFDN2NnMzI1Y2xmaThoQ2RmN204ZjBnWlM1S2NoaEs2M2U0aWpoeFB1NW8zQlBxTVl3TzkxQVpSZWVpaldn?oc=5",
+      "snippet": "Après de bons résultats à Sélestat, la gauche unie vise la victoire aux municipales&nbsp;&nbsp;Rue89 Strasbourg",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "Rue89 Strasbourg"
+    },
+    {
+      "title": "Le RN fait son grand retour au bureau de l’Assemblée nationale - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNanFMV2RYYjcxZU5wN3FELW1CdGtNVVdUMlgxT01ieEgyUTVQb3pZZjYyaElPQWpNRmp2TFdDMWUzSll1UkJXd3Jyd243Q1pQRVdDdXRVRlRrU2d5ZGhTM1lQUEdhazVKLVVBRWJnaDZNRjVuekNXbWYwUzF3T0hDSzBDQkgzSGU4eGJDbGJTYW1BQkxzR01sQkItSnZWNlEwMURCZXZLd1FuQ1Z5REJaRE1aXzZVb2hLRkpFZnRfcG5KWGRZa3FOV241U005a1dVd2JydXhn?oc=5",
+      "snippet": "Le RN fait son grand retour au bureau de l’Assemblée nationale&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Les Chuchotements. Sondage, autopromo et courrier sans réponse - L'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGJ2SE1YaTV0YVRHVncySW8tLVNWSi1PaFBjNXl3ODFFX3A4RUhHb2hLYTZKV1NwbkpFNDEzX2Foa2kzSHpfNnlOa2NwMHVJZ2hvX056UE5OMnZFak9qUFkxMUJLUUZkV1haX0p5MTk2bjBoX0RvTjVRN3htMUEzLUdhNkhlR1prY19HNWN3VQ?oc=5",
+      "snippet": "Les Chuchotements. Sondage, autopromo et courrier sans réponse&nbsp;&nbsp;L'Alsace",
+      "date": "Sun, 31 Aug 2025 07:00:00 GMT",
+      "source": "L'Alsace"
+    },
+    {
+      "title": "Municipales 2026. Sélestat : la fin de l’ère Marcel Bauer ? - DNA - Les Dernières Nouvelles d'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFNQVnFETzJMSFJ6LW1EbkxnM2NDZUpEV0pGUjNfdV84SjBPMEF3ZWUyZHdfeWJZVHM2Y29LUmhkcEh2YzNlT2s3bFoxdjhGZ3ZQTm1xNll5ekE0S1UyMlhjZlpleHlzemhSSkpjTkZ5M0hGcERqc0VhQ2diMDllaFRQTQ?oc=5",
+      "snippet": "Municipales 2026. Sélestat : la fin de l’ère Marcel Bauer ?&nbsp;&nbsp;DNA - Les Dernières Nouvelles d'Alsace",
+      "date": "Sun, 30 Mar 2025 07:00:00 GMT",
+      "source": "DNA - Les Dernières Nouvelles d'Alsace"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source": "Source 1: DNA - Les Dernières Nouvelles d'Alsace (2025)",
+        "analyse": "Aucune mention explicite de Charles Sitzenstein dans ce contexte, bien que l'amendement soit porté par un député alsacien non identifié."
+      },
+      {
+        "source": "Source 2: Rue89 Strasbourg (2025)",
+        "analyse": "Parle de la gauche unie visant la victoire aux municipales sans mentionner Charles Sitzenstein."
+      },
+      {
+        "source": "Source 3: Le Parisien (2025)",
+        "analyse": "Ne concerne pas Charles Sitzenstein, mais le RN et son retour à l’Assemblée nationale."
+      },
+      {
+        "source": "Source 4: L'Alsace (2025)",
+        "analyse": "Parle de sondages et autopromo sans lien avec Charles Sitzenstein."
+      },
+      {
+        "source": "Source 5: DNA - Les Dernières Nouvelles d'Alsace (2025, mars)",
+        "analyse": "Mentionne les municipales de Sélestat en 2026 mais uniquement dans le contexte de la fin de l’ère Marcel Bauer. Aucune référence explicite à Charles Sitzenstein."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1: DNA - Les Dernières Nouvelles d'Alsace (2025)\",\n            \"analyse\": \"Aucune mention explicite de Charles Sitzenstein dans ce contexte, bien que l'amendement soit porté par un député alsacien non identifié.\"\n        },\n        {\n            \"source\": \"Source 2: Rue89 Strasbourg (2025)\",\n            \"analyse\": \"Parle de la gauche unie visant la victoire aux municipales sans mentionner Charles Sitzenstein.\"\n        },\n        {\n            \"source\": \"Source 3: Le Parisien (2025)\",\n            \"analyse\": \"Ne concerne pas Charles Sitzenstein, mais le RN et son retour à l’Assemblée nationale.\"\n        },\n        {\n            \"source\": \"Source 4: L'Alsace (2025)\",\n            \"analyse\": \"Parle de sondages et autopromo sans lien avec Charles Sitzenstein.\"\n        },\n        {\n            \"source\": \"Source 5: DNA - Les Dernières Nouvelles d'Alsace (2025, mars)\",\n            \"analyse\": \"Mentionne les municipales de Sélestat en 2026 mais uniquement dans le contexte de la fin de l’ère Marcel Bauer. Aucune référence explicite à Charles Sitzenstein.\"\n        }\n    ],\n    \"conclusion\": \"Aucun texte des résultats fournis ne mentionne explicitement Charles Sitzenstuhl comme candidat aux municipales de Sélestat ou d’une autre commune pour 2026. Les informations disponibles concernent soit des événements politiques généraux, soit des figures non identifiées.\"\n}\n```"
+  }
+}

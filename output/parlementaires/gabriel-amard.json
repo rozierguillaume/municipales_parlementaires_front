@@ -1,0 +1,56 @@
+{
+  "id": "gabriel-amard",
+  "identity": {
+    "id": "gabriel-amard",
+    "nom": "AMARD",
+    "prenom": "Gabriel",
+    "full_name": "Gabriel AMARD",
+    "parti": "nan",
+    "departement": "Rhône",
+    "commune": "nan",
+    "position": "nan",
+    "filename": "gabriel-amard.json"
+  },
+  "search_results": [
+    {
+      "title": "Métropolitaines 2026 : LFI dévoile ses 14 têtes de listes - Lyon Capitale",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVlwWkNIWkJzbzc1VEw4MDlybV92emJyRXUzOTFVM0gxeFhIbXNxdDJnWWhhekk0UVpzTkxMbzRkZE96NVU4WHNlVHZ1Q2tPbVlZbGQ0aExfeEliTTRnRU52b1Zpd2lqMVNhR2l4bDREUVhheDhHVUFuSmZ5SlFpdXZuZmlYSDF6RXNXck9hdHViTVp1ZjdqMQ?oc=5",
+      "snippet": "Métropolitaines 2026 : LFI dévoile ses 14 têtes de listes&nbsp;&nbsp;Lyon Capitale",
+      "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "source": "Lyon Capitale"
+    },
+    {
+      "title": "Métropolitaines 2026. À Villeurbanne, Les Insoumis ont choisi leurs têtes de liste - Tribune de Lyon",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPam1IdlhZclpWNkdOODJGNjgzRmQ2a0dEZzR5M3RaWms5TjNDc0llNlFCOWdMY0lmZ0ItZU9Ya2xpT1VfTFA0X25aUzUzQjRVMFhvMEZ5YldWQUZORG05WWNDMGRzM0tzV3Q3cGtiZXlIX2ZnbVlBMUtVTll3eU9lMS1ZN29CMERyUlJWUUxmWUdxNGV5VjhkS20xOTZiZ282Vkp2Tkd6S3pyQ2M?oc=5",
+      "snippet": "Métropolitaines 2026. À Villeurbanne, Les Insoumis ont choisi leurs têtes de liste&nbsp;&nbsp;Tribune de Lyon",
+      "date": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "source": "Tribune de Lyon"
+    },
+    {
+      "title": "Municipales 2026 : Jean-Paul Bret officialise sa candidature - Lyon Bondy Blog -",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHpIOTdhLWppc3pTWTN0SnFERVgwWFQxV3FhaGFUMzEybTdjLWtiaVQzbVBVYllXNWpBdlJHQzZGU0lzOGY3bEx0S2t0Tmc2aFNSZVhURUdySVg2S2ZSVng5UDlmVjJ3dFB3V3prTXJXenNkMzhCazJwbG42X25LVnJuZXZ2RnZYZlV2S0xoSURDUQ?oc=5",
+      "snippet": "Municipales 2026 : Jean-Paul Bret officialise sa candidature&nbsp;&nbsp;Lyon Bondy Blog -",
+      "date": "Sat, 29 Nov 2025 08:00:00 GMT",
+      "source": "Lyon Bondy Blog -"
+    },
+    {
+      "title": "Municipales 2026 : à Villeurbanne, la guerre des gauches aura bien lieu - Rue89 Lyon",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNDJOaXJIb3JRdWxEbjBfUkJOaldEVm1oVEF5cm8wZ0hNVXFtc3pFWF9xSndydG10eEhRMXprRkVMaFhwNjNHUEhVcmpaa2s0VTl6b3AyNW5scF9xbi1sdUFUaUJrQ0ZLa05NNlhXTjhqcU9TYkl0eHBveHF1MlE?oc=5",
+      "snippet": "Municipales 2026 : à Villeurbanne, la guerre des gauches aura bien lieu&nbsp;&nbsp;Rue89 Lyon",
+      "date": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "source": "Rue89 Lyon"
+    },
+    {
+      "title": "Villeurbanne : Mathieu Garabedian et Gabriel Amard actent le divorce avec le parti socialiste - Lyon décideurs",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNUl3SE9kbE90R3hsQUdHcXJSMDZnQV9DQmljYTZFWTlsRmhjb1lEdkpZejVSVm02VWZVcUxRZXJsSUxISkVta1gyUmREcDItSTdjZTVmUlI3WF9iQkRQNzZCaE5BMDdxZHd3VzVWZ1hGUC1BSjN5ZFhsd2Y1dXlIU3IybVNLWEd1TldmSWtpSXJ1SXFwODBkT2QzYVVSUDhiZnBxV0d6MEtkQ29LdWFkUUs2V3Z2d01lVzdqVGxoSzlueU9VZDZRSm1aMA?oc=5",
+      "snippet": "Villeurbanne : Mathieu Garabedian et Gabriel Amard actent le divorce avec le parti socialiste&nbsp;&nbsp;Lyon décideurs",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "source": "Lyon décideurs"
+    }
+  ],
+  "analysis": {
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources ne mentionne explicitement Gabriel Amard comme candidat officiel aux **élections municipales de 2026**. Bien que les articles évoquent son départ du PS (Source 5) et une possible position dans le contexte local, aucune confirmation directe de sa candidature n'est apportée. Les sources concernent plutôt :\n    - La désignation des têtes de liste pour la Métropole de Lyon (LFI, Villeurbanne – Sources 1 & 2),\n    - Une annonce antérieure de Jean-Paul Bret (Municipales 2026) (Source 3).\n    Aucune mention explicite de Gabriel Amard comme candidat aux municipales 2026.\"\n}\n```",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources ne mentionne explicitement Gabriel Amard comme candidat officiel aux **élections municipales de 2026**. Bien que les articles évoquent son départ du PS (Source 5) et une possible position dans le contexte local, aucune confirmation directe de sa candidature n'est apportée. Les sources concernent plutôt :\n    - La désignation des têtes de liste pour la Métropole de Lyon (LFI, Villeurbanne – Sources 1 & 2),\n    - Une annonce antérieure de Jean-Paul Bret (Municipales 2026) (Source 3).\n    Aucune mention explicite de Gabriel Amard comme candidat aux municipales 2026.\"\n}\n```"
+  }
+}

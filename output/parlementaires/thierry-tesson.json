@@ -1,0 +1,58 @@
+{
+  "id": "thierry-tesson",
+  "identity": {
+    "id": "thierry-tesson",
+    "nom": "TESSON",
+    "prenom": "Thierry",
+    "full_name": "Thierry TESSON",
+    "parti": "nan",
+    "departement": "Nord",
+    "commune": "nan",
+    "filename": "thierry-tesson.json"
+  },
+  "search_results": [
+    {
+      "title": "Douaisis : le président des Papillons Blancs dénonce les propos d'un candidat aux municipales - L'Observateur",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBydXNuSzB1WFJia1BveFFPemhTVm12NW5qU08tZ2RsUi1YOVlOWWlOMGJNNHh5ZG5zblp4cnpvcXlOS2pHTUh0Mzl5NXVyTVJ3QnR0eWZxUml3a2FpV1U4RG5KTFNVbnI5cnFzT092eWF0VjBCeFZqQUJiMA?oc=5",
+      "snippet": "Douaisis : le président des Papillons Blancs dénonce les propos d'un candidat aux municipales&nbsp;&nbsp;L'Observateur",
+      "date": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "source": "L'Observateur"
+    },
+    {
+      "title": "Politique – Douai : François Guiffard officialise sa candidature aux municipales 2026 - L'Observateur",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUi1HSWNLQ3ZtdXFObHFuTG1YOFBUNWZFWVpKRl9kX2pOZWZDcG9ROXotSXo3OURWLVIwQnpncGhCcmF6RkxwRjVkQUhFSWZSMS1fYWhXd09hTzltbWpucl9kOFJDYmZlRml5UDBPb2ZqZVNlaXdJTjdkTENNZjdEYw?oc=5",
+      "snippet": "Politique – Douai : François Guiffard officialise sa candidature aux municipales 2026&nbsp;&nbsp;L'Observateur",
+      "date": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "source": "L'Observateur"
+    },
+    {
+      "title": "Le député Thierry Tesson, tête de liste RN-UDR, brigue le beffroi de Douai - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzJSOTVQbGM4dXdEelFxWE1EQmhpcTBDLUtEVnhoWGQ5M3dhWUpJeGw3VExLZW44UktWMkU2MFBSOEtHRmROWkZKZWV5ZFl4MFoyNXRSZDJEeWh2VzFIQjJZYXpsdGdOLUtzeFhBd0xDVFNrN0tnekNrMVZsOUptV0J5MlN2YkRreU5BaGRieUp5LWxVSHJyd29Qd0k0eTNDOHlOMGdIX3M5TXZERTVsQlluTjdBQ0RnOUc1YlpEXzMwMmpJT1E?oc=5",
+      "snippet": "Le député Thierry Tesson, tête de liste RN-UDR, brigue le beffroi de Douai&nbsp;&nbsp;La Voix du Nord",
+      "date": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "source": "La Voix du Nord"
+    },
+    {
+      "title": "Douai : Thierry Tesson sera le candidat du RN et de l’UDR aux prochaines municipales - L'Observateur",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnVmUVVpX0NVV203dmFkRjEzQXhCNlp3REpoWEdVbURQUWJ0Tk5MWURuWTdCUHl2bTdWVkkxSnd5ejNQaTlpQmFNT1k2SEJyS2JlYWE5YUdUTjhuOWNuQnlzZU1IMUVxOUdYdGdDNDZjTl9SLUlUWmVaVGU5aUdmaQ?oc=5",
+      "snippet": "Douai : Thierry Tesson sera le candidat du RN et de l’UDR aux prochaines municipales&nbsp;&nbsp;L'Observateur",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "source": "L'Observateur"
+    },
+    {
+      "title": "Municipales à Douai : la guerre des droites face au maire sortant - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2RBbl9pVXdxR2tOY3QyNElWZW1YWmdESDJfYXFJdEIxbGNTaGxpQTR0c0c2Rk94ZWlYV0NFRFRHenVuZHNzcnpXOVhrcUR2MGZ2bmZBQzJRaWhYSGRtdk14ZGFkcmZvQ2xfd0lpOEI3SldNcEFMcV9Ub200T2RUQi1CWXFZbkNTbjlvbHdXOWduZkwtQkNiWnd6OVduQjg0RS13UEZYaEEtWTBLcWhHcVpVWmRlelE?oc=5",
+      "snippet": "Municipales à Douai : la guerre des droites face au maire sortant&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 06 Mar 2020 08:00:00 GMT",
+      "source": "francebleu.fr"
+    }
+  ],
+  "analysis": {
+    "status": "OUI",
+    "justification": [
+      "Thierry Tesson est mentionné comme tête de liste RN-UDR pour les municipales **2026** à Douai (Source 3 et Source 4).",
+      "Les sources précisent explicitement sa candidature officielle aux prochaines élections municipales dans la ville."
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Thierry Tesson est mentionné comme tête de liste RN-UDR pour les municipales **2026** à Douai (Source 3 et Source 4).\",\n        \"Les sources précisent explicitement sa candidature officielle aux prochaines élections municipales dans la ville.\"\n    ]\n}\n```"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "stella-dupont",
+  "identity": {
+    "id": "stella-dupont",
+    "nom": "DUPONT",
+    "prenom": "Stella",
+    "full_name": "Stella DUPONT",
+    "parti": "DVD",
+    "departement": "Maine-et-Loire",
+    "commune": "Chalonnes-sur-Loire",
+    "filename": "stella-dupont.json"
+  },
+  "search_results": [
+    {
+      "title": "Stella Dupont réélue députée sur la 2ème circonscription de Maine-et-Loire. - Angers Info",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1pqc3pMR2dQUmJ1WlVpVlliZHJLc1hobFRteE9OQlZoaWFIX1BIenhPUGlmcVlGczYzTVd1blpYdU10Y3ljLWZ4RllWOUtBUlBlY0UxTlBMNmlkUHI5aUxQSkNFNkN6ellHcmtVdTcyOVBFNWQxYklQT2p5YkwyRU0xRHYxMTJWUWZxa0pVYnB5UXUwOVNzWnduanpSV280ZU91WHpkS1Z6akNEd2c0?oc=5",
+      "snippet": "Stella Dupont réélue députée sur la 2ème circonscription de Maine-et-Loire.&nbsp;&nbsp;Angers Info",
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "Angers Info"
+    },
+    {
+      "title": "Municipales 2026 : les points chauds en Maine-et-Loire - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOakg0dVlLb3JKY3NHT0o5M0ZQUU50SUdodllPOFliTW5Qa2dGQjVRWFltZkotODhXWGRDRE4yVkRnWThYR0g2ZUhEMzVlRDhpR0ViQk0tSmVpbVFpQU1oYzZjeklSVjdUSV9HU2xuY1hPRTJNOFVrMGl5a1NWdjJWZ3Ntdk9leFpCY1FwQnM5Y3E3aU9hU3E1QnA2T09feUtYTFFfUEFZRmFtMzhhWjVxNmw2Zi1jTUJKdTEzOUl3QmNCNjhxMnFDOUE1VnBmOXBjTWRCSy1n?oc=5",
+      "snippet": "Municipales 2026 : les points chauds en Maine-et-Loire&nbsp;&nbsp;Ouest-France",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Fernando Gonçalves se verrait bien maire de Chalonnes-sur-Loire - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNXzBFaGpGb2lxSk1vazBicWVWaVdWaUhzR0xaWXF6ME81X2kzOVBCTVljOV8tbW1ZXzBhb2hoY3drbzV0WWRHdzhZNmxJYXNTelBsNEVybHk4c0Q1QnVxRWZSRy0xckdRaHZEWVV5RWJfcEtiVno2NTlrQXJDYVN3ZDd1Nk1KYTY1S0dubUp0RFFVSEgtY29Jam44cWY2bVdJQkJsanZjYTVnX3JLckx1Q2VzQ3Vyc3BqVEZVMHZEQ2NDUmNHdVMzYzZvQzk5dGRLR1lwM3NCMDdXTlFzb0xyenRVSE8?oc=5",
+      "snippet": "Fernando Gonçalves se verrait bien maire de Chalonnes-sur-Loire&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 02 Oct 2025 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Val-d'Oise. Municipales 2026 : l'ex-députée Lrem Cécile Rilhac affrontera le maire sortant Lr Philippe Rouleau - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaG8tRmRMaWNNeXZ0LV9KYWFqMm1od3owVlpxM01lS1VBZHBCNDVsUkRMOFdLMXIzTjVVd1NxNmZoVGZkakxTLVdaSGpwTDRqeVVmUDVWcjZjVnlJZTY5OEtSQnZNb2FGaGlnLXVFQTNHeG50R0taUEU1STZjRWtpZGx2ZXdyRUdMUEUzRUItMDNNcGN5MUdBVVgwTzRLazZyRWZBdGk5SEVJVDZzTS1zdUFoUzdualNWS1k3LXRvWUgwTm42aWtjMGVERGNNUDZyNl9fTVA1akRBWmxNU1d0VUcta1ktbDlsQWxWSnEtU3lham11QXFTX3ZrZWhNQzdhdnU0?oc=5",
+      "snippet": "Val-d'Oise. Municipales 2026 : l'ex-députée Lrem Cécile Rilhac affrontera le maire sortant Lr Philippe Rouleau&nbsp;&nbsp;Actu.fr",
+      "date": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2026 : les communes nouvelles garderont le même nombre d’élus - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZnRCQUV4VmhUTHV2RVhDaUZiMWpPbUUxd3R4d25rV29CM3g0ajVocEx3MF9fUTdFY2lwU2JxYzFXeE5TRUV3NG5mNGEzQ0RyZk1TRnRjZnUwbnFEVUxhdk1vY05kZi1JUHJ2RjBCQnROc1lwUFlQWEhaRHFaTmZYbGVuQk5jYWpoQVpGbTBPNFRFZEhra2FUTXR0YkxOTjBnSHFoa3gtQ3ZWcTVtRndxYTZQbS1lX2pRWUtFWW5YSnAyV0lDdGdNUDM2YnZjMHM0dWE5QUwwZFF0b0xwQ05JRnlNWWVzZVpZRlFlSmRR?oc=5",
+      "snippet": "Municipales 2026 : les communes nouvelles garderont le même nombre d’élus&nbsp;&nbsp;Ouest-France",
+      "date": "Wed, 09 Apr 2025 07:00:00 GMT",
+      "source": "Ouest-France"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source": "Angers Info - Décembre 2025",
+        "analyse": "Stella Dupont est réélue députée en décembre 2025, mais cette information ne mentionne pas explicitement sa candidature aux municipales de 2026."
+      },
+      {
+        "source": "Ouest-France - Novembre 2025 (Municipales 2026 : les points chauds en Maine-et-Loire)",
+        "analyse": "Bien que le titre évoque directement les Municipales 2026, le snippet ne précise pas si Stella Dupont est une candidate dans cette élection. Le contexte reste général sur les 'points chauds' sans mention explicite d'elle."
+      },
+      {
+        "source": "Aucune autre source directe",
+        "analyse": "Les autres sources (comme celles concernant Fernando Gonçalves ou Cécile Rilhac) ne concernent pas Stella Dupont et ne permettent pas de conclure sur sa candidature aux municipales 2026."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Angers Info - Décembre 2025\",\n            \"analyse\": \"Stella Dupont est réélue députée en décembre 2025, mais cette information ne mentionne pas explicitement sa candidature aux municipales de 2026.\"\n        },\n        {\n            \"source\": \"Ouest-France - Novembre 2025 (Municipales 2026 : les points chauds en Maine-et-Loire)\",\n            \"analyse\": \"Bien que le titre évoque directement les Municipales 2026, le snippet ne précise pas si Stella Dupont est une candidate dans cette élection. Le contexte reste général sur les 'points chauds' sans mention explicite d'elle.\"\n        },\n        {\n            \"source\": \"Aucune autre source directe\",\n            \"analyse\": \"Les autres sources (comme celles concernant Fernando Gonçalves ou Cécile Rilhac) ne concernent pas Stella Dupont et ne permettent pas de conclure sur sa candidature aux municipales 2026.\"\n        }\n    ]\n}\n```"
+  }
+}

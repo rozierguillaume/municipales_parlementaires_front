@@ -1,0 +1,57 @@
+{
+  "id": "nicolas-tryzna",
+  "identity": {
+    "id": "nicolas-tryzna",
+    "nom": "TRYZNA",
+    "prenom": "Nicolas",
+    "full_name": "Nicolas TRYZNA",
+    "parti": "LR",
+    "departement": "Val-de-Marne",
+    "commune": "Thiais",
+    "filename": "nicolas-tryzna.json"
+  },
+  "search_results": [
+    {
+      "title": "Municipales 2026 en Val-de-Marne #7 : lancements à Vitry-sur-Seine, Arcueil et Chevilly-Larue - Citoyens.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdks0M3hsaVd4dEVUREVWNWJOZGMybWtZRGVjbERnTnByWkJBNEdxaldpYVJjcHZoRnNCc0M2YzZiaWxONUdlSkpSV3gzWDJldnh4aS0zUEZqYlItcnkyUjdxeTlIMVNFdi1DY0g4djBvQ0d5UWJ2cTZaQWZ0U3RvUElJRWxOV0E2OE9xU2xqS3p0a0J2b3BnWlRzczZZYVZCXzN4MUZxZ0VKXzJEVmJDWERNTkxaVWhKSy1rVkxMNFlVZXdxYUVjbkhGSHZJa290d2c?oc=5",
+      "snippet": "Municipales 2026 en Val-de-Marne #7 : lancements à Vitry-sur-Seine, Arcueil et Chevilly-Larue&nbsp;&nbsp;Citoyens.com",
+      "date": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "source": "Citoyens.com"
+    },
+    {
+      "title": "Législatives dans le Val-de-Marne : Vincent Jeanbrun élu député face à Rachel Keke dans la 7e circonscription - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZGEzNXVGcFdWS0ItbEZFY2EtelBhZEQ1WWp2RzMxWDAzRlZaN3loM0t2V3N1dGhqTzNOTFRLbEh2dUxhQXZwNlJyWXR4Ung3Y3dpN3V1cFluT2poMzllQkduMTlGVV9STTdlY0ZOX1ZXN0Z0NzBVbUZwYXJQNFFxTy1OaFJLODdKV3RCdjhRMzJEMmlQNWxac3dsbGFGc0NFcklzRGtKSThIV1BKVDc3dlVORVl4OGpuLVlQZWRhSVJJRlI2Z3B3M1FGZXVnTTlsdmVsMWpNVEZydVZ5QVdDdmNCSGFUNDlYaGpLVFl1RmVoYVVMWlBHZnB5aEVJVmRldm1GMC1jUDNRLWhOZVFUdVZNTTZXblhZSm1ybURoT3AyYWQt?oc=5",
+      "snippet": "Législatives dans le Val-de-Marne : Vincent Jeanbrun élu député face à Rachel Keke dans la 7e circonscription&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Départementales dans le Val-de-Marne : la droite se veut prête pour le basculement - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOFZONHlsZTYxbE5rTThFNXY5TWhySmRQVzFxZ3F2MjhqbW8wWlg0VGNlLUlWcXBNeUpQZVlKRkM1OHZIdE1DaVR1TTROejYybk1OWEhheVpONHZVbmQwSnNxX3BXYjduczkyUjB5YmpzMVJaLXE3TEQ0MlhTOU1mMEFKNllTSGZ6QXBGU2JXdjlZcUdGbmlOY1RIYUJVUW4zZmlaRTlhUWtpcExyQS1FUFpaUm5KOUNQRTBxWHlZejRkZktua0NKS1dOdTdZZERqOFdpeFpTaEJGZXRvaTJv?oc=5",
+      "snippet": "Départementales dans le Val-de-Marne : la droite se veut prête pour le basculement&nbsp;&nbsp;Actu.fr",
+      "date": "Fri, 07 May 2021 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2020 : il y a un look pour faire campagne dans le Val-de-Marne - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObkI2c0pfTS1EaktHc1pNMXBieExJNEhYLWtTQVhJcDFkMldWUVRRM3pTaVZYZ1JqRnE0eERTaS11M3ZFZUVYaHNDbHRRU0pTakExYmlJZ1JKMGFxalJBYkFTc29ma3dQUDVSTkVWWXFjdkxnRGFEQ2Z0aGdOcF9tbnA1LUtQYVo1YzdoNjl2OGFUWVljRF9weFkxRmRYZ3pkZXJ5SHUyQTRReHlEa1JjRkpaWVZncFNJN3BUNGNpVGdGcFF2NTRUWjQxaE91YUg5WkhF?oc=5",
+      "snippet": "Municipales 2020 : il y a un look pour faire campagne dans le Val-de-Marne&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 05 Feb 2020 08:00:00 GMT",
+      "source": "Le Parisien"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source": "Source 1",
+        "analyse": "Les lancements de campagnes pour les Municipales 2026 à Vitry-sur-Seine, Arcueil et Chevilly-Larue sont mentionnés, mais **pas Nicolas TRYZNA** ni son implication directe dans ces annonces. Aucune trace de sa candidature explicite."
+      },
+      {
+        "source": "Source 4",
+        "analyse": "Référence aux 'Municipales 2020' (anciennes élections) mentionnant un 'look pour faire campagne', sans lien avec Nicolas TRYZNA ou les Municipales 2026."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Les lancements de campagnes pour les Municipales 2026 à Vitry-sur-Seine, Arcueil et Chevilly-Larue sont mentionnés, mais **pas Nicolas TRYZNA** ni son implication directe dans ces annonces. Aucune trace de sa candidature explicite.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Référence aux 'Municipales 2020' (anciennes élections) mentionnant un 'look pour faire campagne', sans lien avec Nicolas TRYZNA ou les Municipales 2026.\"\n        }\n    ]\n}\n```"
+  }
+}

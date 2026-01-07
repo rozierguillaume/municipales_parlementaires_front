@@ -1,0 +1,55 @@
+{
+  "id": "lise-magnier",
+  "identity": {
+    "id": "lise-magnier",
+    "nom": "MAGNIER",
+    "prenom": "Lise",
+    "full_name": "Lise MAGNIER",
+    "parti": "nan",
+    "departement": "Marne",
+    "commune": "nan",
+    "filename": "lise-magnier.json"
+  },
+  "search_results": [
+    {
+      "title": "Municipales 2026 : Coralie Rimlinger est à la tête d’une liste à Étampes-sur-Marne - L'Union",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXVJWXRQSDlKQk5nZ3ltb0tmOUVkZGdDWlNvUVhJRTYyRUNSVmN4TXJ2Yk1FeVp6dU01SENyRVJ2ZjFGRlVEM0d5dHVvOWJadVlZVU5yb2xmNlJPNktzRWNMdm1pc1dLcC1vVEhpTHVKS0ltOVNkcmdNNTgwOGQyMktqWHd6Z3lBeFJHa2dRWnQtNU1mX2NRS0YyNzBPekRHR1hTSzhac0hjVkJzdnBOaG1kSUhJOVJ1SE5YNXN2S3B0amc?oc=5",
+      "snippet": "Municipales 2026 : Coralie Rimlinger est à la tête d’une liste à Étampes-sur-Marne&nbsp;&nbsp;L'Union",
+      "date": "Sun, 28 Dec 2025 15:51:00 GMT",
+      "source": "L'Union"
+    },
+    {
+      "title": "Châlons - Municipales 2026 - À Châlons, Gabriel Michel officialise sa candidature... sans l'investiture du parti LR - L'Hebdo du Vendredi",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR2cyd1ctb0R5akktWEh3RFVVRHhVWTZLRi1qVExwT0dHZHYteUlIZExZNnlINWRoTmJiel8yVmFUUmZhUldfQ1FXYXVNUVRTTXVidl9hb2NuMWU2M0otbnp3NGF0VlFTbWdkeEYydHhzTjM1SDF4WTZiVUFXOTQyRzM5amY0TDlfQmNSS0VlbC0wR2VnbmF1OVVCUGpZSVRYZXpMSGtKLVJzZEszb0hGRTJlNXpyZWV2azgtODF3Y3RWVDg5YXFv?oc=5",
+      "snippet": "Châlons - Municipales 2026 - À Châlons, Gabriel Michel officialise sa candidature... sans l'investiture du parti LR&nbsp;&nbsp;L'Hebdo du Vendredi",
+      "date": "Fri, 19 Dec 2025 11:40:13 GMT",
+      "source": "L'Hebdo du Vendredi"
+    },
+    {
+      "title": "« Les Châlonnais veulent tourner la page » : Achille Bisiaux, candidat RN, trace sa feuille de route pour les prochaines élections municipales 2026 - L'Union",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0kxYzRYLWxJR1ZtczVyY0VzbzQ4aFJKMEMwMlJpdUJzeUQ4TGtwTjFqRWFoT2JKUDZCNmdkZHpoNG5kem0zSk9HT0ZYUWRxUTJ0TzF3QVZ2cDBCTC1CbGVwS1BzSFdxQzRNT0NEYVo5WXhSZmdsNGNQQ3hnYmd4VzBoTlRnRjZtWktJN2N2N3ZSWTRCWi1UMEItODdPXzZvZzByMjlVUzYxMV9MT0lDd3c5bFFHZ2o4UG40eEltTkJqbm8?oc=5",
+      "snippet": "« Les Châlonnais veulent tourner la page » : Achille Bisiaux, candidat RN, trace sa feuille de route pour les prochaines élections municipales 2026&nbsp;&nbsp;L'Union",
+      "date": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "source": "L'Union"
+    },
+    {
+      "title": "Municipales 2026 à Châlons : Achille Bisiaux officialise sa candidature sous l’étiquette du Rassemblement national - L'Union",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkNqZzZCdW9PMUQxS25LdmlhaXZDdzhDSm9ybEtxV0hzT2tpN1dLRjVTWUIyeFJCR3BWTDlzWFA2VEJIN2hHRk13REdZMW1OZnF5c2pOWXY5MVpEb2VFNjhNYjdtQk5hZVFCeW1IdThCQkNQYVFFRUVvQ1hLZGdhWkViSGp0c1QzbjQ3U2RRRjhZRkRldUFiaXhKWGJJdWhmRnhCWENhVWNSZlBfdnB0NTI3djQ5NHVoUHBsalZlUQ?oc=5",
+      "snippet": "Municipales 2026 à Châlons : Achille Bisiaux officialise sa candidature sous l’étiquette du Rassemblement national&nbsp;&nbsp;L'Union",
+      "date": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "source": "L'Union"
+    },
+    {
+      "title": "Châlons - Politique - Municipales à Châlons : le patron marnais du RN, Achille Bisiaux, prépare le terrain - L'Hebdo du Vendredi",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXhtSUJ3Qmh5SE9tenhYdDE1YXl6WVRnWHczTEF5WTc2ZTZsRm5YS1dRNlBOMEZ2ekl1dVBvbV9ZZERudndyM1FaRmdsY0VWcGFNQUctU2lBSm5PbUNJOW1tSk5JTllrWnV5bE56Q1owdjRZVEJQa2xac0lCMEsxZm9ndGo5ZUMxa1dzWWtMcXZIbzFvN0IwNEdVaHhQcjNPdGlCMzB5X0dab1FNemYxckRJMmhqVFkxWlNhS1E5d011UWRfYkE?oc=5",
+      "snippet": "Châlons - Politique - Municipales à Châlons : le patron marnais du RN, Achille Bisiaux, prépare le terrain&nbsp;&nbsp;L'Hebdo du Vendredi",
+      "date": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "source": "L'Hebdo du Vendredi"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": "Aucun des résultats fournis ne mentionne explicitement **Lise Magnier** comme candidate aux élections municipales de 2026. Les sources concernent principalement d'autres figures politiques (Coralie Rimlinger, Gabriel Michel, Achille Bisiaux) et des contextes locaux spécifiques à Étampes-sur-Marne ou Châlons.",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Lise Magnier** comme candidate aux élections municipales de 2026. Les sources concernent principalement d'autres figures politiques (Coralie Rimlinger, Gabriel Michel, Achille Bisiaux) et des contextes locaux spécifiques à Étampes-sur-Marne ou Châlons.\"\n}\n```"
+  }
+}

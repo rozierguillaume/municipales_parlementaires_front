@@ -1,0 +1,55 @@
+{
+  "id": "jean-didier-berger",
+  "identity": {
+    "id": "jean-didier-berger",
+    "nom": "BERGER",
+    "prenom": "Jean-Didier",
+    "full_name": "Jean-Didier BERGER",
+    "parti": "LR",
+    "departement": "Hauts-de-Seine",
+    "commune": "Clamart",
+    "filename": "jean-didier-berger.json"
+  },
+  "search_results": [
+    {
+      "title": "Jean-Pierre Berger finalement candidat à la mairie de Saint-Etienne - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV2lab1JLTTBjMXZ5RXVuaE1nNmY5V016d2lZdVVDRTFxUnJlS3cyQzJxb2RkU2pSQmdkQUk1N3hULTJjVDdKU0h3dklsODVpMHNNQWFUYUpzV25fQlA0eHdGckdOVWhYeF9sdlhBTmtFZ2FsVHhwM004MkV0ZW8xbnZHNnJMYnJOcVZFbVRESTd0RjBYclQyRHQ0aWg3ME9taDJ6TE54YjB3ckZ2R2tEZWpBSXl5ajJ4U2s4?oc=5",
+      "snippet": "Jean-Pierre Berger finalement candidat à la mairie de Saint-Etienne&nbsp;&nbsp;mesinfos",
+      "date": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "source": "mesinfos"
+    },
+    {
+      "title": "Bruno Retailleau face aux défis d'une rentrée politique sous tension - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3hiUlI0QVFsYng3ZnVrYnJ4blBrNzlfUHlFdlFSNGE3Y05Xc2EyY2hSWE9FXzQ0djluLUhwVllQVDVSWFZUdjBfdGhLbHNaR3NpT1pBQTBkdFJ5YXNoU2VDME5vbG15a2N1dEhtMWNfTGtvYkgtSkdMejFwRGRNRmtzeld0MXJNYzZCbXdiMjF5NzZOWWhxamkxdlQ4SkRlTHFTS2ZGMUdjVDBZbDhGTUtQcEQyVGlKb0t0WnJCZWRaOEl3YVE?oc=5",
+      "snippet": "Bruno Retailleau face aux défis d'une rentrée politique sous tension&nbsp;&nbsp;Les Echos",
+      "date": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "source": "Les Echos"
+    },
+    {
+      "title": "Commission Nationale d’Investiture des Républicains - Les Républicains",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzllU2xDR2Z4MEFzejNZVVpUX2xUY0RCX21Wdm94VUV2ZmY3Y1FHTzdmT0dubjRFU0JKblJiQzNrdUlEaGZSZTVLT2k3ZzFZSUZ5SzlGTFd6VmZIUV8xWGFEYzZ4ZmtBY1NOdDROUFU2bi0zb2liaXpZYXdTVXpaTTFlamltUHd2bnEzYnRyenlRTlZ2SUJfeHEwZ2lndw?oc=5",
+      "snippet": "Commission Nationale d’Investiture des Républicains&nbsp;&nbsp;Les Républicains",
+      "date": "Mon, 28 Jul 2025 07:00:00 GMT",
+      "source": "Les Républicains"
+    },
+    {
+      "title": "Municipales 2026 dans les Hauts-de-Seine : aux commandes depuis plus de trente ans, indécis… que font vos maires - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPY1ZNT2NMaHIyV3oxU1BKa1Zqc2tQemZKd2E5QWJmZG1lRnVWSWI2dUFqcmlxZ29YVFJvc19iU05pYkJ4VTREUFUxbEs0WnNUZHFNV21ta05KU0gycEIyZ0hJcmdQbmlpTG96ODQ5Tk9CNTZ2VUNtNWRta3FXUkxlNkN2RXRuUjBrNmFjZ0JYY2NDMnZnd2VCNGpjcFpJb045ZzJ3M2wzVEdjUFlzTkN6TDlyMjNpVDZrUVJRYURteWRZZ09mRTU0MmV1NllRclVleXBSVmQxMERsWUZhVS0yeUt3R0czRUZYZmM2QnhFak45UHktZTV0Q0luOTUtdHdpOVR6Qm9qYXYzbU50QldnWXl5RjkyNFRsWFg1X0pfRHY4TXVq?oc=5",
+      "snippet": "Municipales 2026 dans les Hauts-de-Seine : aux commandes depuis plus de trente ans, indécis… que font vos maires&nbsp;&nbsp;Le Parisien",
+      "date": "Thu, 17 Jul 2025 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "UN DUO POUR AVANCER - Ville de Clamart",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qd2dvaG44YjdoeUh5RnhiVGNHNU1SRk0yUTZncTBQVjJlQTFZck1HUkc5VGd6MHR5OTJKQTdDcHBFVklxVXFaQnEwdWZINWFEQm1TWUg5RlNURktiR0d1ckQwekZkeHM?oc=5",
+      "snippet": "UN DUO POUR AVANCER&nbsp;&nbsp;Ville de Clamart",
+      "date": "Sat, 01 Feb 2025 08:00:00 GMT",
+      "source": "Ville de Clamart"
+    }
+  ],
+  "analysis": {
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Jean-Didier Berger** comme candidat aux élections municipales de 2026. Les sources citées concernent soit :\n    - Jean-Pierre Berger (Source 1, autre nom),\n    - Des analyses générales sur la rentrée politique ou les défis municipaux sans lien avec un individu spécifique,\n    - Une commission d’investiture des Républicains (Source 3) ou une annonce locale pour Clamart (Source 5).\n    Aucune mention directe de Jean-Didier Berger n’apparaît dans les snippets analysés.\"\n}\n```",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Jean-Didier Berger** comme candidat aux élections municipales de 2026. Les sources citées concernent soit :\n    - Jean-Pierre Berger (Source 1, autre nom),\n    - Des analyses générales sur la rentrée politique ou les défis municipaux sans lien avec un individu spécifique,\n    - Une commission d’investiture des Républicains (Source 3) ou une annonce locale pour Clamart (Source 5).\n    Aucune mention directe de Jean-Didier Berger n’apparaît dans les snippets analysés.\"\n}\n```"
+  }
+}

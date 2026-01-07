@@ -1,0 +1,55 @@
+{
+  "id": "francois-hollande",
+  "identity": {
+    "id": "francois-hollande",
+    "nom": "HOLLANDE",
+    "prenom": "François",
+    "full_name": "François HOLLANDE",
+    "parti": "nan",
+    "departement": "Corrèze",
+    "commune": "nan",
+    "filename": "francois-hollande.json"
+  },
+  "search_results": [
+    {
+      "title": "Municipales 2026. Au Mans, sept listes déclarées à deux mois et demi du scrutin, dont cinq de gauche - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUGZPcHVFZ3VYanlLVkxaMHB3OWh1YkFfYzg2TmR4R0d2V3FLaElTM3JIUXFxX212UC05enZHdkhFYnJMQ3Vmd2N4RENkWkg1eGN4cE9TTVVheWdncmk5U1hNRHRLUGNUNkpZZGZXM0FoUDB4ZGNtWEZEUjdGdm41VTVDcW5iNkFCWHJQM2tETllpLUp3UVdkV1EzMGxJYWNndjl3MUdJbmNqZ3Z5dDJFb0Q5RzFyOTNUdFZWQVczRk9weGlKWkc2OG5uYzlDanZIc2F5VXQ0MGlLNFlQMXV3Vjh5azZsQ3pITmhFRUczbE5kUm1HOTVPM1dhNkFjSFhWZWdoTnlqNHQtXy04Z2VfS1dR?oc=5",
+      "snippet": "Municipales 2026. Au Mans, sept listes déclarées à deux mois et demi du scrutin, dont cinq de gauche&nbsp;&nbsp;Ouest-France",
+      "date": "Sat, 03 Jan 2026 07:02:06 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026 : Stéphane Le Foll brigue officiellement un nouveau mandat de maire de Mans - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVGxrdGFmLUR6SjJDTDAycTZIWkhHV3g1bGNwdFNCTW9qMU1qSjNVMWRmeFVtVWppRGFzXzJZT3QzUGFiXzJsRVBkVWJ3MjdIMlVETW9zaG9sQVhpX2VjMzNUeTNONUhrUzBKUHRMTG5pdUExZm9iMGFTNXhsaks0aHZQWEU2Y0R0U2M2bnVlVFdEQW8ydlF4c2lLeGhmLUd3SnJTN2J0bC1KWm0tS0V2TlBaaGxqYVMybVlJYjdLal9aNlJjNF91VWRaOWNHZTlQdHd0OVpCcw?oc=5",
+      "snippet": "Municipales 2026 : Stéphane Le Foll brigue officiellement un nouveau mandat de maire de Mans&nbsp;&nbsp;francebleu.fr",
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026. Pourquoi André Vallini ne sera finalement pas candidat à Tullins - Le Dauphiné Libéré",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRThhVllTVDl6RDFqSkJCYzNFZWlYMUJmZjV3bDlYQ3F1YmRoMWJYRXJPSElIUTdIVmZobUdVcWtJcnB2Z2FCa0g3VThUT1ZoeWROeTFhR0YzM29DN0YzOUdRTGVzN3RoOHV3bHdEYzFqRGJBZkdKQ1FIZlBEVWxaNWpOaktQN2VOZWlKTThfc01ENzNxaWZuLW55dlRGOEYxODRpZ2RIbmNwYmJq?oc=5",
+      "snippet": "Municipales 2026. Pourquoi André Vallini ne sera finalement pas candidat à Tullins&nbsp;&nbsp;Le Dauphiné Libéré",
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "Le Dauphiné Libéré"
+    },
+    {
+      "title": "Le maire PS de Brest candidat à un cinquième mandat - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlRoR1BKZjVhMFZBbTlTUEo0dHBvVGxxTFdDMmVTUVJINkloOEhYWk9mY3UyVDlneVNwUDVfMzkyQlozYVF2eHljZDVTR1dyWXBXSFZiaXJGVURVWG1OUUhUMklHcHZ3UmI1TlIzUGVub1RfdlUtLVBQNWp5TWtYZlBCSXpidUlodlRXdktoVHFraS11ZGowSkZxQk1Qd2hUNjF1R1NVblZQSkV2Z2hGUlgxVWJyenFVZ2pQRGJpVQ?oc=5",
+      "snippet": "Le maire PS de Brest candidat à un cinquième mandat&nbsp;&nbsp;20 Minutes",
+      "date": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "source": "20 Minutes"
+    },
+    {
+      "title": "Municipales 2026 à Brest : le maire PS sortant François Cuillandre est candidat à un 5e mandat - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQaFdXTnVPMEp3eFcxX2tuTmFuSF9lMmo4Y182UE1iQ0lhaWJlTUF1WDRvMy0xanc3T3NoYlRFSVduMHA5WjBfLTdzZmFsM2NPdWRLc2NvV2ZaeURlNmpqWmdvenpPazNqN1pRXzZDT3RHTE92MWVhUkpyQjlFWEZOUW5vaVpYZmNrZm5xV0w1bmRaTmdOU0V0THFnek1DYlBRaGFpVFhwSXZPRTFfQ2taVXRjNldYLVNNMWFuVS1lSDJrMGdOY2lTTUVrbWN6N240am9yMGlkdld3Zk5jYWlYdjJTd0FUa0VlT1NaUm9QamJtRWFfMXRaTUFQVjJVRGJWLWJCRWllYUlOU2RuTmVN?oc=5",
+      "snippet": "Municipales 2026 à Brest : le maire PS sortant François Cuillandre est candidat à un 5e mandat&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "source": "Le Parisien"
+    }
+  ],
+  "analysis": {
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement François Hollande comme candidat aux **Municipales de 2026**. Les sources citées concernent principalement :\n    - Stéphane Le Foll (candidat à Mans en 2026, Source 2),\n    - François Cuillandre (Brest, Source 5) ou d'autres figures locales.\n    Aucune mention directe de Hollande dans les listes déclarées ou annonces officielles pour 2026.\"\n}\n```",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement François Hollande comme candidat aux **Municipales de 2026**. Les sources citées concernent principalement :\n    - Stéphane Le Foll (candidat à Mans en 2026, Source 2),\n    - François Cuillandre (Brest, Source 5) ou d'autres figures locales.\n    Aucune mention directe de Hollande dans les listes déclarées ou annonces officielles pour 2026.\"\n}\n```"
+  }
+}

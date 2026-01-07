@@ -1,0 +1,76 @@
+{
+  "id": "nicole-sanquer",
+  "identity": {
+    "id": "nicole-sanquer",
+    "nom": "SANQUER",
+    "prenom": "Nicole",
+    "full_name": "Nicole SANQUER",
+    "parti": "nan",
+    "departement": "Polynésie Française",
+    "commune": "nan",
+    "filename": "nicole-sanquer.json"
+  },
+  "search_results": [
+    {
+      "title": "Résultats élections municipales Taiarapu-Ouest [98723] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGFpMlFsZDVqRG1rd2tuQTlaVVdIX09JMmp6NzJkbUE3TG1sN1NWQVFfcVoxUk1tejJJcHNWNHptbDJ3ekNoWVZSQVpDZE1WMmJaMkROdUpZb1FNblVObzFmd1FqSnBSbjZvWE41Mk1BejB5QUFqU3FOTHNrNl9NbTVqalZRQllGRU9mVlhTOHRrcWc?oc=5",
+      "snippet": "Résultats élections municipales Taiarapu-Ouest [98723] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 16 Dec 2025 01:22:57 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Hinoi Fritch candidat à Mahina face à Damas Teuira - Radio1 Tahiti",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pZ0dTYjc4UUFOYUlHbWRVRFVZd3BlVmRCaEttajVTdzdHbEJVMkk2eDRYOHZ1WU8xRWMyT2VlN1VodVhyRDd3T3MyUG0wUF9ULS1zVFBpR3Bxd3dDak5odmt2N3JJZF9SWDZndW5aZEl3Y2JHVnM0SlJyZUpkd9IBgwFBVV95cUxOekJFbTkwTGE4Slg1eVFIT0xCOTM5c25XTjJ5VlRwaTNVZzJnT1BKV0NBVlc3V2RYQ0JLaGhEOV9odUtxbEtLaXlFTXFJSncxT21scXRkclNrYlJpVkpyc3RrWU9Gd29TbEs0a2VxQkxOUmpONFJnOW5HdEdDdTQwT0Y2cw?oc=5",
+      "snippet": "Hinoi Fritch candidat à Mahina face à Damas Teuira&nbsp;&nbsp;Radio1 Tahiti",
+      "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "source": "Radio1 Tahiti"
+    },
+    {
+      "title": "Le “grand test” des communales pour Ahip - tahiti-infos.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPclJjYVlGWm8zWWdaU0F4MWhJQnNfOUpzNmxTb0RaM3lRRFRIR1d5cHl4YTVmVl91cWtjTlJLVG5lVUNBS1FfeVZ5cnY3Ti1wWkVDNm9hZ0UtOXBlbmRXTlNDRWtDZ3dmeThnMzlEd0xKaUgxRThzM0oyaDc4SjdCU2V3VmZVYmc?oc=5",
+      "snippet": "Le “grand test” des communales pour Ahip&nbsp;&nbsp;tahiti-infos.com",
+      "date": "Sun, 30 Mar 2025 07:00:00 GMT",
+      "source": "tahiti-infos.com"
+    },
+    {
+      "title": "Municipales 2026 : le rythme s'accélère - Radio1 Tahiti",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wdnE5VFhsdXVHdUFuaUN6SVhIX0ZHdk12M0JvVlF1bFVDa0JxbE1rdHdoeUFlV3psaFhMcThNV3FGdFBIbU55UHRsQ0xHcThKWWhwVFA5SXplbjJhcUFmR2dfSEpXU3ZNV0Fv0gFwQVVfeXFMUE0tVVpmYi1iV1BrVEtOMWt0TDc5bjEzOVpsOFRBdk1wRFMzV2pzZHQtMGNvdXdzWE54YmY5Z1N4M3FDX2RKTHd0NDhOWml5eTMwX0ZDaF9iMVZxN1JhVElWWXMzZE9RTFdnT094OVVRRw?oc=5",
+      "snippet": "Municipales 2026 : le rythme s'accélère&nbsp;&nbsp;Radio1 Tahiti",
+      "date": "Thu, 27 Feb 2025 08:00:00 GMT",
+      "source": "Radio1 Tahiti"
+    },
+    {
+      "title": "Sur 577 députés, 52 seront candidats aux élections municipales - l'Opinion",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGwwOXBqY0NvM2o0V1M5ai1mN2dLcm16YnEycmhjYVczT3Fja3gwT1NZRm0tU2c2Ri1VYlViZ0luX3JFU0VjaWlRcDFMbWlqTHpkNnB4cFhGTkJHOVFyWjJvQVJnMnZHdnNKYkI0N0FtYkNFNG85a3ZrOGxnWXp4MHExZnJmOG14WHVJYWJzck13Vi1fQkh5eEROVQ?oc=5",
+      "snippet": "Sur 577 députés, 52 seront candidats aux élections municipales&nbsp;&nbsp;l'Opinion",
+      "date": "Sun, 26 Jan 2020 08:00:00 GMT",
+      "source": "l'Opinion"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source": "Source 1 (Ouest-France - Décembre 2025)",
+        "analyse": "Référence à des élections municipales passées de Taiarapu-Ouest (2025), sans mention explicite de Nicole Sanquer."
+      },
+      {
+        "source": "Source 2 (Radio1 Tahiti - Décembre 2025)",
+        "analyse": "Mention d'un candidat nommé Hinoi Fritch, mais pas de Nicole Sanquer. Pas de contexte sur sa candidature."
+      },
+      {
+        "source": "Source 3 (tahiti-infos.com - Mars 2025)",
+        "analyse": "Référence aux municipales passées pour Ahip (2024), sans lien avec Nicole Sanquer."
+      },
+      {
+        "source": "Source 4 (Radio1 Tahiti - Février 2025)",
+        "analyse": "Mention des municipales de 2026, mais pas de Nicole Sanquer. Le snippet évoque un rythme d'annonces, sans confirmation explicite."
+      },
+      {
+        "source": "Source 5 (l'Opinion - Janvier 2020)",
+        "analyse": "Données historiques sur les députés candidats aux municipales passées (2020), hors contexte de Nicole Sanquer ou des élections de 2026."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 (Ouest-France - Décembre 2025)\",\n            \"analyse\": \"Référence à des élections municipales passées de Taiarapu-Ouest (2025), sans mention explicite de Nicole Sanquer.\"\n        },\n        {\n            \"source\": \"Source 2 (Radio1 Tahiti - Décembre 2025)\",\n            \"analyse\": \"Mention d'un candidat nommé Hinoi Fritch, mais pas de Nicole Sanquer. Pas de contexte sur sa candidature.\"\n        },\n        {\n            \"source\": \"Source 3 (tahiti-infos.com - Mars 2025)\",\n            \"analyse\": \"Référence aux municipales passées pour Ahip (2024), sans lien avec Nicole Sanquer.\"\n        },\n        {\n            \"source\": \"Source 4 (Radio1 Tahiti - Février 2025)\",\n            \"analyse\": \"Mention des municipales de 2026, mais pas de Nicole Sanquer. Le snippet évoque un rythme d'annonces, sans confirmation explicite.\"\n        },\n        {\n            \"source\": \"Source 5 (l'Opinion - Janvier 2020)\",\n            \"analyse\": \"Données historiques sur les députés candidats aux municipales passées (2020), hors contexte de Nicole Sanquer ou des élections de 2026.\"\n        }\n    ],\n    \"conclusion\": \"Aucune information claire et directe ne permet d'affirmer que Nicole Sanquer est candidate aux municipales de 2026 en France. Les sources disponibles concernent soit des élections passées, soit des contextes non pertinents (Taiarapu-Ouest ou Tahiti).\"\n}\n```"
+  }
+}

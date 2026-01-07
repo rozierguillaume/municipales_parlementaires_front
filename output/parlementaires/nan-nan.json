@@ -1,0 +1,55 @@
+{
+  "id": "nan-nan",
+  "identity": {
+    "id": "nan-nan",
+    "nom": NaN,
+    "prenom": NaN,
+    "full_name": "nan nan",
+    "parti": "nan",
+    "departement": "nan",
+    "commune": "nan",
+    "filename": "nan-nan.json"
+  },
+  "search_results": [
+    {
+      "title": "Municipales : quels candidats autour de Nantes ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc25rR0ZqNi1GcVd0NTZXaU41UkpiRmlKQkZfTWIyNzRPczlpZ2pyQ012Ml8xOHVuZ3BBMlk1NEM2Yy1hZUlOUzhocmxORnZicDNGa0VDai1Md01qeWRfSlY3T1FwdzZDX2dIQXlfbjB3b2Flb2taXzFBRUE4MGJHOThqaTZLNzExY1lTQkFja0RjNWN0aTA5U0RfVWxRZ3BlbmNzMUtZLVp0OGF1dnF0MGxLVkRVRWxUNzA3VGpIUFZORUhUd0ZHVDVMcw?oc=5",
+      "snippet": "Municipales : quels candidats autour de Nantes ?&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 06 Jan 2026 06:36:05 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales : à Nantes, Foulques Chombart de Lauwe peut-il faire tomber Johanna Rolland ? - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWnVKal91TXBIY1pEM3F2UVBaZlg1Q3JsMWJDTHZ5V3duTjRXNjU3eGJrc1c3Y2tpOEhzeDA4UFE1dFlJbjkxU0lOejJMck9OQlRWbTFkSmx6QWtwYl9LZWlxdHRYX1NzZDdUcS03WHhjSmwzRVZsc1dEWXEzNUhnQXAwMGZWRXpTa21KQW1LUFotaHdTRGhCOXh6WE5JQWE4REdRel9OMUVyTjBENWJaa1VHRUlzS0FRRDFFVUJFWHVIamt4RVhvcVkycw?oc=5",
+      "snippet": "Municipales : à Nantes, Foulques Chombart de Lauwe peut-il faire tomber Johanna Rolland ?&nbsp;&nbsp;Le Télégramme",
+      "date": "Sun, 04 Jan 2026 05:00:02 GMT",
+      "source": "Le Télégramme"
+    },
+    {
+      "title": "Municipales 2026 à Nantes : une alliance en passe de faire chuter la gauche ? Candidats et tendances - Linternaute.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMkZpOFg4SFpYWnB0QjFMUHg1MlJTc1dhSzVpMkdERGJEcGJ3TmFVaU4xUDNTbjZHd1FYNzdpWG9YX3Z0NFdTYkY2eVRKZGkxY09fazN1TFMzRmVRblhpZTFoQ2FNNk5lWTNpNTdMTXByU2xkNENKSFc1X3NZLVNJbjJYcVBuTWlpNTJ1YTRZYlJ5RkxSeGd2SHRwUktodXJSX0hRb3VSOW5Val9TR1FjODdtVUZNSy1rSkVWVzIzc3Q3aERHc3dlOVFUWEd2QTExR1F3NzQyQWZrQlYxbkNNcjFteXE4Rzdt?oc=5",
+      "snippet": "Municipales 2026 à Nantes : une alliance en passe de faire chuter la gauche ? Candidats et tendances&nbsp;&nbsp;Linternaute.com",
+      "date": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "source": "Linternaute.com"
+    },
+    {
+      "title": "Municipales 2026 : la maire sortante de Nantes, Johanna Rolland, lance officiellement sa campagne - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZElWazg4RzNvMUpWMmxlbkFWUGFZd0pCWjlQZkg3V2RhcDIwdnc1UWdMb3pCejlESHY2ZC1RLU00dGo4bkNuYlFjb0NwVVBEWTdqNTlnVlZ2OGpXLURjX2xVamlRZ1dtbkxZMmQxRk95NWFUWVB5REdEeTg3RURBQ2FjWXVxSGxwQXVRS1ZGTWt2akw1U2xNR2NwRUhxdkhQek9kM2R4Z0lHZkZhcGlRZFpCUlVBM3pTZ2pyeDVKdmZuWGtpQ3lrRDF1SUtpRW9MZ3hnTXhEbHlYcEk?oc=5",
+      "snippet": "Municipales 2026 : la maire sortante de Nantes, Johanna Rolland, lance officiellement sa campagne&nbsp;&nbsp;francebleu.fr",
+      "date": "Sat, 22 Nov 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026. \"La facilité aurait été de dire, on plie le game !\", à Nantes, une alliance tardive entre la droite et le centre - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNa2xQZjYxc2IwMnY4a3J5MG9rX0JVMnBZWE1FcnVlbFNQejVGNmN1SW04anFqblQ0d0hqUElaZGdQZHRLS3lrZk13UWVhT1kxSGxlclBZcms2TU1KSTBHWnZ2eE91NVFUNDdacXgtYk5iSmUzVmU3dGdsdHhrN2puVUluX2cwaVJwVGI4ak9IVnVPNFl5WTdGMDZ5RmhLZVBFQ0liMmdxMlBfdXpkR1NXZGJMTmF1cmpTbEtrTXRrZ0RmaGJCX1NsS1NDMTNSWFhESjVaTVZiQzg0VWtJMVdMOXl5OTFobVhwakNNWnB6bzc4a0I0T3dqWVBvVTZPVW5ha0xYYVB5c2FIa1ZyV1dPOTBoLVpvdXN0UFNSbnpsbTJVWGVtcklaRTFxdnFydGxzeWFxdjJJalRqQQ?oc=5",
+      "snippet": "Municipales 2026. \"La facilité aurait été de dire, on plie le game !\", à Nantes, une alliance tardive entre la droite et le centre&nbsp;&nbsp;France 3 Régions",
+      "date": "Sat, 15 Nov 2025 08:00:00 GMT",
+      "source": "France 3 Régions"
+    }
+  ],
+  "analysis": {
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement 'nan nan' comme candidat officiel aux élections municipales de Nantes en **2026**. Les articles cités concernent principalement :\n     - Johanna Rolland (maire sortante, source 4),\n     - Foulques Chombart de Lauwe (candidat évoqué dans un contexte critique envers Johanna Rolland, sources 1 et 2),\n     - Une alliance droite/centre ou des candidats non nommés explicitement sous 'nan nan' (sources 3 et 5).\n    Le nom 'nan nan' n'apparaît pas dans les titres ni les snippets des articles. Aucune preuve de candidature officielle pour cette personne en 2026.\"\n}\n```",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement 'nan nan' comme candidat officiel aux élections municipales de Nantes en **2026**. Les articles cités concernent principalement :\n     - Johanna Rolland (maire sortante, source 4),\n     - Foulques Chombart de Lauwe (candidat évoqué dans un contexte critique envers Johanna Rolland, sources 1 et 2),\n     - Une alliance droite/centre ou des candidats non nommés explicitement sous 'nan nan' (sources 3 et 5).\n    Le nom 'nan nan' n'apparaît pas dans les titres ni les snippets des articles. Aucune preuve de candidature officielle pour cette personne en 2026.\"\n}\n```"
+  }
+}

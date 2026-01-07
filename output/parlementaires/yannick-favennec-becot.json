@@ -1,0 +1,34 @@
+{
+  "id": "yannick-favennec-becot",
+  "identity": {
+    "id": "yannick-favennec-becot",
+    "nom": "FAVENNEC-BÉCOT",
+    "prenom": "Yannick",
+    "full_name": "Yannick FAVENNEC-BÉCOT",
+    "parti": "nan",
+    "departement": "Mayenne",
+    "commune": "nan",
+    "filename": "yannick-favennec-becot.json"
+  },
+  "search_results": [
+    {
+      "title": "Résultats des législatives 2022 : LREM, Horizons, MoDem… Quel est l'état des forces de la majorité présidentielle avant le second tour ? - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNT21wbkVtUlc0ckpWRHBweFJOTjV1UmVpZ05MYmFmR0pKcDFidUhyRkRyeWowY3hxSlFCSlptZVphX01SWkNjQW1rR1RvZVR4elJMLXVURkhhTmJoYnFRZkJWTHF6T3N6bDV3TVR4RG9vdXV4UjloclhTbkRkOHFVU0t4YVdYVlQ2cVNmZG51N2hRbGc0QzdqMnpQcktxTHk4UmcxcFFmcVFiaUhpMk5OUjJDZnVNYWJuZEgwSVp6ZWdxMWg3ODU3TDBlS3pCZXQ5elNaVWh3VWV0V3R1STRWcnlnaUVwS0I5MzN0bXd0Sy01cmt3c2ZIUWI4LXdtUGZvbWtUQkNISWRmcURWTG5qbkZEV2ZfWG42VjVj?oc=5",
+      "snippet": "Résultats des législatives 2022 : LREM, Horizons, MoDem… Quel est l'état des forces de la majorité présidentielle avant le second tour ?&nbsp;&nbsp;Franceinfo",
+      "date": "Tue, 14 Jun 2022 07:00:00 GMT",
+      "source": "Franceinfo"
+    },
+    {
+      "title": "Dans la Mayenne, un maire, Jacques Louvigné, est décédé en cours de mandat - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3VzR3JIOG1odUk5aDlfWkNLOTVpeDZlV1NKUmZlVGpLUFFQRkpLOWw2b09MN3RJdXg1NzVWeUFRMElWTGNpT0JVS0hUWGdFbzlIOFJ4alltRWE4V0RwREFzZlo1STljVmVPRVlONnRCUTRYUFc4TkI5a1J2NUpGNGxfejh3RnJKMnA3em9LRHhBOEVtN3pZbmw0cHZ3bmg0MzUyTlRQckxOWk10M3drX2VneFdDSWJSS1h2NGlQV0c0aDRhTDFWbnNJMUpZbFBXRHptWUJKVzVWWU9jTWhpaHE2SmY?oc=5",
+      "snippet": "Dans la Mayenne, un maire, Jacques Louvigné, est décédé en cours de mandat&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 18 Jan 2021 08:00:00 GMT",
+      "source": "Actu.fr"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": "Aucune des sources fournies ne mentionne Yannick FAVENNEC-BÉCOT ni dans le contexte des élections municipales de 2026, ni en lien avec une candidature récente ou potentielle. Les résultats des législatives 2022 (Source 1) concernent un autre domaine politique et ne permettent pas d'inférer sa position municipale pour 2026.",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources fournies ne mentionne Yannick FAVENNEC-BÉCOT ni dans le contexte des élections municipales de 2026, ni en lien avec une candidature récente ou potentielle. Les résultats des législatives 2022 (Source 1) concernent un autre domaine politique et ne permettent pas d'inférer sa position municipale pour 2026.\"\n}\n```"
+  }
+}

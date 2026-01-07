@@ -1,0 +1,55 @@
+{
+  "id": "romain-daubie",
+  "identity": {
+    "id": "romain-daubie",
+    "nom": "DAUBIÉ",
+    "prenom": "Romain",
+    "full_name": "Romain DAUBIÉ",
+    "parti": "nan",
+    "departement": "Ain",
+    "commune": "nan",
+    "filename": "romain-daubie.json"
+  },
+  "search_results": [
+    {
+      "title": "Élections législatives 2024 – 2e circonscription : Romain Daubié (Ensemble) réélu député - La Voix de l'Ain",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GM2NCejNkVXZLMmxybFZlN1pGQWpyVWRzdVdyY2pmNlFPbDNTRzlPSXBCQnA2cDR2SWNuMDBYTmJTeUhiM0dBb0dsdmpGdmtTX1RSYkpIdkRMdzhTUVRERDBiVFlPZHFzUTB5dEVsSy1UcU1j?oc=5",
+      "snippet": "Élections législatives 2024 – 2e circonscription : Romain Daubié (Ensemble) réélu député&nbsp;&nbsp;La Voix de l'Ain",
+      "date": "Sun, 07 Jul 2024 07:00:00 GMT",
+      "source": "La Voix de l'Ain"
+    },
+    {
+      "title": "Élections législatives 2024 – Romain Daubié (MoDem) : « je suis un député de proximité » - La Voix de l'Ain",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tNlQ5QXNuTHJySW9IZE9CU1ZGQTVkNWQzNlhmMi0yX0JVdU5vOW5mRldKYmFiUU04Z2pTMy1MMkJKcTNxNllmTmhZQzI3WmRxZ0Uzb2NTSUZWQUZVZ3lXc09ocU5WOERvRHd6VzEzMDI5QnZI?oc=5",
+      "snippet": "Élections législatives 2024 – Romain Daubié (MoDem) : « je suis un député de proximité »&nbsp;&nbsp;La Voix de l'Ain",
+      "date": "Thu, 20 Jun 2024 07:00:00 GMT",
+      "source": "La Voix de l'Ain"
+    },
+    {
+      "title": "Candidats aux élections législatives 2024 : découvrez la liste dans les circonscriptions de l'Ain - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd3VjcTBKR2J5OHZRcUNpVlRuY0VqWWFBMjdrNWdKUlVIejFRSGNZTzBUSTZWQThVSFN6MVJXeVJxMmhoVmo3MnY3UktscmxxWjdjbjRRck1ybzRpX0h2UjN0ZVdENWo0blc2cW94d3hXcEVZeFZLUGM5VjRfMlg5NUFQTlJPbDNDTWF5OHVCdTBUa21yc3BtZHZxMmdCTEtESjJnMkFFYkV2RGlnM2QzWVdJVVZBdG4zaWN2RnVyTVNBcHBCbEhxamlnNVlzdjlFc3hHWHlZejEtcHp5a2ZyYnpzQXA?oc=5",
+      "snippet": "Candidats aux élections législatives 2024 : découvrez la liste dans les circonscriptions de l'Ain&nbsp;&nbsp;France 3 Régions",
+      "date": "Mon, 17 Jun 2024 07:00:00 GMT",
+      "source": "France 3 Régions"
+    },
+    {
+      "title": "Elections législatives. Lumir Lapray - Romain Daubié : deux finalistes aux antipodes - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHUyTkRfOV9OU0ViTHFCTWZjZ1c1bzk4SlJ0cnJmS2plNkJ0Vk4wbHFUY3NUdV9QTmcxN0stYklIelNfaXYyYjdFLVJLd09vMm1OWXNZNXBEb0ZxVlBadFE0Wk1seW1ieHJLYzNYUTgzNFFmNExQWVlUelRMQVV5TTRXdEZwc2J0Mzd5enF6djdUZWJFNndXYXE1dGs3SFQyc3ZPNA?oc=5",
+      "snippet": "Elections législatives. Lumir Lapray - Romain Daubié : deux finalistes aux antipodes&nbsp;&nbsp;Le Progrès",
+      "date": "Tue, 14 Jun 2022 07:00:00 GMT",
+      "source": "Le Progrès"
+    },
+    {
+      "title": "LÉGISLATIVES. Investi par le Modem, Romain Daubié soutient le programme d’Emmanuel Macron - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDJLWklkTmNMYkNnRFpFQ2ZNVFJqemxkZ3Uyd3ZGQ0RiTkdqaFd4el8tRkFlS28wdFVaTTdEQmR0SDZ5WjZxQWFLTHZKMmpFMjROUnc5d0Jtb3FtTjk1RFJ3UXlQRXdOZktNTnUwT19pUTcyOS03TkZNYm0zMk02WDFHenp3T0JHbXRMWkljeTVEZ1BYc1Z3anhmaW8xSnRZVzJTb1VtQ05BdGVqclVtRUF0dy0tcndyVW91bA?oc=5",
+      "snippet": "LÉGISLATIVES. Investi par le Modem, Romain Daubié soutient le programme d’Emmanuel Macron&nbsp;&nbsp;Le Progrès",
+      "date": "Wed, 25 May 2022 07:00:00 GMT",
+      "source": "Le Progrès"
+    }
+  ],
+  "analysis": {
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        \"Aucune source ne mentionne explicitement une candidature aux **élections municipales de 2026** pour Romain Daubié. Les informations disponibles concernent uniquement :\n        - Sa réélection à l’Assemblée nationale en **2024** (Sources 1 et 2),\n        - Son affiliation politique actuelle (Ensemble puis MoDem) sans lien direct avec les municipales.\n        - Aucune mention de campagne, de déclaration de candidature ou d’engagement pour des élections locales futures.\"\n    ]\n}\n```",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        \"Aucune source ne mentionne explicitement une candidature aux **élections municipales de 2026** pour Romain Daubié. Les informations disponibles concernent uniquement :\n        - Sa réélection à l’Assemblée nationale en **2024** (Sources 1 et 2),\n        - Son affiliation politique actuelle (Ensemble puis MoDem) sans lien direct avec les municipales.\n        - Aucune mention de campagne, de déclaration de candidature ou d’engagement pour des élections locales futures.\"\n    ]\n}\n```"
+  }
+}

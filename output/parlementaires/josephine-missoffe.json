@@ -1,0 +1,27 @@
+{
+  "id": "josephine-missoffe",
+  "identity": {
+    "id": "josephine-missoffe",
+    "nom": "MISSOFFE",
+    "prenom": "Joséphine",
+    "full_name": "Joséphine MISSOFFE",
+    "parti": "nan",
+    "departement": "Paris",
+    "commune": "nan",
+    "filename": "josephine-missoffe.json"
+  },
+  "search_results": [
+    {
+      "title": "Joséphine Missoffe, une Wendel derrière Griveaux - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUdxa0hMWkduUnlmRkJlNEZKalo5cXk5US00NzV4NkFLZFhrNVgydkk2U0pLQWlBaWVLMVJWTi1zaDVOSUJMWk0tbzZta0QtNWx0aGVEdnA2bWV5YmJsZHJqOXpnaXhTTlM1dktNNVFNZGtTOWRPX21xTlFfX256c3J6Slc0YkZvUV9PZ2JVSGhIMEpsRkRiTHVYNEZUVDNaYkt4dlVuX0RuVFFQY194ZjhQMDhWal96OXpR?oc=5",
+      "snippet": "Joséphine Missoffe, une Wendel derrière Griveaux&nbsp;&nbsp;Le Monde.fr",
+      "date": "Sun, 15 Dec 2019 08:00:00 GMT",
+      "source": "Le Monde.fr"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": "Le snippet fourni ne mentionne aucune information directe concernant une candidature officielle aux élections municipales de 2026 pour Joséphine Missoffe. Le texte fait référence à son implication dans un contexte politique passé (liée à Laurent Griveaux et Jean-Luc Mélenchon en 2019), sans lien explicite avec les élections municipales futures.",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Le snippet fourni ne mentionne aucune information directe concernant une candidature officielle aux élections municipales de 2026 pour Joséphine Missoffe. Le texte fait référence à son implication dans un contexte politique passé (liée à Laurent Griveaux et Jean-Luc Mélenchon en 2019), sans lien explicite avec les élections municipales futures.\"\n}\n```"
+  }
+}

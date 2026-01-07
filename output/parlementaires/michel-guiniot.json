@@ -1,0 +1,55 @@
+{
+  "id": "michel-guiniot",
+  "identity": {
+    "id": "michel-guiniot",
+    "nom": "GUINIOT",
+    "prenom": "Michel",
+    "full_name": "Michel GUINIOT",
+    "parti": "LR",
+    "departement": "Oise",
+    "commune": "Noyon",
+    "filename": "michel-guiniot.json"
+  },
+  "search_results": [
+    {
+      "title": "Les échos des municipales à Noyon - Courrier picard",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjd3RkZPMUd6bFN1UTVOTklfNzI5d1pCTmN5YlAwYXZHai1UbDlUZGxlR2JPTHVyclI4MXZjX0FTWm9xZ2FMbGl6NXJTOXdCdUx6a1FSZHl6LXZzcGN2MURadWtkZS1xdzBiZFJLdDY0WWhMbmtvTVJQSU1MT19oQUVGamtWeGFmQ3I4Z1lFOHRYRm9X?oc=5",
+      "snippet": "Les échos des municipales à Noyon&nbsp;&nbsp;Courrier picard",
+      "date": "Tue, 06 Jan 2026 14:32:40 GMT",
+      "source": "Courrier picard"
+    },
+    {
+      "title": "Municipales à Noyon : le RN investit officiellement Annick Sézille - Oise Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3kxbXlRUnlZOV9wOFhSS18zbjl1WjBOVXd2MWdXeThFVHhyMTJ0OG92bkRua056SkgwSFM3azlTSWJwZUQ3ZFpRa1lkMF9LY0ZDR2RaaG9tQmlVQWhKMHU3Mk9HODVUQjZoaDVzbHRrMlgtbTJrS1AxTWhpNGVCX1dWNmJ4LVRWczg4VjRUdEZHOW43Q0xtWHJSLTI?oc=5",
+      "snippet": "Municipales à Noyon : le RN investit officiellement Annick Sézille&nbsp;&nbsp;Oise Hebdo",
+      "date": "Mon, 05 Jan 2026 12:49:28 GMT",
+      "source": "Oise Hebdo"
+    },
+    {
+      "title": "Compiègne. Christian Jasko, candidat RN, a réuni ses troupes avant Noël - Oise Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVTGNRODhYWUJVaWplbWdVQTdpdllzb0xyZnZORU1HSDl1UzkzTy1jWXFabTJuQWZGOVpDZDFSYlI5UWhxNE56S1ozZ3RJV1gyWE5xY29ha2s3VGFFdXVhN0VrU1VJdnpJM1ViLUY3THotUXd1dTlxTW5jOXFYdFU?oc=5",
+      "snippet": "Compiègne. Christian Jasko, candidat RN, a réuni ses troupes avant Noël&nbsp;&nbsp;Oise Hebdo",
+      "date": "Sun, 21 Dec 2025 08:00:00 GMT",
+      "source": "Oise Hebdo"
+    },
+    {
+      "title": "Municipales. À Noyon, l’hypothèse Annick Sézille pour le Rassemblement national - Oise Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzEyNnJTeFV0U0dsbTYtOEt3QzNNZ1RsSlBHU0kzZXJzWVJzM1g5RXlPNFVWcGhMb185dnVZQUZnSGJvMFlNR1Q2elFqUDctWlB3LTcxbjktUWllWVpnZ0lWOHNMelpaakpBVnIxaGRnS21JZXcyaV9Oc3Q5eTRlX0lYVmdPNm9WeG9SODc5ZEREQjVhU0VtekxWdGhENkNGZnJ2bA?oc=5",
+      "snippet": "Municipales. À Noyon, l’hypothèse Annick Sézille pour le Rassemblement national&nbsp;&nbsp;Oise Hebdo",
+      "date": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "source": "Oise Hebdo"
+    },
+    {
+      "title": "« Je suis en train de constituer la liste » : à Noyon, le député RN Michel Guiniot confirme sa présence aux municipales - Courrier picard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRDhlLVlySGhVMVVJOWxGaEFDaHdFNDBZbzVDS09MZjFlQjhoZW81ZFpMckZvRzhxZmoxS0JJMFlLTndkcjRDZ195TkpJeVdNamFzMk9YZ0pjOXpDUFRSWGFUMVU3SmlTWHV6MGMzSlBJZF9FRXg0TVM0aUN2TktSclpIZjVJdnpldHhCYTVuWUJLaDViR0dNZlJ6bHZhSUU0eHFrN3BZdXRwaEl5YjlGQ0VsQms2MGxIOWJ5TDVVV0t5M1R5c21fRUtqeDY?oc=5",
+      "snippet": "« Je suis en train de constituer la liste » : à Noyon, le député RN Michel Guiniot confirme sa présence aux municipales&nbsp;&nbsp;Courrier picard",
+      "date": "Fri, 05 Sep 2025 07:00:00 GMT",
+      "source": "Courrier picard"
+    }
+  ],
+  "analysis": {
+    "status": "OUI",
+    "justification": "Les sources confirment explicitement que Michel Guiniot est en train de constituer une liste pour les municipales de **Noyon en 2026** (Source 5 : « Je suis en train de constituer la liste » – Courrier picard, 5 septembre 2025).",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Les sources confirment explicitement que Michel Guiniot est en train de constituer une liste pour les municipales de **Noyon en 2026** (Source 5 : « Je suis en train de constituer la liste » – Courrier picard, 5 septembre 2025).\"\n}\n```"
+  }
+}

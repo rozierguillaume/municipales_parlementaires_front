@@ -1,0 +1,60 @@
+{
+  "id": "didier-lemaire",
+  "identity": {
+    "id": "didier-lemaire",
+    "nom": "LEMAIRE",
+    "prenom": "Didier",
+    "full_name": "Didier LEMAIRE",
+    "parti": "nan",
+    "departement": "Haut-Rhin",
+    "commune": "nan",
+    "filename": "didier-lemaire.json"
+  },
+  "search_results": [
+    {
+      "title": "Politique : Laurence Lemaire, candidate aux municipales 2026 à Saint-Rémy-du-Nord - L'Observateur",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkNjExLTNncDlJd2txanN4dTZ5MFg3ZEdtdGdBeWVCQ09pODNEbzFjc0ZoSUhPYjdlNFR6NWp6TTFOeWR2MG5BSmJ6emF4UjFZT1BGS0NxSWJjMGppMHo2cGxzY2RQajd1YndLR2dxUDdPa21WOVNr?oc=5",
+      "snippet": "Politique : Laurence Lemaire, candidate aux municipales 2026 à Saint-Rémy-du-Nord&nbsp;&nbsp;L'Observateur",
+      "date": "Sun, 21 Dec 2025 11:00:00 GMT",
+      "source": "L'Observateur"
+    },
+    {
+      "title": "Municipales 2026. Un renoncement et la quête d'un 5e mandat : les échos de campagne du Sundgau - L'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PMC1zOVhwXzl4N1hKQVJsUWhpSFhQS0ZKbHZqNkxTT1NEUVRKVllwTTE0V3FZTnhxT1RKYnhBdFpnMVlIdzd2NEl6WDRtTy00anlEaVhETUxORnoyTWItLS1pWTVLSGw3Q2NQRHZB?oc=5",
+      "snippet": "Municipales 2026. Un renoncement et la quête d'un 5e mandat : les échos de campagne du Sundgau&nbsp;&nbsp;L'Alsace",
+      "date": "Sun, 21 Dec 2025 08:00:00 GMT",
+      "source": "L'Alsace"
+    },
+    {
+      "title": "Alsace. Du nucléaire, des oripeaux et une campagne ultra-plaisante : les chuchotements de la semaine - DNA - Les Dernières Nouvelles d'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUxVQ1oxLXN3VFhGV01wSi14TngySGJ0UF9vNWNxUWxIRXNkclBPNUFVLXpVbmgydXp3MThoVktpWjBTZGJtWTZ3MHBPQ0hOb0ZEQW9jU2FJU2ZHdVZzUnZKdUhYbXVnUEFMa0NBNTRFVnhOUkVjUmJicVRwNEhzU01lZVVuRnFTQlNsWklNX2ExY280OVJpTlpXLV9zQQ?oc=5",
+      "snippet": "Alsace. Du nucléaire, des oripeaux et une campagne ultra-plaisante : les chuchotements de la semaine&nbsp;&nbsp;DNA - Les Dernières Nouvelles d'Alsace",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "source": "DNA - Les Dernières Nouvelles d'Alsace"
+    },
+    {
+      "title": "Municipales 2026. Didier Lemaire, « chef de file » à Altkirch, pas tête de liste ! - L'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjgzWW52OUVLemhEeExiT2NRTjJDcFlvMGxqVVBQSnhHU1lINFFPUkJOZEgtMGRuNkZ6Z0JHUlUxa3BCZ1dPaEhaQ3EwZDNzX19XbW9EZm5xMFlwRVMyQmN2dXJvb2xqZk4tRXplZGJfbkgwR1o2dHpEeUQ1aXYyam41MGFlaFo4dEVjOWtQRk9yYkhoQk04NUVzeVdtZzA?oc=5",
+      "snippet": "Municipales 2026. Didier Lemaire, « chef de file » à Altkirch, pas tête de liste !&nbsp;&nbsp;L'Alsace",
+      "date": "Sat, 15 Nov 2025 08:00:00 GMT",
+      "source": "L'Alsace"
+    },
+    {
+      "title": "Municipales 2026. A Gravigny, Didier Crétot et son équipe veulent continuer le travail - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlp5Vkg5Y21pcnJDenNoNXJqR2JZb2c5TTA5ZEc0V1d0RkVlQ21tZ3lzNXJucUhRRmdCR1RDNTQxenR0bGpUUEFMdlZZV2VpemhLTTJjTzVJZnhqYTBxaWhPWlBoc29ZYWo0WDhBTWpReEFlRGloRmo4VnNKZEJtaDEyODY5WjdCNHBNZkFhUEhfUEFxM0MxT3E0T0h6M1ktVEJLQWo1b3dMT0hLYUplbklSclFrZlRxbHoydHY4aWR2MzNZNk9OTlRnUF9lYlF5dm0zdXR3?oc=5",
+      "snippet": "Municipales 2026. A Gravigny, Didier Crétot et son équipe veulent continuer le travail&nbsp;&nbsp;Actu.fr",
+      "date": "Sun, 07 Sep 2025 07:00:00 GMT",
+      "source": "Actu.fr"
+    }
+  ],
+  "analysis": {
+    "status": "OUI",
+    "justification": [
+      {
+        "source": "Source 4 (L'Alsace - Sat, 15 Nov 2025)",
+        "details": "Didier Lemaire est mentionné comme 'chef de file' pour les municipales 2026 à Altkirch, ce qui implique une participation active dans la campagne."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (L'Alsace - Sat, 15 Nov 2025)\",\n            \"details\": \"Didier Lemaire est mentionné comme 'chef de file' pour les municipales 2026 à Altkirch, ce qui implique une participation active dans la campagne.\"\n        }\n    ]\n}\n```"
+  }
+}

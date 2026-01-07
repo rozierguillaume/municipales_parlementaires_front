@@ -1,0 +1,27 @@
+{
+  "id": "frantz-gumbs",
+  "identity": {
+    "id": "frantz-gumbs",
+    "nom": "GUMBS",
+    "prenom": "Frantz",
+    "full_name": "Frantz GUMBS",
+    "parti": "nan",
+    "departement": "Saint-Barthélemy et Saint-Martin",
+    "commune": "nan",
+    "filename": "frantz-gumbs.json"
+  },
+  "search_results": [
+    {
+      "title": "Législatives 2024 : les premiers résultats en outre-mer donnent la gauche victorieuse - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWmVGUXdqcGtBYUY5LTY5UHhHUXM3RVlwRDRsQ003bF9GWUFpVDBUNEpEdzN2QjBvSEZCWDN4czc3WkNDcXdoTC0wbDJMTnVkWXRpTUgyYUFvTG53Uy1sN0luRzFLcmpRWXotUm4yV3NDcjRCR2tRUWdoNTJxeHZINVVMLThzYWh5RFBoOHYzU3hKSHF4LTJVVjduak5OLWR5MWphenFCUFBTN2l4c2VsSzZTV0tBd0dLMGhzSTZySHJLQm5DX3k2OHhhQUctRmp6czRMaExoWTB0SmkxQUQySWQ2QUFRd1ZTMHIwanhBR3lENGlIcVRMck1n?oc=5",
+      "snippet": "Législatives 2024 : les premiers résultats en outre-mer donnent la gauche victorieuse&nbsp;&nbsp;Libération",
+      "date": "Sun, 07 Jul 2024 07:00:00 GMT",
+      "source": "Libération"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": "Le snippet fourni concerne uniquement les **Législatives 2024** en outre-mer (sans mentionner Frantz Gumbs) et ne permet pas d'inférer qu'il est candidat aux **élections municipales de 2026**. Aucune information pertinente sur sa candidature ou son engagement politique récent n'est disponible dans ce résultat.",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Le snippet fourni concerne uniquement les **Législatives 2024** en outre-mer (sans mentionner Frantz Gumbs) et ne permet pas d'inférer qu'il est candidat aux **élections municipales de 2026**. Aucune information pertinente sur sa candidature ou son engagement politique récent n'est disponible dans ce résultat.\"\n}\n```"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "benoit-larrouquis",
+  "identity": {
+    "id": "benoit-larrouquis",
+    "nom": "LARROUQUIS",
+    "prenom": "Benoît",
+    "full_name": "Benoît LARROUQUIS",
+    "parti": "nan",
+    "departement": "Français établis hors de France",
+    "commune": "nan",
+    "filename": "benoit-larrouquis.json"
+  },
+  "search_results": [
+    {
+      "title": "Elections sénatoriales 2023 : consultez la liste des candidats dans votre département - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUk1QTmtlbTItOXFxaUZmcy0wRzc1eS1CNkFuLWVwZ2g0ZW1uVVFyNnl0Um9DZ2pKdWx3aWxHbHA4VG1BNDA3T0N5S2F5Z0VZcjNtanlveFVYUFJJOE4xVTJpRDItWUs4c1lYMm8wazc0MzJmeUx3UjRSSG1iSjY0Y3VSZ0ZSVFBIS211OWpxcU5zeFVOazJ2MmYxVnh4akJUUG5pRmhtOFdNNmFhZXhqd1B3YnZmUmJnRktVMWFDTzFMb0ZwVUJYUVg1a2J4Z25kc25IaFkxSFU1aHI1d2c?oc=5",
+      "snippet": "Elections sénatoriales 2023 : consultez la liste des candidats dans votre département&nbsp;&nbsp;Franceinfo",
+      "date": "Wed, 20 Sep 2023 07:00:00 GMT",
+      "source": "Franceinfo"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": "Aucune information disponible dans le snippet fourni concernant une candidature officielle pour les **élections municipales de 2026** (seule la liste des candidats aux élections sénatoriales 2023 est mentionnée, sans lien avec Benoît Larrouquis).",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune information disponible dans le snippet fourni concernant une candidature officielle pour les **élections municipales de 2026** (seule la liste des candidats aux élections sénatoriales 2023 est mentionnée, sans lien avec Benoît Larrouquis).\"\n}\n```"
+  }
+}

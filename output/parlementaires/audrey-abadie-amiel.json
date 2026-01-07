@@ -1,0 +1,28 @@
+{
+  "id": "audrey-abadie-amiel",
+  "identity": {
+    "id": "audrey-abadie-amiel",
+    "nom": "ABADIE-AMIEL",
+    "prenom": "Audrey",
+    "full_name": "Audrey ABADIE-AMIEL",
+    "parti": "nan",
+    "departement": "Ariège",
+    "commune": "nan",
+    "position": "nan",
+    "filename": "audrey-abadie-amiel.json"
+  },
+  "search_results": [
+    {
+      "title": "Carla-Bayle. Élus et sympathisants derrière Laurent Panifous et Audrey Abadie-Amiel - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHNQaFR3VEFVSnRNNThyMVVjVzBTSVpJQlJyZ0JYTDZ2UXhRc2ZYZ2JkQ0JrcDIxYS1aVFJIV0FqTS1naHJNdnNsQ2UtQkN4S0xjeW5sSk83Tl9vUTFHN1M1alNQS01fVjl0b1Z5ZjI2cFJrTjhpQ0sydTdCZmlYNVZOMmFSdXgtVmhhVEd0T1JoUjA0NUhfbWMyNmQxMlNSRGU4My1tdy1XMkp3c3YxcXh1a2syUEl5N2E4?oc=5",
+      "snippet": "Carla-Bayle. Élus et sympathisants derrière Laurent Panifous et Audrey Abadie-Amiel&nbsp;&nbsp;ladepeche.fr",
+      "date": "Sat, 30 Apr 2022 07:00:00 GMT",
+      "source": "ladepeche.fr"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": "Le snippet fourni ne mentionne aucune information directe concernant une candidature officielle aux **élections municipales de 2026** pour Audrey Abadie-Amiel. Le texte se limite à évoquer son soutien ou sa présence dans un contexte lié à Laurent Panifous (sans précision sur les élections futures), et la source date d’avril 2022, hors période électorale pertinente.",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Le snippet fourni ne mentionne aucune information directe concernant une candidature officielle aux **élections municipales de 2026** pour Audrey Abadie-Amiel. Le texte se limite à évoquer son soutien ou sa présence dans un contexte lié à Laurent Panifous (sans précision sur les élections futures), et la source date d’avril 2022, hors période électorale pertinente.\"\n}\n```"
+  }
+}

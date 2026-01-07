@@ -1,0 +1,34 @@
+{
+  "id": "anne-sophie-ronceret",
+  "identity": {
+    "id": "anne-sophie-ronceret",
+    "nom": "RONCERET",
+    "prenom": "Anne-Sophie",
+    "full_name": "Anne-Sophie RONCERET",
+    "parti": "nan",
+    "departement": "Yvelines",
+    "commune": "nan",
+    "filename": "anne-sophie-ronceret.json"
+  },
+  "search_results": [
+    {
+      "title": "Elections municipales 2020 de Rambouillet : qui sont les candidats - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY2l6RnBIbDNhbGltcF9TbF9xNXdrTHBfQmJKeU0zbEoyQnZ4UkZPWk56NVl0LWY2ZnNKQk1leW1sOEtSRjRFc2thSnpoUDQ5X3psU3MwVmpfTmR5SzA4QVZjZnRUcmhXWV9PMm5nMmpQQWNiVm0wV1dBYzdhSG1MSlk4Rll5S3RXMUVnSDExRWE3bkR2NTlLMmVwbDBGdTZ6ZHhCZzExVVlRLUxUSGxwd3Jqb3FlbEplMFBoc1R1RXZtR3JMTk5PV09tZ3lQWjJ6YkYxWlY4WDhkTFRzdXk2T0JLT0dlNFE3OWROZXdOT0NydVdP?oc=5",
+      "snippet": "Elections municipales 2020 de Rambouillet : qui sont les candidats&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 06 Mar 2020 08:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "[Vidéo]Yvelines. Municipales à Rambouillet : la liste Gilles Schmidt révélée - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc05GQ3VNQzk2M1N0SENrNUJNMW1sWEJ6blFJTEJ2VGs4OFc0YUNnT2pKN0VsQmVxSzhTN3RBN1V6NjlNazUxYlNDellBbWFReW5tcDhqQ0ZqczVwRzJURW5iMWFQcGx0R1g2UllIQ2VBUFdLeTIxS1ROMzF1SVM1NnZUQThqZnlXNmZxSEkyN3Jtb2dmNHNteDN2T1lLajAtaEdGXzBDOXFPQ3BId2UtR01XYXdWaDlRU3N5a2k2eVdfeWVGd0hJ?oc=5",
+      "snippet": "[Vidéo]Yvelines. Municipales à Rambouillet : la liste Gilles Schmidt révélée&nbsp;&nbsp;Actu.fr",
+      "date": "Wed, 05 Feb 2020 08:00:00 GMT",
+      "source": "Actu.fr"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": "Les sources consultées concernent uniquement les élections municipales de Rambouillet en **2020** (Anne-Sophie Ronceret n'est pas mentionnée explicitement dans ces résultats) et des informations sur la liste Gilles Schmidt. Aucune référence à une candidature pour les élections municipales de 2026 n’est trouvée.",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Les sources consultées concernent uniquement les élections municipales de Rambouillet en **2020** (Anne-Sophie Ronceret n'est pas mentionnée explicitement dans ces résultats) et des informations sur la liste Gilles Schmidt. Aucune référence à une candidature pour les élections municipales de 2026 n’est trouvée.\"\n}\n```"
+  }
+}

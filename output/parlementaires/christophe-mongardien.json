@@ -1,0 +1,43 @@
+{
+  "id": "christophe-mongardien",
+  "identity": {
+    "id": "christophe-mongardien",
+    "nom": "MONGARDIEN",
+    "prenom": "Christophe",
+    "full_name": "Christophe MONGARDIEN",
+    "parti": "nan",
+    "departement": "Hauts-de-Seine",
+    "commune": "nan",
+    "filename": "christophe-mongardien.json"
+  },
+  "search_results": [
+    {
+      "title": "Hauts-de-Seine : Christophe Mongardien, un nouveau député qui se sent « redevable à la nation - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYnA5NTloMnFMRkoybGh3Q2FxSnZWSTRVUDhIc0xodmZaVll0bU03REZ1ZmFQeS1IOW1SOWMwMkxwMVQtYUFXS3NSLXJjNXFSeFZmcEVpME5rYmxwQk9MVkhFeDM5OTlCRVljWjQ5cEtidDZsY0lZY3RVdHRQN2NJWVV0MnVvZW1oZHhtYmhob2Q0UWEtMkVYZ0hBUE1icVpzb0dfd1pkTGpRZFktdmVlMGZLSjVaV0N2clQtVUQxWnhoWDRYVk9qOGl5Yk5DNUYwRGc1ZC03Zkh6YUYtdEFCRGlRbXhUdW9kWVIxRU9TaDcyODBPLTNpQU5uOHBsNzZVRlM1cQ?oc=5",
+      "snippet": "Hauts-de-Seine : Christophe Mongardien, un nouveau député qui se sent « redevable à la nation&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 21 Oct 2024 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Candidats aux élections municipales 2020 à Antony - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWkdfVGo3blA2RjZRT210aXhUbU13UDhpcFZXSk8xcmhjbUNkS29aczBrYVdlUWh4ZjNsWGVsN3VBOUJQNDEwTjRGWVpKbXM3aS1Ed0ctVHJSYXRYQkJVWUE5QTNXODVCTURWbExveGh6aERaTEtndnNiU1cybGpocHdoMGdodTUwLUs1ZDZwbXlVeFA5VzRpckdCeks3MmY1Y0tqb2IyUlRFc25WWURxbUFzYWliTXNVdFF4NXljTk5FV0xIeHRjdXJRenVqemJvalgyZzl3MUl0eS1TZEdvRE1R?oc=5",
+      "snippet": "Candidats aux élections municipales 2020 à Antony&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 06 Mar 2020 08:00:00 GMT",
+      "source": "Le Parisien"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source": "Source 1",
+        "analyse": "Le titre mentionne Christophe Mongardien comme un nouveau député (élections législatives), sans lien direct avec les élections municipales de 2026. Aucune information explicite sur une candidature municipale."
+      },
+      {
+        "source": "Source 2",
+        "analyse": "Les résultats concernent les candidatures aux élections municipales **2020** à Antony, et bien que Christophe Mongardien ne soit pas explicitement cité dans ce snippet (seulement des noms d'autres candidats), il n'y a aucune preuve de sa candidature en 2026. Aucune mention explicite."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Le titre mentionne Christophe Mongardien comme un nouveau député (élections législatives), sans lien direct avec les élections municipales de 2026. Aucune information explicite sur une candidature municipale.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Les résultats concernent les candidatures aux élections municipales **2020** à Antony, et bien que Christophe Mongardien ne soit pas explicitement cité dans ce snippet (seulement des noms d'autres candidats), il n'y a aucune preuve de sa candidature en 2026. Aucune mention explicite.\"\n        }\n    ]\n}\n```"
+  }
+}

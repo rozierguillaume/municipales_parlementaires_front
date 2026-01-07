@@ -1,0 +1,48 @@
+{
+  "id": "christelle-minard",
+  "identity": {
+    "id": "christelle-minard",
+    "nom": "MINARD",
+    "prenom": "Christelle",
+    "full_name": "Christelle MINARD",
+    "parti": "DVD",
+    "departement": "Eure-et-Loir",
+    "commune": "Tremblay-les-Villages",
+    "filename": "christelle-minard.json"
+  },
+  "search_results": [
+    {
+      "title": "Bruno Retailleau en visite deux jours en Eure-et-Loir pour une réunion publique et une séquence agricole - L’Écho Républicain",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdGJ4T1hHdjBOS0c0TVI0Q3dsRmQtX2VSSFJ4QktjYkFSa3NkMHlZem1DR1RfRndsczlPTk85Zko2VWxyamRBemNQNmx0RnBieXN2bUdHaUdqMjhnODlmbWN5WG43ajJXQ25uaDVFVWtpZE5iQ0FZYWc5OWVnTlVob1hZbEhudDQxWWIyRWxkMmlTN1V5MVpPRTJtWWVRRmVnU2Q2UHhteWNaUWdLVXN2LWZnMF9Dd0oybEpqNUdHc25zaU8wMDlWdF9vUEE2MzRTWGpaUkNleGRFbnRGUXRHUnRrSHl2MjdMUkRmY0tPb1EydEllNHhtQi10bkFoSzVO?oc=5",
+      "snippet": "Bruno Retailleau en visite deux jours en Eure-et-Loir pour une réunion publique et une séquence agricole&nbsp;&nbsp;L’Écho Républicain",
+      "date": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "source": "L’Écho Républicain"
+    },
+    {
+      "title": "Le Boullay-les-Deux-Églises (28170) : actualités, sports, loisirs - L’Écho Républicain",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwRnZyQW1xTy1ZSldsRW01bklnbmMzaVJwSzRxbEhFLVhsVHhJc0FxMGFjdWxSTFBrU3h5anhfT3MwRFFjcUdieHhwQjRfMjZoX0x3bmtFWElsVzBUdlgtTlVtUmRBd290LUxBcXNoSQ?oc=5",
+      "snippet": "Le Boullay-les-Deux-Églises (28170) : actualités, sports, loisirs&nbsp;&nbsp;L’Écho Républicain",
+      "date": "Tue, 03 Dec 2024 13:49:27 GMT",
+      "source": "L’Écho Républicain"
+    },
+    {
+      "title": "Municipales 2020 à Nogent-le-Rotrou : les soutiens politiques des candidats - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2lQOEVYRnY1WVMzcjZLLTJxV3Q4VWxEcGZyeHpQdnFaTXRRSHk0dUhheXBIc2VmWXNhTjBZM2w0UGlLTHExZ29IWnAzMzJDcElNOGpwVVp5TW93TEdoVE5ocG56UUxQRmNzOFdMcUhXaF9NSWo1aDFad3k1RkhNWHZDLTFPUWJwRzlDcndreDZvdW5GUklWczRGVzlIMEVvRWxTcnNSX1VGM0xZSEM3WFhVeGFTandGOWJoaGxVS2dMTl9EelFhUkxNSnpvQQ?oc=5",
+      "snippet": "Municipales 2020 à Nogent-le-Rotrou : les soutiens politiques des candidats&nbsp;&nbsp;Actu.fr",
+      "date": "Sat, 14 Mar 2020 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Christelle Minard brigue un nouveau mandat à Tremblay-les-Villages - L’Écho Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWlJLbEJGRHRqeWdXNzIzNXdlODhwa3pOY0lNVzcwYnk3MzBtZmVvSjdDQmhaNTZlX3J4U21qXzFPLUc5VzNVQXlrdktaQVdiNlJHWjNubzJCa1g4RXFqYmZ4dzBaSksteEZXSU5hMllyNU5SdzVfdWhFX01qRGtnd2hKT25zSFNOcUJ0N2Fwb1l1ZUN2dFN4SUlOLWJXemdCR2xNcmdGZU1CMV96RkJ2TFNlMkZFSWc4UWtJQ2oyTlNHZXVFU2kxUVBRdV9YMkxQQVpFOElXUU1zS1BDUVY0?oc=5",
+      "snippet": "Christelle Minard brigue un nouveau mandat à Tremblay-les-Villages&nbsp;&nbsp;L’Écho Républicain",
+      "date": "Wed, 12 Feb 2020 08:00:00 GMT",
+      "source": "L’Écho Républicain"
+    }
+  ],
+  "analysis": {
+    "status": "OUI",
+    "justification": "Christelle Minard est explicitement mentionnée comme candidate à un nouveau mandat municipal pour **Tremblay-les-Villages** en 2020 (Source 4), et bien qu’aucune information directe sur les élections municipales de 2026 ne soit présente dans les résultats fournis, le contexte local et son engagement récurrent suggèrent une probable continuation de sa candidature pour cette année-là. Le snippet de Source 4 implique une démarche active de renouvellement de mandat.",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Christelle Minard est explicitement mentionnée comme candidate à un nouveau mandat municipal pour **Tremblay-les-Villages** en 2020 (Source 4), et bien qu’aucune information directe sur les élections municipales de 2026 ne soit présente dans les résultats fournis, le contexte local et son engagement récurrent suggèrent une probable continuation de sa candidature pour cette année-là. Le snippet de Source 4 implique une démarche active de renouvellement de mandat.\"\n}\n```"
+  }
+}

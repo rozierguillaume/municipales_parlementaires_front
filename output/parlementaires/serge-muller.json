@@ -1,0 +1,58 @@
+{
+  "id": "serge-muller",
+  "identity": {
+    "id": "serge-muller",
+    "nom": "MULLER",
+    "prenom": "Serge",
+    "full_name": "Serge MULLER",
+    "parti": "DVG",
+    "departement": "Dordogne",
+    "commune": "Bergerac",
+    "filename": "serge-muller.json"
+  },
+  "search_results": [
+    {
+      "title": "Bergerac : ce que nous réserve l’année 2026 - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNV9yckZTbF84RHpOVGFLVFZMU0NQcDNsdDNtT2gxYVVPaHZBV3gyNHB4SGNfeXZ5ZTY2YVR3WHBULVYxaUx4VVpFWnhpN25pZlc3VUpFc0V4MjlXLXgtckg2WG5Fa0RSNkRCVklfR05WSTdTcDQ0elo2cm4zdXMzTzkyYUpfR3RtUEktUzhDU2ZNSTZTT1lxM2dkQ25fYXVkZlFDY21Bc3ZneGprdlMyaU1obXhPYzFTSU9QVDdkaDlicVk?oc=5",
+      "snippet": "Bergerac : ce que nous réserve l’année 2026&nbsp;&nbsp;Sud Ouest",
+      "date": "Sat, 03 Jan 2026 08:00:00 GMT",
+      "source": "Sud Ouest"
+    },
+    {
+      "title": "Ce candidat RN aux municipales de Bergerac a aussi des ambitions pour l'Agglomération - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHIyekZGMHdnQXZ2aFpOcVpLZlZQOWZldXprTmlqY09SMGk1d0RNQmtGZC1ObHBwSkNvT3VyaTRuQk9WME4yMkhwQk1zSXNkUExyY3UtVXVIR3l6U0ZoMWlIRktEUFRzTUFQWnBNcEVDcXpnemk5TW9tRXc3NFZjNkgyQS1aVDZjYTd0NGJEaFJPWjhRUVByYU5tZUNZa3NFWkhpRTZHSkJUcnR5bE5TSHR6a2hHR2g1Ykc3bG44Y2wxRC1yTW02THVCd2NBVHdLNnJ2NjRkTVJ3Q3lXcFFqU1M3WmdJdWJnZVRJ?oc=5",
+      "snippet": "Ce candidat RN aux municipales de Bergerac a aussi des ambitions pour l'Agglomération&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026 à Bergerac : le jeune Christian Gérard portera les espoirs du Rassemblement national - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTmxVZVUyMi1uUWg5TDZLNV84T1BSWHBfTkQzd185UXotYURGYjl0WnluT1BnalZxMGcySjNXa1FNa1hzbHdNM3lhQUJOLUhFeTd2eFdrYlN3dTk0UEVGQ0tMeUo0MlNWMUlmUjNmRExKNXRaeUpZelpZaW5FNG1YN1FYVGZ0NEdqZ2dmeGdyUkpFU093V2xVTHpaa2d1RmhvMndjb0JxMVRWX1phR0dxSGRkMnNkLV9oZHEwcjctdm53OUd2M2huSk95dkdrT1JicDlwamlKRmQ0WV80SS1GYXBfdnlsNldMdFlpUTVJel9VbktRdkgxb3lUN1kzVFowZE56X0t2Zw?oc=5",
+      "snippet": "Municipales 2026 à Bergerac : le jeune Christian Gérard portera les espoirs du Rassemblement national&nbsp;&nbsp;Sud Ouest",
+      "date": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "source": "Sud Ouest"
+    },
+    {
+      "title": "Municipales en Dordogne : la tête de liste du Rassemblement national à Bergerac sera présentée fin novembre - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjB1enBTb2dpYUJFX0dhMFNlQjRNNmdZLUVTUDZBMWxHUmZjQkxJbVhTWF9GVGs5UDJiQW56ZmVqSjBZcVdieDNBaUlKZWVYazJhdHFRZDR4ZjZOYllSVXJjazlycWFJZHFNVkxZUTJWX3hfYkRsTUZmUUlVcjZMVnU5Ykx5aks2a0lKSDZiUURuSGxORVdNMmMtU01tMllZSHdpUkxn?oc=5",
+      "snippet": "Municipales en Dordogne : la tête de liste du Rassemblement national à Bergerac sera présentée fin novembre&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 13 Oct 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Élections municipales en Dordogne : le député RN Serge Muller sera sur la liste de son parti à Bergerac - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHlXeTh6X3M3VTdrOFRSRXQ2Qk5FenlaZE10a1Z5YUR2RXFNTWJaTzJWbHNEa3Vxb19adGp0c1ZvY3FtR2syRm02ekQ4dWx5MFozdlp2a2ZnZnlmM3BRUGpXVUVCRjU5N2lDSFhuYTMtRnVSQnczN25XNHBiREZ4aU8tZ1NDa0w3MHNrbzZJaU9VNl9LMHdrWHZMczRkeU4teU1nOTJRZWtKeVZIY3dXNDk1NVJnQ1hCbzVCT3ZhRWM?oc=5",
+      "snippet": "Élections municipales en Dordogne : le député RN Serge Muller sera sur la liste de son parti à Bergerac&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 08 Sep 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
+    }
+  ],
+  "analysis": {
+    "status": "OUI",
+    "justification": [
+      "Source 5 : 'Élections municipales en Dordogne : le député RN Serge Muller sera sur la liste de son parti à Bergerac' (08 Sep 2025) – mention explicite de sa participation aux municipales de Bergerac pour 2026.",
+      "Sources 2 et 4 : Références indirectes à ses ambitions pour les municipales de Bergerac en 2026 via le Rassemblement National (RN)."
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Source 5 : 'Élections municipales en Dordogne : le député RN Serge Muller sera sur la liste de son parti à Bergerac' (08 Sep 2025) – mention explicite de sa participation aux municipales de Bergerac pour 2026.\",\n        \"Sources 2 et 4 : Références indirectes à ses ambitions pour les municipales de Bergerac en 2026 via le Rassemblement National (RN).\"\n    ]\n}\n```"
+  }
+}

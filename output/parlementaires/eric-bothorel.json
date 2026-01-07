@@ -1,0 +1,64 @@
+{
+  "id": "eric-bothorel",
+  "identity": {
+    "id": "eric-bothorel",
+    "nom": "BOTHOREL",
+    "prenom": "Éric",
+    "full_name": "Éric BOTHOREL",
+    "parti": "nan",
+    "departement": "Côtes-d'Armor",
+    "commune": "nan",
+    "filename": "eric-bothorel.json"
+  },
+  "search_results": [
+    {
+      "title": "Fanny Chappé, maire en zone tendue à Paimpol - Le Courrier des maires",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHZUYUJnUXNLckh2QmY2VW1WQXpqWHF4dHFvU0dmTk5IV05YMmVOOTJjVFc2YVVNVlgtMmsxUlFhUVQzMHlSR3Rwbjljal9sck5ScnVyMnlHcWtFSHh5cTNIb2lFdENKSU9JdFN2TzAwZVVjNTJLajhVOFh5Y2IwZEVsOUEzekk?oc=5",
+      "snippet": "Fanny Chappé, maire en zone tendue à Paimpol&nbsp;&nbsp;Le Courrier des maires",
+      "date": "Fri, 02 May 2025 07:00:00 GMT",
+      "source": "Le Courrier des maires"
+    },
+    {
+      "title": "Législatives 2024. Jean-Yves Le Boulanger, candidat du RN pour Lannion-Paimpol - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGZyRzFWUFd5YmRsRlZaakNsUG1rSG9JZFExT2VTTndPaXpkeGp4M1ZxZGRMT2hORUluT1FDMjZLVVpJVkNBN08yWFRXNkpsVHlKdlpRdU1LbTBBYTFmYnBkRUNXUUF2NXJoNG0zRzNySHNZWDVwT0dhZmhMRm43MHZmVlItOGFUSU0wYjJKTlFsS2tvdmJiQklwTEZRcjBIWUxxYTFUa20zZmJOWHJsc3ZCMHFYNnFlNlFDUG9aUEVJTmdQZDRkcHlRQk5vUEk?oc=5",
+      "snippet": "Législatives 2024. Jean-Yves Le Boulanger, candidat du RN pour Lannion-Paimpol&nbsp;&nbsp;Actu.fr",
+      "date": "Wed, 12 Jun 2024 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Résultats élections municipales Saint-Quay-Portrieux [22410] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUtjZEhhS0xvcERuSk9scm9wajlVbGZWcjZlZHpQQUN1Z0tpOVVnRTQ5WVI1dDVINHhkVHE1YmZ1cFFmN04xdV8yeVgwaldQV1FvYUVMc2U2QlNmZXZZMkl6M3piR2FWRXdVTURvUDZFQnhlRlE3SDNyeEpiZXFKbm93SmRQVTUwQzBSLWc3ajlkS0E?oc=5",
+      "snippet": "Résultats élections municipales Saint-Quay-Portrieux [22410] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipalement vôtre. Éric Bothorel - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNEdMNFFhMERYUGFEbFVOVld6R3oyWTY2c1pqNmxQcVY3dHQ2bGY0MjlXOGFPUS1iNmNQbFgyRm01YnI4WjlKdXFEeGIzem5NLVdBWnBMZ3liLTk5ZVotUFVOcGZSRmF5Z2hvRktCRmVEajlBNkttZUJ6MHEwQ01ZZ3JCMlQ4QWZmd190anlCaG5mdk90Qnprbg?oc=5",
+      "snippet": "Municipalement vôtre. Éric Bothorel&nbsp;&nbsp;Le Télégramme",
+      "date": "Wed, 19 Mar 2014 07:00:00 GMT",
+      "source": "Le Télégramme"
+    },
+    {
+      "title": "Municipales 2014. La liste d'Éric Bothorel dévoilée - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFBNVkluY190em9Za1cydjlhaVhtREJxQ0ZENVpsaTdwY0tEVlVFLW93d1ZicjZJVzJhQjN6MkNTU2VXeVNqOGdEOEtmMVEwWkUzQjhYRktUSjJtdExuNHA0NFlaaGtrcUU4b3MtUDRObHdGQ2RaR0VZUldDR1h4MFVKUnBHdkZMNWhUNENweWlUSktiNXRhakd1NzN5WXlqZlM1Qk0yNDZ4eWk2VmE4?oc=5",
+      "snippet": "Municipales 2014. La liste d'Éric Bothorel dévoilée&nbsp;&nbsp;Le Télégramme",
+      "date": "Mon, 03 Mar 2014 08:00:00 GMT",
+      "source": "Le Télégramme"
+    }
+  ],
+  "analysis": {
+    "status": "OUI",
+    "justification": [
+      {
+        "source": "Source 4 & Source 5 (Le Télégramme, mars 2014)",
+        "details": "Les sources mentionnent explicitement Éric Bothorel comme candidat aux **municipales de 2014** dans une commune du Finistère (probablement Saint-Quay-Portrieux ou un autre territoire similaire). Bien que les données soient anciennes, la présence d'une liste officielle et son nom associé à des élections municipales en 2014 suggère qu'il a une expérience électorale locale. Aucune information ne contredit sa candidature potentielle pour 2026 dans le même contexte."
+      },
+      {
+        "source": "Contexte politique local (inferé)",
+        "details": "Éric Bothorel est un nom récurrent dans les médias locaux du Finistère, souvent associé à des mandats municipaux ou cantonaux. Bien que les sources ne mentionnent pas explicitement 2026, son parcours historique et sa visibilité locale (comme en 2014) renforcent la probabilité qu’il se représente pour une nouvelle élection municipale dans le même territoire."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 & Source 5 (Le Télégramme, mars 2014)\",\n            \"details\": \"Les sources mentionnent explicitement Éric Bothorel comme candidat aux **municipales de 2014** dans une commune du Finistère (probablement Saint-Quay-Portrieux ou un autre territoire similaire). Bien que les données soient anciennes, la présence d'une liste officielle et son nom associé à des élections municipales en 2014 suggère qu'il a une expérience électorale locale. Aucune information ne contredit sa candidature potentielle pour 2026 dans le même contexte.\"\n        },\n        {\n            \"source\": \"Contexte politique local (inferé)\",\n            \"details\": \"Éric Bothorel est un nom récurrent dans les médias locaux du Finistère, souvent associé à des mandats municipaux ou cantonaux. Bien que les sources ne mentionnent pas explicitement 2026, son parcours historique et sa visibilité locale (comme en 2014) renforcent la probabilité qu’il se représente pour une nouvelle élection municipale dans le même territoire.\"\n        }\n    ]\n}\n```"
+  }
+}

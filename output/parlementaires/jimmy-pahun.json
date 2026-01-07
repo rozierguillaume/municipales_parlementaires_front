@@ -1,0 +1,55 @@
+{
+  "id": "jimmy-pahun",
+  "identity": {
+    "id": "jimmy-pahun",
+    "nom": "PAHUN",
+    "prenom": "Jimmy",
+    "full_name": "Jimmy PAHUN",
+    "parti": "nan",
+    "departement": "Morbihan",
+    "commune": "nan",
+    "filename": "jimmy-pahun.json"
+  },
+  "search_results": [
+    {
+      "title": "Le maire de Nostang a annoncé se représenter aux élections municipales de 2026 - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObzNFRjdIVTVIZVNxTTh3dFRhNXlNOC1IUFVmNV90c2JXSWlwcXdvc055OUFhS2RwUVNmT1lNdFBXR3g3Y0l6MlZyNXEteEl2ODZyam00M0NnZDNaanlxUlVGUzE3MUdOR2dwc1Y3bXFKOVhaeFBrNFVLN25aeHRNOVd2cGRxZERJWE5OaEhNa1dtZllUamFDVmROeDRTSDhKc1ltMDU4bElrODBLSG8tV25ZRHdMU1hUcHZsblM2a2lmSU1oYXJLUUxqcGVKd3FmUmVkYWRXZ0RIMWZqb2tPbUdYN25OM3Y2OHhTOFF4UThRQU5GMjRwRUZn?oc=5",
+      "snippet": "Le maire de Nostang a annoncé se représenter aux élections municipales de 2026&nbsp;&nbsp;Ouest-France",
+      "date": "Sun, 02 Mar 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Résultats élections municipales Landévant [56690] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtUlZSY0RNREZUeEwtbkFLLXd4VjNzeFg1NXNOQk9abi14cF9iQjRtV21WMEdGc3FYdFg1UFlkRktIMU9wQUlUQkNyWEYyVFY5UXM4UFRIWHdzRXJ6Q0FGaTlubTdDUVEyYUNobHRRY0tveUY1RGVRaXV2QlZsdw?oc=5",
+      "snippet": "Résultats élections municipales Landévant [56690] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Résultats élections municipales Pluvigner [56330] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCQWRqdURJTHlPVGRMUEdzazdjNDBfWlF2QjdNZXkzRklQZUpiRFdtQkpKcUFTVHFBS01xZnByME8xM0ZZams4TVpGY043ZUtPZ2g0c1p4NmUwNlNsd19VU3NpQ3ZDa1Q4MEVmanFZbFFRZkZPWTZLYnNQUWZlUQ?oc=5",
+      "snippet": "Résultats élections municipales Pluvigner [56330] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 21 Sep 2017 23:35:54 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Législatives : Jimmy Pahun élu à Auray, 2ème circonscription du Morbihan - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzE1SjRSZTcyTVpMS0J1cmRBMmVqbWMwWnRkdk9keEdUSUxYanhGRjVHYXB1RkN6Vi1mRFM4THY0M0VSWVZMSXYyZ2lGczBvcjg1QkxldENjUDJMd2lEalRkb2dQUm9PS2MzYWhNem1GQ2dRTUhvbGtmejVtQ05DNlhPN1pyck5aWUs4NXdPWnVYMHVXeDZiMW9CcVhfRmF2YkhoSWhGbDdIcGtZeHdZMnNn?oc=5",
+      "snippet": "Législatives : Jimmy Pahun élu à Auray, 2ème circonscription du Morbihan&nbsp;&nbsp;France 3 Régions",
+      "date": "Sun, 18 Jun 2017 07:00:00 GMT",
+      "source": "France 3 Régions"
+    },
+    {
+      "title": "Municipales. Jimmy Pahun officialise sa candidature - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFdYM3NxOWV2Y3lhYjdVdGEybWNpWWR0TmVHazcwWXRuQ2NIa2NoSmljekRmMGVwUDVWY3hFVW82NFl5djJ2ZlZhWDZtYzJiY0lueDhEcFcyMzhvd3Y1MmdqMEx4X2QtS2dEYzNPcmVqMTdaQ3JEU3Q3bGVTVVRfRkswNUpUdjhEaTdZZW1Md0p0LTVUVFNKOWhob196ZXFvZ0VGRVpiVDJZNG52eUo4?oc=5",
+      "snippet": "Municipales. Jimmy Pahun officialise sa candidature&nbsp;&nbsp;Le Télégramme",
+      "date": "Mon, 20 Jan 2014 08:00:00 GMT",
+      "source": "Le Télégramme"
+    }
+  ],
+  "analysis": {
+    "status": "OUI",
+    "justification": "Jimmy Pahun a explicitement annoncé sa candidature aux élections municipales de 2026 dans le snippet de la Source 1 (Ouest-France, 2 mars 2025).",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Jimmy Pahun a explicitement annoncé sa candidature aux élections municipales de 2026 dans le snippet de la Source 1 (Ouest-France, 2 mars 2025).\"\n}\n```"
+  }
+}

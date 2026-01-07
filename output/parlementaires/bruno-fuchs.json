@@ -1,0 +1,76 @@
+{
+  "id": "bruno-fuchs",
+  "identity": {
+    "id": "bruno-fuchs",
+    "nom": "FUCHS",
+    "prenom": "Bruno",
+    "full_name": "Bruno FUCHS",
+    "parti": "nan",
+    "departement": "Haut-Rhin",
+    "commune": "nan",
+    "filename": "bruno-fuchs.json"
+  },
+  "search_results": [
+    {
+      "title": "Alsace. Du nucléaire, des oripeaux et une campagne ultra-plaisante : les chuchotements de la semaine - DNA - Les Dernières Nouvelles d'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUxVQ1oxLXN3VFhGV01wSi14TngySGJ0UF9vNWNxUWxIRXNkclBPNUFVLXpVbmgydXp3MThoVktpWjBTZGJtWTZ3MHBPQ0hOb0ZEQW9jU2FJU2ZHdVZzUnZKdUhYbXVnUEFMa0NBNTRFVnhOUkVjUmJicVRwNEhzU01lZVVuRnFTQlNsWklNX2ExY280OVJpTlpXLV9zQQ?oc=5",
+      "snippet": "Alsace. Du nucléaire, des oripeaux et une campagne ultra-plaisante : les chuchotements de la semaine&nbsp;&nbsp;DNA - Les Dernières Nouvelles d'Alsace",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "source": "DNA - Les Dernières Nouvelles d'Alsace"
+    },
+    {
+      "title": "« En roue libre » : à la recherche de la gauche à laquelle appartient le candidat Annouar Sassi - L'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUXI0UUVHNy1waE9VOXNUalMwYzFybWxVX0RVX3MyeUNjaVJHYUdjeHhmNE9ZQXRLUzhOc3lnd1RqU0FSMHRjSlFRQ2FIdU5jV0FVdmVaSTNEQTRTZTYxaDdjRElJZmVITFo2TzBjWno5RUtfYXg1SDQtZTFGdGlEUmtrYk8xcTM0RjNHYzJBNWdGNUZLeGsxVjMtVjd6ZklTWjBLUkVUSExaajQ2S210TnFUZGJ0MHpzY1hubFNfbk9DMWNMMk9zUi1oYkRSdw?oc=5",
+      "snippet": "« En roue libre » : à la recherche de la gauche à laquelle appartient le candidat Annouar Sassi&nbsp;&nbsp;L'Alsace",
+      "date": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "source": "L'Alsace"
+    },
+    {
+      "title": "Le mercato des municipales 2026 de Mulhouse vient de démarrer : premier tour de piste des listes en lice - L'Alterpresse68",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU25ZMEJRX1NxeWxtN3NZU0ZZSTkwNGN2T3lTcDJHX0QzNUFQSURkZGZWTVVWWHBUaE9jaGdVNVhseS1aQWdBSzZJTGNjWVRhcW1fcDdaQnlWWHp6NW13MUlCeVhyUE9YT1NOWVExVzZKeERrcHFialZSQzJxbmg2YUJVZHFuTjh1YlVHY2RKMEhSU3BxbXlJcnhPeWJ3RjNRRU1HZXdJcmppbUNLWllRNFMxaUw0OUdpaUstWkRFc05PTHdWTVYyV2ZNUkF2ZnVmRFloRE50UGdGWmxpaHc?oc=5",
+      "snippet": "Le mercato des municipales 2026 de Mulhouse vient de démarrer : premier tour de piste des listes en lice&nbsp;&nbsp;L'Alterpresse68",
+      "date": "Sat, 22 Nov 2025 08:00:00 GMT",
+      "source": "L'Alterpresse68"
+    },
+    {
+      "title": "Michel Barnier pour 2027 ? Carole Delga anti-Meloni… les indiscrétions politiques - Challenges",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZks4RE5YamxRbHRVN1IyY2ttMnRyOFplMjJZV3A0QnlfU2hnOTU3cUNhY21jSDVwQm8xclVVUUF3aVBjM0M2cE5jVmJlNGVYRl93VmR5Yjk0cHR4SWNta0Vud1F1azJkS2p5UHpmNnJ6WmdZcG1BOHRWWjVVQkRQMGVFcHNzbk5ES3htZXRERHlxSGFBbVBkMWZaMzFfOWFwdkkwdlNKYUVpV0tMVkpydFplaXlKTHZLWnYzX2V0LW1qS2JtazNhdHhhLW8zbjlT?oc=5",
+      "snippet": "Michel Barnier pour 2027 ? Carole Delga anti-Meloni… les indiscrétions politiques&nbsp;&nbsp;Challenges",
+      "date": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "source": "Challenges"
+    },
+    {
+      "title": "Municipales 2026. Voici les chefs de file du MoDem à Strasbourg, Colmar et Mulhouse - L'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjQzTzE2ZTA0eDN4UUVTMUxRcVptRlAyQTdhT2ExSGtZMVBrNjhYTXFsMDdxdFotanp4LVBtVG5sNVpHbjNpQmc2bk5kbXhUWS10ZDZMbTUteHd4ZVE5dTdHSWJiZl9XSU1fTmN2bHIyVUZkZjJGcWlycGlRZkxPb0RyeEpVQnJVaTBTZ3ZmUHhBT3hSLXNhb3ppemxqUTY2a2x1Vg?oc=5",
+      "snippet": "Municipales 2026. Voici les chefs de file du MoDem à Strasbourg, Colmar et Mulhouse&nbsp;&nbsp;L'Alsace",
+      "date": "Thu, 12 Jun 2025 07:00:00 GMT",
+      "source": "L'Alsace"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source": "Source 1",
+        "analyse": "Aucune mention explicite de Bruno Fuchs dans ce contexte. Le snippet parle d'une campagne générale en Alsace sans référence directe à lui."
+      },
+      {
+        "source": "Source 2",
+        "analyse": "Le sujet porte sur un autre candidat (Annouar Sassi), donc aucune indication sur Bruno Fuchs."
+      },
+      {
+        "source": "Source 3",
+        "analyse": "Liste des candidats en lice pour les municipales de Mulhouse 2026, mais **pas de mention explicite de Bruno Fuchs**. Aucune confirmation ou exclusion directe."
+      },
+      {
+        "source": "Source 4",
+        "analyse": "Mentions d'autres personnalités (Michel Barnier, Carole Delga) et sujets non pertinents pour Bruno Fuchs."
+      },
+      {
+        "source": "Source 5",
+        "analyse": "Seuls les chefs de file du MoDem à Strasbourg, Colmar et Mulhouse sont cités. **Aucune mention de Bruno Fuchs**, donc pas d'indice sur sa candidature."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Aucune mention explicite de Bruno Fuchs dans ce contexte. Le snippet parle d'une campagne générale en Alsace sans référence directe à lui.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Le sujet porte sur un autre candidat (Annouar Sassi), donc aucune indication sur Bruno Fuchs.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Liste des candidats en lice pour les municipales de Mulhouse 2026, mais **pas de mention explicite de Bruno Fuchs**. Aucune confirmation ou exclusion directe.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Mentions d'autres personnalités (Michel Barnier, Carole Delga) et sujets non pertinents pour Bruno Fuchs.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"Seuls les chefs de file du MoDem à Strasbourg, Colmar et Mulhouse sont cités. **Aucune mention de Bruno Fuchs**, donc pas d'indice sur sa candidature.\"\n        }\n    ]\n}\n```"
+  }
+}

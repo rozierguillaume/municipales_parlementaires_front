@@ -1,0 +1,64 @@
+{
+  "id": "laurence-robert-dehault",
+  "identity": {
+    "id": "laurence-robert-dehault",
+    "nom": "ROBERT-DEHAULT",
+    "prenom": "Laurence",
+    "full_name": "Laurence ROBERT-DEHAULT",
+    "parti": "nan",
+    "departement": "Haute-Marne",
+    "commune": "nan",
+    "filename": "laurence-robert-dehault.json"
+  },
+  "search_results": [
+    {
+      "title": "Municipales 2026 : à Saint-Dizier, un démarrage en douceur sauf pour le RN - La Voix de la Haute-Marne",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVy14SnVNaE12U0JfcndnU3BSdHpQQmZYeWV2SGh4T2xvQldKeGg0TEEwRnpIQVRlZ085d3l6OE5yaXFsd1pnMVRsNEtCR3hGZlZzbG1RdksyTE1NbC15V1ZidlBSWXRCd1IxTDczR1Z2ZWl5MVV3SV9paWtLOEUtMQ?oc=5",
+      "snippet": "Municipales 2026 : à Saint-Dizier, un démarrage en douceur sauf pour le RN&nbsp;&nbsp;La Voix de la Haute-Marne",
+      "date": "Sun, 07 Dec 2025 08:00:00 GMT",
+      "source": "La Voix de la Haute-Marne"
+    },
+    {
+      "title": "Pour Laurence Robert-Dehault, « la sécurité n’est pas un slogan » - JHM",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmRCUF9hM1BTZUdNQ1FuWVo0N0NYOUJSWUxiUUNOeWNPUlJKcHFZanZ2Zmd2UUxnV1lyQWh6VVdkSzhCQVo4YTcydm0ybk4zQk1BYnNhMFdXVXV0OFVJYWQwQXpCXzJxUUo0NHlBa2VMSmxHczE1UHVtM2VhNHpqTA?oc=5",
+      "snippet": "Pour Laurence Robert-Dehault, « la sécurité n’est pas un slogan »&nbsp;&nbsp;JHM",
+      "date": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "source": "JHM"
+    },
+    {
+      "title": "De l’art d’être député-candidat RN. La chronique de Jules Pecnard - La Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZkNlbnhvQzlIbzVmS2Z4R0RrNHJpdS1mYmRidm9NX1dNcEZMRTlCVjNWalRsZF9oUGFmZktNckVnaHY0Q0k5ZHI3ZjcxazlVaFNKZHRMcUZjaG14NWdRRHI0bWk5Y0pBeUxsVDF4UWFpRVJUZXA1a2VYdkJHR3VpMTVFd0k5elBNZUVCdWhuVXpCdU1xRW01UmladW1fLU4zTWx6MUlVc3hzR2czM3N2TEJmOTl4Yjg2OWNoODNHT2pacFlIVFlXV2NpX2w5RnVFbmtMWUVUSk5pX2t1?oc=5",
+      "snippet": "De l’art d’être député-candidat RN. La chronique de Jules Pecnard&nbsp;&nbsp;La Tribune",
+      "date": "Thu, 02 Oct 2025 07:00:00 GMT",
+      "source": "La Tribune"
+    },
+    {
+      "title": "Laurence Robert-Dehault, « candidate naturelle » du RN - JHM",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBScUVNVDBfaW13eS1sYklERHRqY0NtSDl2Zm5BVVAyUVl0dmdyVUVQeE9fVmJhSFBOMkg5VVZJdFFwSVNmNG0yZjBrNWRVejg4Ql9aUmlPSDhGS3lxTWFLVGVrQ1hpNUtzdFRzNElEQzJfRmM?oc=5",
+      "snippet": "Laurence Robert-Dehault, « candidate naturelle » du RN&nbsp;&nbsp;JHM",
+      "date": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "source": "JHM"
+    },
+    {
+      "title": "Laurence Robert-Dehault candidate à la mairie de Saint-Dizier - JHM",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckxSLS1wcHBOQV9Yazk1RWRhTzNvcm85Qlk1ZFRTTm1pV3FNbVNWU19DeVJNc0NnekZJSVBJdFJiMG1oQnY3YUZMM0hsTnBheE1VYXdLQmFFaGp2WWZUOXZZT1ppSlVFS3VkbldCYXVZcFhyUk0xaWt5SnZUcEZhZE9RWQ?oc=5",
+      "snippet": "Laurence Robert-Dehault candidate à la mairie de Saint-Dizier&nbsp;&nbsp;JHM",
+      "date": "Sun, 21 Sep 2025 07:00:00 GMT",
+      "source": "JHM"
+    }
+  ],
+  "analysis": {
+    "status": "OUI",
+    "justification": [
+      {
+        "source": "Source 5 (JHM - Sun, 21 Sep 2025)",
+        "texte": "Laurence Robert-Dehault est explicitement mentionnée comme candidate à la mairie de Saint-Dizier pour les Municipales 2026."
+      },
+      {
+        "source": "Source 4 (JHM - Thu, 25 Sep 2025)",
+        "texte": "Elle est qualifiée de « candidate naturelle » du RN pour ces élections municipales en cours d’organisation (2026)."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 5 (JHM - Sun, 21 Sep 2025)\",\n            \"texte\": \"Laurence Robert-Dehault est explicitement mentionnée comme candidate à la mairie de Saint-Dizier pour les Municipales 2026.\"\n        },\n        {\n            \"source\": \"Source 4 (JHM - Thu, 25 Sep 2025)\",\n            \"texte\": \"Elle est qualifiée de « candidate naturelle » du RN pour ces élections municipales en cours d’organisation (2026).\"\n        }\n    ]\n}\n```"
+  }
+}

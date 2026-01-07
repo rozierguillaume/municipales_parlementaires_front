@@ -1,0 +1,41 @@
+{
+  "id": "didier-padey",
+  "identity": {
+    "id": "didier-padey",
+    "nom": "PADEY",
+    "prenom": "Didier",
+    "full_name": "Didier PADEY",
+    "parti": "SE",
+    "departement": "Savoie",
+    "commune": "Jongieux",
+    "filename": "didier-padey.json"
+  },
+  "search_results": [
+    {
+      "title": "Adoption du budget de la Sécu : comment ont voté les députés de Haute-Savoie et de Savoie - Le Messager",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktuMjBXNzM4T2d5NVdrTk5qMjczc2NQanVlUHY3R24xMEFLbi1ZSkNiM2h5S1dxOWJ5ek9tbG91VnhKRjcydG1xMDBXNVpWUTVqTEx5bG9oNW5fMW9xTElxMllyT3RGa1AwTjF2XzR5NVJodzVCQ3NLdUVnczEzMG1rTFVib29GWG9FNFlxSnRSczZsMlRvVVRoWGZSaEVXV2RWOXZ2Ym82bkk2RzdndGJ5MmtGcmRMWXU4QkhMR3EtdlpZSmdjSUhxS3ZjTVJy?oc=5",
+      "snippet": "Adoption du budget de la Sécu : comment ont voté les députés de Haute-Savoie et de Savoie&nbsp;&nbsp;Le Messager",
+      "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "source": "Le Messager"
+    },
+    {
+      "title": "Législatives 2024 : en Savoie, les candidates de la majorité présidentielle veulent lutter « contre les extrêmes - L'Essor Savoyard",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNGVQZWt4bkZuTkR2aUtlampXMHdBOEFSbXFNLVlid0hPZHpyQXI2d3pPcThTN1JaMkFKcmNPLXRORExLSlpOcmVTWlQ4c0pEeURKUXJXN0hSdkFpTUwtWjVMUHZkeDJ4UjhwM2lnbFc2cEVmVnc2Y0FNeTBvUXg2bUl6aktKRUEtT0ltNjc0Wm9kaW5NWDdEelBOM0pqeWRVekhBXzgwUnVPelR1WkNsaUx4U0hsX1d2cHExY3ZLTWszS3JIbDRSS2g5MzdiVkxlZ1l3ZkZLanEyUEszbktF?oc=5",
+      "snippet": "Législatives 2024 : en Savoie, les candidates de la majorité présidentielle veulent lutter « contre les extrêmes&nbsp;&nbsp;L'Essor Savoyard",
+      "date": "Thu, 27 Jun 2024 07:00:00 GMT",
+      "source": "L'Essor Savoyard"
+    },
+    {
+      "title": "Aix-les-Bains : Renaud Beretti souhaite « la réussite » de Marina Ferrari, nommée au gouvernement - L'Essor Savoyard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1BBY2wwbVlkek9femFpdlAzdmwzRHEyVlZMRzhfRWE5a1FpY3dWODE1aHNiSVlNb2tjV2pWOXVkRjhrQll6a0R4X01hQ01FcVZicFR6Qnk4ekNTQW85SHpNRHlmQ3RIbGx3NzhYWmdub3FZRTRtWXRUTlNBenpELVRRanZmQ3FwdHJlU2FTTkNacUhUSFliVVh6bEp0TWlwWTVzWHBnTnpybTFDbmR4LWNNUmNUd3B2Uno5djRwVDlMTXp6MC10dlI2dHVGaFE5Umo0TVp3bE1PX1k?oc=5",
+      "snippet": "Aix-les-Bains : Renaud Beretti souhaite « la réussite » de Marina Ferrari, nommée au gouvernement&nbsp;&nbsp;L'Essor Savoyard",
+      "date": "Fri, 09 Feb 2024 08:00:00 GMT",
+      "source": "L'Essor Savoyard"
+    }
+  ],
+  "analysis": {
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources consultées ne mentionne explicitement Didier Padey comme candidat aux élections municipales de 2026. Les articles analysés concernent :\n    - Des votes parlementaires (Source 1) et des candidatures pour les législatives 2024 en Savoie (Source 2),\n    - Une référence à une figure politique locale (Renaud Beretti, Source 3), sans lien avec Didier Padey.\n    Les informations disponibles ne permettent pas de conclure sur sa candidature aux municipales 2026.\"\n}\n```",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources consultées ne mentionne explicitement Didier Padey comme candidat aux élections municipales de 2026. Les articles analysés concernent :\n    - Des votes parlementaires (Source 1) et des candidatures pour les législatives 2024 en Savoie (Source 2),\n    - Une référence à une figure politique locale (Renaud Beretti, Source 3), sans lien avec Didier Padey.\n    Les informations disponibles ne permettent pas de conclure sur sa candidature aux municipales 2026.\"\n}\n```"
+  }
+}

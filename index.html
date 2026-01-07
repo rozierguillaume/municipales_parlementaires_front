@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Parlementaires Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-container">
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <div class="sidebar-brand">
+            <h1>Parlementaires</h1>
+            <div class="sidebar-meta" id="sidebarMeta">Chargement...</div>
+          </div>
+        </div>
+        <div class="parliament-search">
+          <input
+            type="text"
+            id="parliamentFilterInput"
+            placeholder="Rechercher un parlementaire..."
+            aria-label="Filtrer les parlementaires"
+          />
+          <button
+            class="parliament-search-clear"
+            id="clearSearchBtn"
+            type="button"
+            aria-label="Effacer la recherche"
+          >
+            x
+          </button>
+        </div>
+        <nav
+          class="parliament-list"
+          id="parliamentList"
+          aria-label="Liste des parlementaires"
+        ></nav>
+      </aside>
+      <main class="main-content" id="mainContent">
+        <div class="empty-state">
+          <p>Selectionnez un parlementaire pour voir les details.</p>
+        </div>
+      </main>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

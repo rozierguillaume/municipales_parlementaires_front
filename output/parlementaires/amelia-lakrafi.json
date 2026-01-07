@@ -1,0 +1,27 @@
+{
+  "id": "amelia-lakrafi",
+  "identity": {
+    "id": "amelia-lakrafi",
+    "nom": "LAKRAFI",
+    "prenom": "Amélia",
+    "full_name": "Amélia LAKRAFI",
+    "parti": "nan",
+    "departement": "Français établis hors de France",
+    "commune": "nan",
+    "filename": "amelia-lakrafi.json"
+  },
+  "search_results": [
+    {
+      "title": "Législatives 2024 : les Français de l’étranger rejettent le RN - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeVlGTXJsQlVHQ3lhR0F2M2lrRzZvejd4ZDBkdWs1WE12eTRuX09ZZDNaZFpJSUF2bXhGcG9YVDhLYkM3dDItOXppVi02UzZRZW5tNDlUVW02WkpTWkJkRUFTUnI5czNKWGViQVRZMDFnS3VrMTN0SXlSZzZlSFFsNkxfWW5ON1lvdjJpa3NNQUlrMXRMWnVBZWlMTU1ZWTY5SDZQWldRVTBGYmNKaXZKQXlMVVJGS3JFajhPYjJSanZGaEh4djREQ0J5N2RKblNNY1E?oc=5",
+      "snippet": "Législatives 2024 : les Français de l’étranger rejettent le RN&nbsp;&nbsp;Libération",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "Libération"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": "Aucune information pertinente concernant une candidature aux **élections municipales de 2026** pour Amélia Lakrafi n'est visible dans le snippet fourni (seule une analyse des Français de l’étranger lors des législatives 2024 est citée, sans lien avec son éventuelle candidature locale).",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune information pertinente concernant une candidature aux **élections municipales de 2026** pour Amélia Lakrafi n'est visible dans le snippet fourni (seule une analyse des Français de l’étranger lors des législatives 2024 est citée, sans lien avec son éventuelle candidature locale).\"\n}\n```"
+  }
+}

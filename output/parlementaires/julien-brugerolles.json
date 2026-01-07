@@ -1,0 +1,57 @@
+{
+  "id": "julien-brugerolles",
+  "identity": {
+    "id": "julien-brugerolles",
+    "nom": "BRUGEROLLES",
+    "prenom": "Julien",
+    "full_name": "Julien BRUGEROLLES",
+    "parti": "nan",
+    "departement": "Puy-de-Dôme",
+    "commune": "nan",
+    "filename": "julien-brugerolles.json"
+  },
+  "search_results": [
+    {
+      "title": "Municipales 2026 : À Cunlhat, anciens et nouveaux habitants sont \"au milieu de rien\" mais ont \"tout\" - La Montagne",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSnFNZzFkdzRpZFpGY3NTZi05S2JRUnE2NlBrcDVzeUZuRHVaRDBBWnk1bVhZcmlsUktkdEJFTE5ROHBkb3Y5TERsaUFBNUItX0RnN1ZfVWlCTzN3dU4tUDZMM1RIMVdRWVpXVE9jZGJ5VGJmbWwwZE5ueDFiX210Ry1xYkd4aVRoQmpGekloX1c4aDNjT2xIbFIyQ3N6d3duVFFKTGE4S0dkcm9jaUhRSXc1QWNwWXN6bEF1VnRhaVIzWF92djZpaHM4S1NGd0JnN0VWVWNWYTY1RFpBZlJVVDIwSHE2R25ESWc?oc=5",
+      "snippet": "Municipales 2026 : À Cunlhat, anciens et nouveaux habitants sont \"au milieu de rien\" mais ont \"tout\"&nbsp;&nbsp;La Montagne",
+      "date": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "source": "La Montagne"
+    },
+    {
+      "title": "Municipales : le Parlement étend le scrutin de liste paritaire aux petites communes à partir de 2026 - LCP",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd05EdHhHdG5TQlZHaFJiZG5hOWxoOU55VGxEU3ZEVFpOaFJEY2wtQzdvSThUclpvRDRES0xXblF2T0tXOTdZRTNmWnBacGs2a1VWSGJqY3Q1c1d1ajBBdFJGYXZvcEQxQUpRNDlPc2FkV0gzVkVBR1hwQkNndlZmbmFXYURsYUYzTTBwbkpiRU90M00wWXhFVHpvR3VRYUtWeDR0OXF1ZHlyUzNiaFE?oc=5",
+      "snippet": "Municipales : le Parlement étend le scrutin de liste paritaire aux petites communes à partir de 2026&nbsp;&nbsp;LCP",
+      "date": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "source": "LCP"
+    },
+    {
+      "title": "Municipales 2026 : le Parlement étend la parité aux petites communes - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPajJBM0hKV2pIZFdOQ0E2M2tNbURXVmk0SE1ETEVFQy1fZ04yZjNrMThGT2R5Z0g0ZGRQVW5NQnZTalhUSTR6MFRYeHBXQkJIMldnOWRtTk5pWGRPNC1zUERPOU80RjRCS3U4d2ZPWkwyM1ZoeDNva2ZPRmpkUEZydUJLbk8wRk42RFVvSkhQYnUzYXRaUVBoTldpc2FicGdubmtLclhKaTlSYmk1czB3RFAwYnJaRjNDbVhYWllJOEdhOGJUc0toLWQwVHNETjNVdm94aQ?oc=5",
+      "snippet": "Municipales 2026 : le Parlement étend la parité aux petites communes&nbsp;&nbsp;Le Monde.fr",
+      "date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "source": "Le Monde.fr"
+    },
+    {
+      "title": "Municipales 2026: séance tumultueuse à l'Assemblée au sujet des listes paritaires et du mode de scrutin - BFM",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQXNwcHFhNlNzY0ZYVnEtRXgyOUxyNUJOZWtTZU5SdkJCLTdEdE8wakpmeUxsNEFRVWhEZVZMZ2xtdmhXZjhmbzBTNzY4YlhmTDVyQ2xXa0EtNGVYUjBaUUM0TzdoRWFnaGxQVTJydGtaaU1kSGNxaGJsT2lpU0p0T1doOWxzbGdDbTAtNHVQNGxvenAxRHpsLVB5cWVUT3ZucTlhLUpSdTdOOFZ5U1hKWm9qek9Nc0J3RU5kLWY1ODJFNkhmemhqS3htMllpOE1PcnpkZGFMYlRFeXFmLWxROUYzWXV1NDdWUFR4aTA0eGRtbWtWaXczb2p0TE9IaW5VeVJGeXJEcw?oc=5",
+      "snippet": "Municipales 2026: séance tumultueuse à l'Assemblée au sujet des listes paritaires et du mode de scrutin&nbsp;&nbsp;BFM",
+      "date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "source": "BFM"
+    }
+  ],
+  "analysis": {
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source": "Source 1 (La Montagne)",
+        "analyse": "Aucune mention explicite de Julien BRUGEROLLES comme candidat aux Municipales 2026. Le snippet parle d'une situation locale à Cunlhat sans lien direct avec sa candidature."
+      },
+      {
+        "source": "Sources 2, 3 et 4 (LCP, Le Monde.fr, BFM)",
+        "analyse": "Ces articles traitent des **modifications législatives** pour les Municipales 2026 (scrutin de liste paritaire) mais ne mentionnent pas Julien BRUGEROLLES. Aucune information sur sa position politique ou candidature."
+      }
+    ],
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 (La Montagne)\",\n            \"analyse\": \"Aucune mention explicite de Julien BRUGEROLLES comme candidat aux Municipales 2026. Le snippet parle d'une situation locale à Cunlhat sans lien direct avec sa candidature.\"\n        },\n        {\n            \"source\": \"Sources 2, 3 et 4 (LCP, Le Monde.fr, BFM)\",\n            \"analyse\": \"Ces articles traitent des **modifications législatives** pour les Municipales 2026 (scrutin de liste paritaire) mais ne mentionnent pas Julien BRUGEROLLES. Aucune information sur sa position politique ou candidature.\"\n        }\n    ]\n}\n```"
+  }
+}
