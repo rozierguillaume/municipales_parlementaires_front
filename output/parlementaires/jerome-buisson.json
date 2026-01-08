@@ -67,11 +67,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Jérôme Buisson comme candidat officiel aux municipales 2026 dans les sources fournies. Les articles concernent des dynamiques locales (union des droites à Bourg-en-Bresse) ou d'autres figures politiques sans lien direct avec lui."
+        "explication": "Aucune des sources ne mentionne explicitement Jérôme Buisson comme candidat ou tête de liste pour les municipales 2026, ni son exclusion ou renoncement."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:22:05.632138Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Jérôme Buisson comme candidat officiel aux municipales 2026 dans les sources fournies. Les articles concernent des dynamiques locales (union des droites à Bourg-en-Bresse) ou d'autres figures politiques sans lien direct avec lui.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:01:29.761061Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Jérôme Buisson comme candidat ou tête de liste pour les municipales 2026, ni son exclusion ou renoncement.\"}]}\n```"
   }
 }

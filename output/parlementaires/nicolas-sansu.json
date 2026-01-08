@@ -63,15 +63,16 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Nicolas Sansu comme candidat aux municipales 2026 dans les sources fournies"
+        "explication": "Aucune des sources ne mentionne explicitement Nicolas SANSU en lien avec une candidature ou un retrait pour les municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:13:37.645386Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Nicolas Sansu comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:50:46.658754Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Nicolas SANSU en lien avec une candidature ou un retrait pour les municipales 2026.\"}]}\n```"
   }
 }

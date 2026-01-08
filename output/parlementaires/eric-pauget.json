@@ -49,22 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "NON",
     "justification": [
       {
         "source_index": 2,
-        "explication": "Éric Pauget exprime explicitement son intention de se lancer aux municipales d'Antibes en 2026 conditionnellement à l'absence de Jean Leonetti."
-      },
-      {
-        "source_index": 5,
-        "explication": "Son statut de candidat est confirmé pour la mairie d’Antibes si Leonetti ne se représente pas, dans le contexte des municipales 2026"
+        "explication": "Source 2 indique explicitement qu'Éric Pauget « préfère attendre avant de se lancer » aux municipales, sans mention d'une candidature confirmée."
       }
     ],
     "used_sources": [
-      2,
-      5
+      2
     ],
-    "analysis_at": "2026-01-08T10:09:51.384534Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 5],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Éric Pauget exprime explicitement son intention de se lancer aux municipales d'Antibes en 2026 conditionnellement à l'absence de Jean Leonetti.\"},\n        {\"source_index\": 5, \"explication\": \"Son statut de candidat est confirmé pour la mairie d’Antibes si Leonetti ne se représente pas, dans le contexte des municipales 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:45:40.662167Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n\t\"statut\":\"NON\",\n\t\"used_sources\":[2],\n\t\"justification\":[\n\t\t{\"source_index\":2,\"explication\":\"Source 2 indique explicitement qu'Éric Pauget « préfère attendre avant de se lancer » aux municipales, sans mention d'une candidature confirmée.\"}\n\t]\n}\n```"
   }
 }

@@ -53,19 +53,19 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Annonce officielle de sa candidature aux municipales 2026 à Limoges."
+        "explication": "Source 1 : « Damien Maudet officialise sa candidature » à la mairie de Limoges pour les municipales 2026."
       },
       {
         "source_index": 2,
-        "explication": "Déclaration explicite de sa candidature pour les élections municipales 2026."
+        "explication": "Source 2 : « annonce sa candidature à la mairie de Limoges » aux élections municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "Confirmation de son intention de se présenter aux municipales 2026."
+        "explication": "Source 3 : « candidat à la mairie de Limoges » pour les municipales 2026."
       },
       {
         "source_index": 4,
-        "explication": "Candidature officielle dans le cadre d'une liste (Front populaire) pour les municipales 2026."
+        "explication": "Source 4 : « sera le candidat [...] aux municipales » pour briguer la mairie de Limoges."
       }
     ],
     "used_sources": [
@@ -74,7 +74,8 @@
       3,
       4
     ],
-    "analysis_at": "2026-01-08T10:16:55.227845Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Annonce officielle de sa candidature aux municipales 2026 à Limoges.\"},\n        {\"source_index\": 2, \"explication\": \"Déclaration explicite de sa candidature pour les élections municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Confirmation de son intention de se présenter aux municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Candidature officielle dans le cadre d'une liste (Front populaire) pour les municipales 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:55:07.828289Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source 1 : « Damien Maudet officialise sa candidature » à la mairie de Limoges pour les municipales 2026.\"},\n        {\"source_index\":2,\"explication\":\"Source 2 : « annonce sa candidature à la mairie de Limoges » aux élections municipales 2026.\"},\n        {\"source_index\":3,\"explication\":\"Source 3 : « candidat à la mairie de Limoges » pour les municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Source 4 : « sera le candidat [...] aux municipales » pour briguer la mairie de Limoges.\"}\n    ]\n}\n```"
   }
 }

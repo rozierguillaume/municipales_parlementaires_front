@@ -49,17 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "Référence explicite à une éventuelle candidature d'Olga Givernet pour les municipales de 2026 dans Saint-Genis-Pouilly."
+        "source_index": null,
+        "explication": "Aucune des sources fournies ne mentionne explicitement Olga GIVERNET en lien avec une candidature, un retrait ou une fonction liée aux municipales 2026."
       }
     ],
-    "used_sources": [
-      4
-    ],
-    "analysis_at": "2026-01-08T10:12:23.780375Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Référence explicite à une éventuelle candidature d'Olga Givernet pour les municipales de 2026 dans Saint-Genis-Pouilly.\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:48:47.883197Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Olga GIVERNET en lien avec une candidature, un retrait ou une fonction liée aux municipales 2026.\"}]}\n```"
   }
 }

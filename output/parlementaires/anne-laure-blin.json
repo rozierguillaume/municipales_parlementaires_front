@@ -49,27 +49,23 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Mentionne une dynamique de la droite à Saumur sans tête de liste mais avec Anne-Laure Blin en contexte"
-      },
-      {
         "source_index": 2,
-        "explication": "Anne-Laure Blin est explicitement citée dans un contexte des municipales 2026"
+        "explication": "Mention d'Anne-Laure Blin dans un contexte de commentaires sur les municipales à Saumur sans affirmation claire de candidature."
       },
       {
-        "source_index": 5,
-        "explication": "La députée LR Anne-Laure Blin est désignée comme chargée de fédérer la droite pour les municipales 2026"
+        "source_index": 1,
+        "explication": "Évoque la droite en ordre dispersé sans nommer explicitement Anne-Laure Blin comme candidate ou tête de liste."
       }
     ],
     "used_sources": [
       1,
-      2,
-      5
+      2
     ],
-    "analysis_at": "2026-01-08T10:08:32.076025Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mentionne une dynamique de la droite à Saumur sans tête de liste mais avec Anne-Laure Blin en contexte\"},\n        {\"source_index\": 2, \"explication\": \"Anne-Laure Blin est explicitement citée dans un contexte des municipales 2026\"},\n        {\"source_index\": 5, \"explication\": \"La députée LR Anne-Laure Blin est désignée comme chargée de fédérer la droite pour les municipales 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:44:27.769102Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[1,2],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Mention d'Anne-Laure Blin dans un contexte de commentaires sur les municipales à Saumur sans affirmation claire de candidature.\"},\n        {\"source_index\":1,\"explication\":\"Évoque la droite en ordre dispersé sans nommer explicitement Anne-Laure Blin comme candidate ou tête de liste.\"}\n    ]\n}\n```"
   }
 }

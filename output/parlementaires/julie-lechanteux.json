@@ -53,19 +53,19 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Référence explicite à sa candidature aux municipales 2026 pour Roquebrune-sur-Argens."
+        "explication": "Mention explicite de candidature à la mairie de Roquebrune-sur-Argens pour les municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "Déclaration officielle de candidature aux municipales 2026 confirmée."
+        "explication": "Précision sur sa candidature municipale à Roquebrune-sur-Argens en 2026."
       },
       {
         "source_index": 4,
-        "explication": "Mention claire de sa déclaration de candidature municipale pour 2026."
+        "explication": "Déclaration officielle de candidature aux municipales 2026 pour la mairie de Roquebrune-sur-Argens."
       },
       {
         "source_index": 5,
-        "explication": "Annonce de sa candidature aux municipales 2026 dans la commune concernée."
+        "explication": "Confirmation de sa candidature municipale à Roquebrune en 2026."
       }
     ],
     "used_sources": [
@@ -74,7 +74,8 @@
       4,
       5
     ],
-    "analysis_at": "2026-01-08T10:24:16.311553Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à sa candidature aux municipales 2026 pour Roquebrune-sur-Argens.\"},\n        {\"source_index\": 3, \"explication\": \"Déclaration officielle de candidature aux municipales 2026 confirmée.\"},\n        {\"source_index\": 4, \"explication\": \"Mention claire de sa déclaration de candidature municipale pour 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce de sa candidature aux municipales 2026 dans la commune concernée.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:04:23.436181Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mention explicite de candidature à la mairie de Roquebrune-sur-Argens pour les municipales 2026.\"},\n        {\"source_index\":3,\"explication\":\"Précision sur sa candidature municipale à Roquebrune-sur-Argens en 2026.\"},\n        {\"source_index\":4,\"explication\":\"Déclaration officielle de candidature aux municipales 2026 pour la mairie de Roquebrune-sur-Argens.\"},\n        {\"source_index\":5,\"explication\":\"Confirmation de sa candidature municipale à Roquebrune en 2026.\"}\n    ]\n}\n```"
   }
 }

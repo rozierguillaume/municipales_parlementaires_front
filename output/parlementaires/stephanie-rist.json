@@ -56,15 +56,11 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": [
-      {
-        "source_index": null,
-        "explication": "Aucune mention explicite de Stéphanie RIST comme candidate aux municipales 2026 dans les résultats fournis. Les sources concernent des législatives partielles ou des événements ponctuels sans lien direct avec ses candidatures municipales futures."
-      }
-    ],
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Stéphanie RIST en lien avec une candidature aux municipales 2026 ou la mairie.\"}]\n```",
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:13:50.332843Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Stéphanie RIST comme candidate aux municipales 2026 dans les résultats fournis. Les sources concernent des législatives partielles ou des événements ponctuels sans lien direct avec ses candidatures municipales futures.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:51:02.908720Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Stéphanie RIST en lien avec une candidature aux municipales 2026 ou la mairie.\"}]\n```"
   }
 }

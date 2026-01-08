@@ -53,11 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune information directe sur une candidature aux municipales 2026 pour Xavier Albertini dans les sources fournies. Les résultats des élections législatives (2024) et les soutiens politiques mentionnés concernent des mandats antérieurs ou contextuels sans lien explicite avec les élections municipales futures."
+        "explication": "Aucune source ne mentionne explicitement Xavier ALBERTINI en lien avec une candidature ou un retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:13:41.928320Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales 2026 pour Xavier Albertini dans les sources fournies. Les résultats des élections législatives (2024) et les soutiens politiques mentionnés concernent des mandats antérieurs ou contextuels sans lien explicite avec les élections municipales futures.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:50:52.519660Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Xavier ALBERTINI en lien avec une candidature ou un retrait aux municipales 2026.\"}]}\n```"
   }
 }

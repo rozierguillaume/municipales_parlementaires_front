@@ -52,29 +52,25 @@
     "status": "OUI",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Annonce explicite de sa candidature aux municipales 2026 à Bègles avec colistiers et mesures."
-      },
-      {
         "source_index": 2,
-        "explication": "Déclaration formelle de son engagement dans la campagne municipale 2026 pour Bègles."
+        "explication": "«se jette dans la bataille à Bègles pour les municipales 2026»"
       },
       {
         "source_index": 4,
-        "explication": "Confirmation directe en tant que tête de liste LFI pour les municipales 2026 à Bègles."
+        "explication": "«entre en campagne à Bègles pour les municipales 2026»"
       },
       {
         "source_index": 5,
-        "explication": "Précision qu'il sera tête de liste LFI aux municipales 2026 dans la Gironde (Bègles)."
+        "explication": "«tête de liste LFI sera Loïc Prud'homme»"
       }
     ],
     "used_sources": [
-      1,
       2,
       4,
       5
     ],
-    "analysis_at": "2026-01-08T10:17:16.760087Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Annonce explicite de sa candidature aux municipales 2026 à Bègles avec colistiers et mesures.\"},\n        {\"source_index\": 2, \"explication\": \"Déclaration formelle de son engagement dans la campagne municipale 2026 pour Bègles.\"},\n        {\"source_index\": 4, \"explication\": \"Confirmation directe en tant que tête de liste LFI pour les municipales 2026 à Bègles.\"},\n        {\"source_index\": 5, \"explication\": \"Précision qu'il sera tête de liste LFI aux municipales 2026 dans la Gironde (Bègles).\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:55:39.853474Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,4,5],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"«se jette dans la bataille à Bègles pour les municipales 2026»\"},\n        {\"source_index\":4,\"explication\":\"«entre en campagne à Bègles pour les municipales 2026»\"},\n        {\"source_index\":5,\"explication\":\"«tête de liste LFI sera Loïc Prud'homme»\"}\n    ]\n}\n```"
   }
 }

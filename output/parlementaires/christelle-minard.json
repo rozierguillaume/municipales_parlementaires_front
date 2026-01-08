@@ -52,14 +52,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Mentionne Christelle Minard comme candidate aux municipales de 2020 à Tremblay-les-Villages sans confirmation pour 2026"
+        "source_index": null,
+        "explication": "Aucune des sources fournies ne mentionne explicitement Christelle MINARD en lien avec une candidature aux élections municipales françaises de 2026."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T10:09:46.829916Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Mentionne Christelle Minard comme candidate aux municipales de 2020 à Tremblay-les-Villages sans confirmation pour 2026\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:45:35.688116Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Christelle MINARD en lien avec une candidature aux élections municipales françaises de 2026.\"}]}\n```"
   }
 }

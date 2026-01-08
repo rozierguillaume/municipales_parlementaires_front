@@ -60,23 +60,27 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mention explicite de Paul Christophle comme candidat aux municipales 2026 soutenu par Clémentine Autain."
+        "explication": "Mentionne explicitement 'candidat Paul Christophle' aux municipales 2026."
       },
       {
         "source_index": 2,
-        "explication": "Interview confirmant sa candidature à Valence pour les municipales 2026."
+        "explication": "Précise 'candidat à Valence' pour les municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "LFI mentionne explicitement son rôle de candidat aux municipales 2026 à Valence."
+        "explication": "Indique 'candidat à Valence' pour les municipales 2026."
       },
       {
         "source_index": 4,
-        "explication": "Déclaration explicite de sa candidature socialiste pour les municipales 2026."
+        "explication": "Confirme 'candidat pour les municipales 2026'."
       },
       {
         "source_index": 5,
-        "explication": "Nommé tête de liste d'une coalition pour les municipales 2026 à Valence."
+        "explication": "Désigne 'tête de liste' pour l'appel aux municipales 2026."
+      },
+      {
+        "source_index": 6,
+        "explication": "Précise 'désigné candidat' par un collectif pour les municipales 2026"
       }
     ],
     "used_sources": [
@@ -84,9 +88,11 @@
       2,
       3,
       4,
-      5
+      5,
+      6
     ],
-    "analysis_at": "2026-01-08T10:20:50.229082Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite de Paul Christophle comme candidat aux municipales 2026 soutenu par Clémentine Autain.\"},\n        {\"source_index\": 2, \"explication\": \"Interview confirmant sa candidature à Valence pour les municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"LFI mentionne explicitement son rôle de candidat aux municipales 2026 à Valence.\"},\n        {\"source_index\": 4, \"explication\": \"Déclaration explicite de sa candidature socialiste pour les municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Nommé tête de liste d'une coalition pour les municipales 2026 à Valence.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:59:52.759960Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4,5,6],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mentionne explicitement 'candidat Paul Christophle' aux municipales 2026.\"},\n        {\"source_index\":2,\"explication\":\"Précise 'candidat à Valence' pour les municipales 2026.\"},\n        {\"source_index\":3,\"explication\":\"Indique 'candidat à Valence' pour les municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Confirme 'candidat pour les municipales 2026'.\"},\n        {\"source_index\":5,\"explication\":\"Désigne 'tête de liste' pour l'appel aux municipales 2026.\"},\n        {\"source_index\":6,\"explication\":\"Précise 'désigné candidat' par un collectif pour les municipales 2026\"}\n    ]\n}\n```"
   }
 }

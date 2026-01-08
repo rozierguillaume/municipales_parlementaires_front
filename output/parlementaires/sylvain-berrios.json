@@ -52,14 +52,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Source mentionne Sylvain Berrios comme maire sortant en 2020 sans lien direct avec les municipales de 2026."
+        "source_index": 1,
+        "explication": "Source 1 évoque les logements sociaux dans le contexte des municipales 2026 à Saint-Maur-des-Fossés sans mention explicite de candidature ou d'implication directe de Sylvain BERRIOS."
       }
     ],
     "used_sources": [
-      5
+      1
     ],
-    "analysis_at": "2026-01-08T10:13:54.135776Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Source mentionne Sylvain Berrios comme maire sortant en 2020 sans lien direct avec les municipales de 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:51:08.096449Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque les logements sociaux dans le contexte des municipales 2026 à Saint-Maur-des-Fossés sans mention explicite de candidature ou d'implication directe de Sylvain BERRIOS.\"}]}\n```"
   }
 }

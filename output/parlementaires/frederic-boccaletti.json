@@ -60,15 +60,15 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source confirme explicitement sa candidature à la mairie de Six-Fours pour les municipales 2026."
+        "explication": "Source 1 mentionne explicitement « candidat à la mairie de Six-Fours » pour les municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "Déclaration officielle de sa candidature aux élections municipales 2026 à Six-Fours-les-Plages."
+        "explication": "Source 3 indique « Frédéric Boccaletti officialise sa candidature à Six-Fours-les-Plages » aux municipales 2026."
       },
       {
         "source_index": 4,
-        "explication": "Annonce formelle de son inscription en tant que candidat officiel pour la mairie de Six-Fours"
+        "explication": "Source 4 précise « Frédéric Boccaletti officiellement candidat à la mairie » pour les municipales 2026."
       }
     ],
     "used_sources": [
@@ -76,7 +76,8 @@
       3,
       4
     ],
-    "analysis_at": "2026-01-08T10:21:52.187642Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source confirme explicitement sa candidature à la mairie de Six-Fours pour les municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Déclaration officielle de sa candidature aux élections municipales 2026 à Six-Fours-les-Plages.\"},\n        {\"source_index\": 4, \"explication\": \"Annonce formelle de son inscription en tant que candidat officiel pour la mairie de Six-Fours\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:01:11.385176Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,3,4],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source 1 mentionne explicitement « candidat à la mairie de Six-Fours » pour les municipales 2026.\"},\n        {\"source_index\":3,\"explication\":\"Source 3 indique « Frédéric Boccaletti officialise sa candidature à Six-Fours-les-Plages » aux municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Source 4 précise « Frédéric Boccaletti officiellement candidat à la mairie » pour les municipales 2026.\"}\n    ]\n}\n```"
   }
 }

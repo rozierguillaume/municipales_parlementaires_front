@@ -49,27 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Aucune mention explicite de Yannick Chenevard dans les sources sur Toulon"
-      },
-      {
-        "source_index": 4,
-        "explication": "Source indirecte confirmant sa participation aux municipales 2026 via une liste ou un soutien implicite"
-      },
-      {
-        "source_index": 5,
-        "explication": "Explicitement mentionné comme candidat potentiel pour les municipales 2026 à Toulon"
+        "source_index": null,
+        "explication": "Aucune des sources ne mentionne explicitement Yannick Chenevard comme candidat, tête de liste ou impliqué dans une candidature aux municipales 2026."
       }
     ],
-    "used_sources": [
-      1,
-      4,
-      5
-    ],
-    "analysis_at": "2026-01-08T10:10:39.432652Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Aucune mention explicite de Yannick Chenevard dans les sources sur Toulon\"},\n        {\"source_index\": 4, \"explication\": \"Source indirecte confirmant sa participation aux municipales 2026 via une liste ou un soutien implicite\"},\n        {\"source_index\": 5, \"explication\": \"Explicitement mentionné comme candidat potentiel pour les municipales 2026 à Toulon\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:46:39.612944Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Yannick Chenevard comme candidat, tête de liste ou impliqué dans une candidature aux municipales 2026.\"}]}\n```"
   }
 }

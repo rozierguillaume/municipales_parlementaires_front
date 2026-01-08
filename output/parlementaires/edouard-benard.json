@@ -49,17 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Mention explicite de sa candidature aux législatives 2024, mais pas explicitement aux municipales 2026. Cependant, le contexte politique et son nom associé à une circonscription électorale suggère une préparation active pour les élections locales suivantes."
+        "source_index": null,
+        "explication": "Aucune des sources fournies ne mentionne Édouard BÉNARD en lien avec une candidature ou un retrait aux municipales 2026."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T10:13:02.441705Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Mention explicite de sa candidature aux législatives 2024, mais pas explicitement aux municipales 2026. Cependant, le contexte politique et son nom associé à une circonscription électorale suggère une préparation active pour les élections locales suivantes.\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:49:49.600729Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne Édouard BÉNARD en lien avec une candidature ou un retrait aux municipales 2026.\"}]}\n```"
   }
 }

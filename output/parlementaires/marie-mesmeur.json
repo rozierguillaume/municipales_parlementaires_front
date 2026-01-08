@@ -60,13 +60,19 @@
     "justification": [
       {
         "source_index": 4,
-        "explication": "Source explicite confirmant que Marie Mesmeur est candidate aux municipales de Rennes en 2026"
+        "explication": "Source 4 indique explicitement que Marie Mesmeur 'candidate aux élections municipales de Rennes en 2026'."
+      },
+      {
+        "source_index": 5,
+        "explication": "Source 5 précise qu'elle est 'la candidate' de LFI pour les municipales 2026 à Rennes, avec un dissident face à elle."
       }
     ],
     "used_sources": [
-      4
+      4,
+      5
     ],
-    "analysis_at": "2026-01-08T10:16:58.748692Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Source explicite confirmant que Marie Mesmeur est candidate aux municipales de Rennes en 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:55:14.634217Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[4,5],\n    \"justification\":[\n        {\"source_index\":4,\"explication\":\"Source 4 indique explicitement que Marie Mesmeur 'candidate aux élections municipales de Rennes en 2026'.\"},\n        {\"source_index\":5,\"explication\":\"Source 5 précise qu'elle est 'la candidate' de LFI pour les municipales 2026 à Rennes, avec un dissident face à elle.\"}\n    ]\n}\n```"
   }
 }

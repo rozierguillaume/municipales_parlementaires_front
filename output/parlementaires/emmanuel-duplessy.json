@@ -52,12 +52,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Emmanuel Duplexy comme candidat aux municipales 2026 ni dans Orléans ni ailleurs."
+        "source_index": 1,
+        "explication": "Source 1 évoque la victoire du Centre à Orléans mais ne mentionne aucun nom spécifique (DUPLESSY) ni candidature aux municipales 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:12:30.722533Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Emmanuel Duplexy comme candidat aux municipales 2026 ni dans Orléans ni ailleurs.\"}\n    ]\n}\n```"
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T11:48:59.522282Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque la victoire du Centre à Orléans mais ne mentionne aucun nom spécifique (DUPLESSY) ni candidature aux municipales 2026.\"}]}\n```"
   }
 }

@@ -60,11 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Yaël Braun-Pivet comme candidate aux municipales 2026 dans les sources fournies. Les articles traitent d'autres candidats ou contextes sans référence directe à elle."
+        "explication": "Aucune source ne mentionne explicitement Yaël Braun-Pivet comme candidate ou non-candidate aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:08:35.917147Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Yaël Braun-Pivet comme candidate aux municipales 2026 dans les sources fournies. Les articles traitent d'autres candidats ou contextes sans référence directe à elle.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:44:32.535375Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Yaël Braun-Pivet comme candidate ou non-candidate aux municipales 2026.\"}]}\n```"
   }
 }

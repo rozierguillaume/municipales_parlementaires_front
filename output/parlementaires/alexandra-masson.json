@@ -56,15 +56,18 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "OUI",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune mention explicite de Alexandra Masson comme candidate aux municipales 2026 dans les sources fournies"
+        "source_index": 6,
+        "explication": "Source explicite : «Alexandra Masson (RN) se présente comme la candidate «de la rupture et du rassemblement» aux municipales 2026 à Menton."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:24:49.035052Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Alexandra Masson comme candidate aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
+    "used_sources": [
+      6
+    ],
+    "analysis_at": "2026-01-08T12:05:03.390291Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[6],\n    \"justification\":[\n        {\"source_index\":6,\"explication\":\"Source explicite : «Alexandra Masson (RN) se présente comme la candidate «de la rupture et du rassemblement» aux municipales 2026 à Menton.\"}\n    ]\n}\n```"
   }
 }

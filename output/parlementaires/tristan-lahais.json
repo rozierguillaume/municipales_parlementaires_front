@@ -66,12 +66,20 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune mention explicite de Tristan Lahais comme candidat officiel aux municipales 2026 dans les sources fournies. Les articles évoquent des discussions sur une unité politique ou des appels à la mobilisation sans nommer directement Tristan Lahais."
+        "source_index": 1,
+        "explication": "Mention d'une discussion sur les élections locales mais sans mention explicite de candidature municipale 2026 pour Tristan Lahais."
+      },
+      {
+        "source_index": 2,
+        "explication": "Évocation d'une unité politique à Rennes pour les municipales 2026 sans nommer explicitement Tristan Lahais comme candidat."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:12:40.841853Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Tristan Lahais comme candidat officiel aux municipales 2026 dans les sources fournies. Les articles évoquent des discussions sur une unité politique ou des appels à la mobilisation sans nommer directement Tristan Lahais.\"}\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2
+    ],
+    "analysis_at": "2026-01-08T11:49:17.126555Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":1,\"explication\":\"Mention d'une discussion sur les élections locales mais sans mention explicite de candidature municipale 2026 pour Tristan Lahais.\"},{\"source_index\":2,\"explication\":\"Évocation d'une unité politique à Rennes pour les municipales 2026 sans nommer explicitement Tristan Lahais comme candidat.\"}]}\n```"
   }
 }

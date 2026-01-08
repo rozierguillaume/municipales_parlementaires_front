@@ -53,28 +53,19 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Référence explicite à sa candidature aux municipales d'Annecy en 2026."
-      },
-      {
-        "source_index": 3,
-        "explication": "Mention de son rapprochement et préparation pour les élections municipales 2026."
-      },
-      {
-        "source_index": 4,
-        "explication": "Annonce officielle d'une collaboration pour les municipales 2026 à Annecy."
+        "explication": "Source 1 : « Antoine Armand, candidat à la mairie d'Annecy »"
       },
       {
         "source_index": 5,
-        "explication": "Déclaration formelle de candidature aux municipales 2026 à la mairie d'Annecy."
+        "explication": "Source 5 : « Antoine Armand se déclare officiellement candidat à la mairie d’Annecy »"
       }
     ],
     "used_sources": [
       1,
-      3,
-      4,
       5
     ],
-    "analysis_at": "2026-01-08T10:10:01.435940Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à sa candidature aux municipales d'Annecy en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Mention de son rapprochement et préparation pour les élections municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Annonce officielle d'une collaboration pour les municipales 2026 à Annecy.\"},\n        {\"source_index\": 5, \"explication\": \"Déclaration formelle de candidature aux municipales 2026 à la mairie d'Annecy.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:45:52.475111Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n\t\"statut\":\"OUI\",\n\t\"use_sources\":[1,5],\n\t\"justification\":[\n\t\t{\"source_index\":1,\"explication\":\"Source 1 : « Antoine Armand, candidat à la mairie d'Annecy »\"},\n\t\t{\"source_index\":5,\"explication\":\"Source 5 : « Antoine Armand se déclare officiellement candidat à la mairie d’Annecy »\"}\n\t]\n}\n```"
   }
 }

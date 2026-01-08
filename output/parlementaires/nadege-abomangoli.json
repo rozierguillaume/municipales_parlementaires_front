@@ -53,11 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Nadège Abomangoli comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent d'autres villes ou des dynamiques internes (LFI, PS/PCF) sans lien direct avec son nom."
+        "explication": "Aucune des sources citées ne mentionne explicitement Nadège Abomangoli en lien avec une candidature aux municipales 2026 ou la mairie."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:15:01.010745Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Nadège Abomangoli comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent d'autres villes ou des dynamiques internes (LFI, PS/PCF) sans lien direct avec son nom.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:52:34.768126Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources citées ne mentionne explicitement Nadège Abomangoli en lien avec une candidature aux municipales 2026 ou la mairie.\"}]}\n```"
   }
 }

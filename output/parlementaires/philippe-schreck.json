@@ -59,19 +59,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 2,
-        "explication": "Référence à une possible candidature aux municipales de Draguignan en 2026."
-      },
-      {
-        "source_index": 3,
-        "explication": "Mention explicite d'une préparation d'une liste RN pour les municipales 2026 à Draguignan"
+        "source_index": null,
+        "explication": "Aucune source ne mentionne Philippe SCHRECK, ni sa candidature ni son exclusion des élections municipales 2026."
       }
     ],
-    "used_sources": [
-      2,
-      3
-    ],
-    "analysis_at": "2026-01-08T10:25:22.362504Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [2, 3],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Référence à une possible candidature aux municipales de Draguignan en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Mention explicite d'une préparation d'une liste RN pour les municipales 2026 à Draguignan\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:05:41.903275Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Philippe SCHRECK, ni sa candidature ni son exclusion des élections municipales 2026.\"}]}\n```"
   }
 }

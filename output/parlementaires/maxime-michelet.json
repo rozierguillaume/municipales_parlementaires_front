@@ -49,22 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "Référence explicite à une candidature aux municipales 2026 pour Épernay."
-      },
-      {
-        "source_index": 5,
-        "explication": "Annonce officielle de sa candidature aux municipales 2026 à Épernay."
+        "source_index": null,
+        "explication": "Aucune des sources citées ne mentionne explicitement Maxime MICHELET en lien avec une candidature municipale ou mairiale pour les élections de 2026."
       }
     ],
-    "used_sources": [
-      4,
-      5
-    ],
-    "analysis_at": "2026-01-08T10:26:01.615521Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4, 5],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Référence explicite à une candidature aux municipales 2026 pour Épernay.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce officielle de sa candidature aux municipales 2026 à Épernay.\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:06:31.758789Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources citées ne mentionne explicitement Maxime MICHELET en lien avec une candidature municipale ou mairiale pour les élections de 2026.\"}]}\n```"
   }
 }

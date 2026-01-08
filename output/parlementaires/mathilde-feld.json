@@ -56,15 +56,16 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Mathilde Feld comme candidate aux municipales 2026 dans les sources fournies."
+        "explication": "Aucune des sources ne mentionne explicitement Mathilde FELD en lien avec une candidature aux municipales 2026 ou un retrait."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:16:04.042308Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Mathilde Feld comme candidate aux municipales 2026 dans les sources fournies.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:53:55.575752Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[],\n    \"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Mathilde FELD en lien avec une candidature aux municipales 2026 ou un retrait.\"}]\n}\n```"
   }
 }

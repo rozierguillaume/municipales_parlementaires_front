@@ -49,15 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Sophie BLANC dans les résultats fournis concernant les élections municipales 2026"
+        "explication": "Aucune source ne mentionne Sophie BLANC, seule Sophie Gaugain et Sophie Delong sont citées pour les municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:21:47.446452Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Sophie BLANC dans les résultats fournis concernant les élections municipales 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:01:03.630125Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Sophie BLANC, seule Sophie Gaugain et Sophie Delong sont citées pour les municipales 2026.\"}]}\n```"
   }
 }

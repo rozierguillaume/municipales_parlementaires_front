@@ -49,32 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mention explicite de Abdelkader Lahmar comme figure politique active dans la campagne des municipales 2026 pour Lyon."
-      },
-      {
-        "source_index": 3,
-        "explication": "Identifie Abdelkader Lahmar (LFI) comme chef de file officiel pour Vaulx-en-Velin en 2026."
-      },
-      {
-        "source_index": 4,
-        "explication": "Prédit sa candidature LFI dès le premier tour dans Lyon pour les municipales 2026."
-      },
-      {
-        "source_index": 5,
-        "explication": "Contexte des banlieues populaires de Lyon en 2026 avec une implication active de LFI et mention explicite de Lahmar."
+        "explication": "Source 1 évoque un « rapprochement assumé » et une opposition à Hélène Geoffroy, mais ne mentionne pas explicitement une candidature d'Abelkader Lahmar aux municipales 2026."
       }
     ],
     "used_sources": [
-      1,
-      3,
-      4,
-      5
+      1
     ],
-    "analysis_at": "2026-01-08T10:16:38.563511Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite de Abdelkader Lahmar comme figure politique active dans la campagne des municipales 2026 pour Lyon.\"},\n        {\"source_index\": 3, \"explication\": \"Identifie Abdelkader Lahmar (LFI) comme chef de file officiel pour Vaulx-en-Velin en 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Prédit sa candidature LFI dès le premier tour dans Lyon pour les municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Contexte des banlieues populaires de Lyon en 2026 avec une implication active de LFI et mention explicite de Lahmar.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:54:41.353895Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque un « rapprochement assumé » et une opposition à Hélène Geoffroy, mais ne mentionne pas explicitement une candidature d'Abelkader Lahmar aux municipales 2026.\"}]}\n```"
   }
 }

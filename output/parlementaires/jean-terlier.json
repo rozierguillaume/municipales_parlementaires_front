@@ -53,23 +53,23 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mention explicite de sa candidature aux municipales 2026 pour Castres."
+        "explication": "Mention explicite d'une candidature pour les municipales 2026 via une consultation citoyenne."
       },
       {
         "source_index": 2,
-        "explication": "Affirmation directe qu'il se présente en tant que VRP municipal pour 2026."
+        "explication": "Formulation claire : \"candidat\" aux municipales 2026 avec engagement pour la mairie de Castres."
       },
       {
         "source_index": 3,
-        "explication": "Référence à sa candidature dans le cadre des municipales de Castres en 2026."
+        "explication": "Indique un candidat «de taille» se lançant dans les municipales à Castres (implicite)."
       },
       {
         "source_index": 4,
-        "explication": "Déclaration explicite qu'il est candidat officiel pour la mairie de Castres en 2026."
+        "explication": "Titre explicite : \"Jean Terlier est candidat à la mairie de Castes pour 2026\""
       },
       {
         "source_index": 5,
-        "explication": "Annonce claire de sa candidature aux municipales 2026 à Castres."
+        "explication": "Mention directe du député comme «candidat» aux municipales 2026 à Castres"
       }
     ],
     "used_sources": [
@@ -79,7 +79,8 @@
       4,
       5
     ],
-    "analysis_at": "2026-01-08T10:12:50.519505Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite de sa candidature aux municipales 2026 pour Castres.\"},\n        {\"source_index\": 2, \"explication\": \"Affirmation directe qu'il se présente en tant que VRP municipal pour 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Référence à sa candidature dans le cadre des municipales de Castres en 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Déclaration explicite qu'il est candidat officiel pour la mairie de Castres en 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce claire de sa candidature aux municipales 2026 à Castres.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:49:33.645699Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mention explicite d'une candidature pour les municipales 2026 via une consultation citoyenne.\"},\n        {\"source_index\":2,\"explication\":\"Formulation claire : \\\"candidat\\\" aux municipales 2026 avec engagement pour la mairie de Castres.\"},\n        {\"source_index\":3,\"explication\":\"Indique un candidat «de taille» se lançant dans les municipales à Castres (implicite).\"},\n        {\"source_index\":4,\"explication\":\"Titre explicite : \\\"Jean Terlier est candidat à la mairie de Castes pour 2026\\\"\"},\n        {\"source_index\":5,\"explication\":\"Mention directe du député comme «candidat» aux municipales 2026 à Castres\"}\n    ]\n}\n```"
   }
 }

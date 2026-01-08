@@ -59,24 +59,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Référence à un contexte politique local sans confirmation directe de candidature aux municipales 2026."
-      },
-      {
-        "source_index": 2,
-        "explication": "Mention implicite d'une rivalité potentielle avec Baloge pour les municipales 2026 dans Niort."
-      },
-      {
-        "source_index": 4,
-        "explication": "Analyse du contexte de la campagne municipale à venir en 2026 sans confirmation explicite de Bastien Marchive"
+        "source_index": null,
+        "explication": "Aucune des sources fournies ne mentionne explicitement une candidature ou un refus de candidature de Bastien MARCHIVE aux élections municipales françaises de 2026."
       }
     ],
-    "used_sources": [
-      1,
-      2,
-      4
-    ],
-    "analysis_at": "2026-01-08T10:11:32.774473Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [1, 2, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence à un contexte politique local sans confirmation directe de candidature aux municipales 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Mention implicite d'une rivalité potentielle avec Baloge pour les municipales 2026 dans Niort.\"},\n        {\"source_index\": 4, \"explication\": \"Analyse du contexte de la campagne municipale à venir en 2026 sans confirmation explicite de Bastien Marchive\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:47:40.018417Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement une candidature ou un refus de candidature de Bastien MARCHIVE aux élections municipales françaises de 2026.\"}]}\n```"
   }
 }

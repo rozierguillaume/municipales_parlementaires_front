@@ -870,11 +870,6 @@ const loadList = async () => {
   try {
     const data = await fetchJson(listUrl);
     state.all = Array.isArray(data) ? data : [];
-    state.all.sort((a, b) =>
-      String(a.full_name || "").localeCompare(String(b.full_name || ""), "fr", {
-        sensitivity: "base",
-      })
-    );
     state.byId = state.all.reduce((acc, member) => {
       acc[member.id] = member;
       return acc;

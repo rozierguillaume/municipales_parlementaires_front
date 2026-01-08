@@ -49,15 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "OUI",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune mention explicite de candidature officielle aux municipales 2026 pour Raphaël Arnault dans les sources fournies. Les articles concernent des tensions internes ou critiques sur ses méthodes sans confirmation d'une démarche électorale future."
+        "source_index": 5,
+        "explication": "Source explicite sur la candidature de Raphaël Arnaud (Arnault) aux municipales 2026 à Sérignan : « Raphaël Arnaud officialise sa candidature »"
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:15:18.362107Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de candidature officielle aux municipales 2026 pour Raphaël Arnault dans les sources fournies. Les articles concernent des tensions internes ou critiques sur ses méthodes sans confirmation d'une démarche électorale future.\"}\n    ]\n}\n```"
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T11:52:56.883385Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[5],\n    \"justification\":[\n        {\n            \"source_index\":5,\n            \"explication\":\"Source explicite sur la candidature de Raphaël Arnaud (Arnault) aux municipales 2026 à Sérignan : « Raphaël Arnaud officialise sa candidature »\"\n        }\n    ]\n}\n```"
   }
 }

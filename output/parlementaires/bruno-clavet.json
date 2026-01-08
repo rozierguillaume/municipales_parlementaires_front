@@ -53,18 +53,19 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Le RN annonce explicitement Bruno Clavet comme tête de liste dans le Lensois pour les municipales 2026."
+        "explication": "Source 1 : Bruno Clavet est annoncé comme tête de liste du RN dans le Lensois pour les municipales 2026."
       },
       {
-        "source_index": 4,
-        "explication": "Bruno Clavet est mentionné comme candidat potentiel aux municipales 2026 à Lens, en rivalité avec un autre élu."
+        "source_index": 2,
+        "explication": "Source 2 : Questionne explicitement si Bruno Clavet est candidat déclaré aux municipales 2026 à Lens, sans réponse négative claire."
       }
     ],
     "used_sources": [
       1,
-      4
+      2
     ],
-    "analysis_at": "2026-01-08T10:22:09.932927Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Le RN annonce explicitement Bruno Clavet comme tête de liste dans le Lensois pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Bruno Clavet est mentionné comme candidat potentiel aux municipales 2026 à Lens, en rivalité avec un autre élu.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:01:35.797935Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"OUI\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 : Bruno Clavet est annoncé comme tête de liste du RN dans le Lensois pour les municipales 2026.\"},{\"source_index\":2,\"explication\":\"Source 2 : Questionne explicitement si Bruno Clavet est candidat déclaré aux municipales 2026 à Lens, sans réponse négative claire.\"}]}\n```"
   }
 }

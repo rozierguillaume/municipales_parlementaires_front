@@ -49,17 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 5,
-        "explication": "Mention explicite de Gabriel Amard comme figure politique active dans Villeurbanne en lien avec une rupture avec le Parti Socialiste, suggérant sa préparation aux municipales 2026."
+        "explication": "Source 5 évoque un divorce politique sans mention explicite d'une candidature municipale 2026 ni de retrait."
       }
     ],
     "used_sources": [
       5
     ],
-    "analysis_at": "2026-01-08T10:15:08.154731Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Mention explicite de Gabriel Amard comme figure politique active dans Villeurbanne en lien avec une rupture avec le Parti Socialiste, suggérant sa préparation aux municipales 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:52:44.047650Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"Source 5 évoque un divorce politique sans mention explicite d'une candidature municipale 2026 ni de retrait.\"}]}\n```"
   }
 }

@@ -56,22 +56,11 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": [
-      {
-        "source_index": 1,
-        "explication": "Mention explicite d'Anthony Boulogne comme candidat dans les grandes communes de Lorraine pour les municipales 2026."
-      },
-      {
-        "source_index": 4,
-        "explication": "Référence directe à Anthony Boulogne (député RN) recrutant des candidats via les réseaux sociaux pour les élections municipales 2026 à Pont-à-Mousson"
-      }
-    ],
-    "used_sources": [
-      1,
-      4
-    ],
-    "analysis_at": "2026-01-08T10:22:52.354702Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite d'Anthony Boulogne comme candidat dans les grandes communes de Lorraine pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Référence directe à Anthony Boulogne (député RN) recrutant des candidats via les réseaux sociaux pour les élections municipales 2026 à Pont-à-Mousson\"}\n    ]\n}\n```"
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[4],\n    \"justification\":[\n        {\"source_index\":4,\"explication\":\"Source mentionne Anthony Boulogne recrutant des candidats pour les municipales mais ne confirme pas sa propre candidature explicite.\"},\n        {\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait d'Anthony Boulogne aux municipales 2026.\"}\n}\n```",
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:02:28.141835Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[4],\n    \"justification\":[\n        {\"source_index\":4,\"explication\":\"Source mentionne Anthony Boulogne recrutant des candidats pour les municipales mais ne confirme pas sa propre candidature explicite.\"},\n        {\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait d'Anthony Boulogne aux municipales 2026.\"}\n}\n```"
   }
 }

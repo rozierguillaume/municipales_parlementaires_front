@@ -53,13 +53,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Romain Baubry est explicitement cité dans un duo RN pour les municipales 2026 à Sénas"
+        "explication": "Source 1 mentionne explicitement 'le duo RN Baubry/Borges veut... faire gagner Sénas' avec un contexte électoral municipal en 2026."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T10:21:40.238720Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Romain Baubry est explicitement cité dans un duo RN pour les municipales 2026 à Sénas\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:00:53.798164Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"OUI\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 mentionne explicitement 'le duo RN Baubry/Borges veut... faire gagner Sénas' avec un contexte électoral municipal en 2026.\"}]}\n```"
   }
 }

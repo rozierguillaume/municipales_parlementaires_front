@@ -70,17 +70,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "NON",
     "justification": [
       {
         "source_index": 5,
-        "explication": "Déclaration explicite d'Alloncle concernant sa candidature aux municipales 2026 dans une circonscription"
+        "explication": "Source 5 : «Je ne serai pas tête de liste dans une des communes de la circonscription» (lien explicite avec municipales 2026 et renoncement)."
       }
     ],
     "used_sources": [
       5
     ],
-    "analysis_at": "2026-01-08T10:25:46.505874Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Déclaration explicite d'Alloncle concernant sa candidature aux municipales 2026 dans une circonscription\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:06:11.621428Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"NON\",\n    \"used_sources\":[5],\n    \"justification\":[\n        {\"source_index\":5,\"explication\":\"Source 5 : «Je ne serai pas tête de liste dans une des communes de la circonscription» (lien explicite avec municipales 2026 et renoncement).\"}\n    ]\n}\n```"
   }
 }

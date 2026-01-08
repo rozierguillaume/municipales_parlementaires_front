@@ -45,16 +45,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Nicolas TRYZNA comme candidat aux municipales 2026 ni dans les lancements de campagnes ou les annonces récentes."
-      },
-      {
-        "source_index": null,
-        "explication": "Les sources disponibles concernent des élections passées (Législatives 2024, Départementales 2021) ou des informations générales sur la campagne municipale sans lien direct avec TRYZNA."
+        "source_index": 1,
+        "explication": "Source 1 évoque des lancements de candidatures pour les municipales 2026 dans trois communes (Vitry-sur-Seine, Arcueil, Chevilly-Larue) sans mention explicite du nom 'Nicolas TRYZNA' ni d'une candidature confirmée."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:09:55.969537Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Nicolas TRYZNA comme candidat aux municipales 2026 ni dans les lancements de campagnes ou les annonces récentes.\"},\n        {\"source_index\": null, \"explication\": \"Les sources disponibles concernent des élections passées (Législatives 2024, Départementales 2021) ou des informations générales sur la campagne municipale sans lien direct avec TRYZNA.\"}\n    ]\n}\n```"
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T11:45:46.187318Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque des lancements de candidatures pour les municipales 2026 dans trois communes (Vitry-sur-Seine, Arcueil, Chevilly-Larue) sans mention explicite du nom 'Nicolas TRYZNA' ni d'une candidature confirmée.\"}]}\n```"
   }
 }

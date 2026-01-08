@@ -53,18 +53,19 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source directe confirmant Emmanuel Fouquart comme candidat RN aux municipales 2026 à Martigues."
+        "explication": "Source 2 : «Emmanuel Fouquart (RN) se déclare et claque la porte à une alliance avec la droite» dans un contexte municipal 2026."
       },
       {
         "source_index": 3,
-        "explication": "Rafraîchit son rôle de tête de liste RN pour les élections municipales 2026 dans la même commune."
+        "explication": "Source 3 : «Emmanuel Fouquart conduira bien la liste RN à Martigues» pour les municipales 2026, explicitement mentionnées."
       }
     ],
     "used_sources": [
       2,
       3
     ],
-    "analysis_at": "2026-01-08T10:22:47.740231Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 3],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Source directe confirmant Emmanuel Fouquart comme candidat RN aux municipales 2026 à Martigues.\"},\n        {\"source_index\": 3, \"explication\": \"Rafraîchit son rôle de tête de liste RN pour les élections municipales 2026 dans la même commune.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:02:21.638801Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n\t\"statut\":\"OUI\",\n\t\"used_sources\":[2,3],\n\t\"justification\":[\n\t\t{\"source_index\":2,\"explication\":\"Source 2 : «Emmanuel Fouquart (RN) se déclare et claque la porte à une alliance avec la droite» dans un contexte municipal 2026.\"},\n\t\t{\"source_index\":3,\"explication\":\"Source 3 : «Emmanuel Fouquart conduira bien la liste RN à Martigues» pour les municipales 2026, explicitement mentionnées.\"}\n\t]\n}\n```"
   }
 }

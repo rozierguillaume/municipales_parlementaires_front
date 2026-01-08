@@ -56,17 +56,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "Source directe confirmant Fanny Dombre Coste comme candidate aux municipales dans la 3ème circonscription de l'Hérault pour 2026 (NFP)"
+        "source_index": null,
+        "explication": "Aucune des sources fournies ne mentionne explicitement Fanny DOMBRE COSTE en lien avec une candidature aux municipales 2026 ou un retrait."
       }
     ],
-    "used_sources": [
-      4
-    ],
-    "analysis_at": "2026-01-08T10:19:24.169673Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Source directe confirmant Fanny Dombre Coste comme candidate aux municipales dans la 3ème circonscription de l'Hérault pour 2026 (NFP)\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:57:56.780772Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Fanny DOMBRE COSTE en lien avec une candidature aux municipales 2026 ou un retrait.\"}]}\n```"
   }
 }

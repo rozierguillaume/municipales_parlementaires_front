@@ -52,14 +52,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "Mentionne Christophe Proença comme candidat aux législatives 2024 (pas de lien direct avec les municipales 2026)"
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Christophe PROENÇA dans le contexte des municipales 2026 ou d'une candidature à la mairie."
       }
     ],
-    "used_sources": [
-      4
-    ],
-    "analysis_at": "2026-01-08T10:21:03.625166Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Mentionne Christophe Proença comme candidat aux législatives 2024 (pas de lien direct avec les municipales 2026)\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:00:07.941623Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Christophe PROENÇA dans le contexte des municipales 2026 ou d'une candidature à la mairie.\"}]}\n```"
   }
 }

@@ -53,23 +53,23 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Tous les sources confirment explicitement une annonce de candidature aux municipales 2026 pour Marina Ferrari à Aix-les-Bains."
+        "explication": "Source mentionne explicitement 'candidature à Aix-les-Bains' pour les municipales 2026."
       },
       {
         "source_index": 2,
-        "explication": "Libération mentionne sa candidature officielle aux élections municipales 2026 dans la même ville."
+        "explication": "Source indique 'candidate aux municipales 2026' à Aix-les-Bains."
       },
       {
         "source_index": 3,
-        "explication": "L'Essor Savoyard confirme son intention de se présenter pour les prochaines municipales à Aix-les-Bains."
+        "explication": "Source confirme une candidature municipale en 2026 à Aix-les-Bains."
       },
       {
         "source_index": 4,
-        "explication": "Savoie News précise sa candidature aux élections municipales 2026 dans la commune."
+        "explication": "Source précise 'candidat à Aix-les-Bains' pour les municipales 2026."
       },
       {
         "source_index": 5,
-        "explication": "France 3 Régions souligne son engagement en tant que candidate officielle pour Aix-les-Bains en 2026."
+        "explication": "Source décrit sa 'candidature aux municipales' à Aix-les-Bains en 2026."
       }
     ],
     "used_sources": [
@@ -79,7 +79,8 @@
       4,
       5
     ],
-    "analysis_at": "2026-01-08T10:19:20.509643Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Tous les sources confirment explicitement une annonce de candidature aux municipales 2026 pour Marina Ferrari à Aix-les-Bains.\"},\n        {\"source_index\": 2, \"explication\": \"Libération mentionne sa candidature officielle aux élections municipales 2026 dans la même ville.\"},\n        {\"source_index\": 3, \"explication\": \"L'Essor Savoyard confirme son intention de se présenter pour les prochaines municipales à Aix-les-Bains.\"},\n        {\"source_index\": 4, \"explication\": \"Savoie News précise sa candidature aux élections municipales 2026 dans la commune.\"},\n        {\"source_index\": 5, \"explication\": \"France 3 Régions souligne son engagement en tant que candidate officielle pour Aix-les-Bains en 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:57:52.128934Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source mentionne explicitement 'candidature à Aix-les-Bains' pour les municipales 2026.\"},\n        {\"source_index\":2,\"explication\":\"Source indique 'candidate aux municipales 2026' à Aix-les-Bains.\"},\n        {\"source_index\":3,\"explication\":\"Source confirme une candidature municipale en 2026 à Aix-les-Bains.\"},\n        {\"source_index\":4,\"explication\":\"Source précise 'candidat à Aix-les-Bains' pour les municipales 2026.\"},\n        {\"source_index\":5,\"explication\":\"Source décrit sa 'candidature aux municipales' à Aix-les-Bains en 2026.\"}\n    ]\n}\n```"
   }
 }

@@ -56,22 +56,11 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": [
-      {
-        "source_index": 1,
-        "explication": "Référence explicite à des adjoints en lice pour les municipales 2026 dans le contexte de Buzançais."
-      },
-      {
-        "source_index": 4,
-        "explication": "Christophe Blanchet est mentionné comme « numéro 2 » d’une liste candidate aux municipales 2026 à Merville-Franceville"
-      }
-    ],
-    "used_sources": [
-      1,
-      4
-    ],
-    "analysis_at": "2026-01-08T10:17:38.888193Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à des adjoints en lice pour les municipales 2026 dans le contexte de Buzançais.\"},\n        {\"source_index\": 4, \"explication\": \"Christophe Blanchet est mentionné comme « numéro 2 » d’une liste candidate aux municipales 2026 à Merville-Franceville\"}\n    ]\n}\n```"
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Christophe BLANCHET comme candidat aux municipales 2026 ou exclut cette possibilité.\"}]\n```",
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:55:55.279116Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Christophe BLANCHET comme candidat aux municipales 2026 ou exclut cette possibilité.\"}]\n```"
   }
 }

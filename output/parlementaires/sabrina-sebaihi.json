@@ -52,12 +52,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune information explicite sur une candidature aux municipales de 2026 pour Sabrina Sebaïhi dans les sources fournies. Les articles concernent des événements passés (2022-2025) ou des dynamiques politiques sans lien direct avec sa position actuelle en vue de 2026."
+        "source_index": 1,
+        "explication": "La source mentionne uniquement le maire sortant de Nanterre sans lien explicite avec une candidature aux municipales 2026 ni un nom spécifique comme Sabrina Sebaihi."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:12:54.862529Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information explicite sur une candidature aux municipales de 2026 pour Sabrina Sebaïhi dans les sources fournies. Les articles concernent des événements passés (2022-2025) ou des dynamiques politiques sans lien direct avec sa position actuelle en vue de 2026.\"}\n    ]\n}\n```"
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T11:49:38.731428Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source mentionne uniquement le maire sortant de Nanterre sans lien explicite avec une candidature aux municipales 2026 ni un nom spécifique comme Sabrina Sebaihi.\"}]}\n```"
   }
 }

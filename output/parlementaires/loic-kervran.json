@@ -49,32 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Horizons soutient explicitement Loïc Kervran comme candidat aux municipales 2026 à Bourges."
-      },
-      {
-        "source_index": 2,
-        "explication": "Philippe Mercier (candidat Horizons) est cité en lien avec les élections municipales 2026, mais pas Loïc Kervran explicitement."
-      },
-      {
-        "source_index": 3,
-        "explication": "Loïc Kervran est nommé chef de file d'Horizons pour Bourges dans le cadre des municipales 2026."
-      },
-      {
-        "source_index": 4,
-        "explication": "Confirmation officielle de son rôle de chef de file Horizons pour les municipales 2026 à Bourges"
+        "source_index": null,
+        "explication": "Aucune des sources ne mentionne explicitement Loïc KERVRAN en lien avec une candidature aux municipales 2026 ou une fonction municipale."
       }
     ],
-    "used_sources": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "analysis_at": "2026-01-08T10:14:19.405384Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Horizons soutient explicitement Loïc Kervran comme candidat aux municipales 2026 à Bourges.\"},\n        {\"source_index\": 2, \"explication\": \"Philippe Mercier (candidat Horizons) est cité en lien avec les élections municipales 2026, mais pas Loïc Kervran explicitement.\"},\n        {\"source_index\": 3, \"explication\": \"Loïc Kervran est nommé chef de file d'Horizons pour Bourges dans le cadre des municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Confirmation officielle de son rôle de chef de file Horizons pour les municipales 2026 à Bourges\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:51:40.069695Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Loïc KERVRAN en lien avec une candidature aux municipales 2026 ou une fonction municipale.\"}]}\n```"
   }
 }

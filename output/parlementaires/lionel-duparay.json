@@ -49,15 +49,9 @@
     }
   ],
   "analysis": {
-    "status": "NON",
-    "justification": [
-      {
-        "source_index": null,
-        "explication": "Aucune mention explicite de Lionel Duparay comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent des sujets divers (conflits internes, non-reprise d'une délégation) sans confirmation de sa candidature future."
-      }
-    ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:09:17.400577Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Lionel Duparay comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent des sujets divers (conflits internes, non-reprise d'une délégation) sans confirmation de sa candidature future.\"}\n    ]\n}\n```"
+    "status": "INCERTAIN",
+    "justification": "Pas de resultats de recherche apres aout 2025.",
+    "analysis_at": "2026-01-08T11:45:00.256041Z",
+    "analysis_version": "v3-date-cutoff-2025-08"
   }
 }

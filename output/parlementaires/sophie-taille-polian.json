@@ -49,15 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Sophie Taillé-Polian ni de sa candidature aux municipales 2026 dans les sources fournies"
+        "explication": "Aucune des sources fournies ne mentionne explicitement Sophie TAILLÉ-POLIAN en lien avec une candidature aux municipales 2026 ou un retrait."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:12:58.418396Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Sophie Taillé-Polian ni de sa candidature aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:49:43.814528Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Sophie TAILLÉ-POLIAN en lien avec une candidature aux municipales 2026 ou un retrait.\"}]}\n```"
   }
 }

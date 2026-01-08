@@ -56,17 +56,18 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "Référence à Mickaël Bouloux comme maire sortant aux municipales de 2020 sans mention explicite pour 2026"
+        "source_index": 1,
+        "explication": "Source 1 indique explicitement que la maire du Rheu 'ne se représente pas' pour les municipales 2026, laissant la place à son adjoint."
       }
     ],
     "used_sources": [
-      4
+      1
     ],
-    "analysis_at": "2026-01-08T10:18:56.963741Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Référence à Mickaël Bouloux comme maire sortant aux municipales de 2020 sans mention explicite pour 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:57:24.316002Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"NON\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 indique explicitement que la maire du Rheu 'ne se représente pas' pour les municipales 2026, laissant la place à son adjoint.\"}]}\n```"
   }
 }

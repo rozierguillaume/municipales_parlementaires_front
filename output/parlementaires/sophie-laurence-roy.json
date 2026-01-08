@@ -60,11 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Sophie-Laurence ROY comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent principalement le RN et ses stratégies régionales sans nommer Sophie-Laurence ROY."
+        "explication": "Aucune des sources ne mentionne explicitement Sophie-Laurence ROY en lien avec une candidature ou un retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:24:40.242587Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Sophie-Laurence ROY comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent principalement le RN et ses stratégies régionales sans nommer Sophie-Laurence ROY.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:04:52.978812Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Sophie-Laurence ROY en lien avec une candidature ou un retrait aux municipales 2026.\"}]}\n```"
   }
 }

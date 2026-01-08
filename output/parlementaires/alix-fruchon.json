@@ -53,13 +53,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source directe confirmant Alix Fruchon comme candidate aux municipales de 2026 pour Argenton-sur-Creuse"
+        "explication": "Source 1 indique explicitement que Alix Fruchon 'sera candidate' aux élections municipales de 2026 à Argenton-sur-Creuse."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T10:09:21.094427Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source directe confirmant Alix Fruchon comme candidate aux municipales de 2026 pour Argenton-sur-Creuse\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:45:05.648487Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n\t\"statut\":\"OUI\",\n\t\"used_sources\":[1],\n\t\"justification\":[\n\t\t{\"source_index\":1,\"explication\":\"Source 1 indique explicitement que Alix Fruchon 'sera candidate' aux élections municipales de 2026 à Argenton-sur-Creuse.\"}\n\t]\n}\n```"
   }
 }

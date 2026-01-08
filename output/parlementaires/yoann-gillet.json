@@ -49,17 +49,23 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 3,
-        "explication": "Yoann Gillet est cité comme figure politique active dans la campagne municipale de Nîmes pour les élections de 2026."
+        "explication": "Réaction à un sondage sur le futur maire de Nîmes sans mention explicite d'une candidature aux municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Yoann Gillet évoque une opposition RN/communiste pour la mairie mais sans confirmation directe de sa propre candidature aux municipales 2026."
       }
     ],
     "used_sources": [
-      3
+      3,
+      5
     ],
-    "analysis_at": "2026-01-08T10:23:00.432038Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [3],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Yoann Gillet est cité comme figure politique active dans la campagne municipale de Nîmes pour les élections de 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:02:40.148120Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[3,5],\n    \"justification\":[\n        {\"source_index\":3,\"explication\":\"Réaction à un sondage sur le futur maire de Nîmes sans mention explicite d'une candidature aux municipales 2026.\"},\n        {\"source_index\":5,\"explication\":\"Yoann Gillet évoque une opposition RN/communiste pour la mairie mais sans confirmation directe de sa propre candidature aux municipales 2026.\"}\n    ]\n}\n```"
   }
 }

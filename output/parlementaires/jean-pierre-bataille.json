@@ -53,11 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Jean-Pierre Bataille comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres villes ou des sujets indirects (organisation des élections, préparation locale)."
+        "explication": "Aucune source ne mentionne explicitement Jean-Pierre BATAILLE en lien avec une candidature municipale ou mairiale pour 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:17:07.640622Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Jean-Pierre Bataille comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres villes ou des sujets indirects (organisation des élections, préparation locale).\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:55:27.053124Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jean-Pierre BATAILLE en lien avec une candidature municipale ou mairiale pour 2026.\"}]}\n```"
   }
 }

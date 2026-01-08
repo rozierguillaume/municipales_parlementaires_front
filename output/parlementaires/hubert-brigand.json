@@ -49,15 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne Hubert Brigand comme candidat officiel aux municipales de 2026 ni dans les sources fournies ni dans leurs liens"
+        "source_index": 3,
+        "explication": "Source 3 mentionne Jérémie Brigand, pas Hubert Brigand, et parle de candidature municipale sans lien explicite avec Hubert."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:08:43.871119Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne Hubert Brigand comme candidat officiel aux municipales de 2026 ni dans les sources fournies ni dans leurs liens\"}\n    ]\n}\n```"
+    "used_sources": [
+      3
+    ],
+    "analysis_at": "2026-01-08T11:44:41.624112Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[3],\"justification\":[{\"source_index\":3,\"explication\":\"Source 3 mentionne Jérémie Brigand, pas Hubert Brigand, et parle de candidature municipale sans lien explicite avec Hubert.\"}]}\n```"
   }
 }

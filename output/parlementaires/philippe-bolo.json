@@ -53,33 +53,24 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Référence explicite à sa candidature aux municipales 2026 pour Avrillé."
+        "explication": "Mention explicite de « candidat » et lien avec les municipales 2026 (« donner la parole aux citoyens » dans un contexte municipal)."
       },
       {
         "source_index": 2,
-        "explication": "Annonce formelle de sa candidature aux municipales 2026 dans la même commune."
+        "explication": "Titre et contenu explicitement mentionnent « candidat Philippe Bolo » pour les municipales 2026 à Avrillé."
       },
       {
         "source_index": 3,
-        "explication": "Mention directe de son annonce de candidature aux municipales 2026 à Avrillé."
-      },
-      {
-        "source_index": 4,
-        "explication": "Justification explicite de sa candidature aux municipales 2026 avec affiliation MoDem."
-      },
-      {
-        "source_index": 5,
-        "explication": "Déclaration explicite de sa présentation aux élections municipales 2026 à Avrillé."
+        "explication": "Source identique à la source 2, confirmant clairement une candidature municipale en 2026."
       }
     ],
     "used_sources": [
       1,
       2,
-      3,
-      4,
-      5
+      3
     ],
-    "analysis_at": "2026-01-08T10:18:11.373464Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à sa candidature aux municipales 2026 pour Avrillé.\"},\n        {\"source_index\": 2, \"explication\": \"Annonce formelle de sa candidature aux municipales 2026 dans la même commune.\"},\n        {\"source_index\": 3, \"explication\": \"Mention directe de son annonce de candidature aux municipales 2026 à Avrillé.\"},\n        {\"source_index\": 4, \"explication\": \"Justification explicite de sa candidature aux municipales 2026 avec affiliation MoDem.\"},\n        {\"source_index\": 5, \"explication\": \"Déclaration explicite de sa présentation aux élections municipales 2026 à Avrillé.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:56:34.483843Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mention explicite de « candidat » et lien avec les municipales 2026 (« donner la parole aux citoyens » dans un contexte municipal).\"},\n        {\"source_index\":2,\"explication\":\"Titre et contenu explicitement mentionnent « candidat Philippe Bolo » pour les municipales 2026 à Avrillé.\"},\n        {\"source_index\":3,\"explication\":\"Source identique à la source 2, confirmant clairement une candidature municipale en 2026.\"}\n    ]\n}\n```"
   }
 }

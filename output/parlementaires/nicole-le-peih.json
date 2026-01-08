@@ -49,32 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source officielle confirmant une candidature aux municipales 2026 pour Gilles Le Peih à Baud."
-      },
-      {
-        "source_index": 2,
-        "explication": "Annonce explicite de la candidature de Gilles Le Peih dans le cadre des élections municipales 2026."
-      },
-      {
-        "source_index": 3,
-        "explication": "Mention d'une liste préparée par Gilles Le Peih pour les municipales 2026 à Baud."
-      },
-      {
-        "source_index": 4,
-        "explication": "Référence à une campagne électorale en préparation pour Gilles Le Peih aux municipales 2026 à Baud."
+        "source_index": null,
+        "explication": "Nicole LE PEIH n'est mentionnée dans aucune source. Toutes les sources concernent Gilles Le Peih, sans lien explicite avec Nicole LE PEIH."
       }
     ],
-    "used_sources": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "analysis_at": "2026-01-08T10:11:15.973518Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source officielle confirmant une candidature aux municipales 2026 pour Gilles Le Peih à Baud.\"},\n        {\"source_index\": 2, \"explication\": \"Annonce explicite de la candidature de Gilles Le Peih dans le cadre des élections municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Mention d'une liste préparée par Gilles Le Peih pour les municipales 2026 à Baud.\"},\n        {\"source_index\": 4, \"explication\": \"Référence à une campagne électorale en préparation pour Gilles Le Peih aux municipales 2026 à Baud.\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:47:22.959227Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Nicole LE PEIH n'est mentionnée dans aucune source. Toutes les sources concernent Gilles Le Peih, sans lien explicite avec Nicole LE PEIH.\"}]}\n```"
   }
 }

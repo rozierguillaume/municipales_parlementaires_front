@@ -53,18 +53,24 @@
     "justification": [
       {
         "source_index": 3,
-        "explication": "Référence explicite aux Municipales 2026 avec des propos liés à sa candidature."
+        "explication": "Mention explicite de « candidat » aux municipales 2026 dans le titre et le contenu."
       },
       {
         "source_index": 4,
-        "explication": "Annonce claire de sa candidature aux municipales 2026 pour Marseille et proposition politique en lien direct avec les élections"
+        "explication": "Précision sur son statut de « candidat LFI » pour les municipales 2026 à Marseille."
+      },
+      {
+        "source_index": 5,
+        "explication": "Référence directe à sa candidature municipale 2026 via une proposition politique liée à la métropole."
       }
     ],
     "used_sources": [
       3,
-      4
+      4,
+      5
     ],
-    "analysis_at": "2026-01-08T10:16:19.173750Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [3, 4],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Référence explicite aux Municipales 2026 avec des propos liés à sa candidature.\"},\n        {\"source_index\": 4, \"explication\": \"Annonce claire de sa candidature aux municipales 2026 pour Marseille et proposition politique en lien direct avec les élections\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:54:16.521087Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[3,4,5],\n    \"justification\":[\n        {\"source_index\":3,\"explication\":\"Mention explicite de « candidat » aux municipales 2026 dans le titre et le contenu.\"},\n        {\"source_index\":4,\"explication\":\"Précision sur son statut de « candidat LFI » pour les municipales 2026 à Marseille.\"},\n        {\"source_index\":5,\"explication\":\"Référence directe à sa candidature municipale 2026 via une proposition politique liée à la métropole.\"}\n    ]\n}\n```"
   }
 }

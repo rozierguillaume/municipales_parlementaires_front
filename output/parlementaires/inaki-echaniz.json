@@ -53,11 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Inaki Echaniz dans les résultats fournis ne confirme sa candidature aux municipales 2026."
+        "explication": "Aucune des sources ne mentionne explicitement Inaki Echaniz en lien avec une candidature aux municipales 2026 ou un retrait."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:19:27.993926Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Inaki Echaniz dans les résultats fournis ne confirme sa candidature aux municipales 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:58:01.900752Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Inaki Echaniz en lien avec une candidature aux municipales 2026 ou un retrait.\"}]}\n```"
   }
 }

@@ -59,24 +59,20 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Pas de mention explicite de candidature aux municipales 2026"
-      },
-      {
         "source_index": 3,
-        "explication": "Alliance évoquée dans un contexte politique local sans confirmation directe pour 2026"
+        "explication": "Mention de Christophe Plassard dans une alliance politique sans affirmation explicite de candidature aux municipales 2026."
       },
       {
         "source_index": 4,
-        "explication": "Christophe Plassard mentionné dans une alliance avec Marengo mais pas de confirmation de candidature officielle aux municipales 2026"
+        "explication": "Présence mentionnée dans une liste municipale mais sans déclaration formelle de candidature ou rôle précis (tête de liste, candidat officiel)."
       }
     ],
     "used_sources": [
-      1,
       3,
       4
     ],
-    "analysis_at": "2026-01-08T10:14:34.507237Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [1, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Pas de mention explicite de candidature aux municipales 2026\"},\n        {\"source_index\": 3, \"explication\": \"Alliance évoquée dans un contexte politique local sans confirmation directe pour 2026\"},\n        {\"source_index\": 4, \"explication\": \"Christophe Plassard mentionné dans une alliance avec Marengo mais pas de confirmation de candidature officielle aux municipales 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:52:02.781184Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n\t\"statut\":\"INCERTAIN\",\n\t\"used_sources\":[3,4],\n\t\"justification\":[\n\t\t{\"source_index\":3,\"explication\":\"Mention de Christophe Plassard dans une alliance politique sans affirmation explicite de candidature aux municipales 2026.\"},\n\t\t{\"source_index\":4,\"explication\":\"Présence mentionnée dans une liste municipale mais sans déclaration formelle de candidature ou rôle précis (tête de liste, candidat officiel).\"}\n\t]\n}\n```"
   }
 }

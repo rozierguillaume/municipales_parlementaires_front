@@ -60,11 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite d'Élisa Martin dans les sources fournies concernant une candidature aux municipales de Grenoble en 2026"
+        "explication": "Aucune des sources ne mentionne explicitement Élisa MARTIN en lien avec une candidature ou un retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:16:26.199494Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite d'Élisa Martin dans les sources fournies concernant une candidature aux municipales de Grenoble en 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:54:25.972615Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Élisa MARTIN en lien avec une candidature ou un retrait aux municipales 2026.\"}]}\n```"
   }
 }

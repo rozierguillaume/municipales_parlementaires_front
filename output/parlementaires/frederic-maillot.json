@@ -53,23 +53,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source officielle confirmant sa candidature aux municipales 2026 à Sainte-Suzanne."
-      },
-      {
-        "source_index": 3,
-        "explication": "Soutien explicite à sa candidature pour les élections municipales 2026."
-      },
-      {
-        "source_index": 4,
-        "explication": "Conduit explicitement une liste pour les municipales 2026 avec son soutien."
+        "explication": "Source 2 indique explicitement : « Frédéric Maillot officialise sa candidature à Sainte-Suzanne » pour les municipales 2026."
       }
     ],
     "used_sources": [
-      2,
-      3,
-      4
+      2
     ],
-    "analysis_at": "2026-01-08T10:13:11.477229Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Source officielle confirmant sa candidature aux municipales 2026 à Sainte-Suzanne.\"},\n        {\"source_index\": 3, \"explication\": \"Soutien explicite à sa candidature pour les élections municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Conduit explicitement une liste pour les municipales 2026 avec son soutien.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:50:04.949478Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Source 2 indique explicitement : « Frédéric Maillot officialise sa candidature à Sainte-Suzanne » pour les municipales 2026.\"}\n    ]\n}\n```"
   }
 }

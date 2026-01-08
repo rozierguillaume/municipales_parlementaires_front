@@ -49,32 +49,9 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": [
-      {
-        "source_index": 1,
-        "explication": "Référence explicite à des ambitions du RN pour les municipales de 2026 à Saint-Quentin, incluant une mention implicite d’un contexte local où Julien Dive pourrait être impliqué."
-      },
-      {
-        "source_index": 2,
-        "explication": "Contexte similaire aux municipales 2026 avec le RN comme acteur principal, suggérant un environnement favorable pour des candidats locaux comme Dive."
-      },
-      {
-        "source_index": 3,
-        "explication": "Mention de la gauche en préparation pour les municipales 2026 à Saint-Quentin, indiquant une dynamique électorale active incluant potentiellement Julien Dive."
-      },
-      {
-        "source_index": 4,
-        "explication": "Julien Dive est réélu dans une circonscription locale (Aisne) avec un parti (LR) historiquement présent aux municipales, renforçant sa crédibilité comme candidat local pour 2026."
-      }
-    ],
-    "used_sources": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "analysis_at": "2026-01-08T10:09:13.513388Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à des ambitions du RN pour les municipales de 2026 à Saint-Quentin, incluant une mention implicite d’un contexte local où Julien Dive pourrait être impliqué.\"},\n        {\"source_index\": 2, \"explication\": \"Contexte similaire aux municipales 2026 avec le RN comme acteur principal, suggérant un environnement favorable pour des candidats locaux comme Dive.\"},\n        {\"source_index\": 3, \"explication\": \"Mention de la gauche en préparation pour les municipales 2026 à Saint-Quentin, indiquant une dynamique électorale active incluant potentiellement Julien Dive.\"},\n        {\"source_index\": 4, \"explication\": \"Julien Dive est réélu dans une circonscription locale (Aisne) avec un parti (LR) historiquement présent aux municipales, renforçant sa crédibilité comme candidat local pour 2026.\"}\n    ]\n}\n```"
+    "status": "INCERTAIN",
+    "justification": "Pas de resultats de recherche apres aout 2025.",
+    "analysis_at": "2026-01-08T11:45:00.255180Z",
+    "analysis_version": "v3-date-cutoff-2025-08"
   }
 }

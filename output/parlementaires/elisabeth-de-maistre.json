@@ -50,14 +50,8 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": [
-      {
-        "source_index": null,
-        "explication": "Aucune information directe sur une candidature aux municipales de 2026 dans les sources fournies. Les articles concernent uniquement des élections législatives partielles en 2025 et ne mentionnent pas explicitement un projet municipal pour 2026."
-      }
-    ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:08:56.529591Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales de 2026 dans les sources fournies. Les articles concernent uniquement des élections législatives partielles en 2025 et ne mentionnent pas explicitement un projet municipal pour 2026.\"}\n    ]\n}\n```"
+    "justification": "Pas de resultats de recherche apres aout 2025.",
+    "analysis_at": "2026-01-08T11:44:46.062920Z",
+    "analysis_version": "v3-date-cutoff-2025-08"
   }
 }

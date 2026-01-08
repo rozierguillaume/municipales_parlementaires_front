@@ -49,17 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Nom Eric Liégeon mentionné dans un contexte de succession politique (deputé) sans mention explicite des municipales 2026 mais lié à une dynamique électorale récente."
+        "source_index": null,
+        "explication": "Aucune des sources fournies ne mentionne explicitement Eric LIÉGEON en lien avec une candidature aux municipales 2026 ou un retrait."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T10:09:43.111062Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Nom Eric Liégeon mentionné dans un contexte de succession politique (deputé) sans mention explicite des municipales 2026 mais lié à une dynamique électorale récente.\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:45:31.035457Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Eric LIÉGEON en lien avec une candidature aux municipales 2026 ou un retrait.\"}]}\n```"
   }
 }

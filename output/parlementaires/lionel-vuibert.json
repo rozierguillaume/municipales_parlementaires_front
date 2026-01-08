@@ -49,22 +49,9 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": [
-      {
-        "source_index": 4,
-        "explication": "Lionel Vuibert exprime des intentions politiques en lien avec une future élection législative, suggérant une préparation à des mandats futurs incluant les municipales."
-      },
-      {
-        "source_index": 5,
-        "explication": "Son annonce explicite de candidature dans une circonscription des Ardennes pour une législative partielle (2024) implique une intention de se présenter aux élections municipales futures en tant que candidat potentiel."
-      }
-    ],
-    "used_sources": [
-      4,
-      5
-    ],
-    "analysis_at": "2026-01-08T10:18:44.396876Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4, 5],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Lionel Vuibert exprime des intentions politiques en lien avec une future élection législative, suggérant une préparation à des mandats futurs incluant les municipales.\"},\n        {\"source_index\": 5, \"explication\": \"Son annonce explicite de candidature dans une circonscription des Ardennes pour une législative partielle (2024) implique une intention de se présenter aux élections municipales futures en tant que candidat potentiel.\"}\n    ]\n}\n```"
+    "status": "INCERTAIN",
+    "justification": "Pas de resultats de recherche apres aout 2025.",
+    "analysis_at": "2026-01-08T11:57:10.507884Z",
+    "analysis_version": "v3-date-cutoff-2025-08"
   }
 }

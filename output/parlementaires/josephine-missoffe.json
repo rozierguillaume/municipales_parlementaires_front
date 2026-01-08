@@ -22,14 +22,8 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": [
-      {
-        "source_index": null,
-        "explication": "Aucune information directe sur une candidature aux élections municipales de 2026 dans les sources fournies. Le seul article cité concerne une relation avec Griveaux en 2019 sans lien explicite avec des élections futures."
-      }
-    ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:11:56.744528Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux élections municipales de 2026 dans les sources fournies. Le seul article cité concerne une relation avec Griveaux en 2019 sans lien explicite avec des élections futures.\"}\n    ]\n}\n```"
+    "justification": "Pas de resultats de recherche apres aout 2025.",
+    "analysis_at": "2026-01-08T11:48:05.539455Z",
+    "analysis_version": "v3-date-cutoff-2025-08"
   }
 }

@@ -53,23 +53,23 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Référence explicite à Marianne Maximi comme candidate officielle aux municipales de Clermont en 2026 pour LFI."
+        "explication": "Mention explicite de candidature officielle pour les municipales 2026 avec mention de 'candidate' et 'municipales'."
       },
       {
         "source_index": 2,
-        "explication": "Annonce formelle de sa désignation tête de liste LFI pour les élections municipales clermontoises en 2026."
+        "explication": "Désignation comme tête de liste LFI pour les municipales à Clermont, explicitement liées à 2026."
       },
       {
         "source_index": 3,
-        "explication": "Présentation explicite de Marianne Maximi comme candidate LFI aux municipales 2026 avec un programme."
+        "explication": "Précision sur une candidature pour LFI aux municipales 2026 avec promesse programmatique."
       },
       {
         "source_index": 4,
-        "explication": "Confirmation qu'elle se lance en tête de liste pour les municipales clermontoises en 2026 sous LFI."
+        "explication": "Formulation claire de 'se lance en tête de liste' pour les municipales clermontoises en 2026."
       },
       {
         "source_index": 5,
-        "explication": "Mention claire de sa désignation comme candidate France Insoumise aux municipales 2026 à Clermont-Ferrand."
+        "explication": "Désignation comme candidate officielle de LFI pour les municipales 2026 à Clermont-Ferrand."
       }
     ],
     "used_sources": [
@@ -79,7 +79,8 @@
       4,
       5
     ],
-    "analysis_at": "2026-01-08T10:16:32.649995Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à Marianne Maximi comme candidate officielle aux municipales de Clermont en 2026 pour LFI.\"},\n        {\"source_index\": 2, \"explication\": \"Annonce formelle de sa désignation tête de liste LFI pour les élections municipales clermontoises en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Présentation explicite de Marianne Maximi comme candidate LFI aux municipales 2026 avec un programme.\"},\n        {\"source_index\": 4, \"explication\": \"Confirmation qu'elle se lance en tête de liste pour les municipales clermontoises en 2026 sous LFI.\"},\n        {\"source_index\": 5, \"explication\": \"Mention claire de sa désignation comme candidate France Insoumise aux municipales 2026 à Clermont-Ferrand.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:54:36.297727Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mention explicite de candidature officielle pour les municipales 2026 avec mention de 'candidate' et 'municipales'.\"},\n        {\"source_index\":2,\"explication\":\"Désignation comme tête de liste LFI pour les municipales à Clermont, explicitement liées à 2026.\"},\n        {\"source_index\":3,\"explication\":\"Précision sur une candidature pour LFI aux municipales 2026 avec promesse programmatique.\"},\n        {\"source_index\":4,\"explication\":\"Formulation claire de 'se lance en tête de liste' pour les municipales clermontoises en 2026.\"},\n        {\"source_index\":5,\"explication\":\"Désignation comme candidate officielle de LFI pour les municipales 2026 à Clermont-Ferrand.\"}\n    ]\n}\n```"
   }
 }

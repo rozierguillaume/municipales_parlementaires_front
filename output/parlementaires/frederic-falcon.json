@@ -53,11 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Frédéric Falcon comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent soit le RN en général (stratégie électorale), soit des candidats potentiels non identifiés ou des dynamiques internes."
+        "explication": "Aucune des sources ne mentionne explicitement Frédéric FALCON comme candidat, tête de liste ou en lien avec les municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:23:30.178919Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Frédéric Falcon comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent soit le RN en général (stratégie électorale), soit des candidats potentiels non identifiés ou des dynamiques internes.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:03:17.995292Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Frédéric FALCON comme candidat, tête de liste ou en lien avec les municipales 2026.\"}]}\n```"
   }
 }

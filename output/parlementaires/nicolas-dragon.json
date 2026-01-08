@@ -66,12 +66,40 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne confirme explicitement Nicolas Dragon comme candidat aux municipales 2026. Les sources mentionnent des propos politiques ou contextes locaux sans lien direct avec une candidature officielle."
+        "source_index": 1,
+        "explication": "Source sur Paris Normandie sans lien avec Nicolas Dragon ou municipales 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Mention de listes potentielles à Laon, mais pas de nom ni de candidature explicite pour Nicolas Dragon."
+      },
+      {
+        "source_index": 3,
+        "explication": "Propos attribués à un député RN nommé 'Dragon', mais sans mention de municipales 2026 ou candidature municipale."
+      },
+      {
+        "source_index": 4,
+        "explication": "Référence à un député RN de l'Aisne (nom similaire mais pas Nicolas Dragon), sans lien avec les municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Candidat à Bourbourg, mais personne différente (Antoine Contrant)."
+      },
+      {
+        "source_index": 6,
+        "explication": "Mention d'un 'Nicolas Daragon' (orthographe différente) et de Valence, sans lien avec Nicolas Dragon ou municipales 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:22:31.545867Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne confirme explicitement Nicolas Dragon comme candidat aux municipales 2026. Les sources mentionnent des propos politiques ou contextes locaux sans lien direct avec une candidature officielle.\"}\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "analysis_at": "2026-01-08T12:01:59.148786Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source sur Paris Normandie sans lien avec Nicolas Dragon ou municipales 2026.\"},\n        {\"source_index\":2,\"explication\":\"Mention de listes potentielles à Laon, mais pas de nom ni de candidature explicite pour Nicolas Dragon.\"},\n        {\"source_index\":3,\"explication\":\"Propos attribués à un député RN nommé 'Dragon', mais sans mention de municipales 2026 ou candidature municipale.\"},\n        {\"source_index\":4,\"explication\":\"Référence à un député RN de l'Aisne (nom similaire mais pas Nicolas Dragon), sans lien avec les municipales 2026.\"},\n        {\"source_index\":5,\"explication\":\"Candidat à Bourbourg, mais personne différente (Antoine Contrant).\"},\n        {\"source_index\":6,\"explication\":\"Mention d'un 'Nicolas Daragon' (orthographe différente) et de Valence, sans lien avec Nicolas Dragon ou municipales 2026.\"}\n    ]\n}\n```"
   }
 }

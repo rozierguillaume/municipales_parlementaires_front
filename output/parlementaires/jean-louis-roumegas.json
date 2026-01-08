@@ -53,28 +53,24 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Référence explicite à Jean-Louis Roumégas comme candidat aux municipales 2026."
+        "explication": "Source 1 mentionne explicitement 'candidat aux municipales'"
       },
       {
         "source_index": 3,
-        "explication": "Designation officielle de tête de liste pour les municipales 2026."
+        "explication": "Source 3 indique 'tête de liste du Printemps Montpelliérain' pour les municipales 2026"
       },
       {
         "source_index": 4,
-        "explication": "Confirmation sans ambiguïté de sa candidature en tant que tête de liste pour 2026."
-      },
-      {
-        "source_index": 5,
-        "explication": "Annonce de son rôle clé dans une liste écologiste pour les municipales 2026."
+        "explication": "Source 4 confirme la désignation comme tête de liste pour les municipales 2026"
       }
     ],
     "used_sources": [
       1,
       3,
-      4,
-      5
+      4
     ],
-    "analysis_at": "2026-01-08T10:11:01.982628Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à Jean-Louis Roumégas comme candidat aux municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Designation officielle de tête de liste pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Confirmation sans ambiguïté de sa candidature en tant que tête de liste pour 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce de son rôle clé dans une liste écologiste pour les municipales 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:47:08.381217Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,3,4],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source 1 mentionne explicitement 'candidat aux municipales'\"},\n        {\"source_index\":3,\"explication\":\"Source 3 indique 'tête de liste du Printemps Montpelliérain' pour les municipales 2026\"},\n        {\"source_index\":4,\"explication\":\"Source 4 confirme la désignation comme tête de liste pour les municipales 2026\"}\n    ]\n}\n```"
   }
 }

@@ -63,15 +63,16 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Sylvain MAILLARD dans les sources fournies concernant les municipales 2026"
+        "explication": "Aucune des sources ne mentionne explicitement Sylvain MAILLARD comme candidat, tête de liste ou en lien avec les municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:11:27.627400Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Sylvain MAILLARD dans les sources fournies concernant les municipales 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:47:34.914085Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Sylvain MAILLARD comme candidat, tête de liste ou en lien avec les municipales 2026.\"}]}\n```"
   }
 }

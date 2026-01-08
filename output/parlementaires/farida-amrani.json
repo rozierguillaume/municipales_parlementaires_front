@@ -52,29 +52,25 @@
     "status": "OUI",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Farida Amrani est explicitement candidate tête de liste investie par LFI en Essonne pour les municipales 2026."
-      },
-      {
         "source_index": 2,
-        "explication": "Mentionne sa candidature aux municipales 2026 à Evry-Courcouronnes avec un programme spécifique pour cette élection."
+        "explication": "Mention explicite de sa volonté de se présenter à la mairie d’Évry-Courcouronnes pour les municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "Confirme son lancement de campagne municipale à Évry pour les élections de 2026."
+        "explication": "Indique clairement qu’elle lance sa campagne pour les municipales 2026 à Évry."
       },
       {
         "source_index": 4,
-        "explication": "Souligne sa campagne pour être la première ville-préfecture de LFI aux municipales 2026 à Evry"
+        "explication": "Précise qu’elle est en campagne pour offrir à LFI une ville-préfecture lors des municipales 2026."
       }
     ],
     "used_sources": [
-      1,
       2,
       3,
       4
     ],
-    "analysis_at": "2026-01-08T10:15:14.020463Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Farida Amrani est explicitement candidate tête de liste investie par LFI en Essonne pour les municipales 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Mentionne sa candidature aux municipales 2026 à Evry-Courcouronnes avec un programme spécifique pour cette élection.\"},\n        {\"source_index\": 3, \"explication\": \"Confirme son lancement de campagne municipale à Évry pour les élections de 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Souligne sa campagne pour être la première ville-préfecture de LFI aux municipales 2026 à Evry\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:52:51.369437Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,3,4],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Mention explicite de sa volonté de se présenter à la mairie d’Évry-Courcouronnes pour les municipales 2026.\"},\n        {\"source_index\":3,\"explication\":\"Indique clairement qu’elle lance sa campagne pour les municipales 2026 à Évry.\"},\n        {\"source_index\":4,\"explication\":\"Précise qu’elle est en campagne pour offrir à LFI une ville-préfecture lors des municipales 2026.\"}\n    ]\n}\n```"
   }
 }

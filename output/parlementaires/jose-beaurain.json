@@ -52,12 +52,15 @@
     "status": "NON",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune information explicite sur une candidature officielle de José Beauraing aux municipales 2026 dans les sources fournies. Les articles mentionnent des dynamiques locales du RN ou des questions de remplacement sans confirmation directe."
+        "source_index": 1,
+        "explication": "Source 1 indique explicitement que le candidat RN de Tergnier 'renonce à la politique' sans mention d'une candidature aux municipales 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:21:43.872407Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information explicite sur une candidature officielle de José Beauraing aux municipales 2026 dans les sources fournies. Les articles mentionnent des dynamiques locales du RN ou des questions de remplacement sans confirmation directe.\"}\n    ]\n}\n```"
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T12:00:58.457385Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"NON\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 indique explicitement que le candidat RN de Tergnier 'renonce à la politique' sans mention d'une candidature aux municipales 2026.\"}]}\n```"
   }
 }

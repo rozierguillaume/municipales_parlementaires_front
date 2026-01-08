@@ -53,19 +53,19 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source directe confirmant sa candidature officielle aux municipales de Bagnols-sur-Cèze en 2026."
+        "explication": "Mention explicite de candidature municipale 2026 et promesse de démission pour devenir maire."
       },
       {
         "source_index": 3,
-        "explication": "Annonce explicite de l’officialisation de sa candidature pour les élections municipales 2026."
+        "explication": "Officialisation de la candidature aux municipales 2026 à Bagnols-sur-Cèze."
       },
       {
         "source_index": 4,
-        "explication": "Déclaration claire d’une participation active et intentionnelle aux municipales 2026 avec des engagements politiques précis."
+        "explication": "Présentation claire comme candidate aux municipales 2026 avec engagement sur le mandat de maire."
       },
       {
         "source_index": 5,
-        "explication": "Contexte de campagne explicitement lié à sa candidature RN pour Bagnols-sur-Cèze en 2026."
+        "explication": "Confirmation de sa candidature du RN pour les municipales 2026 à Bagnols-sur-Cèze."
       }
     ],
     "used_sources": [
@@ -74,7 +74,8 @@
       4,
       5
     ],
-    "analysis_at": "2026-01-08T10:21:57.897557Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Source directe confirmant sa candidature officielle aux municipales de Bagnols-sur-Cèze en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Annonce explicite de l’officialisation de sa candidature pour les élections municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Déclaration claire d’une participation active et intentionnelle aux municipales 2026 avec des engagements politiques précis.\"},\n        {\"source_index\": 5, \"explication\": \"Contexte de campagne explicitement lié à sa candidature RN pour Bagnols-sur-Cèze en 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:01:19.922313Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,3,4,5],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Mention explicite de candidature municipale 2026 et promesse de démission pour devenir maire.\"},\n        {\"source_index\":3,\"explication\":\"Officialisation de la candidature aux municipales 2026 à Bagnols-sur-Cèze.\"},\n        {\"source_index\":4,\"explication\":\"Présentation claire comme candidate aux municipales 2026 avec engagement sur le mandat de maire.\"},\n        {\"source_index\":5,\"explication\":\"Confirmation de sa candidature du RN pour les municipales 2026 à Bagnols-sur-Cèze.\"}\n    ]\n}\n```"
   }
 }

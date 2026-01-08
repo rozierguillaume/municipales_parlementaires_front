@@ -53,18 +53,19 @@
     "justification": [
       {
         "source_index": 4,
-        "explication": "Franck Allisio est explicitement cité comme candidat RN aux municipales 2026 à Marseille."
+        "explication": "Source 4 mentionne explicitement Franck Allisio comme 'candidat RN' aux municipales de Marseille en 2026."
       },
       {
         "source_index": 5,
-        "explication": "Son comité de soutien est présenté pour sa campagne municipale 2026 dans la même ville."
+        "explication": "Source 5 indique qu'il est 'candidat RN à Marseille' et présente un comité de soutien pour les municipales 2026."
       }
     ],
     "used_sources": [
       4,
       5
     ],
-    "analysis_at": "2026-01-08T10:21:36.329982Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4, 5],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Franck Allisio est explicitement cité comme candidat RN aux municipales 2026 à Marseille.\"},\n        {\"source_index\": 5, \"explication\": \"Son comité de soutien est présenté pour sa campagne municipale 2026 dans la même ville.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:00:49.028903Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[4,5],\n    \"justification\":[\n        {\"source_index\":4,\"explication\":\"Source 4 mentionne explicitement Franck Allisio comme 'candidat RN' aux municipales de Marseille en 2026.\"},\n        {\"source_index\":5,\"explication\":\"Source 5 indique qu'il est 'candidat RN à Marseille' et présente un comité de soutien pour les municipales 2026.\"}\n    ]\n}\n```"
   }
 }

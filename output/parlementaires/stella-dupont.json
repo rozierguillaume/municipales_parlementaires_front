@@ -60,15 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Stella Dupont comme candidate aux municipales 2026 dans les résultats fournis."
-      },
-      {
-        "source_index": null,
-        "explication": "Seule une réélection à la députation (Source 1) est confirmée, sans lien direct avec les élections municipales de 2026."
+        "explication": "Aucune des sources ne mentionne explicitement Stella DUPONT comme candidate ou non-candidate aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:18:39.438328Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Stella Dupont comme candidate aux municipales 2026 dans les résultats fournis.\"},\n        {\"source_index\": null, \"explication\": \"Seule une réélection à la députation (Source 1) est confirmée, sans lien direct avec les élections municipales de 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:57:10.506427Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Stella DUPONT comme candidate ou non-candidate aux municipales 2026.\"}]}\n```"
   }
 }

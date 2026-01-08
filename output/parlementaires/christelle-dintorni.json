@@ -49,17 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Source explicite mentionnant Christelle d’Intorni candidate aux municipales 2026 à Nice"
+        "source_index": null,
+        "explication": "Aucune des sources ne mentionne explicitement Christelle D'Intorni comme candidate, tête de liste ou impliquée dans une campagne pour les municipales 2026 à Nice ou ailleurs."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T10:25:17.589714Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Source explicite mentionnant Christelle d’Intorni candidate aux municipales 2026 à Nice\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:05:37.669871Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Christelle D'Intorni comme candidate, tête de liste ou impliquée dans une campagne pour les municipales 2026 à Nice ou ailleurs.\"}]}\n```"
   }
 }

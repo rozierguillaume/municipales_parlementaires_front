@@ -53,11 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Laurent Marcangeli comme candidat aux municipales de 2026 dans les résultats ou contextes des articles consultés."
+        "explication": "Aucune source ne mentionne explicitement Laurent MARCANGELI comme candidat ou non-candidat aux élections municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:14:26.240904Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Laurent Marcangeli comme candidat aux municipales de 2026 dans les résultats ou contextes des articles consultés.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:51:50.568590Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Laurent MARCANGELI comme candidat ou non-candidat aux élections municipales 2026.\"}]}\n```"
   }
 }

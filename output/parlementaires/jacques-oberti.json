@@ -49,17 +49,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Article explicitement mentionnant Jacques Oberti comme candidat potentiel à la succession en 2026 pour le Sicoval"
+        "source_index": null,
+        "explication": "Aucune des sources citées ne mentionne Jacques OBERTI en lien avec une candidature aux élections municipales de 2026 ou toute autre indication explicite."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T10:20:38.127309Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Article explicitement mentionnant Jacques Oberti comme candidat potentiel à la succession en 2026 pour le Sicoval\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:59:33.959551Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources citées ne mentionne Jacques OBERTI en lien avec une candidature aux élections municipales de 2026 ou toute autre indication explicite.\"}]}\n```"
   }
 }

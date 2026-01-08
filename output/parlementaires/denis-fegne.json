@@ -63,15 +63,16 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Denis FÉGNÉ comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres personnalités ou des sujets divers."
+        "explication": "Aucune source ne mentionne explicitement Denis FÉGNÉ en lien avec une candidature aux municipales 2026 ou une fonction municipale."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:19:39.728526Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Denis FÉGNÉ comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres personnalités ou des sujets divers.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:58:17.849912Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Denis FÉGNÉ en lien avec une candidature aux municipales 2026 ou une fonction municipale.\"}]}\n```"
   }
 }

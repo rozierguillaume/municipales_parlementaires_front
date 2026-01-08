@@ -59,12 +59,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune information directe sur une candidature aux municipales 2026 pour François Gernigon dans les sources fournies. Les mentions concernent uniquement des élections législatives passées ou des rôles actuels (député) sans lien avec les municipales futures."
+        "source_index": 1,
+        "explication": "Source mentionne uniquement son élection comme député en 2025, sans lien avec les municipales 2026 ou une candidature à la mairie."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:14:13.455918Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales 2026 pour François Gernigon dans les sources fournies. Les mentions concernent uniquement des élections législatives passées ou des rôles actuels (député) sans lien avec les municipales futures.\"}\n    ]\n}\n```"
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T11:51:35.500206Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne uniquement son élection comme député en 2025, sans lien avec les municipales 2026 ou une candidature à la mairie.\"}]}\n```"
   }
 }

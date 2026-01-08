@@ -49,22 +49,9 @@
     }
   ],
   "analysis": {
-    "status": "NON",
-    "justification": [
-      {
-        "source_index": 1,
-        "explication": "Source précise que Pierrick Courbon n'est pas candidat aux municipales 2026 à Saint-Étienne."
-      },
-      {
-        "source_index": 4,
-        "explication": "Confirme explicitement qu'il ne se présente pas et que Régis Juanico est en tête de liste pour le PS."
-      }
-    ],
-    "used_sources": [
-      1,
-      4
-    ],
-    "analysis_at": "2026-01-08T10:19:14.373331Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [1, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source précise que Pierrick Courbon n'est pas candidat aux municipales 2026 à Saint-Étienne.\"},\n        {\"source_index\": 4, \"explication\": \"Confirme explicitement qu'il ne se présente pas et que Régis Juanico est en tête de liste pour le PS.\"}\n    ]\n}\n```"
+    "status": "INCERTAIN",
+    "justification": "Pas de resultats de recherche apres aout 2025.",
+    "analysis_at": "2026-01-08T11:57:42.965589Z",
+    "analysis_version": "v3-date-cutoff-2025-08"
   }
 }

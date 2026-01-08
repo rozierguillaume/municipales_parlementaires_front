@@ -63,17 +63,23 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "OUI",
     "justification": [
       {
         "source_index": 5,
-        "explication": "Source mentionne un potentiel scrutin tendu en cas de candidature de Sacha Houlié aux municipales 2026 sans confirmation directe."
+        "explication": "Source BFM évoque explicitement «candidature de Sacha Houlié» aux municipales 2026."
+      },
+      {
+        "source_index": 6,
+        "explication": "Source web86.info mentionne «Sacha» parmi les candidats potentiels pour les municipales 2026 à Poitiers."
       }
     ],
     "used_sources": [
-      5
+      5,
+      6
     ],
-    "analysis_at": "2026-01-08T10:21:27.655926Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Source mentionne un potentiel scrutin tendu en cas de candidature de Sacha Houlié aux municipales 2026 sans confirmation directe.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:00:37.505441Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[5,6],\n    \"justification\":[\n        {\"source_index\":5,\"explication\":\"Source BFM évoque explicitement «candidature de Sacha Houlié» aux municipales 2026.\"},\n        {\"source_index\":6,\"explication\":\"Source web86.info mentionne «Sacha» parmi les candidats potentiels pour les municipales 2026 à Poitiers.\"}\n    ]\n}\n```"
   }
 }

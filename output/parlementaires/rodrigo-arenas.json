@@ -60,11 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Rodrigo ARENAS comme candidat officiel aux municipales 2026 dans les résultats fournis."
+        "explication": "Aucune des sources ne mentionne explicitement Rodrigo ARENAS en lien avec une candidature aux municipales 2026 ou la mairie de Paris."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:15:50.830550Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Rodrigo ARENAS comme candidat officiel aux municipales 2026 dans les résultats fournis.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:53:34.727277Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Rodrigo ARENAS en lien avec une candidature aux municipales 2026 ou la mairie de Paris.\"}]}\n```"
   }
 }

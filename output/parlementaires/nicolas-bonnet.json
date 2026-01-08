@@ -56,17 +56,16 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Entretien explicitement lié aux municipales de 2026 et mention directe du nom Nicolas Bonnet"
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Nicolas BONNET comme candidat ou tête de liste pour les municipales 2026, ni ne confirme son absence."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T10:12:27.179964Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Entretien explicitement lié aux municipales de 2026 et mention directe du nom Nicolas Bonnet\"}\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:48:54.028124Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Nicolas BONNET comme candidat ou tête de liste pour les municipales 2026, ni ne confirme son absence.\"}]}\n```"
   }
 }

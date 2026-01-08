@@ -60,18 +60,19 @@
     "justification": [
       {
         "source_index": 4,
-        "explication": "Référence explicite à Thierry Tesson comme tête de liste RN-UDR pour les municipales 2026."
+        "explication": "« Le député Thierry Tesson, tête de liste RN-UDR, brigue le beffroi de Douai »"
       },
       {
         "source_index": 5,
-        "explication": "Annonce officielle de sa candidature commune du RN et UDR aux municipales Douaisiennes en 2026"
+        "explication": "« Thierry Tesson sera le candidat du RN et de l’UDR aux prochaines municipales 2026 »"
       }
     ],
     "used_sources": [
       4,
       5
     ],
-    "analysis_at": "2026-01-08T10:25:31.172578Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4, 5],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Référence explicite à Thierry Tesson comme tête de liste RN-UDR pour les municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce officielle de sa candidature commune du RN et UDR aux municipales Douaisiennes en 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:05:55.313966Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[4,5],\n    \"justification\":[\n        {\"source_index\":4,\"explication\":\"« Le député Thierry Tesson, tête de liste RN-UDR, brigue le beffroi de Douai »\"},\n        {\"source_index\":5,\"explication\":\"« Thierry Tesson sera le candidat du RN et de l’UDR aux prochaines municipales 2026 »\"}\n    ]\n}\n```"
   }
 }

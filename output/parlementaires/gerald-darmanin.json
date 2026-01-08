@@ -52,12 +52,25 @@
     "status": "NON",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature officielle de Gérald Darmanin aux municipales 2026 dans les résultats fournis. Les articles des sources 3 à 5 précisent qu'il n'est pas tête de liste pour Tourcoing en 2026, mais ne confirment pas sa participation ailleurs."
+        "source_index": 3,
+        "explication": "Source indique explicitement 'ne sera pas candidat à Tourcoing' aux municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Source précise 'ne serai pas maire de Tourcoing en 2026' et 'ne sera pas tête de liste'."
+      },
+      {
+        "source_index": 5,
+        "explication": "Source confirme 'ne sera pas tête de liste aux municipales dans sa ville de Tourcoing' en 2026"
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:13:06.751766Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature officielle de Gérald Darmanin aux municipales 2026 dans les résultats fournis. Les articles des sources 3 à 5 précisent qu'il n'est pas tête de liste pour Tourcoing en 2026, mais ne confirment pas sa participation ailleurs.\"}\n    ]\n}\n```"
+    "used_sources": [
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T11:49:58.860505Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\n    \"statut\":\"NON\",\n    \"used_sources\":[3,4,5],\n    \"justification\":[\n        {\"source_index\":3,\"explication\":\"Source indique explicitement 'ne sera pas candidat à Tourcoing' aux municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Source précise 'ne serai pas maire de Tourcoing en 2026' et 'ne sera pas tête de liste'.\"},\n        {\"source_index\":5,\"explication\":\"Source confirme 'ne sera pas tête de liste aux municipales dans sa ville de Tourcoing' en 2026\"}\n    ]\n}\n```"
   }
 }

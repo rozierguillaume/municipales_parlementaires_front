@@ -60,11 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Fabrice Roussel comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres figures politiques ou des listes locales sans référence directe à lui."
+        "explication": "Aucune des sources ne mentionne explicitement Fabrice Roussel comme candidat, tête de liste ou impliqué dans une campagne pour les municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:21:07.607122Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Fabrice Roussel comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres figures politiques ou des listes locales sans référence directe à lui.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T12:00:12.849562Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Fabrice Roussel comme candidat, tête de liste ou impliqué dans une campagne pour les municipales 2026.\"}]}\n```"
   }
 }

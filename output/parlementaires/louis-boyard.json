@@ -56,15 +56,18 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune information directe sur une candidature officielle aux municipales 2026 pour Louis Boyard dans les sources fournies. Les articles évoquent des soutiens ou des retours en campagne post-2020 sans confirmation de participation active à 2026."
+        "source_index": 1,
+        "explication": "Source 1 évoque un soutien à LFI pour les municipales mais ne mentionne pas explicitement une candidature personnelle de Louis Boyard."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:15:27.627560Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature officielle aux municipales 2026 pour Louis Boyard dans les sources fournies. Les articles évoquent des soutiens ou des retours en campagne post-2020 sans confirmation de participation active à 2026.\"}\n    ]\n}\n```"
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T11:53:08.792856Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque un soutien à LFI pour les municipales mais ne mentionne pas explicitement une candidature personnelle de Louis Boyard.\"}]}\n```"
   }
 }

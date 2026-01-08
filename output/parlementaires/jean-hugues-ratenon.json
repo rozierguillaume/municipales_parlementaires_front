@@ -49,32 +49,11 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": [
-      {
-        "source_index": 1,
-        "explication": "Référence explicite à une candidature aux municipales de 2026."
-      },
-      {
-        "source_index": 3,
-        "explication": "Déclaration publique d'intention pour les élections municipales futures avec propositions associées."
-      },
-      {
-        "source_index": 4,
-        "explication": "Contexte de déclaration politique sans mention directe mais en lien avec une candidature future."
-      },
-      {
-        "source_index": 5,
-        "explication": "Officialisation claire de sa candidature à Saint-Benoît pour les municipales de 2026."
-      }
-    ],
-    "used_sources": [
-      1,
-      3,
-      4,
-      5
-    ],
-    "analysis_at": "2026-01-08T10:17:21.834169Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à une candidature aux municipales de 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Déclaration publique d'intention pour les élections municipales futures avec propositions associées.\"},\n        {\"source_index\": 4, \"explication\": \"Contexte de déclaration politique sans mention directe mais en lien avec une candidature future.\"},\n        {\"source_index\": 5, \"explication\": \"Officialisation claire de sa candidature à Saint-Benoît pour les municipales de 2026.\"}\n    ]\n}\n```"
+    "status": "ERREUR JSON",
+    "justification": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Les sources évoquent des propositions politiques locales ou des déclarations générales sans mention explicite d'une candidature officielle, ni de date (2026) ni de poste (mairie/candidat aux municipales).\"}]\n```",
+    "used_sources": [],
+    "analysis_at": "2026-01-08T11:55:45.621690Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Les sources évoquent des propositions politiques locales ou des déclarations générales sans mention explicite d'une candidature officielle, ni de date (2026) ni de poste (mairie/candidat aux municipales).\"}]\n```"
   }
 }

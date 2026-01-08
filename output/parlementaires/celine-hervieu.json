@@ -56,17 +56,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source confirme explicitement que Céline Hervieu est candidate sur la liste d'Emmanuel Grégoire pour les municipales 2026 à Paris"
+        "source_index": 2,
+        "explication": "Source mentionne une proposition de loi liée aux élections locales mais sans lien explicite avec une candidature personnelle aux municipales 2026."
       }
     ],
     "used_sources": [
-      1
+      2
     ],
-    "analysis_at": "2026-01-08T10:20:09.637551Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source confirme explicitement que Céline Hervieu est candidate sur la liste d'Emmanuel Grégoire pour les municipales 2026 à Paris\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:58:56.824548Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source mentionne une proposition de loi liée aux élections locales mais sans lien explicite avec une candidature personnelle aux municipales 2026.\"}]}\n```"
   }
 }

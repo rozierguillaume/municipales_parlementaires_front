@@ -56,15 +56,16 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de candidature aux élections municipales 2026 pour Ayda Hadizadeh dans les sources fournies. Les articles concernent des sujets politiques généraux ou législatifs sans lien avec une inscription sur liste municipale."
+        "explication": "Aucune des sources fournies ne mentionne explicitement Ayda Hadizadeh en lien avec une candidature aux élections municipales françaises de 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:20:01.536466Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de candidature aux élections municipales 2026 pour Ayda Hadizadeh dans les sources fournies. Les articles concernent des sujets politiques généraux ou législatifs sans lien avec une inscription sur liste municipale.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:58:47.706090Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Ayda Hadizadeh en lien avec une candidature aux élections municipales françaises de 2026.\"}]}\n```"
   }
 }

@@ -53,15 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne confirme explicitement une candidature officielle de Véronique Besse aux municipales 2026 dans les résultats fournis."
-      },
-      {
-        "source_index": null,
-        "explication": "Les sources mentionnent des informations sur d'autres maires (Christophe Hogard) ou des contextes non liés à Véronique Besse pour 2026."
+        "explication": "Aucune des sources ne mentionne explicitement Véronique BESSE en lien avec une candidature ou un retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:18:34.973455Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne confirme explicitement une candidature officielle de Véronique Besse aux municipales 2026 dans les résultats fournis.\"},\n        {\"source_index\": null, \"explication\": \"Les sources mentionnent des informations sur d'autres maires (Christophe Hogard) ou des contextes non liés à Véronique Besse pour 2026.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:57:05.777817Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Véronique BESSE en lien avec une candidature ou un retrait aux municipales 2026.\"}]}\n```"
   }
 }

@@ -49,17 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source directe confirmant sa candidature sur une liste à Clermont pour les municipales 2026"
+        "explication": "Source mentionne une potentielle candidature 'sur une liste' à Clermont sans précision explicite sur les municipales 2026 ni sur un rôle (tête de liste/mairie) ni sur la date."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T10:18:05.202163Z",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Source directe confirmant sa candidature sur une liste à Clermont pour les municipales 2026\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:56:27.286467Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source mentionne une potentielle candidature 'sur une liste' à Clermont sans précision explicite sur les municipales 2026 ni sur un rôle (tête de liste/mairie) ni sur la date.\"}]}\n```"
   }
 }

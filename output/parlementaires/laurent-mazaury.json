@@ -57,14 +57,8 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": [
-      {
-        "source_index": null,
-        "explication": "Aucune information sur les élections municipales 2026 pour Laurent Mazaury dans les sources fournies. Les résultats concernent uniquement les législatives 2024."
-      }
-    ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T10:17:29.859157Z",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information sur les élections municipales 2026 pour Laurent Mazaury dans les sources fournies. Les résultats concernent uniquement les législatives 2024.\"}\n    ]\n}\n```"
+    "justification": "Pas de resultats de recherche apres aout 2025.",
+    "analysis_at": "2026-01-08T11:55:50.395782Z",
+    "analysis_version": "v3-date-cutoff-2025-08"
   }
 }

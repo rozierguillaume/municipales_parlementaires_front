@@ -63,15 +63,16 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention explicite de Constance Le Grip comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent soit des dynamiques locales (LR à Neuilly ou Courbevoie), soit des accords politiques sans lien direct avec elle."
+        "explication": "Aucune des sources fournies ne mentionne explicitement Constance LE GRIP comme candidate ou non-candidate aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T10:11:10.024304Z",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Constance Le Grip comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent soit des dynamiques locales (LR à Neuilly ou Courbevoie), soit des accords politiques sans lien direct avec elle.\"}\n    ]\n}\n```"
+    "analysis_at": "2026-01-08T11:47:17.824403Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Constance LE GRIP comme candidate ou non-candidate aux municipales 2026.\"}]}\n```"
   }
 }
