@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Cher",
     "commune": "Bourges",
+    "position": "Pourrait être sur une liste",
     "filename": "francois-cormier-bouligeon.json"
   },
   "search_results": [
@@ -51,14 +52,12 @@
     "status": "NON",
     "justification": [
       {
-        "source": "Source 5 (francebleu.fr - 27 Sep 2019)",
-        "message": "Référence à une renonciation en 2019 pour les élections municipales précédentes, sans lien avec celles de 2026."
-      },
-      {
-        "source": "Sources 1 et 3 (janvier 2026) mentionnent des discussions ou candidatures pour d'autres figures (Philippe Mercier, Michel Legendre), mais pas François Cormier-Bouligeon lui-même.",
-        "message": "Aucune confirmation explicite de sa participation aux municipales 2026."
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature aux municipales 2026 pour François Cormier-Bouligeon dans les sources fournies. Les mentions précédentes concernent des annonces ou renoncements antérieurs (2019) ou d'autres candidats."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"justification\": [\n        {\n            \"source\": \"Source 5 (francebleu.fr - 27 Sep 2019)\",\n            \"message\": \"Référence à une renonciation en 2019 pour les élections municipales précédentes, sans lien avec celles de 2026.\"\n        },\n        {\n            \"source\": \"Sources 1 et 3 (janvier 2026) mentionnent des discussions ou candidatures pour d'autres figures (Philippe Mercier, Michel Legendre), mais pas François Cormier-Bouligeon lui-même.\",\n            \"message\": \"Aucune confirmation explicite de sa participation aux municipales 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:10:43.735704Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales 2026 pour François Cormier-Bouligeon dans les sources fournies. Les mentions précédentes concernent des annonces ou renoncements antérieurs (2019) ou d'autres candidats.\"}\n    ]\n}\n```"
   }
 }

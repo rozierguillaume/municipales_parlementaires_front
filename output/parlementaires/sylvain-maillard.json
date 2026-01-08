@@ -5,12 +5,20 @@
     "nom": "MAILLARD",
     "prenom": "Sylvain",
     "full_name": "Sylvain MAILLARD",
-    "parti": "PS",
+    "parti": "nan",
     "departement": "Paris",
-    "commune": "Paris",
+    "commune": "Paris - X arrondissement",
+    "position": "Pourrait être tête de liste",
     "filename": "sylvain-maillard.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 : malgré les obstacles, Rachida Dati reste déterminée à conquérir Paris - l'Opinion",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWp2eEk3bERrTkFLYVFqN3A4RWE1MjVpb0VZbENSejlrclY4cEpTT1JaTUlnTnJwdTF4WXVSVFh1QWJzaUpDRXVBb1c4YklyLVJxVHNWRDZTbWlhZW9OdnNSZE81VDNxN0tsbEt2OTkxOGVtYS03NUhoWC1qNTBIN1NiQnJLVHZCSmN6ZlBKSHdJaGZIdjA3NDAwcThsaW9hSTFKVFJPOU4tcHJMdThYQlZocHFrQUNyT1N3?oc=5",
+      "snippet": "Municipales 2026 : malgré les obstacles, Rachida Dati reste déterminée à conquérir Paris&nbsp;&nbsp;l'Opinion",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "source": "l'Opinion"
+    },
     {
       "title": "Municipales 2026 à Paris: pourquoi Renaissance a finalement préféré Pierre-Yves Bournazel à Rachida Dati - BFM",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNW1KMVVsTHRhdEV3WFV2VEM5RnptU3RUQ3M1WVNWOE1CSDVuSFd4NDE4T0JIMDBJd0xXUHdUQzBveFJsSlhiNnZGUWVBM1RoVEx4NG1uaTQ4a1dtMTByeG42UVBDQWFQWGtDS09VelJTdmpGOExQV0FrYWNxbThvN2w5S1JsVi1STWJ4UWRBQkZLdTZkbUQtbEVKUTItazdLQ0hPWVM1Qy1YTEJyTW5LWEJsVE9IdW9IVlIwRTQwZzBmY2xlSkFUQTRHV1BtTjFNT1paQ3c3Wk9sMjdCTTgtZm1yenJqX3JMbVdQekFLdGpqdktab1ZWLWdVTXdPNXYxem8xc2kwU2JpcEJ5?oc=5",
@@ -24,6 +32,13 @@
       "snippet": "Pierre-Yves Bournazel investi par Renaissance pour les municipales à Paris : « Dès demain, Dati va riposter&nbsp;&nbsp;Public Sénat",
       "date": "Wed, 29 Oct 2025 07:00:00 GMT",
       "source": "Public Sénat"
+    },
+    {
+      "title": "Municipales 2026 : comment la bataille de Paris tourne à la guerre interne chez Renaissance - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMVJKMUJaZ3VKYU1uOWhDdldEZUlMMmRNZWFnRmlHdzVDVHp1WTZKVkFoZ3ZfaEZZWXFSVEZ6cXg3OUREeWlXb0tNV0hQLW1SSnFGZHJleExMYWcwTjMwXzNQWmJERkxQV3ZvRE5fVjdBejhiNndxeUhBNFpsaVlGYXpha1pHc0YyQ1hPODRMOTNYSkRKR1RzR092aG9FQUQxVVdrYWNDYkI2c2UxTlhqRkhURHlxN3BnemdDcTNZQWR3X2pNcDZVV3FwV0tRQTIzWmNSaGwxdkd3bzZHY3FRcWNYZw?oc=5",
+      "snippet": "Municipales 2026 : comment la bataille de Paris tourne à la guerre interne chez Renaissance&nbsp;&nbsp;Le HuffPost",
+      "date": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "source": "Le HuffPost"
     },
     {
       "title": "Municipales 2026 à Paris : Renaissance s’éloigne de Rachida Dati et se rapproche de Pierre-Yves Bournazel - Libération",
@@ -48,8 +63,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Bien que les sources mentionnent des discussions internes à **Renaissance** concernant une candidature pour les municipales de Paris en 2026 (avec Pierre-Yves Bournazel ou Rachida Dati), **Sylvain Maillard** n'apparaît **ni comme un candidat officiel ni dans le champ politique de cette dynamique**. Aucune source ne confirme son implication directe dans ce processus. Les articles se concentrent sur les choix internes à Renaissance et non sur lui.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Bien que les sources mentionnent des discussions internes à **Renaissance** concernant une candidature pour les municipales de Paris en 2026 (avec Pierre-Yves Bournazel ou Rachida Dati), **Sylvain Maillard** n'apparaît **ni comme un candidat officiel ni dans le champ politique de cette dynamique**. Aucune source ne confirme son implication directe dans ce processus. Les articles se concentrent sur les choix internes à Renaissance et non sur lui.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Sylvain MAILLARD dans les sources fournies concernant les municipales 2026"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:11:27.627400Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Sylvain MAILLARD dans les sources fournies concernant les municipales 2026\"}\n    ]\n}\n```"
   }
 }

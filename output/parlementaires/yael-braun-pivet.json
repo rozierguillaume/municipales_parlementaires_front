@@ -5,9 +5,10 @@
     "nom": "BRAUN-PIVET",
     "prenom": "Yaël",
     "full_name": "Yaël BRAUN-PIVET",
-    "parti": "nan",
+    "parti": "HOR",
     "departement": "Yvelines",
-    "commune": "nan",
+    "commune": "Le Vésinet",
+    "position": "Pourrait être sur une liste",
     "filename": "yael-braun-pivet.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "La Gazette des Communes"
     },
     {
+      "title": "Municipales 2026 : les candidats doivent faire une place aux femmes dans les villages - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdHRKVV9WbmNZWG1sTG92RmxLTFpocEZrOUdiOXp5WVlaSDV2aDRFR1d4aUFtalRqY0xtajZhdUdWYmlBbnBIc2hkTHY3RGNOSUdjaHNoaE1ZNHZmQVRGYnl6QUtBY1RlbFczWE56ZEJvZ1FYZWlraDZkbHllbnAzQnZoLUNhaC1OcGFDZHpXbnBJOGNzby01Uk53TGZ3bVkwX1BCcUl4Smp0T3dvVEllYmVnOFU3M0ZJckVVMDMtdFMycHpMS3VGYzlTQmxTaTBnMlVIUXlob0JXVkx5N1lSbzBWWUFMbEVPSjZB?oc=5",
+      "snippet": "Municipales 2026 : les candidats doivent faire une place aux femmes dans les villages&nbsp;&nbsp;Le Monde.fr",
+      "date": "Thu, 02 Oct 2025 07:00:00 GMT",
+      "source": "Le Monde.fr"
+    },
+    {
       "title": "Municipales 2026 : les maires ruraux lancent un appel à \"l’engagement\" - Banque des territoires",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDZCUHJ0bjdUOHQ3RnhScEp0X2x6SWtnZDhMeS15MEtSZ1ZlLWg1a21faTRHSFBFaGJqNDU0ZERjTlFmcVlRZFRiZjNsLTZWdjZxa2RIa2I2QlRCX3Fvb0RYMTB4dFFPOXYyRnJ0THhYV25QMXY3VjZvdkRQQV9kdHBxakFzY0lZYzZqRlhUSUROV2pGMjRn?oc=5",
       "snippet": "Municipales 2026 : les maires ruraux lancent un appel à \"l’engagement\"&nbsp;&nbsp;Banque des territoires",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Le snippet mentionne Sébastien Delogu (LFI) et non Yaël Braun-Pivet, donc pas de confirmation directe sur sa candidature.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Yaël Braun-Pivet est cité dans un contexte d'exclusion des alliances avec RN/LFI pour les Municipales 2026 à Marseille, mais **pas explicitement comme candidate**. Le texte évoque plutôt une position politique et stratégique.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Le sujet porte sur des opérations de séduction pour attirer des candidats en général, sans mention spécifique de Yaël Braun-Pivet.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Contexte rural et appel à l'engagement, hors Marseille. Aucune référence explicite à Braun-Pivet ou aux Municipales 2026.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": **\"Yaël Braun-Pivet est explicitement citée** dans le titre et le snippet : *« « Mesdames, engagez-vous ! » : l’appel de Braun-Pivet… pour les municipales »**. Cela suggère une **position d’initiative ou de soutien à la candidature**, mais pas une confirmation formelle de sa propre candidature officielle. Les autres noms (Borne, Dati) sont mentionnés sans lien direct avec elle.\n            **Interprétation possible** : Bien qu’elle soit associée aux Municipales 2026 via un appel à l’engagement, les sources ne confirment pas officiellement sa candidature comme candidate directe.\"\n        }\n    ],\n    \"conclusion\": {\n        \"statut_final\": \"INCERTAIN\",\n        \"raison\": \"Bien que Yaël Braun-Pivet soit mentionnée dans des contextes liés aux Municipales 2026 (appel à l’engagement), les sources ne fournissent pas de confirmation **explicite et directe** qu’elle se présente officiellement comme candidate. Les informations disponibles sont plutôt contextuelles ou indirectes.\"\n    }\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Le snippet mentionne Sébastien Delogu (LFI) et non Yaël Braun-Pivet, donc pas de confirmation directe sur sa candidature.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Yaël Braun-Pivet est cité dans un contexte d'exclusion des alliances avec RN/LFI pour les Municipales 2026 à Marseille, mais **pas explicitement comme candidate**. Le texte évoque plutôt une position politique et stratégique.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Le sujet porte sur des opérations de séduction pour attirer des candidats en général, sans mention spécifique de Yaël Braun-Pivet.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Contexte rural et appel à l'engagement, hors Marseille. Aucune référence explicite à Braun-Pivet ou aux Municipales 2026.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": **\"Yaël Braun-Pivet est explicitement citée** dans le titre et le snippet : *« « Mesdames, engagez-vous ! » : l’appel de Braun-Pivet… pour les municipales »**. Cela suggère une **position d’initiative ou de soutien à la candidature**, mais pas une confirmation formelle de sa propre candidature officielle. Les autres noms (Borne, Dati) sont mentionnés sans lien direct avec elle.\n            **Interprétation possible** : Bien qu’elle soit associée aux Municipales 2026 via un appel à l’engagement, les sources ne confirment pas officiellement sa candidature comme candidate directe.\"\n        }\n    ],\n    \"conclusion\": {\n        \"statut_final\": \"INCERTAIN\",\n        \"raison\": \"Bien que Yaël Braun-Pivet soit mentionnée dans des contextes liés aux Municipales 2026 (appel à l’engagement), les sources ne fournissent pas de confirmation **explicite et directe** qu’elle se présente officiellement comme candidate. Les informations disponibles sont plutôt contextuelles ou indirectes.\"\n    }\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Yaël Braun-Pivet comme candidate aux municipales 2026 dans les sources fournies. Les articles traitent d'autres candidats ou contextes sans référence directe à elle."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:08:35.917147Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Yaël Braun-Pivet comme candidate aux municipales 2026 dans les sources fournies. Les articles traitent d'autres candidats ou contextes sans référence directe à elle.\"}\n    ]\n}\n```"
   }
 }

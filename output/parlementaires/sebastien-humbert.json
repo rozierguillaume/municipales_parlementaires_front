@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Vosges",
     "commune": "nan",
+    "position": "nan",
     "filename": "sebastien-humbert.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Reims - Municipales 2026 - Premier meeting pour Anne-Sophie Frigout, candidate à la mairie de Reims&nbsp;&nbsp;L'Hebdo du Vendredi",
       "date": "Thu, 29 May 2025 07:00:00 GMT",
       "source": "L'Hebdo du Vendredi"
+    },
+    {
+      "title": "Vôge-les-Bains (La) (88240) : Résultat des élections municipales 2026 - ICI - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UX3NBMlJaeFc0bTFGUXdDWFJRNUw3cGc4aWlNSElCOVFNWC1PMk9NZ0hCWmtmRm0tOTFnVE91d1ZjNFJjSmMzQXlXYVFnTG1yUVFzalZSdnBkQVFIRzJQZEg1U3lnVF9od2pERE5UdzZNVDBQWXpEYWVOdw?oc=5",
+      "snippet": "Vôge-les-Bains (La) (88240) : Résultat des élections municipales 2026 - ICI&nbsp;&nbsp;francebleu.fr",
+      "date": "Wed, 01 Oct 2025 18:40:34 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {

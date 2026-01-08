@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-Maritime",
     "commune": "nan",
+    "position": "nan",
     "filename": "gerard-leseul.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026. Gérard Vienne conduira une liste Rassemblement national à Vimoutiers&nbsp;&nbsp;Ouest-France",
       "date": "Mon, 22 Sep 2025 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Charvieu-Chavagneux : un adjoint de Gérard Dézempte rejoint Fabien Gauthier, un élu de l’opposition aussi - Le Dauphiné Libéré",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdS12VlJ1RUxocF9INlNJWjBJejh0TC1OMGpYNngzNUEzbTFiVGE2cEM0THl5X3dTdldvckJoMk9CYUVuOE5oRHc2c0ZMR1pTeFlDY3A4bUEwTU9oc2FaNmpNVTRfenJZeUNuZDlhQVFfM2stQ0tXNXZ4UFFJUENYUzJPbGFqMG54cVJpN1E5NVJBSThrNW1ocEctT3M4cEZXblQ2cXYwc2M1YnJSSjE4aVZibFNkcF9paEZoY1FlWlNKRUpOeGtKeWVDU19OYU5BODk2Tm9rWmRDVmY3Y0RLTXNBM3o?oc=5",
+      "snippet": "Charvieu-Chavagneux : un adjoint de Gérard Dézempte rejoint Fabien Gauthier, un élu de l’opposition aussi&nbsp;&nbsp;Le Dauphiné Libéré",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "source": "Le Dauphiné Libéré"
     }
   ],
   "analysis": {

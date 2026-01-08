@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Hérault",
     "commune": "Montpellier",
+    "position": "Tête de liste ",
     "filename": "jean-louis-roumegas.json"
   },
   "search_results": [
@@ -50,9 +51,30 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Jean-Louis Roumégas est désigné tête de liste pour les **Municipales 2026** dans plusieurs articles (Sources 3, 4 et 5) : Printemps Montpelliérain (Source 3 & 4), Les Écologistes (Source 5).",
-      "Son rôle actif comme candidat aux municipales est confirmé par des titres et snippets explicitement liés à la campagne de 2026."
+      {
+        "source_index": 1,
+        "explication": "Référence explicite à Jean-Louis Roumégas comme candidat aux municipales 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Designation officielle de tête de liste pour les municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Confirmation sans ambiguïté de sa candidature en tant que tête de liste pour 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Annonce de son rôle clé dans une liste écologiste pour les municipales 2026."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Jean-Louis Roumégas est désigné tête de liste pour les **Municipales 2026** dans plusieurs articles (Sources 3, 4 et 5) : Printemps Montpelliérain (Source 3 & 4), Les Écologistes (Source 5).\",\n        \"Son rôle actif comme candidat aux municipales est confirmé par des titres et snippets explicitement liés à la campagne de 2026.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:11:01.982628Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à Jean-Louis Roumégas comme candidat aux municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Designation officielle de tête de liste pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Confirmation sans ambiguïté de sa candidature en tant que tête de liste pour 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce de son rôle clé dans une liste écologiste pour les municipales 2026.\"}\n    ]\n}\n```"
   }
 }

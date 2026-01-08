@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Réunion",
     "commune": "nan",
+    "position": "nan",
     "filename": "perceval-gaillard.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 à Saint-Louis : Fabrice Hoarau, fils de l'ancien maire Claude Hoarau, est candidat&nbsp;&nbsp;Outre-mer la 1ère",
       "date": "Sat, 12 Apr 2025 07:00:00 GMT",
       "source": "Outre-mer la 1ère"
+    },
+    {
+      "title": "Municipales 2026 à L’Étang-Salé : Isaline Tronc officialise sa candidature - Clicanoo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDRBcEMxY28xZzZCMmJTVXQyTjFTQktDaGFKYkpTbkZtUzVWTGoyR3d4enJuYjhkbUlHUk83WkJqcVQ3RWRJMXB5SS02YTdtSmRBYkhSZXl5MFM4ZnV2cVdSYjZuTEd2bm95TUdybW9HNTBJNExSajAtNWVNb094TmJuRnZHV2xfTTZWRG1fTTV2VzFIWVV1RlU3MGZBOWlVTGhlSm1WNS1DVlI4ZFBnYkxpYmdyUjM5eTVuSlNvREdqdw?oc=5",
+      "snippet": "Municipales 2026 à L’Étang-Salé : Isaline Tronc officialise sa candidature&nbsp;&nbsp;Clicanoo",
+      "date": "Sun, 04 Jan 2026 11:13:00 GMT",
+      "source": "Clicanoo"
     }
   ],
   "analysis": {

@@ -5,9 +5,10 @@
     "nom": "BERGANTZ",
     "prenom": "Anne",
     "full_name": "Anne BERGANTZ",
-    "parti": "nan",
+    "parti": "MoDem",
     "departement": "Yvelines",
-    "commune": "nan",
+    "commune": "Lévis-Saint-Nom",
+    "position": "Pourrait être sur une liste",
     "filename": "anne-bergantz.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Anne Bergantz comme candidate aux **élections municipales de 2026**. Les sources concernent uniquement une **législative partielle en 2022** (Yvelines) et mentionnent son association avec Jean-Noël Barrot dans ce contexte, sans lien direct avec les élections municipales futures. Aucune information sur sa candidature aux municipales 2026 n'est disponible dans les résultats fournis.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Anne Bergantz comme candidate aux **élections municipales de 2026**. Les sources concernent uniquement une **législative partielle en 2022** (Yvelines) et mentionnent son association avec Jean-Noël Barrot dans ce contexte, sans lien direct avec les élections municipales futures. Aucune information sur sa candidature aux municipales 2026 n'est disponible dans les résultats fournis.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature aux municipales de 2026 pour Anne Bergantz dans les sources fournies. Les articles concernent uniquement des élections législatives partielles (2022) et mentionnent son association avec Jean-Noël Barrot sans lien explicite avec les municipales futures."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:17:34.243700Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales de 2026 pour Anne Bergantz dans les sources fournies. Les articles concernent uniquement des élections législatives partielles (2022) et mentionnent son association avec Jean-Noël Barrot sans lien explicite avec les municipales futures.\"}\n    ]\n}\n```"
   }
 }

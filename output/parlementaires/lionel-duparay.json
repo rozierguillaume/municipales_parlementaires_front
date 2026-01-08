@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Saône-et-Loire",
     "commune": "Montceau-les-Mines",
+    "position": "Pourrait être sur une liste",
     "filename": "lionel-duparay.json"
   },
   "search_results": [
@@ -48,25 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Le snippet mentionne les municipales de 2026 pour Isabelle Louis (pas Lionel Duparay), donc pas d'indice direct sur sa candidature."
-      },
-      {
-        "source": "Source 2",
-        "analyse": "L'article traite de la non-reprise par Lionel Duparay d'une délégation d'adjoint aux finances en 2025, sans lien avec une annonce explicite de candidature pour les municipales de 2026."
-      },
-      {
-        "source": "Source 3",
-        "analyse": "L'article évoque des tensions entre Marie-Claude Jarrot et Lionel Duparay, mais ne mentionne pas explicitement sa candidature aux municipales de 2026."
-      },
-      {
-        "source": "Sources 4 & 5",
-        "analyse": "Ces articles concernent d'autres élections (législatives) et Montceau-les-Mines sans lien direct avec Lionel Duparay ou les municipales de 2026."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Lionel Duparay comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent des sujets divers (conflits internes, non-reprise d'une délégation) sans confirmation de sa candidature future."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Le snippet mentionne les municipales de 2026 pour Isabelle Louis (pas Lionel Duparay), donc pas d'indice direct sur sa candidature.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"L'article traite de la non-reprise par Lionel Duparay d'une délégation d'adjoint aux finances en 2025, sans lien avec une annonce explicite de candidature pour les municipales de 2026.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"L'article évoque des tensions entre Marie-Claude Jarrot et Lionel Duparay, mais ne mentionne pas explicitement sa candidature aux municipales de 2026.\"\n        },\n        {\n            \"source\": \"Sources 4 & 5\",\n            \"analyse\": \"Ces articles concernent d'autres élections (législatives) et Montceau-les-Mines sans lien direct avec Lionel Duparay ou les municipales de 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:09:17.400577Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Lionel Duparay comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent des sujets divers (conflits internes, non-reprise d'une délégation) sans confirmation de sa candidature future.\"}\n    ]\n}\n```"
   }
 }

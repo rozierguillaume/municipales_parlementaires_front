@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Guadeloupe",
     "commune": "nan",
+    "position": "nan",
     "filename": "christian-baptiste.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 en Guadeloupe : Lydia Faro-couriol soutenue par Christian Baptiste désignée tête de liste du FARDS à Sainte-Anne&nbsp;&nbsp;Outre-mer la 1ère",
       "date": "Sun, 16 Feb 2025 08:00:00 GMT",
       "source": "Outre-mer la 1ère"
+    },
+    {
+      "title": "« Continuer à faire avancer la commune » : les ambitions de Christian Anselme pour Fillière - Le Dauphiné Libéré",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdEw4eXk2dkZjRlMwNUR0N1VBN05JRDBINllIZ1YxdnY2dU5jWUNZMUhjUjlJYlR6TFRsemhlQWRPR2wyQXAzbjYzLVl2S0dBOEh0SkFHNXRFSDA3bm5wWXdhbXRSajhWMnJCRFhQdDM3TDJLY29RTVpGSXZFMTBnOTk1T2FCbk9JblVKcVF1MEFxdm5TbnBTcVJ0RGkzWFp3Wk12eHNtQ0NlTHk0cjhKbHItV0tVOU1RaTBILU5JT0JiQ0tZ?oc=5",
+      "snippet": "« Continuer à faire avancer la commune » : les ambitions de Christian Anselme pour Fillière&nbsp;&nbsp;Le Dauphiné Libéré",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT",
+      "source": "Le Dauphiné Libéré"
     }
   ],
   "analysis": {

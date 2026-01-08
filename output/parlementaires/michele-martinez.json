@@ -8,6 +8,7 @@
     "parti": "RN",
     "departement": "Pyrénées-Orientales",
     "commune": "Perpignan",
+    "position": "Pourrait être sur une liste",
     "filename": "michele-martinez.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Michèle MARTINEZ** comme candidate aux élections municipales de 2026. Bien que certaines sources évoquent des candidatures pour d'autres communes en 2026 (ex. : Alain Granat à Le Boulou, Pierre Martinez à Sommières), aucune référence directe à Michèle Martinez n'est présente dans les snippets analysés.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Michèle MARTINEZ** comme candidate aux élections municipales de 2026. Bien que certaines sources évoquent des candidatures pour d'autres communes en 2026 (ex. : Alain Granat à Le Boulou, Pierre Martinez à Sommières), aucune référence directe à Michèle Martinez n'est présente dans les snippets analysés.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Michèle Martinez comme candidate aux municipales 2026 dans les résultats fournis. Les sources concernent d'autres candidats ou des événements locaux sans lien direct avec elle."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:23:45.928096Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Michèle Martinez comme candidate aux municipales 2026 dans les résultats fournis. Les sources concernent d'autres candidats ou des événements locaux sans lien direct avec elle.\"}\n    ]\n}\n```"
   }
 }

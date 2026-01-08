@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Bas-Rhin",
     "commune": "nan",
+    "position": "nan",
     "filename": "sandra-regol.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Qui sont les candidates au congrès d’Europe Ecologie-les Verts ?&nbsp;&nbsp;Libération",
       "date": "Fri, 21 Oct 2022 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Sandra Regol est l'invitée du Talk - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHlQaE14dDBha1o5RFA2X1hiMlk4cnVsN2VrRmYwMDRCV2FFWmNBdmJ6U0p0OERZTmFoRXFLMTRyQ1hSWUJVNmtEY3F4aGlaZjZ3dURCbkxfQi1PZTVZX0lMd2d1RGUyNllXWEdhVHVJU3RfcktDalJzYl9DMkpOZGx1Zw?oc=5",
+      "snippet": "Sandra Regol est l'invitée du Talk&nbsp;&nbsp;Le Figaro",
+      "date": "Thu, 03 Sep 2020 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {

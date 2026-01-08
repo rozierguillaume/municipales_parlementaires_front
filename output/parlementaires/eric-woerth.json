@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Oise",
     "commune": "nan",
+    "position": "nan",
     "filename": "eric-woerth.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Emmanuel Grégoire : \"Je veux avoir comme seule obsession de rassembler la gauche\" pour les élections municipales de 2026&nbsp;&nbsp;Radio France",
       "date": "Mon, 07 Jul 2025 07:00:00 GMT",
       "source": "Radio France"
+    },
+    {
+      "title": "Faut-il dissoudre l’Assemblée nationale ? Ce qu’en pensent nos politiques tourangeaux - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORTRYZm9KTjIyZzRmcFhVNkN2WFQyYVBnUXhxR2hiRFhKQS1NSW5UNGZhYWNtTXBnMUh0Xy05eXBMQUY5TTNZazhWOWZEWG8xYU85STcxN3FObHlXNDg4Y2pId24tQWVIU0tkb2lsbU5DRWZpVHJkMWNka0p2UTJYNTdmM2NiWXpsMGZ4UFZ2WGRFNzdUREtROWx6cVBuUEFEN2hTR0NDeVNnLTAyTmFGZkVzOGhSQ1VqX1hnMWpNUktvZWhVbnVKbFM1Nll4S1BRQVk3VGd3?oc=5",
+      "snippet": "Faut-il dissoudre l’Assemblée nationale ? Ce qu’en pensent nos politiques tourangeaux&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "source": "lanouvellerepublique.fr"
     }
   ],
   "analysis": {

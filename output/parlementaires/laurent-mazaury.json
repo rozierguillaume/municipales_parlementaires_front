@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Yvelines",
     "commune": "Élancourt",
+    "position": "Pourrait être sur une liste",
     "filename": "laurent-mazaury.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Législatives 2024 dans les Yvelines : la 11e circonscription bascule à droite avec la victoire de Laurent Mazaury&nbsp;&nbsp;Le Parisien",
       "date": "Mon, 08 Jul 2024 07:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Législatives dans les Yvelines : victoire des cadors du bloc présidentiel, la gauche perd Trappes mais gagne ailleurs - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeGpkaER2SU83UTE3R1BSUHZQTUktVlM2aWNRMnZpcEs2eENSbUZxbWREY2FhREFYempQQ1k4V1dKNlR0cTZESENZdDI3UEd5MU9EYlplLUdTMUQ2REwzREdDc3hnVzM2RnhvVXJFUElUa01wckNod1NBQUhQSDhHR3VKX2YxZEVlNjNRbHcwNm1ZdGxPSW05NEhDZ1ZBMFFQeDZDcmJvRVhrYjRFZzhWaXFVWFVxYy1VQl9hVHF1NjI4ZkVWMEJPZTRoM2g2ZUVvT3Z0Q0kwV0cyaW5uRHA4a092YmMtc1dKZTZraklfZU1LejFhLXBZ?oc=5",
+      "snippet": "Législatives dans les Yvelines : victoire des cadors du bloc présidentiel, la gauche perd Trappes mais gagne ailleurs&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
     },
     {
       "title": "Au RN, il n’y a pas que des candidats problématiques, il y a aussi des candidats «fantômes» - Libération",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": "Laurent Mazaury est explicitement mentionné comme **candidat aux législatives 2024** dans la 11ᵉ circonscription des Yvelines (source : tv78, 22 juin 2024). Bien que les élections municipales de 2026 soient différentes, le fait qu’il soit identifié comme candidat à une élection récente (et potentiellement reconduit pour d’autres scrutins locaux) suggère une intention de se présenter aux municipales. Aucune source ne contredit cette hypothèse.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Laurent Mazaury est explicitement mentionné comme **candidat aux législatives 2024** dans la 11ᵉ circonscription des Yvelines (source : tv78, 22 juin 2024). Bien que les élections municipales de 2026 soient différentes, le fait qu’il soit identifié comme candidat à une élection récente (et potentiellement reconduit pour d’autres scrutins locaux) suggère une intention de se présenter aux municipales. Aucune source ne contredit cette hypothèse.\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune information sur les élections municipales 2026 pour Laurent Mazaury dans les sources fournies. Les résultats concernent uniquement les législatives 2024."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:17:29.859157Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information sur les élections municipales 2026 pour Laurent Mazaury dans les sources fournies. Les résultats concernent uniquement les législatives 2024.\"}\n    ]\n}\n```"
   }
 }

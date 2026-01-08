@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Finistère",
     "commune": "nan",
+    "position": "nan",
     "filename": "liliana-tanguy.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Résultats élections municipales Pont-l'Abbé [29120] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 30 Jun 2020 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "La députée de la 7e circonscription du Finistère Liliana Tanguy aux côtés des pêcheurs du Finistère - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRWdNZVVqbTc0THZkSHlYb3JfTkJfRjB6VmdVbEtSTGY5blVEQ2FERnBqUWZNSlNGaDhOTFAyVWtJRGVXMjFxaWNseV92cmU2X2gtenlIWWNxanhwbnprVHJQb2dTTW5VQnRWRUxfNWhWWE1QbDJYbmtLcWJPa0YyVmF2N1pjVlRnc1JDdkdteGtIQTdsZkJTRFRXdW4zUVFTZnI1OFFac1doV0pzR3Nfdm9McDhuMGdrQWhEN0FxWE9BY0ZCZm1GTDZDLS0wR1FXd0NrUklvYzE2Z1J5N2NFYllRWU00SmtQVTRINkNEZTFfVkU0dXEtRi12WQ?oc=5",
+      "snippet": "La députée de la 7e circonscription du Finistère Liliana Tanguy aux côtés des pêcheurs du Finistère&nbsp;&nbsp;Le Télégramme",
+      "date": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "Le Télégramme"
     }
   ],
   "analysis": {

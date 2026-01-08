@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-et-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "ersilia-soudais.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Résultats des législatives 2024 : en Seine-et-Marne, l’insoumise Ersilia Soudais victorieuse face au RN&nbsp;&nbsp;Libération",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Menacés de mort par un écrivain franco-israélien, des députés de la France Insoumise portent plainte - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMW5uNjZvbGU3TXBiT2dCTFRjMWg4WUUzbnpwNWQ3SXRoMzlqZlc0dmlRMHczNmFyRi1tU21ybHVrSzBXTUdnbVNua1VXbHlKR2VCejhYSm5sSGEtc0l3Wnl3ZF9ZRnpZeHdYaDNNRVp1UEZvY2w0VTB6bzFxckpQRWQwejlUM3ZWOW92WUZ1endUSXpITjhkQndXcmhLRUMxazdXYjFjNGtjSm8yQzBzMWRuVDFRY1VrUExTNVJRdHBlcTloby1oTlFyMmRSYm5TaDkwZUZFYzYwMmxLYVNjcFQtb2pTRTgzcTR6NHlPcFRTUlR5MHZmRWs2Z2dVX3FhQ2IwREN2UDZ5R0ZoTkNXZ0p6dEoyNktkZGFrcjUzTQ?oc=5",
+      "snippet": "Menacés de mort par un écrivain franco-israélien, des députés de la France Insoumise portent plainte&nbsp;&nbsp;Ouest-France",
+      "date": "Fri, 28 Feb 2025 08:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

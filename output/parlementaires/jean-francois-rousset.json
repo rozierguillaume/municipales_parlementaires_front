@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Aveyron",
     "commune": "nan",
+    "position": "nan",
     "filename": "jean-francois-rousset.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales en 2026 : élections locales, conséquences nationales ?&nbsp;&nbsp;Fondation Jean-Jaurès",
       "date": "Fri, 11 Jul 2025 07:00:00 GMT",
       "source": "Fondation Jean-Jaurès"
+    },
+    {
+      "title": "Municipales 2026 : quels maires sont candidats en Uzège Pont du Gard ? - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTMwQjJoUUE0eHB1NHZWcmJpN1VTeml6YnVYbzBVUmljb08tV1JCSk5yYVdFRGdYQkt2VUxGeVJWRUp2NG8wVGlHUEV0Nl9CcU4teHZocXRLQTNBYW5MbXhvTTVWWXp4Qk5pYTBnLUFoNUJOTE0yWFlSTHpwYjltblViNEx0ekw1ckZieEdTVDVXak5scEkzZndzbm05dUhqWU5rLWxqeExfTlEz?oc=5",
+      "snippet": "Municipales 2026 : quels maires sont candidats en Uzège Pont du Gard ?&nbsp;&nbsp;mesinfos",
+      "date": "Wed, 31 Dec 2025 15:39:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {

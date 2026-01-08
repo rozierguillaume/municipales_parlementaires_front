@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Ariège",
     "commune": "Alzen",
+    "position": "Pourrait être sur une liste",
     "filename": "martine-froger.json"
   },
   "search_results": [
@@ -23,6 +24,13 @@
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPY3pyNzVJQ1MtOHFJRkhIdmx6MUhudlF4MEZzN21IT1BwZUdPYVFzWVJnVEJUV2RiVmJpa1lqQXpuanJ2ajJ6WWZXdmdvdFZSZF95ZVd4N0szc3EtTlZ2dDJ2ZmFWdWhyLWNZM2dvRldmZlJRaWxIejFaaktFcG5FaFF3aXE3Qm9GV0t3WTVzbWJ1RHFJS2VjSm8zV2JsRmc5UUVFazBUTUw1Q09GaEF0UGk1N0x2VDNPQkVGRVNSd1VKYWE1MWRTYk41UEkydTB1TEZ3TmdBQ0hwbm5SQ2F4SGxmRURQT0FwanEzUTVPMkJsUGI5ZjJIcWZiLXlsZjNzMUJSMUw0Z0YxOUdIY1g3bnlVWnl0Nko1?oc=5",
       "snippet": "Municipales 2026. Dans l’Orne, ce qu’ont décidé les 42 maires de la CDC des Vallées d’Auge et du Merlerault&nbsp;&nbsp;Ouest-France",
       "date": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026. Corinne Chesneau à la tête d’une liste à Auvers-le-Hamon - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPclFVSWg5eXpnSjVUT04wX1VZQUdFREN2QUJZdjdyQzhTOWFWQjF2c1RDb2JxOGZyWDlVMjdfak5YZ0t1ME5KZVZmUkRYbDNoNkM3Z2xJTUZLQkZSWkNHbFlkVklSMGlZbnBIRnk3RDlmbmdMQy1UN3V6T2NxREhKN0hhZXFha0lremNuN0RBbFFtMEkzTU0wVWplOUhHU1dUWXdlUDlNYjFqS3c1YlZ6aTRLaWY0ZDZqbUFyLTRJUW8yaWg0bllmM19kUjh1eVRmWXZfTmNDVFVQalpUYUVoQzBHdjJVTWlyM1dRU2JHZEJIcWdQaTRseW9WUjc?oc=5",
+      "snippet": "Municipales 2026. Corinne Chesneau à la tête d’une liste à Auvers-le-Hamon&nbsp;&nbsp;Ouest-France",
+      "date": "Wed, 22 Oct 2025 07:00:00 GMT",
       "source": "Ouest-France"
     },
     {
@@ -51,14 +59,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Les résultats mentionnent les « premiers des socialistes » pour les élections municipales en Ariège (2025), mais ne nomment pas explicitement Martine Froger. Aucune confirmation de sa candidature officielle."
-      },
-      {
-        "source": "Source 5",
-        "analyse": "Martine Froger est citée comme députée sortante socialiste réélue aux législatives 2024 en Ariège, sans lien direct avec une annonce de candidature municipale pour 2026. Aucune mention explicite de sa participation aux municipales."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Martine Froger comme candidate aux municipales 2026 dans les résultats fournis. Les articles concernent des décisions locales ou d'autres figures politiques sans lien direct avec elle."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Les résultats mentionnent les « premiers des socialistes » pour les élections municipales en Ariège (2025), mais ne nomment pas explicitement Martine Froger. Aucune confirmation de sa candidature officielle.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"Martine Froger est citée comme députée sortante socialiste réélue aux législatives 2024 en Ariège, sans lien direct avec une annonce de candidature municipale pour 2026. Aucune mention explicite de sa participation aux municipales.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:19:43.790226Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Martine Froger comme candidate aux municipales 2026 dans les résultats fournis. Les articles concernent des décisions locales ou d'autres figures politiques sans lien direct avec elle.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Mayenne",
     "commune": "nan",
+    "position": "nan",
     "filename": "geraldine-bannier.json"
   },
   "search_results": [
@@ -44,6 +45,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkEyWHZLX2tKQVRpMEtPX3B2NFRjWHBTYWc4ZDJ6eEV5U1NmUXRqVGFnV3B1cHpIUlFzeHFNTW55SDNteE1IdmpqQjYxYVlGY0RXelo4M1djZGxRODRoWmRJZDI3QlFCU016T2N5OWFlaUFta0NraFF4clk2VTBfeV9wbkdkQ1FDNXVRS2NWSFRHT21qWThJUnVObWtKRUkzenVES2dldW01ODNaRUdiUHFVeXFYNVQyRUU4cUVUbW9IajhTVmV2MDJVU1I?oc=5",
       "snippet": "Courbeveille. Géraldine Bannier conduit la liste « Cultiver le vivre ensemble »&nbsp;&nbsp;Ouest-France",
       "date": "Mon, 24 Feb 2020 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Législatives. Christophe Langouët, candidat « indépendant et libre et utile » dans le Sud Mayenne - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQlVuUmhOUXVNTnFYY2VibDEzbjJsMmVQeTFmVTZkTDJ0Y3NOc00wZlFldVhPN0pkWE5ldGlhLVFWNDBhM2xFTDFCVlpKYXRVbEVEdVVSMFptOWVzS3Y4VkVzWW12WThxNkFTTUJZdWV0aUVTaEFuS0dfYmxFeHpGSTdsS2o5VTdzZ0pNUGZMaUlKdTBBUEJ3Sm4tenlxVHhSVTlqUUZKYUNCNGQzWEdUMkgxcnNWMEh5bmk0cU5JX0tIeUFpajFzMW9sN3BSellDc0FqVzJFNy04WWNPUnJGNExjb0Q2V05DU2JNdENRcUlxTTdPd01DOXVMeG5fMDBzdXZ2RXNXMWhBdnM?oc=5",
+      "snippet": "Législatives. Christophe Langouët, candidat « indépendant et libre et utile » dans le Sud Mayenne&nbsp;&nbsp;Ouest-France",
+      "date": "Fri, 06 May 2022 07:00:00 GMT",
       "source": "Ouest-France"
     }
   ],

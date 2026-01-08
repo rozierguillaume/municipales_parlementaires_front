@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Val-de-Marne",
     "commune": "L'Haÿ-les-Roses",
+    "position": "Pourrait être sur une liste",
     "filename": "vincent-jeanbrun.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Vincent Jeanbrun comme candidat aux **municipales de 2026**. Bien qu'il soit ministre (Source 5), les articles se concentrent sur :\n    - Sa suspension du parti LR (Source 3) et son positionnement politique actuel,\n    - La division du camp Macron autour de Rachida Dati (Sources 1, 2, 4),\n    - Ses polémiques personnelles sans lien direct avec une annonce officielle de candidature municipale.\n    Aucune mention des élections municipales de **2026** n'est confirmée ou exclue dans les résultats fournis.\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Vincent Jeanbrun comme candidat aux **municipales de 2026**. Bien qu'il soit ministre (Source 5), les articles se concentrent sur :\n    - Sa suspension du parti LR (Source 3) et son positionnement politique actuel,\n    - La division du camp Macron autour de Rachida Dati (Sources 1, 2, 4),\n    - Ses polémiques personnelles sans lien direct avec une annonce officielle de candidature municipale.\n    Aucune mention des élections municipales de **2026** n'est confirmée ou exclue dans les résultats fournis.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Vincent Jeanbrun comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent des dynamiques internes (suspensions, divisions) ou des contextes liés à d'autres figures politiques."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:10:14.873708Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Vincent Jeanbrun comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent des dynamiques internes (suspensions, divisions) ou des contextes liés à d'autres figures politiques.\"}\n    ]\n}\n```"
   }
 }

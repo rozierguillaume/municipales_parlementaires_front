@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Loiret",
     "commune": "Orléans",
+    "position": "Pourrait être sur une liste",
     "filename": "emmanuel-duplessy.json"
   },
   "search_results": [
@@ -51,26 +52,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 (Mag'Centre - Orléans)",
-        "analyse": "Aucune mention explicite d’Emmanuel Duplexy dans les articles sur les Municipales à Orléans, bien que le contexte évoque une dynamique de gauche pour ces élections. Aucune confirmation ou exclusion directe de sa candidature."
-      },
-      {
-        "source": "Source 2 (FranceTvPro.fr - Primaire socialiste Paris)",
-        "analyse": "Seuls des candidats à la primaire socialiste à Paris sont cités, sans lien avec Orléans ni Emmanuel Duplexy."
-      },
-      {
-        "source": "Source 3 (francebleu.fr - Collectif citoyens Orléans)",
-        "analyse": "Appel pour l’union de la gauche à Orléans, mais pas d’indication sur les membres ou candidats officiels. Aucune référence explicite à Emmanuel Duplexy."
-      },
-      {
-        "source": "Source 4 (La République du Centre - Municipales 2026 Orléans)",
-        "analyse": "L’article évoque une préparation de la gauche pour Orléans en 2026, mais ne nomme pas explicitement Emmanuel Duplexy. Aucune preuve qu’il soit impliqué ou candidat."
-      },
-      {
-        "source": "Source 5 (Libération - Législatives 2024)",
-        "analyse": "Référence à des nouveaux députés de gauche sans lien avec les Municipales 2026 ni Emmanuel Duplexy. Aucune pertinence directe pour Orléans ou sa candidature."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Emmanuel Duplexy comme candidat aux municipales 2026 ni dans Orléans ni ailleurs."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 (Mag'Centre - Orléans)\",\n            \"analyse\": \"Aucune mention explicite d’Emmanuel Duplexy dans les articles sur les Municipales à Orléans, bien que le contexte évoque une dynamique de gauche pour ces élections. Aucune confirmation ou exclusion directe de sa candidature.\"\n        },\n        {\n            \"source\": \"Source 2 (FranceTvPro.fr - Primaire socialiste Paris)\",\n            \"analyse\": \"Seuls des candidats à la primaire socialiste à Paris sont cités, sans lien avec Orléans ni Emmanuel Duplexy.\"\n        },\n        {\n            \"source\": \"Source 3 (francebleu.fr - Collectif citoyens Orléans)\",\n            \"analyse\": \"Appel pour l’union de la gauche à Orléans, mais pas d’indication sur les membres ou candidats officiels. Aucune référence explicite à Emmanuel Duplexy.\"\n        },\n        {\n            \"source\": \"Source 4 (La République du Centre - Municipales 2026 Orléans)\",\n            \"analyse\": \"L’article évoque une préparation de la gauche pour Orléans en 2026, mais ne nomme pas explicitement Emmanuel Duplexy. Aucune preuve qu’il soit impliqué ou candidat.\"\n        },\n        {\n            \"source\": \"Source 5 (Libération - Législatives 2024)\",\n            \"analyse\": \"Référence à des nouveaux députés de gauche sans lien avec les Municipales 2026 ni Emmanuel Duplexy. Aucune pertinence directe pour Orléans ou sa candidature.\"\n        }\n    ],\n    \"conclusion\": \"Aucun élément clair ne confirme ou exclut sa participation aux Municipales 2026 en France, notamment à Orléans. Les sources disponibles suggèrent une dynamique de gauche locale mais sans lien direct avec lui.\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:12:30.722533Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Emmanuel Duplexy comme candidat aux municipales 2026 ni dans Orléans ni ailleurs.\"}\n    ]\n}\n```"
   }
 }

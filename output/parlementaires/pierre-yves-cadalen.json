@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Finistère",
     "commune": "Brest",
+    "position": "Sur une liste ",
     "filename": "pierre-yves-cadalen.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "« De la clarté à l’élection » : les Insoumis brestois réagissent à l’alliance entre François Cuillandre et les Verts pour les municipales 2026&nbsp;&nbsp;Le Télégramme",
       "date": "Tue, 09 Dec 2025 08:00:00 GMT",
       "source": "Le Télégramme"
+    },
+    {
+      "title": "Municipales 2026 à Brest : Le député Pierre-Yves Cadalen sera sur la liste des Insoumis - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb2F6a2ZqTzdYY3RscndVSmE1YllIUm1DVHBpc2tHVnd0c1hJa09ISml4eExSZjh0NUd0NXE1dWJyUGpUQ3RUcFdRN21TRnlaZlZjTURWSTcwU0lLVEl1ZGJaLWU5TlpfYTMtRWdWXzhZTEQxREUzZ2VNeFZmSmVlVWx0Unk2NHRmbEJoYVMxZzdZLVBfT1dnTnlyQ0xsZjJjck9VVlgwWFprSDNLRVgxajNFbmtnYWVfOF80c3BnYXdIWmVVVjhIQVdZa2pwRXlEZENCbjJ1RjRHTWpXRnRISEVOMmRjdENCNlJNMDQxMG9lRjBqU1ZBOGZmWW4xcUR6N1lGVFVkTDVhM0F2?oc=5",
+      "snippet": "Municipales 2026 à Brest : Le député Pierre-Yves Cadalen sera sur la liste des Insoumis&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "source": "Ouest-France"
     },
     {
       "title": "Municipales 2026 : Cécile Beaudouin mènera la liste Brest Insoumise - francebleu.fr",
@@ -51,14 +59,24 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 5 (Ouest-France - 13 Feb 2025)",
-        "texte_justificatif": "Mention explicite de Pierre-Yves Cadalen comme candidat aux municipales à Brest pour **LFI** en vue des élections de 2026."
+        "source_index": 1,
+        "explication": "Pierre-Yves Cadalen figure explicitement sur la liste des Insoumis pour les municipales 2026."
       },
       {
-        "source": "Source 3 (Ouest-France - 21 Jul 2025)",
-        "texte_justificatif": "Contexte de lancement d'une liste par *Brest Insoumise* incluant probablement Cadalen, en lien avec les municipales 2026."
+        "source_index": 2,
+        "explication": "Source confirmant sa présence sur la liste Insoumise à Brest pour les municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Liste officielle des candidats de l'Insoumise pour Brest en vue des municipales 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 5 (Ouest-France - 13 Feb 2025)\",\n            \"texte_justificatif\": \"Mention explicite de Pierre-Yves Cadalen comme candidat aux municipales à Brest pour **LFI** en vue des élections de 2026.\"\n        },\n        {\n            \"source\": \"Source 3 (Ouest-France - 21 Jul 2025)\",\n            \"texte_justificatif\": \"Contexte de lancement d'une liste par *Brest Insoumise* incluant probablement Cadalen, en lien avec les municipales 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:15:32.804546Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Pierre-Yves Cadalen figure explicitement sur la liste des Insoumis pour les municipales 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Source confirmant sa présence sur la liste Insoumise à Brest pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Liste officielle des candidats de l'Insoumise pour Brest en vue des municipales 2026.\"}\n    ]\n}\n```"
   }
 }

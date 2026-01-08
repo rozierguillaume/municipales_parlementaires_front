@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-Saint-Denis",
     "commune": "nan",
+    "position": "nan",
     "filename": "bastien-lachaud.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : le tacle d’un élu socialiste à Éric Coquerel&nbsp;&nbsp;Actualités – Orange",
       "date": "Sun, 25 May 2025 07:00:00 GMT",
       "source": "Actualités – Orange"
+    },
+    {
+      "title": "Municipales 2026 : le Parlement adopte définitivement la réforme du mode de scrutin à Paris, Lyon et Marseille - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU05nUFhZeGpGUkRFVU9HajVtekRoUHJTN25SYlk0dExQT3ZfbnZNNkxkUDk1NEh4c2dfSTM3Umw5ZlNMTGlYVzVLb3N1bmtxS3l2aTBvUXg4QlhkNGg0MDRqYUhrN1JtZkNEZURiLTJZbDhHOGZrZUR6V3dSOS1HMkFoWDhkenpQTXdpcWRjVXcweVVKM3REWXc0U3oxSlh2WFBHdXIxeW50ZV9McFpOQzI0VUt0SEE2ckQ5Sy1CQlZVaE50bjRpbjhYVndhbmJlS3pEb0lUN2gzY3ZXZHR6Wnh1aEE?oc=5",
+      "snippet": "Municipales 2026 : le Parlement adopte définitivement la réforme du mode de scrutin à Paris, Lyon et Marseille&nbsp;&nbsp;Le Figaro",
+      "date": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Essonne",
     "commune": "nan",
+    "position": "nan",
     "filename": "julie-ozenne.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Affaires, trahison et famille… Municipale explosive à Vigneux-sur-Seine&nbsp;&nbsp;20 Minutes",
       "date": "Sun, 08 Mar 2020 08:00:00 GMT",
       "source": "20 Minutes"
+    },
+    {
+      "title": "« Hâte de se mettre au travail » : les nouveaux députés de l’Essonne font leur rentrée à l’Assemblée - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZWhzNHQ4bktjaDE0YjFJY2RVSUF4NzNFMl9RN0pudDl1anZGM0RJN29rU3Bibi1hR29aU1R0akZpNjhsVkdOVk05TEhEeVVfbXV1RzR6ek0xWU5LcFZ0RmxIdmNCMDJqNHctOVVHSnotVzFNX2pWeFRwQ2cwamhuUXNBeGU5dkNNa1BvSWhkTWNpZERiclIxOGdrcUZOWDZ3WnhadTViZHRSaHN6ODVlMEJuZGxOcExURzVXM3IydWxXRmJxN2JRTDROaVJsTkNwY0EzMXB6X2lkVW1XM0tZQ2ozNEpYVnprSmVfNk1ISkRVbGV1eVNUcWtRRkJ4M2VkZFVvOGZXZWxfYVNSd2Y0Mw?oc=5",
+      "snippet": "« Hâte de se mettre au travail » : les nouveaux députés de l’Essonne font leur rentrée à l’Assemblée&nbsp;&nbsp;Le Parisien",
+      "date": "Tue, 09 Jul 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Bouches-du-Rhône",
     "commune": "Sénas",
+    "position": "Pourrait être sur une liste",
     "filename": "romain-baubry.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Romain Baubry est mentionné dans le titre de la Source 1 ('Municipales 2026 : le duo RN Baubry/Borges') comme membre d'un duo RN pour les élections municipales de 2026 à Sénas.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Romain Baubry est mentionné dans le titre de la Source 1 ('Municipales 2026 : le duo RN Baubry/Borges') comme membre d'un duo RN pour les élections municipales de 2026 à Sénas.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Romain Baubry est explicitement cité dans un duo RN pour les municipales 2026 à Sénas"
+      }
+    ],
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T10:21:40.238720Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Romain Baubry est explicitement cité dans un duo RN pour les municipales 2026 à Sénas\"}\n    ]\n}\n```"
   }
 }

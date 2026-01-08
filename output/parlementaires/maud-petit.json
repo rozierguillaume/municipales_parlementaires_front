@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-de-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "maud-petit.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Municipales 2026 à Châtellerault : qui est Maude Locko, candidate à la candidature à gauche&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Fri, 07 Nov 2025 08:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Rachida Dati, candidate aux municipales de Paris, soutenue par le MoDem - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbzIyVWtlb0R0MXctdm9FeFYxb1oyY25QZjZsdGo1YkhQMXlfeU0zMmRQUnByQUZCejViYkl5cVptdkFuSkFScHVOQUVrblpUeXM4Rlo5Zjk1ZE5jWmdYTU9Gemg4dVNUMDBRdXdpSEsxN21UNy1vTXdtWGNULVRBenJhWUEzYklRakVnYzJOTndiX3dfQ1NhazJVbFJxVWtvOUY1N2N0YVluUTYyeERGc2ZOb0diZUxKaEVoalRfXzZUQ3lQLW1yR25qZGVRa3ZiU21ISnJKRlN0OGc?oc=5",
+      "snippet": "Rachida Dati, candidate aux municipales de Paris, soutenue par le MoDem&nbsp;&nbsp;20 Minutes",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "source": "20 Minutes"
+    },
+    {
+      "title": "À Paris, le MoDem se rallie à Rachida Dati en vue des municipales - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMU4wRnFWaW9oT1V2ZHhlYmFtTW12UndMRDNyRGpDakFQY3dxekRLWDhMTXNERmM3THpqdV9HeVRoRVlyMVVpQXBYS2RoWFVxY29LaXV5eENjT0tlSXEwVkxnbE9Dd0l6UUl6ZG85YS1ZU0xNTzNDbktZeVlMbkkwelR4Y05qLVpJMmw3ekFyTzBRVFVjNlVWRHlNMUZZb2VldnNodzlUNUJLOGRHZ1pJQVhPQkhVNVk1V040OEEybU5SV0xZTFJodTlKRzE3MXItWWppS2dDN0NiRlZhVzZsaUxZS2wwdw?oc=5",
+      "snippet": "À Paris, le MoDem se rallie à Rachida Dati en vue des municipales&nbsp;&nbsp;Ouest-France",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

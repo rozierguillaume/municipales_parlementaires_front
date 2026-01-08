@@ -5,9 +5,10 @@
     "nom": "HERVIEU",
     "prenom": "Céline",
     "full_name": "Céline HERVIEU",
-    "parti": "PS",
+    "parti": "LR",
     "departement": "Paris",
     "commune": "Paris - 6ème arrondissement",
+    "position": "Pourrait être tête de liste",
     "filename": "celine-hervieu.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Exit le premier adjoint et le dauphin d’Hidalgo… La liste d’Emmanuel Grégoire pour les municipales 2026 à Paris&nbsp;&nbsp;Le Parisien",
       "date": "Fri, 21 Nov 2025 08:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "La députée de Paris Céline Hervieu dépose une proposition de loi pour instaurer le droit de vote à 16 ans aux municipales - Libération",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOTkhXeUs1bTJ5bk5CRzUtemJBWEF2bjg5V0lycGVNUkdfWHdUcU1aZGFqRXBialRaQm5hN2JJcTlISGs4RVlDdDJGZXlQMVkzdUhLUWI5TDhxZ0F6bDNNUTdOSVBkVXpDTml4M0kwRXFfek1tSzRrYm1pYXRNcmllYXNWTE1XNWRRZWJsbU44dHdodzhOb1ZoZm5XelF2Wi1DbnBKZ3R5bkNpZHd2QmdhSVlHekw5TEhNS2JMVzZtOWk5UXR1U2c1NmhCeV9BM3IyVGV5ajhPeGowbkJheXAzRTRSUGQ5aUN2MlRHRWl5UWJYNnVxb3UwZUFqV3hmM0NFLVpsQzNfUkhtcFdxMTBvbWdxN2F1X2lRYkY0d0xfMA?oc=5",
+      "snippet": "La députée de Paris Céline Hervieu dépose une proposition de loi pour instaurer le droit de vote à 16 ans aux municipales&nbsp;&nbsp;Libération",
+      "date": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "source": "Libération"
     },
     {
       "title": "Municipales 2026 à Paris: après plusieurs mois de tension, les militants du Parti socialiste élisent leur candidat - BFM",
@@ -48,8 +56,17 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Bien que Céline Hervé ne soit pas explicitement mentionnée dans les sources fournies, les articles concernent principalement **Emmanuel Grégoire** (candidat socialiste pour Paris en 2026) et des processus internes du Parti socialiste. Aucune trace de Céline Hervé comme candidate officielle ou même comme figure associée aux municipales 2026 n'apparaît dans les snippets analysés.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Bien que Céline Hervé ne soit pas explicitement mentionnée dans les sources fournies, les articles concernent principalement **Emmanuel Grégoire** (candidat socialiste pour Paris en 2026) et des processus internes du Parti socialiste. Aucune trace de Céline Hervé comme candidate officielle ou même comme figure associée aux municipales 2026 n'apparaît dans les snippets analysés.\"\n}\n```"
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Source confirme explicitement que Céline Hervieu est candidate sur la liste d'Emmanuel Grégoire pour les municipales 2026 à Paris"
+      }
+    ],
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T10:20:09.637551Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source confirme explicitement que Céline Hervieu est candidate sur la liste d'Emmanuel Grégoire pour les municipales 2026 à Paris\"}\n    ]\n}\n```"
   }
 }

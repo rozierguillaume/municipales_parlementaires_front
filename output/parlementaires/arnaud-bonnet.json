@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-et-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "arnaud-bonnet.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives en Seine-et-Marne: Battu de 4 voix, Arnaud Bonnet dépose un recours contre l’élection d’Hadrien Ghomi&nbsp;&nbsp;Le Parisien",
       "date": "Wed, 29 Jun 2022 07:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Lever le tabou de l’inceste parental et des «mères en cavale» : des députés prêts à lancer une commission d’enquête - Libération",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOenNXNGdZY3RSUUFLRTJyMHA5VElfVzlkRTcxckEtZWdnMW14cUVJdTFGY0hDZkRCSm9UWmpudEkwcU10dlh0dkx1eUJ0VG53ZHE1WjJYdjRSNUxpQl9NQ3VQSFd3enpHeVpVZFlKNTZLamhmcndVanMtM1ZmdGl6VFNNemhwZDRPM2FmeTlIRy0wUU5EVnpocWplTkV6Q25MNExIME5nVGg5VkU3Y0kxSkhtZGFBNkJYaTdLMmtQRWJFNkFRTkE0OERkWXREeklNV3V3cUFINGhVMWRnejIzUm13QkhHOTF3TkJQdDdKcmE3dWF2a0V0Qnlpdm1EcXdualdzNFBvcURWdDh1OUY4?oc=5",
+      "snippet": "Lever le tabou de l’inceste parental et des «mères en cavale» : des députés prêts à lancer une commission d’enquête&nbsp;&nbsp;Libération",
+      "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

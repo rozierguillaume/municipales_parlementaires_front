@@ -8,9 +8,17 @@
     "parti": "PS",
     "departement": "Ille-et-Vilaine",
     "commune": "Rennes",
+    "position": "Tête de liste",
     "filename": "marie-mesmeur.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 à Rennes. Embouteillage à gauche, pas de front commun à droite et la menace d’une abstention massive - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQWxGWjRxRGpqcHFmUG5HTXdKS29hZkIyNG1vZER4VFF6X3BKdGJqR2VQMDNndHBWb3FVM3pTbFBWVEowckZORXJuOGczNUxOakpUb2VXbjdyN05wMExfc2lxSDdDTG5HU1lSanRoTDFzay1nRVYxd1pUdVZGY0VsazNOM2xpTlVCYlVwNEh2YWN2cUZCVlpPWXd5YTNWR0NZQ3hEbUJlNXhMNmpLWlpoVFUzLTJ4UXpUa0tlNkdBVDR1d3BFajYzQ3Q4bGd6NUhER3h5WDBDcUFjTEppeVZwWTlNWWd4UWlVZkh2a2VNdndQVi1rODJDclNCdnMwVGxwcGRaQ0R0Z2RCMHhoUl9UY0NxazNMOWpDdVZvdlQydmdVTVE0MzZaaA?oc=5",
+      "snippet": "Municipales 2026 à Rennes. Embouteillage à gauche, pas de front commun à droite et la menace d’une abstention massive&nbsp;&nbsp;Ouest-France",
+      "date": "Wed, 07 Jan 2026 15:06:43 GMT",
+      "source": "Ouest-France"
+    },
     {
       "title": "Municipales 2026 à Rennes : quel scénario pour le second tour à Rennes ? - unidivers.fr",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9va1pjdHVGaE1lZ2hRSHp4TndicldFWTkyWDhtNS1OVENtd0U2UnVlaFVfbjVQaWVDUGxVS0xQQTF5MHpqeEU5UXJ4bmVvOHN2bDhTT2tHVGc?oc=5",
@@ -48,8 +56,17 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 (Actu.fr - 21 Nov 2025)\",\n            \"texte\": '\"Il est temps de faire mieux !\" : Marie Mesmeur candidate aux élections municipales de Rennes en 2026'\n        },\n        {\n            \"source\": \"Source 5 (Ouest-France - 13 Jun 2025)\",\n            \"texte\": \"Pour la députée Marie Mesmeur, un pas de plus vers une candidature insoumise à Rennes ? (contexte vers 2026)\"\n        }\n    ]\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 (Actu.fr - 21 Nov 2025)\",\n            \"texte\": '\"Il est temps de faire mieux !\" : Marie Mesmeur candidate aux élections municipales de Rennes en 2026'\n        },\n        {\n            \"source\": \"Source 5 (Ouest-France - 13 Jun 2025)\",\n            \"texte\": \"Pour la députée Marie Mesmeur, un pas de plus vers une candidature insoumise à Rennes ? (contexte vers 2026)\"\n        }\n    ]\n}\n```"
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 4,
+        "explication": "Source explicite confirmant que Marie Mesmeur est candidate aux municipales de Rennes en 2026"
+      }
+    ],
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:16:58.748692Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Source explicite confirmant que Marie Mesmeur est candidate aux municipales de Rennes en 2026\"}\n    ]\n}\n```"
   }
 }

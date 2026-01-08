@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Haute-Vienne",
     "commune": "nan",
+    "position": "nan",
     "filename": "manon-meunier.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "En Haute-Vienne, les municipales se jouent derrière les législatives : \"Si on se désiste, le RN passe\"&nbsp;&nbsp;Le Populaire du Centre",
       "date": "Mon, 01 Jul 2024 07:00:00 GMT",
       "source": "Le Populaire du Centre"
+    },
+    {
+      "title": "Manon Meunier, la députée insoumise anti-abattage - Libération",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQTdrY3ZtazVic3drdlAzY1J3MEktYzJHVExEa0QzZ25EMFdTU3E3b2ROWWZudjlCTjAyX1NZdW93VmdvcUJEMm5JOUs2SFRUSW1HSGE5dk5IR3NJYl9oMTI2eDlJdmdObkNUbTFKbkNOYWJjNFY2Z3lQRUgxWVR2bVhBMnFYMTdLQlpVX0dVZ2FwQ0FncmNxbG1aMkEyRks2MWpXU1gxQkktWnlvWDh1NWswYlJYWmQ4SjNhaFBR?oc=5",
+      "snippet": "Manon Meunier, la députée insoumise anti-abattage&nbsp;&nbsp;Libération",
+      "date": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

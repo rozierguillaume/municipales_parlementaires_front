@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Ardennes",
     "commune": "nan",
+    "position": "nan",
     "filename": "pierre-cordier.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Municipales 2026: séance tumultueuse à l'Assemblée au sujet des listes paritaires et du mode de scrutin&nbsp;&nbsp;BFM",
       "date": "Mon, 07 Apr 2025 07:00:00 GMT",
       "source": "BFM"
+    },
+    {
+      "title": "Municipales 2026 : une Assemblée divisée valide le scrutin de liste paritaire pour les petites communes - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbV9iMVhCS2JFcnJEZ2paTVh3VzhSZHZndEdGRUxHOXhPbEpudlRramVOUU05T3JRNXlrQ3FHa2t4Y3dXaHVMUWJjbUlPVHpWVmd6VmRXcGRsZGM0V1JHRzdUWVJZaUwwS2VCdGlTbVNmQmFEbWF6c2l6c3U2OGR0blliTGJ1SG8zMnZncHVDbTV1a1FkTkJqQTNTN3E5dFY4a1VvUk90OEdPX2puSUpyWDFPLVpkdmhjN0pTeG8wNzZmOTllQU1Ib3JwYUc3ekMydkZtaEtpTmdWR2lZQjlXMkVRdHZMZm5HZkFKVlNsVVpYYVh0Mm45cjRNMm03TU0wRm5V?oc=5",
+      "snippet": "Municipales 2026 : une Assemblée divisée valide le scrutin de liste paritaire pour les petites communes&nbsp;&nbsp;Le Monde.fr",
+      "date": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "source": "Le Monde.fr"
+    },
+    {
+      "title": "Municipales 2026 : Pierre Roumilhac, maire de Blanzac, ne se représentera pas - Le Populaire du Centre",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdFJZbDAtNnhxSFI5d1hVWi14SVYzMGsyQjhtVkNkQmo3T2xPY2hjOWMxVFFFRUZpYWxWd3QyRGJyZzd3WDZ3bW4wTWRiRXRteW80VnJnX3o4NGR1RC1hUHpIMW9Ha19QSFhKRE45VzR2WUktaUlaM3NyeXNqUERreFNRRUozZDJZNGdhTkYxMy1ES3FjYjBaRFpzWFN6V2lLUWlNQWxCVkxza3loVGZzMURhSG53WTdWNDJMNG5lVk5UaC1odUpmdEU5ajlpRm0t?oc=5",
+      "snippet": "Municipales 2026 : Pierre Roumilhac, maire de Blanzac, ne se représentera pas&nbsp;&nbsp;Le Populaire du Centre",
+      "date": "Thu, 17 Apr 2025 07:00:00 GMT",
+      "source": "Le Populaire du Centre"
     }
   ],
   "analysis": {

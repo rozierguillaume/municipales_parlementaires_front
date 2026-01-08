@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Gironde",
     "commune": "nan",
+    "position": "nan",
     "filename": "sophie-mette.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Municipales 2026 en Gironde : à Bazas, qui voudra affronter Isabelle Dexpert ?&nbsp;&nbsp;Actu.fr",
       "date": "Wed, 08 Oct 2025 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Condé-en-Normandie : Sophie Brion annonce sa candidature aux municipales de mars 2026 - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQldpYkg3Z2pzLTF0OEJ5VjAzZHJRT1I4M3BQRnBTSDczV1B5OURYX0hMRHJka010XzFWTGJ5RmNoYWVobTVjM2k0alBYV2tHOHBDUlR2ejRodVFOYXoxYmtqTWdNaTgyVVJrTlZzN3hTQmdSLVZGYllteFZPQ3BiMnQ0dDJpVWQwRGI3WUZhVk1ESko1QThvX0tFem4zeml0b2hkVV9YRlZUSzNPVVVfRGRwZ29JUHRtZGxpbFZwaF9rbXZmakFEX085TWVzeGhWTUZQcUU0NExJMXBWNDRvNWwzRkx4N0c3QXNKU3NXY2E2QU9CWFNtZzVVVVZvWDZCQzltZGc4dmwwMTJhSG93LQ?oc=5",
+      "snippet": "Condé-en-Normandie : Sophie Brion annonce sa candidature aux municipales de mars 2026&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales à Paris : la députée LFI Sophia Chikirou officialise sa candidature pour 2026 - L’Écho Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUxLUTJ4bUFNT2JDYlVoSDQzMi04OF9QdV9uWmV6ZUlvbWUwZlo3TVdHb0JqT2xUYlI2N25DS1hxcVdMRG1lNVFBc3o1TGFYdTQwOV9Wb2J6aFdPVnhTUV9BMVJITmhQTjNmd0ZmSXktN2lZQVFPV3E5b0ZlWDRKcllQNV9rcUFWTGpEdnBjVFhZTjAxY3lWNHc3bWNjMTRoX2s5dTBINHhCdzM0NmpPSTFRanIyMzc2NjBuVW9mSVFrT0tlR1l2enhDRlU3bnY1bEN2OEdoQVpHX1ltUFZwTFBiTFVZdnc?oc=5",
+      "snippet": "Municipales à Paris : la députée LFI Sophia Chikirou officialise sa candidature pour 2026&nbsp;&nbsp;L’Écho Républicain",
+      "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "source": "L’Écho Républicain"
     }
   ],
   "analysis": {

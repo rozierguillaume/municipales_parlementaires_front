@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Orne",
     "commune": "nan",
+    "position": "nan",
     "filename": "veronique-louwagie.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Véronique Louwagie est candidate à la mairie de l'Aigle&nbsp;&nbsp;France 3 Régions",
       "date": "Tue, 03 Dec 2013 08:00:00 GMT",
       "source": "France 3 Régions"
+    },
+    {
+      "title": "Cinq ministres pour l'ouverture de la 79e Foire de Châlons, sinon rien ! - L'Hebdo du Vendredi",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1BGbTNxUHhPbkg0XzhzSURaZXZYUjJEdi1qM0JUYXhwc3c5dTJ1S3M2YW1TVmYwUDhiaGRINEtGZmozeFFOM1luNUtucUt3S3JCWlVnLTl6SzRWTURqS1ZmWmtpNXBiem5LQ1F0NnRhcTRmS3FlZFM4d2NpYVQzNzBwRGJaNm1lTDZya004U1ZoVFJhTDdQcTJGR3BRQVBVR2JoT01KZ28xLXE4V1VLYVBQVURJUQ?oc=5",
+      "snippet": "Cinq ministres pour l'ouverture de la 79e Foire de Châlons, sinon rien !&nbsp;&nbsp;L'Hebdo du Vendredi",
+      "date": "Sat, 23 Aug 2025 07:00:00 GMT",
+      "source": "L'Hebdo du Vendredi"
     }
   ],
   "analysis": {

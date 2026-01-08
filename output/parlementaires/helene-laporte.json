@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Lot-et-Garonne",
     "commune": "Marmande",
+    "position": "Sur une liste",
     "filename": "helene-laporte.json"
   },
   "search_results": [
@@ -48,17 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 3 (Sud Ouest - 10 Oct 2025)",
-        "texte_justificatif": "Hélène Laporte est mentionnée comme candidate **sous la bannière du RN** dans le ticket Daniel Benquet-Hélène Laporte pour les Municipales 2026 à Marmande."
-      },
-      {
-        "source": "Source 4 (Actu.fr - 3 Oct 2025)",
-        "texte_justificatif": "Le RN est évoqué comme étant soutenu par sa députée Hélène Laporte, ce qui implique une implication active dans la campagne municipale de 2026."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Hélène Laporte comme candidate officielle aux municipales 2026 dans les sources fournies. Les références concernent des candidats associés au RN ou d'autres figures sans confirmation directe sur sa candidature."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 (Sud Ouest - 10 Oct 2025)\",\n            \"texte_justificatif\": \"Hélène Laporte est mentionnée comme candidate **sous la bannière du RN** dans le ticket Daniel Benquet-Hélène Laporte pour les Municipales 2026 à Marmande.\"\n        },\n        {\n            \"source\": \"Source 4 (Actu.fr - 3 Oct 2025)\",\n            \"texte_justificatif\": \"Le RN est évoqué comme étant soutenu par sa députée Hélène Laporte, ce qui implique une implication active dans la campagne municipale de 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:23:50.221252Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Hélène Laporte comme candidate officielle aux municipales 2026 dans les sources fournies. Les références concernent des candidats associés au RN ou d'autres figures sans confirmation directe sur sa candidature.\"}\n    ]\n}\n```"
   }
 }

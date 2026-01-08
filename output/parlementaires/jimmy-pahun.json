@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Morbihan",
     "commune": "nan",
+    "position": "nan",
     "filename": "jimmy-pahun.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales. Jimmy Pahun officialise sa candidature&nbsp;&nbsp;Le Télégramme",
       "date": "Mon, 20 Jan 2014 08:00:00 GMT",
       "source": "Le Télégramme"
+    },
+    {
+      "title": "Résultats élections municipales Plouharnel [56340] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PYkxCc0k0YlJVTmZOX1UtZXNKNFlwTWdnZ2FiTlJsX0RqX0NDa1BKNUU4anlmS0xOWk5ZV0tWZnNCbDdKWGEzWmJ6SFpwdDVQNlI1TVJCcV9aa3BlcXExWnFOdXFUU3B4SWFMcnRGeW9JNU1tUHg1dVJrdENIMW8?oc=5",
+      "snippet": "Résultats élections municipales Plouharnel [56340] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

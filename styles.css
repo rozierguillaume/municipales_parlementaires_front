@@ -330,6 +330,67 @@ a {
   color: var(--text-primary);
 }
 
+.matrix-cell-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 42px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background: transparent;
+  font-weight: 600;
+  color: var(--text-primary);
+  cursor: pointer;
+}
+
+.matrix-cell-btn:hover:not(:disabled) {
+  border-color: var(--accent-color);
+  background: #eff6ff;
+  color: var(--accent-color);
+}
+
+.matrix-cell-btn.is-active {
+  border-color: var(--accent-color);
+  background: #dbeafe;
+  color: #1e3a8a;
+}
+
+.matrix-cell-btn:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+
+.summary-filter {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.summary-filter-label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.summary-filter-clear {
+  border: 1px solid var(--border-color);
+  background: #fff;
+  color: var(--text-secondary);
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.summary-filter-clear:hover {
+  background: var(--hover-bg);
+  color: var(--text-primary);
+}
+
 .member-header {
   display: flex;
   align-items: flex-start;
@@ -392,6 +453,37 @@ a {
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+
+.justification-card {
+  gap: 12px;
+}
+
+.justification-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-left: 0;
+}
+
+.justification-item {
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: #f8fafc;
+  border: 1px solid var(--border-color);
+}
+
+.justification-source {
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+}
+
+.justification-text {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.4;
 }
 
 .info-label {
@@ -502,6 +594,59 @@ a {
 
 .article-meta {
   font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.article-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: #e0f2fe;
+  color: #0f172a;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-left: 8px;
+  border: 1px solid #bfdbfe;
+}
+
+.article-card.is-used {
+  border-color: #bae6fd;
+  box-shadow: 0 1px 3px rgba(37, 99, 235, 0.08);
+}
+
+.used-articles {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.used-articles-title {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.used-articles-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.used-article-card {
+  padding: 14px;
+  background: #f8fafc;
+}
+
+.used-article-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.used-article-index {
+  font-size: 0.85rem;
+  font-weight: 600;
   color: var(--text-secondary);
 }
 

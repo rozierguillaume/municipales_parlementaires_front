@@ -8,6 +8,7 @@
     "parti": "PC",
     "departement": "Val-de-Marne",
     "commune": "Villejuif",
+    "position": "Pourrait être sur une liste",
     "filename": "sophie-taille-polian.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Sophie TAILLÉ-POLIAN comme candidate aux élections municipales de 2026. Les sources citées concernent principalement :\n    - Des dynamiques politiques internes (gouverne­ment Bayrou, primaires à gauche),\n    - Des initiatives associatives ou collectives (Génération.s et l’Après),\n    - Des préparatifs locaux pour les municipales 2026 dans d’autres communes (Villejuif) sans lien avec Sophie TAILLÉ-POLIAN.\n    Les articles ne révèlent pas son engagement direct ni sa déclaration de candidature.\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Sophie TAILLÉ-POLIAN comme candidate aux élections municipales de 2026. Les sources citées concernent principalement :\n    - Des dynamiques politiques internes (gouverne­ment Bayrou, primaires à gauche),\n    - Des initiatives associatives ou collectives (Génération.s et l’Après),\n    - Des préparatifs locaux pour les municipales 2026 dans d’autres communes (Villejuif) sans lien avec Sophie TAILLÉ-POLIAN.\n    Les articles ne révèlent pas son engagement direct ni sa déclaration de candidature.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Sophie Taillé-Polian ni de sa candidature aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:12:58.418396Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Sophie Taillé-Polian ni de sa candidature aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

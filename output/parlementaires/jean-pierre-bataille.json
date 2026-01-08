@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Nord",
     "commune": "Steenvoorde ",
+    "position": "Pourrait être sur une liste",
     "filename": "jean-pierre-bataille.json"
   },
   "search_results": [
@@ -51,14 +52,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 – Nord Littoral: Aucune mention explicite de Jean-Pierre Bataille dans le contexte des Municipales 2026.",
-        "details": "Le snippet parle d'une cérémonie obligatoire pour la campagne mais ne cite pas explicitement Jean-Pierre Bataille."
-      },
-      {
-        "source": "Source 5 – Paris Normandie: Mentionne Jean-Pierre Ogier, pas Jean-Pierre Bataille. Aucune référence à ce dernier dans le contexte des Municipales 2026.",
-        "details": "Le titre et snippet concernent une autre personne (Jean-Pierre Ogier) et ne mentionnent pas Jean-Pierre Bataille."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Jean-Pierre Bataille comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres villes ou des sujets indirects (organisation des élections, préparation locale)."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 – Nord Littoral: Aucune mention explicite de Jean-Pierre Bataille dans le contexte des Municipales 2026.\",\n            \"details\": \"Le snippet parle d'une cérémonie obligatoire pour la campagne mais ne cite pas explicitement Jean-Pierre Bataille.\"\n        },\n        {\n            \"source\": \"Source 5 – Paris Normandie: Mentionne Jean-Pierre Ogier, pas Jean-Pierre Bataille. Aucune référence à ce dernier dans le contexte des Municipales 2026.\",\n            \"details\": \"Le titre et snippet concernent une autre personne (Jean-Pierre Ogier) et ne mentionnent pas Jean-Pierre Bataille.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:17:07.640622Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Jean-Pierre Bataille comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres villes ou des sujets indirects (organisation des élections, préparation locale).\"}\n    ]\n}\n```"
   }
 }

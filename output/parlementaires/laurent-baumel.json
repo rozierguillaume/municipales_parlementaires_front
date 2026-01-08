@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Indre-et-Loire",
     "commune": "nan",
+    "position": "nan",
     "filename": "laurent-baumel.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Le Parti socialiste lance \"une grande consultation citoyenne pour Tours\" à un an des municipales&nbsp;&nbsp;francebleu.fr",
       "date": "Fri, 21 Feb 2025 08:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Déclaration de politique générale de Sébastien Lecornu : «Nous ne censurons pas le Premier ministre», confirme Olivier Faure - Libération",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZW1UaVRpb1pSQWtiOHdlSlJSLVZON24zU00wdTg2dkJnaVJjUm1WV2ZOWXM3cU1rMkRhOHRPQ3NVMXp6UlE0eEI2TEtVeDVWSEpvU2paYS1BUmdYSndPNWY3UDdraVlNTDdnb0hVTnR5bWthY3dfYzlZeS1tdVN0Uk8tRWlDMWdKQlpTSjVRTVVCc1ltdldfMVRWbU5laXVDei1oR2M4N3JlMmZ5MDRhd0FldVdUZVlhNW9pZjg4VTZMX2VVVVJqRHBwR2pJREdIQVY1dWpXY2YwYXMwZE5VVE05cGM0YTJEazhFeVliaDEyOU9IQ2pUUWMxaGdwSU4xc2s1azVQUFIwSFRWdFhwUWpCWHY?oc=5",
+      "snippet": "Déclaration de politique générale de Sébastien Lecornu : «Nous ne censurons pas le Premier ministre», confirme Olivier Faure&nbsp;&nbsp;Libération",
+      "date": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

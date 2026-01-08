@@ -8,6 +8,7 @@
     "parti": "?",
     "departement": "Savoie (LEGPART)",
     "commune": "?",
+    "position": "?",
     "filename": ".json"
   },
   "search_results": [
@@ -45,6 +46,34 @@
       "snippet": "Les municipales 2026 à Paris, des élections sans précédent&nbsp;&nbsp;Le Monde.fr",
       "date": "Mon, 05 Jan 2026 12:00:03 GMT",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "Municipales 2026 à Paris : Sarah Knafo, l’eurodéputée de Reconquête !, annonce sa candidature - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb2IzUkZpT3d3MVBCdHg0aXhSdXhLNnlsRDR3akpOOVZTdWtacUxlVi1uNHlFZVlBYWR6dWdFbGcxeE9BOURseDBpRFB0bFFqV0cxNlgxOHRBeUpTT2ZRR09HNkUzLVhjVzhDUl9jaVlyY0ZsdGw1cm5RUExFamNLYmtxdGtVZXluaHNrNVJJWGVCaVRybnhiNDdGNWh6NGRGOUVuZVAzVjZldy0tcGJVSVR6MEtINjI2UTlZSnA3bnIzdUlIdWxsTi1xNWF4dzhrYUJiYVQtV3BDcXFWWUVqcEkyYkgtZTREalFUQVQ4X2tpMzBNaVdIYk1FTmlSTWNqcWtzT3M5ZjA2RjVs?oc=5",
+      "snippet": "Municipales 2026 à Paris : Sarah Knafo, l’eurodéputée de Reconquête !, annonce sa candidature&nbsp;&nbsp;Le Monde.fr",
+      "date": "Wed, 07 Jan 2026 20:00:13 GMT",
+      "source": "Le Monde.fr"
+    },
+    {
+      "title": "Municipales 2026 : Sarah Knafo, eurodéputée Reconquête, annonce sa candidature à la mairie de Paris - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTDd3a09McWVEOERqdEFBalFUS1hLdzNLajdpNzBzWW13N0pLVzlGTmN4VUxabGtkNkkyWTl3T0UtLVJvOGl0MlR1V1pzT2lnRVlzRVJNemhIcW5rZkJ3cnA2aS1FN0hwRWwtOGZyMkxFd1B6OXl3ZmFEWXFERWVTS3FJcTFybWVIWThsZVMwX3lkeDMxSEFMTVd2TjgxcVFyTTAxWlNJdnRKNFlqUjNwclhjSURZb3lFaWFzdGUwTk5MWno2YldjaWx6aGpfejdmbEFDbnRSUkpKSC03MUZFaEx0ZlFVU184dzlsaQ?oc=5",
+      "snippet": "Municipales 2026 : Sarah Knafo, eurodéputée Reconquête, annonce sa candidature à la mairie de Paris&nbsp;&nbsp;Franceinfo",
+      "date": "Wed, 07 Jan 2026 20:10:43 GMT",
+      "source": "Franceinfo"
+    },
+    {
+      "title": "Municipales 2026 à Paris : Sarah Knafo annonce sa candidature à la mairie - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbl9rSnF1cy1mXzFjcDA4SE1yNFI5dndEZnNHQktJd1UycmU1cUdENG9TM182TE1GLXhHQVlhSk5pRTEwSG9YMDFlMkJVeE92VDF0T1BSMXMyQ2d1c010dEQzcGtnWjJOYlN5S1VPY3RfaFlKTHFXTnBoQ21JdUhUX1U1ZV8xR3R1WVB3MmlzLXZ0aTFmV3JoeWVCQ2YxU0E2M0Y2cVZiTERVa3pQdVkzMk4ybUU1dXdhWXM0WFJFMlRmdWJ1VzlVVFNhaUJsV2xkZDZKNExvNkpMa2ViVlZTYWhldDVxNTJWdURyTDdFZzU0OVk?oc=5",
+      "snippet": "Municipales 2026 à Paris : Sarah Knafo annonce sa candidature à la mairie&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 07 Jan 2026 20:01:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Municipales 2026 : le candidat Arnaud Le Dantec organise une réunion publique le 15 janvier - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVHBWSDFSR1phMjlvclNyR3FRUGhKVXFoQlR3YTRSTnhiZDJBOV9nTHprWmNLUEZkNzQxUFVTb1RlU2hWZXE1WGlKbEF3aTdNa1ZobHNIejFoQ0p0VFk5X0NPSkJOYVFxV29ROEhCd2JhWHJwTGoxNUtqTHNlSUJTRHZpT25pM0IyT0w0R1VkcDM2bnNZdUJ4VUd5cHNZLTgwa0FKUDlKcThKc1gzY0tmakF6aGNyVG1KM3oyTEhfOHl4d2Y5SE40cW1MVS12SGFodnNsdmZZeVVkQWU0VzVWREFLSnVkc1U3R0Nv?oc=5",
+      "snippet": "Municipales 2026 : le candidat Arnaud Le Dantec organise une réunion publique le 15 janvier&nbsp;&nbsp;Le Télégramme",
+      "date": "Thu, 08 Jan 2026 09:19:03 GMT",
+      "source": "Le Télégramme"
     }
   ],
   "analysis": {

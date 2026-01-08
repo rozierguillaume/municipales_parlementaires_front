@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Gironde",
     "commune": "nan",
+    "position": "nan",
     "filename": "alain-david.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Romans-sur-Isère – David Buisson candidat pour les municipales 2026&nbsp;&nbsp;L'Impartial de la Drôme",
       "date": "Thu, 06 Nov 2025 08:00:00 GMT",
       "source": "L'Impartial de la Drôme"
+    },
+    {
+      "title": "Municipales 2026 : la liste « Trévien ensemble » entre en campagne - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMy1NOU9aZjhKNnNiRU1RekRhOUVLc1dUbGdXUWR1SnphN00xMXhGUExidVh1amdGYXlHZzVkM3BHM210OFlQWkFlSmtRSVQ2aW1oREx6aS0zM2tvVm53T0RDbXFpcjdteDVMd2lTR2xEekVldVJXZXBpdWhLc0toS1R5VFRra3JRQkJtVzlHazVfblRJa2xyemZWSnN6aVYxOFl4WUhUYWxWQzlQQ1E?oc=5",
+      "snippet": "Municipales 2026 : la liste « Trévien ensemble » entre en campagne&nbsp;&nbsp;ladepeche.fr",
+      "date": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "ladepeche.fr"
     }
   ],
   "analysis": {

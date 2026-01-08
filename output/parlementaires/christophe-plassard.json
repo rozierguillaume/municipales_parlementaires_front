@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Charente-Maritime",
     "commune": "Royan",
+    "position": "Sur une liste ",
     "filename": "christophe-plassard.json"
   },
   "search_results": [
@@ -40,6 +41,13 @@
       "source": "Sud Ouest"
     },
     {
+      "title": "Municipales 2026 : les versements de l’Etat aux communes pour assurer l’organisation des élections seront-ils revalorisés ? - Le Courrier des maires",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVVRWd0dMbXlQMEJBa1JxSTZoN0lfU2dHYzJiaDVKbkZTNllDR051eUd0TDgwc1NOaXFqdTA3WVpzT2Jic3ljWE1melB4UXJrRGpuRkZ1NGM3eUV4ZnF1YlZKczBKNlRrbGdxeTcxQVVjdklaclBYSXUtTjByS3pxMVp4V2hvZnJhb2RJQmZYS2FGVC0tLUVzX0N4eFBMYkh1aHVzUkRUYV9hMzAtQzVSYW9wSTZ3THozdmVrMTlPWmNFRDk0dDFzbWIwMVhSMzVCb05DZzBjN2FwNVkzY0NhRjg0ZXdBeEhPNW1ldTdfR21jNXBDbTVDWVZB?oc=5",
+      "snippet": "Municipales 2026 : les versements de l’Etat aux communes pour assurer l’organisation des élections seront-ils revalorisés ?&nbsp;&nbsp;Le Courrier des maires",
+      "date": "Thu, 12 Jun 2025 07:00:00 GMT",
+      "source": "Le Courrier des maires"
+    },
+    {
       "title": "Municipales à Royan : pour Thomas Lafarie et Christophe Plassard, l’option d’une alliance avec le maire sortant - Sud Ouest",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZjdRZnV0aUdJdUE5MjFDT0tjSzhYYTBVZ3NreWpXUElsei16WGlPcHEzSWh5WDlwU19Nc2lYRVVJSHdYdjNDSktsQzdKOWlva25menl5NHUtTG5oS3VHSGF2X1ZyMnNWZG9BQmIteXhpOUxZbDdQMkFYWk9CN0NtdUx0X2pqZWhEWHpCX0E2VkljbG1USENRT2p1UHp2VmRjV3pjZW5yUzIwZXViUUhyczBSSFlfSGxyek9mS2k2akdHYTh4QzNqdWZQQXZjcVBTNURiSUhwRGNsMnlxZFNCa0Vta0VBR1VVVVFqLU9lTjFNTFdIdXNzd2RHS1V0Zw?oc=5",
       "snippet": "Municipales à Royan : pour Thomas Lafarie et Christophe Plassard, l’option d’une alliance avec le maire sortant&nbsp;&nbsp;Sud Ouest",
@@ -48,8 +56,27 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources ne mentionne explicitement Christophe Plassard comme candidat officiel aux élections municipales de Royan en **2026**. Les articles concernent principalement :\n    - Des alliances politiques avec le maire sortant Patrick Marengo (sans confirmation d'une candidature personnelle pour 2026).\n    - La formation de listes ou candidatures potentielles pour des élections futures, mais sans date précise de 2026.\n    - Thomas Lafarie et Jacques Guiard sont cités comme figures associées à ces dynamiques, mais pas Christophe Plassard en tant que candidat officiel. Les sources se limitent aux mois de septembre 2025 (élections passées ou contextes récents).\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources ne mentionne explicitement Christophe Plassard comme candidat officiel aux élections municipales de Royan en **2026**. Les articles concernent principalement :\n    - Des alliances politiques avec le maire sortant Patrick Marengo (sans confirmation d'une candidature personnelle pour 2026).\n    - La formation de listes ou candidatures potentielles pour des élections futures, mais sans date précise de 2026.\n    - Thomas Lafarie et Jacques Guiard sont cités comme figures associées à ces dynamiques, mais pas Christophe Plassard en tant que candidat officiel. Les sources se limitent aux mois de septembre 2025 (élections passées ou contextes récents).\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Pas de mention explicite de candidature aux municipales 2026"
+      },
+      {
+        "source_index": 3,
+        "explication": "Alliance évoquée dans un contexte politique local sans confirmation directe pour 2026"
+      },
+      {
+        "source_index": 4,
+        "explication": "Christophe Plassard mentionné dans une alliance avec Marengo mais pas de confirmation de candidature officielle aux municipales 2026"
+      }
+    ],
+    "used_sources": [
+      1,
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:14:34.507237Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [1, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Pas de mention explicite de candidature aux municipales 2026\"},\n        {\"source_index\": 3, \"explication\": \"Alliance évoquée dans un contexte politique local sans confirmation directe pour 2026\"},\n        {\"source_index\": 4, \"explication\": \"Christophe Plassard mentionné dans une alliance avec Marengo mais pas de confirmation de candidature officielle aux municipales 2026\"}\n    ]\n}\n```"
   }
 }

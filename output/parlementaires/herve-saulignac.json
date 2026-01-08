@@ -8,9 +8,17 @@
     "parti": "DVD",
     "departement": "Ardèche",
     "commune": "Privas",
+    "position": "Pourrait être tête de liste",
     "filename": "herve-saulignac.json"
   },
   "search_results": [
+    {
+      "title": "Émile Roger Lombertie, candidat ou pas aux municipales à Limoges ? On vous explique pourquoi les annonces tardent à venir - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNbzhsTzEyeUV4Q0Y1MGFjTTkyenYwNzZ6LTltQzNMNjVqSGo5enZOb1JoNzdoMVhvZmswSVpBX2lHb1pXbEVRWkFzYnhVZEFLMk1ySXlLMFZCY20weXN5QTlMaFdyYU01VU43cU9McWN3RG53b1hOZUNkZEp3Z3NTMTNrNkRjeXlvZTJjMWpZamxWb0pjZ1IxSThMUkFJSVpuNVNLNlhUQ0VZQWlyYnNvQkxaaF9DV0ppRjVpcjBOOWc4UGlTV18zb1l3OVdfczlId1NJVlp3eG41WDF0Z1ZPTkdyRUlfci14Z3RPZ1U0UmFkYjA4WFVxZ1NEc1JGZzBzQm9sQW4xYUZrcmdHUWkteDAyWXRocVk2eWlLWDhyQTF1UXUtd2hQNjJMNENiTUo3VmR3?oc=5",
+      "snippet": "Émile Roger Lombertie, candidat ou pas aux municipales à Limoges ? On vous explique pourquoi les annonces tardent à venir&nbsp;&nbsp;France 3 Régions",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "source": "France 3 Régions"
+    },
     {
       "title": "Municipales 2026 : Céline Porquet en binôme avec Jean-Marc Serre - e-tribune.fr",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYkRsbVo2c2d1NnN0LTBXWE9SLWc4U256R3dhM3hPZEp6dWJWWVVHbHFEaTQtTmlfYnl5aVluQ1ZpMk1QYlI0QzFrcnNvZ0NSdlJseG5Wb0hBSG9WNm5BclRtelZ1dTVsdFNwX2NnaHFDNVNDd0gyTHhFN0VCbVI3WFhSUDFDa0YzVmE2SHVtTjF3MDcyZkVkbGhoczg2cWxsSElCMTN4QkIzSUg0X3FkUFIxeDJ3cEgwZHFyU01YOFVYZXJGNkFsSnNGMUhfa0R3LXVVd0M0ajEzaWZFUmIwanVkOA?oc=5",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": "La source **Source 5** (Le Dauphiné Libéré - 1ᵉʳ mars 2025) mentionne explicitement que le député Hervé Saulignac est candidat aux **municipales de 2026 dans sa ville natale, Privas**.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"La source **Source 5** (Le Dauphiné Libéré - 1ᵉʳ mars 2025) mentionne explicitement que le député Hervé Saulignac est candidat aux **municipales de 2026 dans sa ville natale, Privas**.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Hervé Saulignac comme candidat aux municipales 2026 dans les résultats fournis"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:01.438303Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Hervé Saulignac comme candidat aux municipales 2026 dans les résultats fournis\"}\n    ]\n}\n```"
   }
 }

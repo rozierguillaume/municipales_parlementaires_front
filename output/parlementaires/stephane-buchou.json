@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Vendée",
     "commune": "nan",
+    "position": "nan",
     "filename": "stephane-buchou.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales. Daniel Laidin est candidat à Notre-Dame-de-Monts&nbsp;&nbsp;Actu.fr",
       "date": "Fri, 21 Feb 2020 08:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2020. Claire Legrand donne sa vision des Sables-d’Olonne - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWZQME9fbnlibVdKM1JMTnM4NHZaaHhrX2FNSkh4cG5ocXJES1czLXowR1VFbnlkX3p5SHRENjN6WkJLeHFzcGd4bmhrUlN4LV94SVB1LURkLWFaZGlkTDByZW1PTUloTTRGUjFVUUFZUXpuYm5Na0FTaWJHWnJIdXo0ZlZ2d3pVN1g4cVduR2ptaVNqVVUyLUdrNmhLZUxKb3htUmo3eE1Jeng3S29aT3BqMW05T2tnRkxvYXUwTk5fcTQ?oc=5",
+      "snippet": "Municipales 2020. Claire Legrand donne sa vision des Sables-d’Olonne&nbsp;&nbsp;Ouest-France",
+      "date": "Wed, 23 Oct 2019 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

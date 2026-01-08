@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Finistère",
     "commune": "nan",
+    "position": "nan",
     "filename": "didier-le-gac.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 : Didier Le Gac, Ensemble, en tête à Brest Rural, face à Martine Donval, RN&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 01 Jul 2024 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "« Il est temps de passer le relais » : à Lampaul-Plouarzel, Michel Jourden ne briguera pas un nouveau mandat de maire en 2026 - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOVlJaLWpuVFFMTk1DZHF6d3ZCdkwxZ0NXVnF5WnJMRG9jMmYzenJmdGp6SVdMVFdOYzlwVTFXbDVwVDZ0blJwS2FUS1AxcFZjWm8zb1kxMFFFUjBFU0J5QWxwVVR0VERqZVZxTVpNUWtEZGZOcHR5c0hlVzcyWHpXN1hnWE0tNjQ3RlN6RzNENG45TFFNdDVfSmtOZGFyR0dWVS16LUZjUWllTHk5My1KRDFiaENRcUVxR3Y2UUpXcEEtRmRVVnlUY1NxWEFOcnJ2RFFzQkZHZUxhMmhSOVFJM1NxVVJCckMwVUhzQnRjUG1VVlpoeTNXdDlhek1wZTV4bGMyYUJWbkNlcGVsSHVtYkstNWl2QXlKWHE3aA?oc=5",
+      "snippet": "« Il est temps de passer le relais » : à Lampaul-Plouarzel, Michel Jourden ne briguera pas un nouveau mandat de maire en 2026&nbsp;&nbsp;Le Télégramme",
+      "date": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "source": "Le Télégramme"
     }
   ],
   "analysis": {

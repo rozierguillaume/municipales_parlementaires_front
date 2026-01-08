@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Lot-et-Garonne",
     "commune": "Villeneuve-sur-Lot",
+    "position": "Tête de liste ",
     "filename": "guillaume-lepers.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Municipales 2026 à Villeneuve-sur-Lot : les candidats dévoilent pour « Sud Ouest » un axe emblématique de leur programme&nbsp;&nbsp;Sud Ouest",
       "date": "Thu, 25 Dec 2025 08:00:00 GMT",
       "source": "Sud Ouest"
+    },
+    {
+      "title": "VRAI OU FAUX. Municipales 2026 : la permanence de campagne de Guillaume Lepers a-t-elle respecté les règles - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSFQ0dkVKb1p1VlV3YU5MLUtNZzBlVzk4ZWNKT2g5MU12YTZ1V3JObVc4eGt5bkFrb3l0LVR2WVNBY3EtRWdPVkNhWW9XNkFrUVdzbGkxYllGSV96SzZBQXYyR3NwUUx2R2VOUFVsYThWRkkzMlNiSnAyZmt1WEJxRlJ1eVQ4dXNUT2FKVFdzakVLMDBhQWRzZGZ5UWZEczE2RGxJc3VlRWw3UE1kNUNDeVpad0tMMTB6QVlvaHp6a25EZkpPcHdTdnY3eFRjOGhrTDdwTkpTWUVBMmxxaUFYcndENUdmQQ?oc=5",
+      "snippet": "VRAI OU FAUX. Municipales 2026 : la permanence de campagne de Guillaume Lepers a-t-elle respecté les règles&nbsp;&nbsp;ladepeche.fr",
+      "date": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "ladepeche.fr"
     },
     {
       "title": "Municipales 2026 : \"J’avais pourtant demandé le cumul des mandats pour Noël…\" comment Guillaume Lepers a fait le choix de Villeneuve-sur-Lot - ladepeche.fr",
@@ -45,20 +53,47 @@
       "snippet": "Municipales 2026 à Villeneuve-sur-Lot. « Je suis candidat à la mairie » : Guillaume Lepers brigue officiellement un second mandat&nbsp;&nbsp;Sud Ouest",
       "date": "Thu, 04 Dec 2025 08:00:00 GMT",
       "source": "Sud Ouest"
+    },
+    {
+      "title": "Municipales 2026 : le député Guillaume Lepers sera bien candidat pour redevenir maire de Villeneuve-sur-Lot - PetitBleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT2dGcVB2V2JYQ3l4X2lnaTZSb0ZScUNuT01yR3hxQW9QQ3I5T3VsS2xjUU5wREVXT2dyZUVmbmRqRUUzUmpaZzBtbWJtWjhoOFhyLWxOdm51M2hKSW8tV3dNcXo4Sm9udExYUW52dDZob0pCdE1YNmZoaEFXaUdFR3Y0UkQ3WmdhdDJNR2kzVnd6VklYYW8tUWpDQXJzblpZZGFsSHJmWlZWbXZjY3JDTlR5Ql9haWUxUGtRbk9nVTVXb282QWZRS2ZTdjE2ZExVd0YtWVdEYm9na0FQY25yMnB0OHljT2dJOEE?oc=5",
+      "snippet": "Municipales 2026 : le député Guillaume Lepers sera bien candidat pour redevenir maire de Villeneuve-sur-Lot&nbsp;&nbsp;PetitBleu.fr",
+      "date": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "source": "PetitBleu.fr"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 5 - Sud Ouest (Thu, 04 Dec 2025)",
-        "texte": "\"Je suis candidat à la mairie\" : Guillaume Lepers brigue officiellement un second mandat pour les Municipales 2026."
+        "source_index": 1,
+        "explication": "Référence explicite aux Municipales 2026 et mention de Guillaume Lepers comme candidat."
       },
       {
-        "source": "Source 4 - ladepeche.fr (Thu, 04 Dec 2025)",
-        "texte": "Guillaume Lepers sera bien candidat pour redevenir maire de Villeneuve-sur-Lot aux Municipales 2026."
+        "source_index": 2,
+        "explication": "Programme détaillé pour les municipales 2026 avec son nom associé."
+      },
+      {
+        "source_index": 3,
+        "explication": "Vérification de sa candidature aux municipales 2026 via une permanence de campagne."
+      },
+      {
+        "source_index": 4,
+        "explication": "Contexte des élections municipales 2026 et choix de Villeneuve-sur-Lot pour lui."
+      },
+      {
+        "source_index": 5,
+        "explication": "Déclaration explicite qu'il sera candidat aux municipales 2026 pour redevenir maire."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 5 - Sud Ouest (Thu, 04 Dec 2025)\",\n            \"texte\": \"\\\"Je suis candidat à la mairie\\\" : Guillaume Lepers brigue officiellement un second mandat pour les Municipales 2026.\"\n        },\n        {\n            \"source\": \"Source 4 - ladepeche.fr (Thu, 04 Dec 2025)\",\n            \"texte\": \"Guillaume Lepers sera bien candidat pour redevenir maire de Villeneuve-sur-Lot aux Municipales 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:09:39.077621Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite aux Municipales 2026 et mention de Guillaume Lepers comme candidat.\"},\n        {\"source_index\": 2, \"explication\": \"Programme détaillé pour les municipales 2026 avec son nom associé.\"},\n        {\"source_index\": 3, \"explication\": \"Vérification de sa candidature aux municipales 2026 via une permanence de campagne.\"},\n        {\"source_index\": 4, \"explication\": \"Contexte des élections municipales 2026 et choix de Villeneuve-sur-Lot pour lui.\"},\n        {\"source_index\": 5, \"explication\": \"Déclaration explicite qu'il sera candidat aux municipales 2026 pour redevenir maire.\"}\n    ]\n}\n```"
   }
 }

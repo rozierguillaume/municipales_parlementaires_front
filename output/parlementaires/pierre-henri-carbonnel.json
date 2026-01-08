@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Tarn-et-Garonne",
     "commune": "Saint-Cirq",
+    "position": "Pourrait être sur une liste",
     "filename": "pierre-henri-carbonnel.json"
   },
   "search_results": [
@@ -51,26 +52,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 – La Dépeche du 11 décembre 2025",
-        "analyse": "Référence aux municipales de 2026, mais pas explicitement à Pierre-Henri Carbonnel comme candidat officiel. Le titre évoque une 'guerre des droites' sans confirmation directe sur son implication."
-      },
-      {
-        "source": "Source 2 – BFM du 12 octobre 2025",
-        "analyse": "Pierre-Henri Carbonnel est mentionné comme **candidat UDR soutenu par le RN** lors d'une législative partielle (Tarn-et-Garonne, 2025). Bien que cette élection ne soit pas municipale, son profil politique et son soutien à l'extrême droite suggèrent une possible candidature aux municipales de 2026 dans la même circonscription."
-      },
-      {
-        "source": "Source 3 – Le Figaro du 12 octobre 2025",
-        "analyse": "Mentionne un candidat soutenu par le RN (sans nommer explicitement Carbonnel), mais confirme une dynamique d'extrême droite en jeu pour les élections législatives. Pas de confirmation directe sur sa candidature municipale."
-      },
-      {
-        "source": "Source 4 – Libération du 10 octobre 2025",
-        "analyse": "Contexte de la législative partielle avec Bruno Retailleau (LR) comme figure clé, mais pas d'information sur Carbonnel. Le RN est cité comme acteur, ce qui pourrait indiquer une stratégie commune."
-      },
-      {
-        "source": "Source 5 – France Bleu du 5 octobre 2025",
-        "analyse": "Liste des candidats au second tour de la législative partielle : **Pierre-Henri Carbonnel (UDR)** et Cathie Bourdoncle (PS). Bien que cette élection ne soit pas municipale, son inscription sur une liste locale suggère qu'il pourrait être en lice pour les municipales 2026 dans le même territoire."
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature aux municipales 2026 pour Pierre-Henri Carbonnel dans les sources fournies. Les articles se concentrent uniquement sur sa victoire législative partielle (2025) et son appartenance à l'UDR/RN sans lien explicite avec les élections municipales futures."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 – La Dépeche du 11 décembre 2025\",\n            \"analyse\": \"Référence aux municipales de 2026, mais pas explicitement à Pierre-Henri Carbonnel comme candidat officiel. Le titre évoque une 'guerre des droites' sans confirmation directe sur son implication.\"\n        },\n        {\n            \"source\": \"Source 2 – BFM du 12 octobre 2025\",\n            \"analyse\": \"Pierre-Henri Carbonnel est mentionné comme **candidat UDR soutenu par le RN** lors d'une législative partielle (Tarn-et-Garonne, 2025). Bien que cette élection ne soit pas municipale, son profil politique et son soutien à l'extrême droite suggèrent une possible candidature aux municipales de 2026 dans la même circonscription.\"\n        },\n        {\n            \"source\": \"Source 3 – Le Figaro du 12 octobre 2025\",\n            \"analyse\": \"Mentionne un candidat soutenu par le RN (sans nommer explicitement Carbonnel), mais confirme une dynamique d'extrême droite en jeu pour les élections législatives. Pas de confirmation directe sur sa candidature municipale.\"\n        },\n        {\n            \"source\": \"Source 4 – Libération du 10 octobre 2025\",\n            \"analyse\": \"Contexte de la législative partielle avec Bruno Retailleau (LR) comme figure clé, mais pas d'information sur Carbonnel. Le RN est cité comme acteur, ce qui pourrait indiquer une stratégie commune.\"\n        },\n        {\n            \"source\": \"Source 5 – France Bleu du 5 octobre 2025\",\n            \"analyse\": \"Liste des candidats au second tour de la législative partielle : **Pierre-Henri Carbonnel (UDR)** et Cathie Bourdoncle (PS). Bien que cette élection ne soit pas municipale, son inscription sur une liste locale suggère qu'il pourrait être en lice pour les municipales 2026 dans le même territoire.\"\n        }\n    ],\n    \"conclusion\": {\n        \"statut\": \"OUI\",\n        \"justification\": \"Les sources montrent que Pierre-Henri Carbonnel est **actuellement inscrit comme candidat** (Source 5) et qu'il fait partie d'une dynamique politique (UDR + RN) susceptible de se réitérer aux municipales 2026 dans le Tarn-et-Garonne. Bien que les informations ne soient pas explicitement liées à une campagne municipale, leur contexte local et son profil politique renforcent la probabilité.\"\n    }\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:25:08.227078Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales 2026 pour Pierre-Henri Carbonnel dans les sources fournies. Les articles se concentrent uniquement sur sa victoire législative partielle (2025) et son appartenance à l'UDR/RN sans lien explicite avec les élections municipales futures.\"}\n    ]\n}\n```"
   }
 }

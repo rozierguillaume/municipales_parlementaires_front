@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Essonne",
     "commune": "nan",
+    "position": "nan",
     "filename": "steevy-gustave.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2020 en Essonne. Steevy Gustave se lance à Brétigny-sur-Orge&nbsp;&nbsp;Actu.fr",
       "date": "Tue, 26 Nov 2019 08:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Législatives 2024. \"Montrer un autre visage de la France des banlieues, un visage apaisant et bienveillant\" : Steevy Gustave, un producteur audiovisuel, élu député - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQQlp2TFg3VEdQX2FDSFhtaHBCWTlndkNfSjBKRWUxX0lXakpLNE9uTVpRMUxqR3lXd0ZGaTRiRGpyS2kzVy1Gc0w5YnNoV1NjQXJKenJaWV9mUElsVVRDdFVnN3ZWWjRrNkxWdXJMMkowSkp1ZWJGemRHOHdXdVc2NW5wR0IyRGpjcWx6ZkRtYl96ZHhKXzRqMUJwNnRSYXN4OFBMRlN4NG1iaVdvVjFHZVIzR1BnQmdYbVBvQUNiQk82dldpbVdIcFdQSjBtYnZPdVpnVlR3TnMzUTVFM3VWY2J1czlzQXRxYUEyVG1tdDZaRG12QkNMM29OUkE0TTNWWTRPeFJHTkFacG1fVGFBSExnaFF0cUdIV2NiUEJGVGdkVFZHYzVaVG9zSmt5QVUtTVk2dlRSS2pVdGZKMUtMNzgxVC1UdEFBeU5PcUxqYw?oc=5",
+      "snippet": "Législatives 2024. \"Montrer un autre visage de la France des banlieues, un visage apaisant et bienveillant\" : Steevy Gustave, un producteur audiovisuel, élu député&nbsp;&nbsp;France 3 Régions",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "France 3 Régions"
     }
   ],
   "analysis": {

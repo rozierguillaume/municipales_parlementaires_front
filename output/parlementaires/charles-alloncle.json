@@ -8,7 +8,7 @@
     "parti": "nan",
     "departement": "Hérault",
     "commune": "Montpellier, Mauguio ou Lunel",
-    "position": "Pourrait être sur la liste",
+    "position": "Pourrait être sur une liste",
     "filename": "charles-alloncle.json"
   },
   "search_results": [
@@ -34,6 +34,13 @@
       "source": "Libération"
     },
     {
+      "title": "Anthony Belin et l’élue RN Julia Plane formeront un binôme lors du scrutin de mars - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeF9NWHpPVnkwMXBCcnNSckdkSTJHc1E5ellHQnk3cm9QcTlzdV9EU3R4RFlOcjVEdW1GVHUtdy1aMktYTm9qT1o0b3NTa01VdnBQdGlpU2d3bGpxQWVaOFJGUjF5U1BlTDJaNDVDbG9lN3p3RlRUNkR3OXdOVzN4bjVvNnBuT3pGUFJ0aUZJV3ZVM3FlM2dzTGMzVnpQbW1LVFJOQUgyd2pUT0xKNnlXZUJCYVF6aGxrUlRPNUVpa0lUNUJyTWh3UUR3?oc=5",
+      "snippet": "Anthony Belin et l’élue RN Julia Plane formeront un binôme lors du scrutin de mars&nbsp;&nbsp;Midi Libre",
+      "date": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "source": "Midi Libre"
+    },
+    {
       "title": "Municipales 2026 : \"Je ne serai pas tête de liste dans une des communes de la circonscription\", annonce le député Alloncle - Midi Libre",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEtCNkVHcHdwZjZQZUo3OGlyLWJYODQzVDNRYjZwcHIyWFR6U0NteDhScFdCZy16V3dzallkRndGbEVsdEtGakVlc1c4dW0xdmdxaEZOWnpVLVVTU2l2d2FqY1BpQlpDNEVLV2tlTVBrZnNRUXFXQkNIaTJkU2VHRTJIZmwwM3pERnBNS1lzZGRPM3JZOVZ1WUNwTldHMDdrVnphV3lDbkdVSWw4WlBhVnMtVTRzYnp6Q09Zb0tYYw?oc=5",
       "snippet": "Municipales 2026 : \"Je ne serai pas tête de liste dans une des communes de la circonscription\", annonce le député Alloncle&nbsp;&nbsp;Midi Libre",
@@ -53,11 +60,27 @@
       "snippet": "Interview Montpellier : Thierry Tsagalos probable candidat aux municipales d'un RN \"acceptable\" ?&nbsp;&nbsp;Actu.fr",
       "date": "Sun, 21 Sep 2025 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Romain Laveau, candidat de la gauche à Angers : «La commune, c’est l’échelon parfait» - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMktrXzR2TWVhdEhTZ3ZnTmpFTXNvWnRMUHU4SVZfYlBmS2lMbVdnTEZXVmJYMVVURlhUM0hBWXljY1VvTzdNcXNWa29XNU4xaDZwYi1lUE1VNDdEelZCcm1naEEzYU5kQkViTFFaSjh5NG5HeDl5bDdSVWlrM2x5QmlkbGZNTnZZd21kcTRQcUd6OW1DNzBuTVdpYzB2cG1hczZ0dVBBT1NfYnVxT096dmc2RzhNRm5MZEw4NkJMZS1tTXFZYk5rSU1MVnIxVjR3NUs4dXZMLXVGUHlla2Z2RndkSVo?oc=5",
+      "snippet": "Romain Laveau, candidat de la gauche à Angers : «La commune, c’est l’échelon parfait»&nbsp;&nbsp;Libération",
+      "date": "Fri, 05 Sep 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Source 4 (Midi Libre - 9 Nov 2025) mentionne explicitement que **Charles Alloncle** annonce sa participation aux **municipales de 2026**, en précisant qu’il ne sera pas tête de liste dans certaines communes de sa circonscription, ce qui confirme son intention de se présenter.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Source 4 (Midi Libre - 9 Nov 2025) mentionne explicitement que **Charles Alloncle** annonce sa participation aux **municipales de 2026**, en précisant qu’il ne sera pas tête de liste dans certaines communes de sa circonscription, ce qui confirme son intention de se présenter.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Déclaration explicite d'Alloncle concernant sa candidature aux municipales 2026 dans une circonscription"
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:25:46.505874Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Déclaration explicite d'Alloncle concernant sa candidature aux municipales 2026 dans une circonscription\"}\n    ]\n}\n```"
   }
 }

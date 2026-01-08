@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Haute-Garonne",
     "commune": "nan",
+    "position": "nan",
     "filename": "joel-aviragnet.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Résultats élections municipales Saint-Gaudens [31800] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 30 Jun 2020 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Le NFP conforte sa position en Haute-Garonne, le RN monte - Mediacités",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUHRtY0RyUmJnQkdCMm9OOERia2ZlQXZWbTJQbXhEalFGejQ4MWtKcUdNWDJ6S250X2szQUJoc0Q1V1g4cHZ3UjkxWlZUOS1xR1ZGWjJpcW12MTItclRmZUwzYm45S1hWa2pGcVYyNWdsSjJtRlprUjdvSWtJZDY3OTFTY1ZEaWQ5VHJyXy1LX0s1N2dPLUwxZU9hWU9xMEhkZzJJa2dlVzNROFo3UGd2VE5NVjJlVFI4NG5oRUhkQkpUaGV4bFljd0VXNHlleF9rXzJfaUYzRlZjaGRHVkx0eXpRM2ltY1M3dUNTY1RXRmMwY3BBQi1qTkRR?oc=5",
+      "snippet": "Le NFP conforte sa position en Haute-Garonne, le RN monte&nbsp;&nbsp;Mediacités",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "Mediacités"
     }
   ],
   "analysis": {

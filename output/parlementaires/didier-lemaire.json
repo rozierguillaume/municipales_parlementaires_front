@@ -5,9 +5,10 @@
     "nom": "LEMAIRE",
     "prenom": "Didier",
     "full_name": "Didier LEMAIRE",
-    "parti": "nan",
+    "parti": "HOR",
     "departement": "Haut-Rhin",
-    "commune": "nan",
+    "commune": "Altkirch",
+    "position": "Pourrait être sur une liste",
     "filename": "didier-lemaire.json"
   },
   "search_results": [
@@ -51,10 +52,14 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 4 (L'Alsace - Sat, 15 Nov 2025)",
-        "details": "Didier Lemaire est mentionné comme 'chef de file' pour les municipales 2026 à Altkirch, ce qui implique une participation active dans la campagne."
+        "source_index": 4,
+        "explication": "Source confirme Didier Lemaire comme 'chef de file' dans une liste pour les municipales 2026 à Altkirch."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (L'Alsace - Sat, 15 Nov 2025)\",\n            \"details\": \"Didier Lemaire est mentionné comme 'chef de file' pour les municipales 2026 à Altkirch, ce qui implique une participation active dans la campagne.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:14:22.632894Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Source confirme Didier Lemaire comme 'chef de file' dans une liste pour les municipales 2026 à Altkirch.\"}\n    ]\n}\n```"
   }
 }

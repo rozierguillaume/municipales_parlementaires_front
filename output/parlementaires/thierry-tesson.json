@@ -5,12 +5,20 @@
     "nom": "TESSON",
     "prenom": "Thierry",
     "full_name": "Thierry TESSON",
-    "parti": "nan",
+    "parti": "PS",
     "departement": "Nord",
-    "commune": "nan",
+    "commune": "Douai",
+    "position": "Tête de liste",
     "filename": "thierry-tesson.json"
   },
   "search_results": [
+    {
+      "title": "Mousseux, galettes et slips : les échos de la semaine dans le Douaisis - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUxBUFZLSGJnYUh3M0RxcS1XLW9KNFNNblZTNWpDOURvNmdrWlNkVFlKRTdUS3hjLUdTWFhkTjFmNDdHYmoyS3Y5ZmFOSnFTTlJBZGpWQmhQU1NjdHdUWTdReTAyd29TcWZzaFNuVUF6U056YWFaVGJnaURLVHYwNzNtV2N1RUNrZHFYbjZFUUpqLW1uOXVlbThuVURrNTVuNS1xaXJSbGZMMWNRQXRpMGJZQ1hCUW00bzd2THRHNA?oc=5",
+      "snippet": "Mousseux, galettes et slips : les échos de la semaine dans le Douaisis&nbsp;&nbsp;La Voix du Nord",
+      "date": "Sun, 04 Jan 2026 06:00:00 GMT",
+      "source": "La Voix du Nord"
+    },
     {
       "title": "Douaisis : le président des Papillons Blancs dénonce les propos d'un candidat aux municipales - L'Observateur",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBydXNuSzB1WFJia1BveFFPemhTVm12NW5qU08tZ2RsUi1YOVlOWWlOMGJNNHh5ZG5zblp4cnpvcXlOS2pHTUh0Mzl5NXVyTVJ3QnR0eWZxUml3a2FpV1U4RG5KTFNVbnI5cnFzT092eWF0VjBCeFZqQUJiMA?oc=5",
@@ -50,9 +58,20 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Thierry Tesson est mentionné comme tête de liste RN-UDR pour les municipales **2026** à Douai (Source 3 et Source 4).",
-      "Les sources précisent explicitement sa candidature officielle aux prochaines élections municipales dans la ville."
+      {
+        "source_index": 4,
+        "explication": "Référence explicite à Thierry Tesson comme tête de liste RN-UDR pour les municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Annonce officielle de sa candidature commune du RN et UDR aux municipales Douaisiennes en 2026"
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Thierry Tesson est mentionné comme tête de liste RN-UDR pour les municipales **2026** à Douai (Source 3 et Source 4).\",\n        \"Les sources précisent explicitement sa candidature officielle aux prochaines élections municipales dans la ville.\"\n    ]\n}\n```"
+    "used_sources": [
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:25:31.172578Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4, 5],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Référence explicite à Thierry Tesson comme tête de liste RN-UDR pour les municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce officielle de sa candidature commune du RN et UDR aux municipales Douaisiennes en 2026\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Côte-d'Or",
     "commune": "Châtillon-sur-Seine",
+    "position": "Pourrait être sur une liste",
     "filename": "hubert-brigand.json"
   },
   "search_results": [
@@ -48,29 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Hubert Brigand est mentionné comme député mais sans lien direct avec les municipales de 2026. Son article porte sur un débat politique général concernant le nouveau mode de scrutin (loi) et non sur une candidature spécifique pour les élections locales."
-      },
-      {
-        "source": "Source 2",
-        "analyse": "Seule la mention d'un Jérémie Brigand, fils ou apparenté, est présente dans ce contexte des municipales de Châtillon-sur-Seine en 2025. Hubert Brigand n'est pas mentionné ici."
-      },
-      {
-        "source": "Source 3",
-        "analyse": "Cette source confirme que **Jérémie Brigand**, et non Hubert Brigand, officialise sa candidature pour les municipales de Châtillon-sur-Seine en 2026. Aucune mention explicite d'Hubert Brigand."
-      },
-      {
-        "source": "Source 4",
-        "analyse": "Hubert Brigand est évoqué dans un contexte local (projet de gare) mais sans lien direct avec une candidature aux municipales de 2026."
-      },
-      {
-        "source": "Source 5",
-        "analyse": "Cette source concerne les législatives de 2022 et ne mentionne pas Hubert Brigand comme candidat municipal pour 2026."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne Hubert Brigand comme candidat officiel aux municipales de 2026 ni dans les sources fournies ni dans leurs liens"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Hubert Brigand est mentionné comme député mais sans lien direct avec les municipales de 2026. Son article porte sur un débat politique général concernant le nouveau mode de scrutin (loi) et non sur une candidature spécifique pour les élections locales.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Seule la mention d'un Jérémie Brigand, fils ou apparenté, est présente dans ce contexte des municipales de Châtillon-sur-Seine en 2025. Hubert Brigand n'est pas mentionné ici.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Cette source confirme que **Jérémie Brigand**, et non Hubert Brigand, officialise sa candidature pour les municipales de Châtillon-sur-Seine en 2026. Aucune mention explicite d'Hubert Brigand.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Hubert Brigand est évoqué dans un contexte local (projet de gare) mais sans lien direct avec une candidature aux municipales de 2026.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"Cette source concerne les législatives de 2022 et ne mentionne pas Hubert Brigand comme candidat municipal pour 2026.\"\n        }\n    ],\n    \"conclusion_globale\": \"Aucune information claire sur une candidature d'Hubert Brigand aux municipales de 2026. Les sources disponibles se concentrent sur des débats politiques ou des figures apparentées (Jérémie Brigand).\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:08:43.871119Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne Hubert Brigand comme candidat officiel aux municipales de 2026 ni dans les sources fournies ni dans leurs liens\"}\n    ]\n}\n```"
   }
 }

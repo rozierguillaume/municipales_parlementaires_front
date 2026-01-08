@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Haut-Rhin",
     "commune": "Rixheim",
+    "position": "Pourrait être sur une liste",
     "filename": "olivier-becht.json"
   },
   "search_results": [
@@ -51,18 +52,16 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Bien que Jeanne Barseghian (maire sortante de Strasbourg) annonce sa candidature pour un deuxième mandat en **2026**, il n'y a aucune mention explicite d'Olivier Becht dans cette source."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Olivier Becht comme candidat officiel aux municipales 2026 dans les résultats fournis."
       },
       {
-        "source": "Source 3",
-        "analyse": "Le nom 'Rachel Baechtel' est mentionné (pas Olivier Becht), et le contexte concerne la succession à Rixheim pour les **Municipales 2026**, mais pas Olivier Becht."
-      },
-      {
-        "source": "Sources 2, 4, 5",
-        "analyse": "Aucune mention explicite d'Olivier Becht dans ces articles. Les sources 2 et 3 évoquent des dynamiques locales (campagnes en roue libre ou relais), mais rien ne confirme sa candidature."
+        "source_index": null,
+        "explication": "Seules des mentions indirectes (comme Rachel Baechtel ou Jeanne Barseghian) évoquent des préparatifs pour 2026 sans confirmation directe de Becht"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Bien que Jeanne Barseghian (maire sortante de Strasbourg) annonce sa candidature pour un deuxième mandat en **2026**, il n'y a aucune mention explicite d'Olivier Becht dans cette source.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Le nom 'Rachel Baechtel' est mentionné (pas Olivier Becht), et le contexte concerne la succession à Rixheim pour les **Municipales 2026**, mais pas Olivier Becht.\"\n        },\n        {\n            \"source\": \"Sources 2, 4, 5\",\n            \"analyse\": \"Aucune mention explicite d'Olivier Becht dans ces articles. Les sources 2 et 3 évoquent des dynamiques locales (campagnes en roue libre ou relais), mais rien ne confirme sa candidature.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:10:10.486561Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Olivier Becht comme candidat officiel aux municipales 2026 dans les résultats fournis.\"},\n        {\"source_index\": null, \"explication\": \"Seules des mentions indirectes (comme Rachel Baechtel ou Jeanne Barseghian) évoquent des préparatifs pour 2026 sans confirmation directe de Becht\"}\n    ]\n}\n```"
   }
 }

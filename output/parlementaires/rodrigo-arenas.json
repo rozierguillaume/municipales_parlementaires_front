@@ -46,11 +46,25 @@
       "snippet": "Municipales à Paris: Chikirou pressentie mais pas (officiellement) candidate&nbsp;&nbsp;La Gazette France",
       "date": "Thu, 02 Oct 2025 07:00:00 GMT",
       "source": "La Gazette France"
+    },
+    {
+      "title": "Municipales 2026 : à Paris, les inconnues de l'après-Anne Hidalgo - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREFISU45NGFVbDJsNHpPMmFYWUVtMUdMUFRMYkNDdS1iOWRTZ2NiOEJqYnRhN3VFb19aRldZTk5sWVpXMllDZy1MZG9hSlQyc0N5SFR3azBHcURMQkpVVEtQd0JnUk9YZ1J0THNLTEVia2JLWE4xZWlPRkctWTI3RWdDWEFMNzM5TGNLM2R2Yk9TcFVHdmtuWDdRemVPWnhHT1JmVElrS1lvRlFjNXBVWG5HdnNUZw?oc=5",
+      "snippet": "Municipales 2026 : à Paris, les inconnues de l'après-Anne Hidalgo&nbsp;&nbsp;Les Echos",
+      "date": "Mon, 18 Aug 2025 07:00:00 GMT",
+      "source": "Les Echos"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucune source ne mentionne explicitement Rodrigo ARENAS comme candidat aux municipales de **2026** dans les résultats fournis. Bien que des noms associés à La France insoumise (comme Sophia Chikirou) soient évoqués pour Paris, Rodrigo ARENAS n’apparaît pas dans ces contextes.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Rodrigo ARENAS comme candidat aux municipales de **2026** dans les résultats fournis. Bien que des noms associés à La France insoumise (comme Sophia Chikirou) soient évoqués pour Paris, Rodrigo ARENAS n’apparaît pas dans ces contextes.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Rodrigo ARENAS comme candidat officiel aux municipales 2026 dans les résultats fournis."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:15:50.830550Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Rodrigo ARENAS comme candidat officiel aux municipales 2026 dans les résultats fournis.\"}\n    ]\n}\n```"
   }
 }

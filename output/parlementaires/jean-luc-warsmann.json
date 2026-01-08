@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Ardennes",
     "commune": "nan",
+    "position": "nan",
     "filename": "jean-luc-warsmann.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Jean-Luc Warsmann : «Les Constructifs sont dans une démarche positive, pas un groupe d’enregistrement&nbsp;&nbsp;Libération",
       "date": "Mon, 26 Jun 2017 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "INFOGRAPHIE. Chute du gouvernement Bayrou : votre député a-t-il voté pour ou contre la confiance ? - L'Union",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3d6emRBSXJEejlQbEp5WnJrLURacWVDbUFjUm9ndkxYRmZtclhCNUxZdXpGM0xmX3V1azR3aGxQT2d2V2pRX1pKb2Ficzk4WHZGeGoxbGJ4VlduNmk1eXl4bGMtdFFiRmhZRlYtOENoZG5NcDRmaTFFNlZlaElyZ2p6dVZOYVZ4VklhcEhzeEoyRlVva3Q0TjRjUVRYTWstb3VVeFNQWkVPLXdSS2VYNmlzTzF0ZXVQZ25wa1RLZlVyWXhFdVBBNA?oc=5",
+      "snippet": "INFOGRAPHIE. Chute du gouvernement Bayrou : votre député a-t-il voté pour ou contre la confiance ?&nbsp;&nbsp;L'Union",
+      "date": "Mon, 08 Sep 2025 07:00:00 GMT",
+      "source": "L'Union"
+    },
+    {
+      "title": "Législatives 2024 : Jean-Luc Warsmann menacé pour la première fois dans la 3e circonscription des Ardennes - L'Ardennais",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaWpvLXprb1YxZ3Q0Mm1WMWZUV01lMVRhcGlobnZsU19HVE1sTkhmdkE4ZHRyYWNTbjJDOE5BREdLdHg5ZVo3UnFjMkZVMFpCTW9Xa2p5bjVTM0gyR05ZNUwzNTBjR1RLa1R3OU5pNEx1LTAwdWpWRWs3aEtXeUZxa0ZfbmtfVHFqejRoeGdUXzQ1VXJoajdzOFdUdWN4dXlvRWpfck5PUHhnRmc4RjRySHQwRXpDQkZEaS1tRVVRMjdBNy1WR1I0NA?oc=5",
+      "snippet": "Législatives 2024 : Jean-Luc Warsmann menacé pour la première fois dans la 3e circonscription des Ardennes&nbsp;&nbsp;L'Ardennais",
+      "date": "Wed, 03 Jul 2024 07:00:00 GMT",
+      "source": "L'Ardennais"
     }
   ],
   "analysis": {

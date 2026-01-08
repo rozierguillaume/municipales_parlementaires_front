@@ -5,9 +5,10 @@
     "nom": "FUGIT",
     "prenom": "Jean-Luc",
     "full_name": "Jean-Luc FUGIT",
-    "parti": "nan",
+    "parti": "DVG",
     "departement": "Rhône",
-    "commune": "nan",
+    "commune": "Givors / métropole",
+    "position": "Pourrait être sur une liste",
     "filename": "jean-luc-fugit.json"
   },
   "search_results": [
@@ -48,29 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
       {
-        "source": "Source 1 (Les Echos)",
-        "analyse": "Aucune mention explicite de Jean-Luc Fugit dans ce contexte lyonnais pour les élections municipales de 2026. Le texte parle d'Alexandre Humbert Dupalais et du RN, sans lien direct avec Jean-Luc Fugit."
-      },
-      {
-        "source": "Source 2 (Actu.fr)",
-        "analyse": "Référence aux élections métropolitaines de Lyon en 2026, mais uniquement concernant les Écologistes et le RN. Aucune mention de Jean-Luc Fugit."
-      },
-      {
-        "source": "Source 3 (lyonmag.com)",
-        "analyse": "Seule référence à Alexandre Humbert Dupalais comme candidat soutenu par le RN pour Lyon en 2026, sans lien avec Jean-Luc Fugit."
-      },
-      {
-        "source": "Source 4 (Libération)",
-        "analyse": "Contexte régional du Rhône et alliances politiques sans mention explicite de Jean-Luc Fugit ni pour les municipales de 2026."
-      },
-      {
-        "source": "Source 5 (RCF Radio)",
-        "analyse": "Carte électorale ancienne (2022) sans lien avec Jean-Luc Fugit ou les élections municipales de 2026."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Jean-Luc Fugit comme candidat aux municipales de 2026 dans les résultats fournis."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 (Les Echos)\",\n            \"analyse\": \"Aucune mention explicite de Jean-Luc Fugit dans ce contexte lyonnais pour les élections municipales de 2026. Le texte parle d'Alexandre Humbert Dupalais et du RN, sans lien direct avec Jean-Luc Fugit.\"\n        },\n        {\n            \"source\": \"Source 2 (Actu.fr)\",\n            \"analyse\": \"Référence aux élections métropolitaines de Lyon en 2026, mais uniquement concernant les Écologistes et le RN. Aucune mention de Jean-Luc Fugit.\"\n        },\n        {\n            \"source\": \"Source 3 (lyonmag.com)\",\n            \"analyse\": \"Seule référence à Alexandre Humbert Dupalais comme candidat soutenu par le RN pour Lyon en 2026, sans lien avec Jean-Luc Fugit.\"\n        },\n        {\n            \"source\": \"Source 4 (Libération)\",\n            \"analyse\": \"Contexte régional du Rhône et alliances politiques sans mention explicite de Jean-Luc Fugit ni pour les municipales de 2026.\"\n        },\n        {\n            \"source\": \"Source 5 (RCF Radio)\",\n            \"analyse\": \"Carte électorale ancienne (2022) sans lien avec Jean-Luc Fugit ou les élections municipales de 2026.\"\n        }\n    ],\n    \"conclusion\": \"Aucune information claire sur une candidature officielle de Jean-Luc Fugit aux élections municipales de Lyon en 2026 dans les sources fournies. Aucune mention explicite ne permet de confirmer son statut.\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:10:47.570224Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jean-Luc Fugit comme candidat aux municipales de 2026 dans les résultats fournis.\"}\n    ]\n}\n```"
   }
 }

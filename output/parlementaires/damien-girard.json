@@ -8,6 +8,7 @@
     "parti": "UDI",
     "departement": "Morbihan",
     "commune": "Lorient",
+    "position": "Tête de liste",
     "filename": "damien-girard.json"
   },
   "search_results": [
@@ -48,8 +49,37 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Plusieurs sources mentionnent explicitement son soutien actif aux **Municipales de Lorient en 2026** (décembre 2025) :\n        - Génération.s et l’Assemblée des quartiers s’associent à Damien Girard pour les élections municipales (Source 3, Source 4, Source 5).\n        - Des jeunes quittent la section UDB pour soutenir **Damien Girard** dans le cadre de ces élections (Sources 1 et 2).\"\n    ]\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Plusieurs sources mentionnent explicitement son soutien actif aux **Municipales de Lorient en 2026** (décembre 2025) :\n        - Génération.s et l’Assemblée des quartiers s’associent à Damien Girard pour les élections municipales (Source 3, Source 4, Source 5).\n        - Des jeunes quittent la section UDB pour soutenir **Damien Girard** dans le cadre de ces élections (Sources 1 et 2).\"\n    ]\n}\n```"
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Référence explicite aux Municipales 2026 à Lorient avec son soutien actif."
+      },
+      {
+        "source_index": 2,
+        "explication": "Mention des élections municipales futures et de son écologisme comme candidat."
+      },
+      {
+        "source_index": 3,
+        "explication": "Association officielle pour les municipales 2026 dans un contexte local."
+      },
+      {
+        "source_index": 4,
+        "explication": "Soutien explicite à sa candidature aux élections municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Annonce formelle de son soutien pour les Municipales 2026 à Lorient."
+      }
+    ],
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:12:36.720358Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite aux Municipales 2026 à Lorient avec son soutien actif.\"},\n        {\"source_index\": 2, \"explication\": \"Mention des élections municipales futures et de son écologisme comme candidat.\"},\n        {\"source_index\": 3, \"explication\": \"Association officielle pour les municipales 2026 dans un contexte local.\"},\n        {\"source_index\": 4, \"explication\": \"Soutien explicite à sa candidature aux élections municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce formelle de son soutien pour les Municipales 2026 à Lorient.\"}\n    ]\n}\n```"
   }
 }

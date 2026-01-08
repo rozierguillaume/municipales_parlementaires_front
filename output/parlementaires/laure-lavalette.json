@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Var",
     "commune": "Toulon",
+    "position": "Tête de liste ",
     "filename": "laure-lavalette.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026 : à Toulon, la députée RN Laure Lavalette espère profiter de la fin chaotique de l'ère Falco&nbsp;&nbsp;Les Echos",
       "date": "Tue, 06 Jan 2026 15:00:14 GMT",
       "source": "Les Echos"
+    },
+    {
+      "title": "Municipales 2026 : la députée RN Laure Lavalette officialise sa candidature à Toulon - CNews",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXVsMGhHYm8yVi1PSDdyaGRyeFdlbTZBYlVnZWJ1Z1ZqS0dUbjBWY1dlYVVJZXo5RWJRVkdTUmtKZGE4UUJkOGp4NkJuSVZEMHVtUDZsTXFTMlRQcjFXZ1dtQXJFMFhkOU90YVB4VFA0Q1JCVVd6U1VXeWFlNlhjTFo1N3dxb0dtUEV4TVRndkozVHhWME9qa0VJMDJrOUdDLW42WnhxaDdmVXlEUUtsaUQ5cU00V1FIVzBB0gHAAUFVX3lxTE4xN1JJdUYtYXFKZkQ2UzkyQlYxMllVWkJZRlJnVUFCUDdiNzdrNUJFOFFqWHI3MEFYelBLMk1GLUFEV0VSdG9ueWNVNUZZYy1tLU1NdkRTckx5amJ0eDhPcDdzdW4zcUdSQW9oVEl6eDlyTURGLWw3UXBsRElkRXhfcE5wZ3l3dlVEU3haNmhyU2U0dkY1NDg5WjctbFBoVllMOTRkX0g5c1dnUFVxeFhLTWgyVmtJcVRkbGx0TWQzSQ?oc=5",
+      "snippet": "Municipales 2026 : la députée RN Laure Lavalette officialise sa candidature à Toulon&nbsp;&nbsp;CNews",
+      "date": "Tue, 06 Jan 2026 12:00:32 GMT",
+      "source": "CNews"
     },
     {
       "title": "Municipales 2026 : candidate à Toulon, Laure Lavalette annonce qu’un « champion d’Europe de boxe » sera sur sa liste - Le Parisien",
@@ -50,9 +58,35 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Plusieurs sources (Les Echos, Le Parisien, Libération, Le HuffPost, francebleu.fr) mentionnent explicitement sa candidature aux **municipales de Toulon en 2026** avec des annonces directes ou contextuelles (ex: 'Je présente ma candidature', 'candidate à Toulon').",
-      "Source 5 : « Municipales 2026 : 'Je présente ma candidature aux Toulonnais', annonce Laure Lavalette » (francebleu.fr, 06/01/2026)."
+      {
+        "source_index": 1,
+        "explication": "Mention explicite de sa candidature aux municipales 2026 à Toulon."
+      },
+      {
+        "source_index": 2,
+        "explication": "Officialisation formelle de sa candidature pour les municipales 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Annonce d'une liste municipale incluant des éléments liés aux élections en cours (2026)."
+      },
+      {
+        "source_index": 4,
+        "explication": "Référence à une candidature RN aux municipales 2026 sans contexte antérieur."
+      },
+      {
+        "source_index": 5,
+        "explication": "Citation de sa participation active dans la campagne municipale 2026."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Plusieurs sources (Les Echos, Le Parisien, Libération, Le HuffPost, francebleu.fr) mentionnent explicitement sa candidature aux **municipales de Toulon en 2026** avec des annonces directes ou contextuelles (ex: 'Je présente ma candidature', 'candidate à Toulon').\",\n        \"Source 5 : « Municipales 2026 : 'Je présente ma candidature aux Toulonnais', annonce Laure Lavalette » (francebleu.fr, 06/01/2026).\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:24:10.929394Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite de sa candidature aux municipales 2026 à Toulon.\"},\n        {\"source_index\": 2, \"explication\": \"Officialisation formelle de sa candidature pour les municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Annonce d'une liste municipale incluant des éléments liés aux élections en cours (2026).\"},\n        {\"source_index\": 4, \"explication\": \"Référence à une candidature RN aux municipales 2026 sans contexte antérieur.\"},\n        {\"source_index\": 5, \"explication\": \"Citation de sa participation active dans la campagne municipale 2026.\"}\n    ]\n}\n```"
   }
 }

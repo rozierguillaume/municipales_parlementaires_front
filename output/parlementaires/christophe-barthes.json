@@ -8,6 +8,7 @@
     "parti": "DVD ",
     "departement": "Aude",
     "commune": "Carcassonne",
+    "position": "Tête de liste ",
     "filename": "christophe-barthes.json"
   },
   "search_results": [
@@ -51,22 +52,16 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 – L'Echo du Languedoc (19 Dec 2025): Discours sur les adjoints à la sécurité sans mention explicite de candidature officielle pour les municipales 2026.",
-        "analyse": "Aucune déclaration explicite ne confirme sa candidature, mais le contexte (débats municipaux) suggère une préparation active."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Christophe Barthès comme candidat aux municipales 2026 dans les résultats fournis."
       },
       {
-        "source": "Source 2 – L'Indépendant (18 Dec 2025): Mention des débats sur les municipales de mars 2026 en conseil municipal, sans lien direct avec Christophe Barthès.",
-        "analyse": "Pas d'indice spécifique à lui attribuant une intention de candidature."
-      },
-      {
-        "source": "Sources 3 & 4 – ladepeche.fr (Décembre 2025): Se concentrent sur des candidats locaux (Gérard Larrat, Annie Doutres) et des dynamiques internes à Carcassonne sans mention de Christophe Barthès.",
-        "analyse": "Aucune information pertinente pour confirmer sa candidature."
-      },
-      {
-        "source": "Source 5 – La Tribune (Octobre 2025): Chronique sur le RN, hors contexte municipal et sans lien avec Christophe Barthès.",
-        "analyse": "Irrelevant pour les municipales locales de 2026."
+        "source_index": null,
+        "explication": "Les sources concernent des événements locaux (Carcassonne) ou des débats politiques sans confirmation directe de sa candidature pour 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 – L'Echo du Languedoc (19 Dec 2025): Discours sur les adjoints à la sécurité sans mention explicite de candidature officielle pour les municipales 2026.\",\n            \"analyse\": \"Aucune déclaration explicite ne confirme sa candidature, mais le contexte (débats municipaux) suggère une préparation active.\"\n        },\n        {\n            \"source\": \"Source 2 – L'Indépendant (18 Dec 2025): Mention des débats sur les municipales de mars 2026 en conseil municipal, sans lien direct avec Christophe Barthès.\",\n            \"analyse\": \"Pas d'indice spécifique à lui attribuant une intention de candidature.\"\n        },\n        {\n            \"source\": \"Sources 3 & 4 – ladepeche.fr (Décembre 2025): Se concentrent sur des candidats locaux (Gérard Larrat, Annie Doutres) et des dynamiques internes à Carcassonne sans mention de Christophe Barthès.\",\n            \"analyse\": \"Aucune information pertinente pour confirmer sa candidature.\"\n        },\n        {\n            \"source\": \"Source 5 – La Tribune (Octobre 2025): Chronique sur le RN, hors contexte municipal et sans lien avec Christophe Barthès.\",\n            \"analyse\": \"Irrelevant pour les municipales locales de 2026.\"\n        }\n    ],\n    \"conclusion_globale\": {\n        \"statut_final\": \"INCERTAIN\",\n        \"raison\": \"Aucune source ne fournit d'éléments clairs ou officiels confirmant sa candidature aux élections municipales de Carcassonne en mars 2026. Les mentions indirectes (débats municipaux) ne suffisent pas à établir une intention explicite.\"\n    }\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:35.826734Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Christophe Barthès comme candidat aux municipales 2026 dans les résultats fournis.\"},\n        {\"source_index\": null, \"explication\": \"Les sources concernent des événements locaux (Carcassonne) ou des débats politiques sans confirmation directe de sa candidature pour 2026.\"}\n    ]\n}\n```"
   }
 }

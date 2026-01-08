@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Meurthe-et-Moselle",
     "commune": "nan",
+    "position": "nan",
     "filename": "thibault-bazin.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Élections législatives : Les interviews du lundi 24 juin&nbsp;&nbsp;MAGNUM LA RADIO",
       "date": "Mon, 24 Jun 2024 07:00:00 GMT",
       "source": "MAGNUM LA RADIO"
+    },
+    {
+      "title": "Après l’échec de la commission mixte paritaire, retour à risques du budget de la Sécu à l’Assemblée - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMTdzelQ1R3I3cEFjVl94UnhGV2FiSVJBTEdKdjlRbTdmWnkweEtfVFlEZm5NUHpVWk9RNHZyMkx3eWtlZHB0UGMyMHhfdEcya3NrUVdVUm4xZE5NWkJUVERQTDlpVXQ3MGZXSHg1MXpycWVXRzhmc1pHUzQ5b1Z5MnJlQW4zSFRFTERBeXBMRWJTcEpMa0tSd25mQWJLcUMxbjB6SmtzYlVXV3VkMXVxOXd3Uk5Od0lSbVpnQ2xkVDYwT0gyMWozWi1IVXZZeGp4dThJWGg3MkRIZ2tMUllFQVlHcTU5MUR4azQ1T1BIXzkwQURTSTdNLWI5OVA3QQ?oc=5",
+      "snippet": "Après l’échec de la commission mixte paritaire, retour à risques du budget de la Sécu à l’Assemblée&nbsp;&nbsp;Libération",
+      "date": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

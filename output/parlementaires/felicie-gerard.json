@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Nord",
     "commune": "nan",
+    "position": "nan",
     "filename": "felicie-gerard.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Dans le Nord-Pas-de-Calais, la vague RN a déferlé&nbsp;&nbsp;Libération",
       "date": "Sun, 30 Jun 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "7e circonscription : Félicie Gérard, la députée sortante, part avec une avance assez confortable - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkJNeHN6cE5ESU5aLXgyTktTdHU5czh6UGdVWGRfZDhxQXg0T0xMTEREMWgwME5ySnNYczBjeHNncUJjUTlfSDhNbXltR2F4ekttRk9kWGs0VjdxNmJVV3RnSi1fTFgzU3Rrc1hIcmJBVWJOd2dZb0c2bUYxaEg5TWRwcTNJZVoySUsyZURhNU5aVUVMcjJLT0kyc0VEOFdmaEU0aW9iS3NBWFJNTmpfc2tlYlowaWFnQW5IUXJRX0U0ZjBaYmU2Q3BtYXRfYkFD?oc=5",
+      "snippet": "7e circonscription : Félicie Gérard, la députée sortante, part avec une avance assez confortable&nbsp;&nbsp;La Voix du Nord",
+      "date": "Wed, 03 Jul 2024 07:00:00 GMT",
+      "source": "La Voix du Nord"
     }
   ],
   "analysis": {

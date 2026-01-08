@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Finistère",
     "commune": "nan",
+    "position": "nan",
     "filename": "erwan-balanant.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 : ces circonscriptions où des quadrangulaires sont possibles au second tour&nbsp;&nbsp;Le Figaro",
       "date": "Mon, 01 Jul 2024 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Législatives à Concarneau-Quimperlé : Erwan Balanant réélu avec une nette avance - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc1U3NVJkYnJWa29zNnJqOEpILU9zS0F6NEJkMlZudlY0VGVpQ2NQQnRXQUZXZklMNGk0Vk13RmYyMmxxQ0I3Qnh1ZWQ2N2JtQllCbEZJNVdsTkY2N09tTlBpX3ZUTmdtblNjUU53c2hCMHBVX19PSXlSLVlST3M3VG05R0FPZWM1bHJLQ1ZOOFE1eXgybUlsY1pwWFdnVFUwWHRXQ29paFp5Z1p2cVFUNERaZ2g2UkxZTkhVUzE4cTU4S0pMeW1FazdYazF0bEZkczVMVEZRTmJvLVRST0E?oc=5",
+      "snippet": "Législatives à Concarneau-Quimperlé : Erwan Balanant réélu avec une nette avance&nbsp;&nbsp;Le Télégramme",
+      "date": "Sun, 07 Jul 2024 07:00:00 GMT",
+      "source": "Le Télégramme"
     }
   ],
   "analysis": {

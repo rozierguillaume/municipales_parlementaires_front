@@ -8,9 +8,17 @@
     "parti": "EELV",
     "departement": "Isère",
     "commune": "Grenoble",
+    "position": "Pourrait être sur une liste",
     "filename": "elisa-martin.json"
   },
   "search_results": [
+    {
+      "title": "Le conseil muni­ci­pal de Grenoble face aux para­doxes des enga­ge­ments élec­to­raux pour 2026 - Place Gre'net",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQci1DX29MMzJvVC1qaGpxalcza2pJTU9iQzVRTm9mVXhjVDBwYTI2WndmbDhvaGtkVUtSQlJ3VzVVWUI2aWt5bjdfR3ROUkpxdTJOQTZlZ0NDbG1DSTF2RmpITlV0R3hZT0RMa3VpTURZRHpaSkhEa3dTZTRpc3VnU3VjYXdnSDF0N0lRaVJOaE84VGxLbm9mLXFlVXhPVkZjX1JDYW11aHZUOFZiUFFaUW85dHIxQWh2UkdPbEt2TXA5aW42MDR2ZnZQOXVCUQ?oc=5",
+      "snippet": "Le conseil muni­ci­pal de Grenoble face aux para­doxes des enga­ge­ments élec­to­raux pour 2026&nbsp;&nbsp;Place Gre'net",
+      "date": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "source": "Place Gre'net"
+    },
     {
       "title": "Municipales à Grenoble : LFI lance sa propre liste, sans les Écologistes d'Éric Piolle - Actu.fr",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVThtYnZJYzdrUEw3dFg5VzRoWnI1NE9fcm5xaGM0MWhjdmwtbVhpdnpEeUtVZUJPa0FSYzJTcDVIQloxN18xLV9VUFlweGVwaEtab0hPQ1pjSzFMOGwxZUtUNmdhMVN5NWVVcDZjTmgtcXRvdWFiUFFYQlViakhWV1VTV0NNbVdhQmU0dkN4eXFoS3Vsb3hKdGpBWHpkMEx4cmR1YzY5VVVsOUtySUoxZDNOVkRhSnZpdEdiNHV3UERITjFyZWpaWGgtSHpyWC04eEdrVWsxR1hZUXJfSXd5T2l1SQ?oc=5",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": "Élisa Martin est explicitement nommée **chef de file** de la liste de La France insoumise pour les municipales de Grenoble en **2026**, comme le précise la source 5 (Place Gre'net, 3 juin 2025).",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Élisa Martin est explicitement nommée **chef de file** de la liste de La France insoumise pour les municipales de Grenoble en **2026**, comme le précise la source 5 (Place Gre'net, 3 juin 2025).\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite d'Élisa Martin dans les sources fournies concernant une candidature aux municipales de Grenoble en 2026"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:16:26.199494Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite d'Élisa Martin dans les sources fournies concernant une candidature aux municipales de Grenoble en 2026\"}\n    ]\n}\n```"
   }
 }

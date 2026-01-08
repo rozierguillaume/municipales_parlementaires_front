@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Seine-et-Marne",
     "commune": "Meaux",
+    "position": "Tête de liste",
     "filename": "beatrice-roullaud.json"
   },
   "search_results": [
@@ -48,8 +49,32 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Sources confirmant sa candidature officielle aux **élections municipales de Meaux en 2026** :\n        - Source 3 : *« Interview Municipales à Meaux : la députée RN, Béatrice Roullaud, annonce officiellement sa candidature »* (Actu.fr, 22 mai 2025).\n        - Source 2 : *« La députée RN Béatrice Roullaud vise la mairie de Meaux en 2026 »* (mesinfos, 28 mai 2025).\n        - Source 5 : *« Béatrice Roullaud sera candidate en tête de liste pour le Rassemblement national »* (magjournal77.fr, 12 mai 2025).\"\n    ]\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Sources confirmant sa candidature officielle aux **élections municipales de Meaux en 2026** :\n        - Source 3 : *« Interview Municipales à Meaux : la députée RN, Béatrice Roullaud, annonce officiellement sa candidature »* (Actu.fr, 22 mai 2025).\n        - Source 2 : *« La députée RN Béatrice Roullaud vise la mairie de Meaux en 2026 »* (mesinfos, 28 mai 2025).\n        - Source 5 : *« Béatrice Roullaud sera candidate en tête de liste pour le Rassemblement national »* (magjournal77.fr, 12 mai 2025).\"\n    ]\n}\n```"
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Interview mentionne une candidature aux municipales 2026 sans nommer Béatrice Roullaud."
+      },
+      {
+        "source_index": 2,
+        "explication": "Source directe confirmant sa visée de la mairie de Meaux en 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Annonce officielle de sa candidature aux municipales 2026 à Meaux."
+      },
+      {
+        "source_index": 5,
+        "explication": "Béatrice Roullaud candidate en tête de liste RN pour les municipales 2026 à Meaux"
+      }
+    ],
+    "used_sources": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:25:13.882123Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Interview mentionne une candidature aux municipales 2026 sans nommer Béatrice Roullaud.\"},\n        {\"source_index\": 2, \"explication\": \"Source directe confirmant sa visée de la mairie de Meaux en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Annonce officielle de sa candidature aux municipales 2026 à Meaux.\"},\n        {\"source_index\": 5, \"explication\": \"Béatrice Roullaud candidate en tête de liste RN pour les municipales 2026 à Meaux\"}\n    ]\n}\n```"
   }
 }

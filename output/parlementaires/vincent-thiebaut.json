@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Bas-Rhin",
     "commune": "nan",
+    "position": "nan",
     "filename": "vincent-thiebaut.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives : qui est Vincent Thiébaut, le nouveau député REM de la 9e circonscription du Bas-Rhin ?&nbsp;&nbsp;francebleu.fr",
       "date": "Sun, 18 Jun 2017 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026. À Vendenheim, Philippe Pfrimmer brigue un troisième mandat - DNA.fr",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2ZBTUtGMlJJZ0hFQWVsQXlaYUtSV0tNdk5tRzlldDY4NXllVVNkc0JBdlFfeEM3VUJCTFh4RHNZcDV1MW9qek9PNGZfb1FQUDRmTm1SNGZFYlNwMElxN3ZoSG5yRzZtbnQtYm9OUkJvWU4wOW9FMElJWU1YQlh4bDByQlR2UWJNa0tNN2NwbjdwYmVWSTkwck9KUGtEdw?oc=5",
+      "snippet": "Municipales 2026. À Vendenheim, Philippe Pfrimmer brigue un troisième mandat&nbsp;&nbsp;DNA.fr",
+      "date": "Thu, 08 Jan 2026 07:05:21 GMT",
+      "source": "DNA.fr"
     }
   ],
   "analysis": {

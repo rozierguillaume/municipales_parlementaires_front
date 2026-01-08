@@ -8,6 +8,7 @@
     "parti": "HOR",
     "departement": "Aisne",
     "commune": "Laon",
+    "position": "Pourrait être sur une liste",
     "filename": "nicolas-dragon.json"
   },
   "search_results": [
@@ -26,11 +27,25 @@
       "source": "L'Aisne nouvelle"
     },
     {
+      "title": "Municipales 2026 : vives réactions après les propos sur le prétendu risque « d’infiltrés islamistes » du député RN Dragon - L'Union",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa1ZJTzE3NTBma0pPSng2WW9VOVpGVHFjb21XalZHNjhxTGdlWlp4cUZqdXFrUE5lWVEtSFZVSXpVU1VmN1pyVzVtdm4zbVU1QVF2Q1drMVBvREdIVVgtNC1QTC1NUWEtd3M0VmQzekpkYTVlcmF2VzUwNV9TcFdVaFNTZjJiMHBxcFhoUFZQeFhQUUZLZUJqci1WUFlZMElvVGlMSzRhY2dBSkRPdGgyVEZEaU5nZ3VDYVRUTk9vUQ?oc=5",
+      "snippet": "Municipales 2026 : vives réactions après les propos sur le prétendu risque « d’infiltrés islamistes » du député RN Dragon&nbsp;&nbsp;L'Union",
+      "date": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "source": "L'Union"
+    },
+    {
       "title": "Municipales 2026. « Des musulmans ou autre » : ce député RN de l’Aisne prédit un risque d’« infiltrés islamistes » - L'Union",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWU1xYnBkWUVudjVxRkNUYlZTWTJSVGNybndsSHVtVEZrZjVWZFBCZXNJX0lCQkhhVHgyWGUtWW51N0NsakpLZkpNMFFOV1BCSjdxVjR4aGNnaUg4TmJfQ2FtMXdWdjRQRnAyZVV5SWdwS2tiUEdlQnVqR1hUZWJJbVc5VjNnWTU3MDFBSk9kU2JNQ2lZOEdsazBMZ2FobE9ibk4zWWxoajRhSU12enY0TzhYSTNkeVFpOFM4SUhn?oc=5",
       "snippet": "Municipales 2026. « Des musulmans ou autre » : ce député RN de l’Aisne prédit un risque d’« infiltrés islamistes »&nbsp;&nbsp;L'Union",
       "date": "Sun, 07 Dec 2025 08:00:00 GMT",
       "source": "L'Union"
+    },
+    {
+      "title": "Municipales 2026 : à 21 ans, Antoine Contrant entre dans la course à Bourbourg - Nord Littoral",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjcyVE91RGI5TVlVLTBYMnMxTlo3UkJmYmpVYXFaTGdFOXVPUmF2eFc5eGRGS1g3T2lmejhNb2psNEp2aGJTQkZGSHRodVNtNW9WSmJyMEE1UG9udHl4cnNEM2diRi1GcXppZ0d2V3NYVjJsdkRHMG5sRmhveUZqR1pIN0xWeWNHMVNIZ1NUNDNNTG9MbWxGajRzOGNoVWRfY2NxemxUZm1LUHlVaFRtbGY4MVV2M3RmWUw4N0JvZHV0a1E?oc=5",
+      "snippet": "Municipales 2026 : à 21 ans, Antoine Contrant entre dans la course à Bourbourg&nbsp;&nbsp;Nord Littoral",
+      "date": "Sun, 16 Nov 2025 08:00:00 GMT",
+      "source": "Nord Littoral"
     },
     {
       "title": "Municipales à Valence : \"Nicolas Daragon sait qu'il a déjà perdu\" pour Stéphane Magnin, candidat gauche écologiste/LFI - francebleu.fr",
@@ -51,26 +66,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 (Paris Normandie - 7 Jan 2026)",
-        "analyse": "Aucune mention explicite de Nicolas DRAGON comme candidat aux élections municipales 2026 dans ce snippet."
-      },
-      {
-        "source": "Source 2 (L'Aisne nouvelle - 14 Dec 2025)",
-        "analyse": "Mentionne des listes potentielles pour Laon en 2026, mais ne précise pas si Nicolas DRAGON est candidat. Aucune référence directe à lui."
-      },
-      {
-        "source": "Source 3 (L'Union - 7 Dec 2025)",
-        "analyse": "Parle d’un député RN de l’Aisne et des municipales 2026, sans lien avec Nicolas DRAGON."
-      },
-      {
-        "source": "Source 4 (francebleu.fr - 25 Sep 2025)",
-        "analyse": "Mentionne Nicolas DARAGON (peut-être une faute de frappe pour DRAGON) en contexte de Municipales à Valence, mais il est cité comme un candidat **potentiel** critiqué par Stéphane Magnin. Aucune confirmation officielle de sa candidature formelle."
-      },
-      {
-        "source": "Source 5 (Libération - 8 Apr 2025)",
-        "analyse": "Parle des règles de parité pour les listes municipales 2026, sans lien avec Nicolas DRAGON."
+        "source_index": null,
+        "explication": "Aucune source ne confirme explicitement Nicolas Dragon comme candidat aux municipales 2026. Les sources mentionnent des propos politiques ou contextes locaux sans lien direct avec une candidature officielle."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 (Paris Normandie - 7 Jan 2026)\",\n            \"analyse\": \"Aucune mention explicite de Nicolas DRAGON comme candidat aux élections municipales 2026 dans ce snippet.\"\n        },\n        {\n            \"source\": \"Source 2 (L'Aisne nouvelle - 14 Dec 2025)\",\n            \"analyse\": \"Mentionne des listes potentielles pour Laon en 2026, mais ne précise pas si Nicolas DRAGON est candidat. Aucune référence directe à lui.\"\n        },\n        {\n            \"source\": \"Source 3 (L'Union - 7 Dec 2025)\",\n            \"analyse\": \"Parle d’un député RN de l’Aisne et des municipales 2026, sans lien avec Nicolas DRAGON.\"\n        },\n        {\n            \"source\": \"Source 4 (francebleu.fr - 25 Sep 2025)\",\n            \"analyse\": \"Mentionne Nicolas DARAGON (peut-être une faute de frappe pour DRAGON) en contexte de Municipales à Valence, mais il est cité comme un candidat **potentiel** critiqué par Stéphane Magnin. Aucune confirmation officielle de sa candidature formelle.\"\n        },\n        {\n            \"source\": \"Source 5 (Libération - 8 Apr 2025)\",\n            \"analyse\": \"Parle des règles de parité pour les listes municipales 2026, sans lien avec Nicolas DRAGON.\"\n        }\n    ],\n    \"conclusion\": \"Aucune information claire et directe sur sa candidature officielle aux élections municipales de 2026. Bien que mentionné dans un contexte local (Valence), il n’est pas confirmé comme candidat officiel.\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:31.545867Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne confirme explicitement Nicolas Dragon comme candidat aux municipales 2026. Les sources mentionnent des propos politiques ou contextes locaux sans lien direct avec une candidature officielle.\"}\n    ]\n}\n```"
   }
 }

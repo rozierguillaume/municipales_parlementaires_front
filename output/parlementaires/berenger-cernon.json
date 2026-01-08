@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Essonne",
     "commune": "nan",
+    "position": "nan",
     "filename": "berenger-cernon.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Résultats des législatives 2024 : Nicolas Dupont-Aignan battu par le cheminot Bérenger Cernon&nbsp;&nbsp;Libération",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Municipales 2026 : qui sont les candidats têtes de liste investis par La France insoumise en Essonne ? - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSlBjTWpSR21pY0lyVDJrQ2Q0WGpwMnZxcGJNd25DNGJ1WXhOTXJpeUw1Z0x1ZE8tMnJuenRkZ1Bwa3dhYTNNSzNOS2M2TnRqX25wRm9EUTF2bG5EWU5aNUVLZnVGOTlTeDJMOWJ0M1BsY1ZvM0ZNdnNQakdrQTNsVDEzbVEyUUxmYU8wX0l4akJ5WjF6VnRrVFA0S0c5Y0Y2YnoxUEhlVXVhOTJZNmlwSG5sZUc5bV9BSmRiNW94Y0xhenNNOXRQQVFpVklpVGtmUFFVUEJ1UnZOa1VTcWRVS0JHekM0d3Z3RmsxV3MybUR0dw?oc=5",
+      "snippet": "Municipales 2026 : qui sont les candidats têtes de liste investis par La France insoumise en Essonne ?&nbsp;&nbsp;Actu.fr",
+      "date": "Thu, 25 Dec 2025 08:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

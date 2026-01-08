@@ -7,7 +7,8 @@
     "full_name": "Hervé BERVILLE",
     "parti": "nan",
     "departement": "Côtes-d'Armor",
-    "commune": "?",
+    "commune": "Non-défini",
+    "position": "Pourrait être sur une liste",
     "filename": "herve-berville.json"
   },
   "search_results": [
@@ -51,14 +52,14 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 3 (Le Télégramme - 4 avril 2025)",
-        "analyse": "Bien que mentionne son rôle de député et une question sur sa candidature aux municipales 2026, le snippet ne fournit pas d'information définitive ou confirmée. Il s'agit d'une question ouverte."
-      },
-      {
-        "source": "Source 1 (Inéligibilité pour un an)",
-        "analyse": "L'inéligibilité temporaire de Hervé Berville pour une année ne permet pas de conclure directement sur sa candidature aux municipales 2026, car elle pourrait s'appliquer à d'autres élections."
+        "source_index": 3,
+        "explication": "Source mentionne une question sur sa candidature aux municipales 2026 mais ne confirme pas explicitement."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 (Le Télégramme - 4 avril 2025)\",\n            \"analyse\": \"Bien que mentionne son rôle de député et une question sur sa candidature aux municipales 2026, le snippet ne fournit pas d'information définitive ou confirmée. Il s'agit d'une question ouverte.\"\n        },\n        {\n            \"source\": \"Source 1 (Inéligibilité pour un an)\",\n            \"analyse\": \"L'inéligibilité temporaire de Hervé Berville pour une année ne permet pas de conclure directement sur sa candidature aux municipales 2026, car elle pourrait s'appliquer à d'autres élections.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      3
+    ],
+    "analysis_at": "2026-01-08T10:11:23.601992Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [3],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Source mentionne une question sur sa candidature aux municipales 2026 mais ne confirme pas explicitement.\"}\n    ]\n}\n```"
   }
 }

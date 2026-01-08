@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Gironde",
     "commune": "nan",
+    "position": "nan",
     "filename": "nicolas-thierry.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "La France insoumise bien engagée dans les municipales de 2026&nbsp;&nbsp;La France insoumise",
       "date": "Tue, 01 Jul 2025 07:00:00 GMT",
       "source": "La France insoumise"
+    },
+    {
+      "title": "Municipales 2026 dans le Loiret : le maire de Huêtre Thierry Bracquemond sera-t-il à nouveau candidat - La République du Centre",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQlhjVVdXSFZuVFZQcFVxZUtvcHQySWlOZGZaME1kSE9qRkNKYmV5SnV3VzVTMTBfVUhudzM4REhYSHdqVlYyeE9keFgwRHBDREJtVFE4WkZwWUlCZlE4Y2l6S3hDY25tYXYzMFdieTYzLWppWXJhSUUtS0kyWm1KcThpbU5TYVJnVElQaDVGVDBDLVZrcmVYYWdvRTAzVUVpclZhZWJkcWJsU3hNZENBeV9mbVROYjU1SE1RNTZtMVpIZVQ1dmdLeEJTNlExbTcxSVJWQnl1dkVfLUhwTDZfTE1sRUZ2WFdZTnc?oc=5",
+      "snippet": "Municipales 2026 dans le Loiret : le maire de Huêtre Thierry Bracquemond sera-t-il à nouveau candidat&nbsp;&nbsp;La République du Centre",
+      "date": "Sat, 22 Nov 2025 08:00:00 GMT",
+      "source": "La République du Centre"
     }
   ],
   "analysis": {

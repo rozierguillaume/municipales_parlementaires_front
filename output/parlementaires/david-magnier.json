@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Oise",
     "commune": "nan",
+    "position": "nan",
     "filename": "david-magnier.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 : ces candidats qui ont permis d’envoyer un député RN à l’Assemblée nationale en se maintenant&nbsp;&nbsp;Libération",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Maxime Minot, président des LR Oise, ressuscite à l'occasion de la venue de Laurent Wauquiez - Oise Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS1BQVmRkMXpjSUhJbXdSeEZsU2FNVmRPNE9IbmFTS1J6X25HMG5rc2x5WWNPUEtObVZuUUp3bm9sOWNlZVpSMFk0Yllfb2t6NmhYM2lLVmNzVTFhT1czbGNmUjJYRWNfWm55RDdfNDBBdEFqVGdnRll3X0FsSk5FaWUzeWgyZjExdllBRXQ1cGJBcENoSTJSNlg1R1VQUTM2LWY2dlhWZkpPUEE4bVliekdjSWMtSW5maUx4Sk4yRk9uN1dF?oc=5",
+      "snippet": "Maxime Minot, président des LR Oise, ressuscite à l'occasion de la venue de Laurent Wauquiez&nbsp;&nbsp;Oise Hebdo",
+      "date": "Fri, 21 Mar 2025 07:00:00 GMT",
+      "source": "Oise Hebdo"
     }
   ],
   "analysis": {

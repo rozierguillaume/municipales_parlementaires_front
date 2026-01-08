@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-d'Oise",
     "commune": "nan",
+    "position": "nan",
     "filename": "emmanuel-maurel.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Les élections municipales en 2026 : quel paysage politique se dessine-t-il ?&nbsp;&nbsp;Fondation Jean-Jaurès",
       "date": "Wed, 26 Mar 2025 07:00:00 GMT",
       "source": "Fondation Jean-Jaurès"
+    },
+    {
+      "title": "Val-d’Oise : après dix ans au Parlement européen, Emmanuel Maurel retrouve un mandat local - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQd21GSlJEazlERnNOMGR4WXRQdzZVTno2QVVWVUxwNkJlel9Ram56ZWdzTG9pREowTzZTX2J4Sk1nSERfN3lHTnRIWEtENnZwYXNReGVocFpSZVpvRjdQVk9YV0R4TmZ2TjlHOEZ4R01BcXhGNk83Ry1OSWxGSTRPMXNLcXZCT3Q2eUptRElEV0NWaFgxem5NdUpnV3FWb1VEYU9wZWdfYnJfMUdIWmpBdTdjZHB6a3FtMTlGMHpaX2dFcnhsTGRNamhTNFlSbzBaWk8ySG5IZGJmM3Vjdm9lQzBZWUIxQVE5YUxzbk1vb2lvZUJzSllHWElxOUVxTzQ3T0hQQjFhV08?oc=5",
+      "snippet": "Val-d’Oise : après dix ans au Parlement européen, Emmanuel Maurel retrouve un mandat local&nbsp;&nbsp;Le Parisien",
+      "date": "Tue, 09 Jul 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

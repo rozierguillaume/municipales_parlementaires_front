@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Lot",
     "commune": "Gintrac",
+    "position": "Pourrait être sur une liste",
     "filename": "christophe-proenca.json"
   },
   "search_results": [
@@ -51,18 +52,14 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 4 (Actu.fr - Législatives 2024)",
-        "analyse": "Christophe Proença est mentionné comme candidat aux **Législatives 2024**, mais pas aux municipales de 2026. Aucune mention explicite de sa candidature pour les élections municipales en cours ou à venir."
-      },
-      {
-        "source": "Source 5 (ladepeche.fr - 2020)",
-        "analyse": "Seule une référence à un **deuxième mandat aux municipales de Gintrac en 2020** est trouvée, sans lien avec les élections de 2026."
-      },
-      {
-        "source": "Aucune mention directe des municipales 2026",
-        "analyse": "Les autres sources (Sources 1 et 3) ne concernent pas Christophe Proença mais d'autres candidats ou contextes. Aucune preuve de sa participation aux municipales 2026."
+        "source_index": 4,
+        "explication": "Mentionne Christophe Proença comme candidat aux législatives 2024 (pas de lien direct avec les municipales 2026)"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (Actu.fr - Législatives 2024)\",\n            \"analyse\": \"Christophe Proença est mentionné comme candidat aux **Législatives 2024**, mais pas aux municipales de 2026. Aucune mention explicite de sa candidature pour les élections municipales en cours ou à venir.\"\n        },\n        {\n            \"source\": \"Source 5 (ladepeche.fr - 2020)\",\n            \"analyse\": \"Seule une référence à un **deuxième mandat aux municipales de Gintrac en 2020** est trouvée, sans lien avec les élections de 2026.\"\n        },\n        {\n            \"source\": \"Aucune mention directe des municipales 2026\",\n            \"analyse\": \"Les autres sources (Sources 1 et 3) ne concernent pas Christophe Proença mais d'autres candidats ou contextes. Aucune preuve de sa participation aux municipales 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:21:03.625166Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Mentionne Christophe Proença comme candidat aux législatives 2024 (pas de lien direct avec les municipales 2026)\"}\n    ]\n}\n```"
   }
 }

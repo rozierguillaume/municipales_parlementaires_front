@@ -8,9 +8,17 @@
     "parti": "LR",
     "departement": "Alpes-Maritimes",
     "commune": "Cagnes-sur-Mer",
+    "position": "Tête de liste",
     "filename": "bryan-masson.json"
   },
   "search_results": [
+    {
+      "title": "«Il faut inculquer aux habitants la culture du risque» : ce pompier reconnu rejoint Bryan Masson pour les élections municipales à Cagnes-sur-Mer - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPa2YyeC1icUxXTjBSVmFlX1Mxb3dBU1U5eTA0YmJKZE5RaHUyZHdwcXgtQ1NNQXNBbFRsaGVfZXYwQnJtWkp1Y1N2TTJUcXA3ODA5R3BIcUx1WXo0dUJXNklVZkVDbHlXMzIxQW85emY4S1VLY0hpREh5NS1QcWxKVE5mVEdtcHlOQkhrbkFQcjBHcGQzWW5HdEc0dGtzbExhLVUwTlM3WGZlZ2ZKa09TZEhvRElzRVlqZGhub3ZZek5PcVhDRDlxOWRVVDZNM3J3V0pHMDNWbkR3ZUVWaWo4RFJXME1VM1FuLVQxZ2ZidGNFRE5wQk5qREZuTC1rbHk1SjREQU1lV2x1VnhZdnVuSmo3SktpQXlkTzZPc2IySlA3WkVTUk53NVg3Yi1SRFVJZWhTbw?oc=5",
+      "snippet": "«Il faut inculquer aux habitants la culture du risque» : ce pompier reconnu rejoint Bryan Masson pour les élections municipales à Cagnes-sur-Mer&nbsp;&nbsp;Nice-Matin",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "source": "Nice-Matin"
+    },
     {
       "title": "Élections municipales 2026 : Le Rassemblement national présente ses 14 candidats dans les Alpes-Maritimes - France 3 Régions",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOLTQ3bndHOXh4UXNfb0hHZjZnYUtycTN3dnRHTmFoeTN3TTJ2dGJ1ZWpkeHgtOWZoaUlSbW1Ub2dJWXNLRTgwbUxiRlpaMUhyaHRiS0VFNXZJWnpIMW45dk12clF1NndoWTluZ1lmR1NBQmhlNkxhc0lUeTVBOGtoZjJ4S1BjSGtlM1FmRmdjZHJNME42dnFCVW9SYkxKYWYwYUZibUZjb3pLOERDQlRNMDc1TXpXSFI0RVV0YVhQbzV3QUN4UWwyeC1EYnZEdEpmaG8ybzVfZXJ6b1dkN0FEck9NaXRSeVJUREUxZEdMWHkyVkNISXlOb2FxRlRoWkxENmp4THcwUDhucWtWcUJsd01KYnE3QXN4SXc3eC1wQWFsekE?oc=5",
@@ -50,9 +58,30 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Bryan Masson est mentionné comme **candidat officiel du Rassemblement National** pour les élections municipales de 2026 dans les Alpes-Maritimes (Source 1).",
-      "Plusieurs articles (Sources 2, 3, 4 et 5) confirment son implication active dans la campagne municipale à Cagnes-sur-Mer en 2026, avec des déclarations publiques et un soutien explicite du RN."
+      {
+        "source_index": 1,
+        "explication": "Référence explicite aux élections municipales de Cagnes-sur-Mer en 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Mention du ralliement et de sa candidature officielle pour les municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Discours et annonce explicite sur son projet pour les municipales 2026 à Cagnes-sur-Mer."
+      },
+      {
+        "source_index": 5,
+        "explication": "Présentation du RN avec Bryan Masson comme candidat aux municipales 2026 à Cagnes-sur-Mer."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Bryan Masson est mentionné comme **candidat officiel du Rassemblement National** pour les élections municipales de 2026 dans les Alpes-Maritimes (Source 1).\",\n        \"Plusieurs articles (Sources 2, 3, 4 et 5) confirment son implication active dans la campagne municipale à Cagnes-sur-Mer en 2026, avec des déclarations publiques et un soutien explicite du RN.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:24:55.274366Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite aux élections municipales de Cagnes-sur-Mer en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Mention du ralliement et de sa candidature officielle pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Discours et annonce explicite sur son projet pour les municipales 2026 à Cagnes-sur-Mer.\"},\n        {\"source_index\": 5, \"explication\": \"Présentation du RN avec Bryan Masson comme candidat aux municipales 2026 à Cagnes-sur-Mer.\"}\n    ]\n}\n```"
   }
 }

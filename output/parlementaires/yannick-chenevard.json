@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Var",
     "commune": "Toulon",
+    "position": "Pourrait être sur une liste",
     "filename": "yannick-chenevard.json"
   },
   "search_results": [
@@ -51,13 +52,24 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Info 83 - 10 Juillet 2025",
-        "texte": "Élections municipales Toulon 2026 : Yannick Chenevard comptera"
+        "source_index": 1,
+        "explication": "Aucune mention explicite de Yannick Chenevard dans les sources sur Toulon"
       },
       {
-        "source": "Mention explicite dans les résultats de recherche (Source 5) indiquant qu'il est mentionné comme candidat potentiel pour les élections municipales de Toulon en 2026."
+        "source_index": 4,
+        "explication": "Source indirecte confirmant sa participation aux municipales 2026 via une liste ou un soutien implicite"
+      },
+      {
+        "source_index": 5,
+        "explication": "Explicitement mentionné comme candidat potentiel pour les municipales 2026 à Toulon"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Info 83 - 10 Juillet 2025\",\n            \"texte\": \"Élections municipales Toulon 2026 : Yannick Chenevard comptera\"\n        },\n        {\n            \"source\": \"Mention explicite dans les résultats de recherche (Source 5) indiquant qu'il est mentionné comme candidat potentiel pour les élections municipales de Toulon en 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:10:39.432652Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Aucune mention explicite de Yannick Chenevard dans les sources sur Toulon\"},\n        {\"source_index\": 4, \"explication\": \"Source indirecte confirmant sa participation aux municipales 2026 via une liste ou un soutien implicite\"},\n        {\"source_index\": 5, \"explication\": \"Explicitement mentionné comme candidat potentiel pour les municipales 2026 à Toulon\"}\n    ]\n}\n```"
   }
 }

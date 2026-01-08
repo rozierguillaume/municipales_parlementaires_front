@@ -5,9 +5,10 @@
     "nom": "MICHELET",
     "prenom": "Maxime",
     "full_name": "Maxime MICHELET",
-    "parti": "DVC",
+    "parti": "DVD",
     "departement": "Marne",
     "commune": "Epernay",
+    "position": "Sur une liste",
     "filename": "maxime-michelet.json"
   },
   "search_results": [
@@ -50,9 +51,20 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Source 5 : 'Le député Maxime Michelet sera candidat aux municipales 2026 à Épernay' (L'Union, 7 juillet 2025).",
-      "Sources 1 et 4 mentionnent des contextes liés aux élections municipales futures sans exclure explicitement Maxime Michelet, bien que les autres sources ne le nomment pas directement."
+      {
+        "source_index": 4,
+        "explication": "Référence explicite à une candidature aux municipales 2026 pour Épernay."
+      },
+      {
+        "source_index": 5,
+        "explication": "Annonce officielle de sa candidature aux municipales 2026 à Épernay."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Source 5 : 'Le député Maxime Michelet sera candidat aux municipales 2026 à Épernay' (L'Union, 7 juillet 2025).\",\n        \"Sources 1 et 4 mentionnent des contextes liés aux élections municipales futures sans exclure explicitement Maxime Michelet, bien que les autres sources ne le nomment pas directement.\"\n    ]\n}\n```"
+    "used_sources": [
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:26:01.615521Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4, 5],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Référence explicite à une candidature aux municipales 2026 pour Épernay.\"},\n        {\"source_index\": 5, \"explication\": \"Annonce officielle de sa candidature aux municipales 2026 à Épernay.\"}\n    ]\n}\n```"
   }
 }

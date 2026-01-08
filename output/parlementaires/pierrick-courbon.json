@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Loire",
     "commune": "Saint-Etienne",
+    "position": "Pourrait être sur une liste",
     "filename": "pierrick-courbon.json"
   },
   "search_results": [
@@ -49,7 +50,21 @@
   ],
   "analysis": {
     "status": "NON",
-    "justification": "Toutes les sources consultées (Actu.fr, IF Saint-Étienne, mesinfos, Le Progrès, francebleu.fr) mentionnent explicitement que **Pierrick Courbon n'est pas candidat aux municipales de 2026 à Saint-Étienne**, sans évoquer d'autres villes ou contextes. Aucune information ne suggère une candidature ailleurs pour ces élections.",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"justification\": \"Toutes les sources consultées (Actu.fr, IF Saint-Étienne, mesinfos, Le Progrès, francebleu.fr) mentionnent explicitement que **Pierrick Courbon n'est pas candidat aux municipales de 2026 à Saint-Étienne**, sans évoquer d'autres villes ou contextes. Aucune information ne suggère une candidature ailleurs pour ces élections.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Source précise que Pierrick Courbon n'est pas candidat aux municipales 2026 à Saint-Étienne."
+      },
+      {
+        "source_index": 4,
+        "explication": "Confirme explicitement qu'il ne se présente pas et que Régis Juanico est en tête de liste pour le PS."
+      }
+    ],
+    "used_sources": [
+      1,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:19:14.373331Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [1, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source précise que Pierrick Courbon n'est pas candidat aux municipales 2026 à Saint-Étienne.\"},\n        {\"source_index\": 4, \"explication\": \"Confirme explicitement qu'il ne se présente pas et que Régis Juanico est en tête de liste pour le PS.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Gironde",
     "commune": "Créon",
+    "position": "Pourrait être sur une liste",
     "filename": "mathilde-feld.json"
   },
   "search_results": [
@@ -45,11 +46,25 @@
       "snippet": "Créon. Élections municipales 2026 : Sylvie Desmond a bien envie de rester maire&nbsp;&nbsp;leresistant.fr",
       "date": "Sat, 04 Oct 2025 07:00:00 GMT",
       "source": "leresistant.fr"
+    },
+    {
+      "title": "L’élection de la députée LFI de Gironde Mathilde Feld confirmée par le Conseil constitutionnel - Rue89Bordeaux",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0F6dHRpXzZRN0NiNGJrb0xTMFRfMnJBbHdtYm5MTDJ1bF9uY1BZOHhRR0NoaFFrdHdFRVZQZmF1a21zMWhlM2lwODZHaXdHUzhQalZaaDVGMGZnQ1NYc2wySDhyVE5jUC1ZbW11QWM0bzRCT2l3b3ZvbEhYNUxpYUU2UEtCSnliX2JQY051WWo1ZF9JMTlWVEhEajN4QkNKUjZLUDRrTDhxdWFuN1dRZdIBtgFBVV95cUxNOWJndjluWklHTjZSZm0zblhaNXM2RHpzd2w5S3RrVU9UeGFKeEdYcXpuY0hod2lDcjJrbjhwMVF6aTF2SDlnejZpSkxkZ2lDQktOZnRoTFc4ejh2OTRQT3hWR3hJVjcxYXJHUkhmRW54cXUtb1FhOUgtUUsxMGdOMENxMVdMT0dsMGY5TTFCT1Q4eDIyZVRxX1RFeDVVZWladVlMR3h0M3Z3QUlLS3NieDByY05XQQ?oc=5",
+      "snippet": "L’élection de la députée LFI de Gironde Mathilde Feld confirmée par le Conseil constitutionnel&nbsp;&nbsp;Rue89Bordeaux",
+      "date": "Tue, 04 Feb 2025 08:00:00 GMT",
+      "source": "Rue89Bordeaux"
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Mathilde Feld comme candidate aux élections municipales de 2026. Les sources citées concernent principalement d'autres candidats (Rémy Berthonneau, Alexis Febbrari, Sylvie Desmond, Nordine Raymond) ou des analyses sur la dynamique politique à Bordeaux et dans les communes voisines.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Mathilde Feld comme candidate aux élections municipales de 2026. Les sources citées concernent principalement d'autres candidats (Rémy Berthonneau, Alexis Febbrari, Sylvie Desmond, Nordine Raymond) ou des analyses sur la dynamique politique à Bordeaux et dans les communes voisines.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Mathilde Feld comme candidate aux municipales 2026 dans les sources fournies."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:16:04.042308Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Mathilde Feld comme candidate aux municipales 2026 dans les sources fournies.\"}\n    ]\n}\n```"
   }
 }

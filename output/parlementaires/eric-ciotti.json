@@ -8,9 +8,24 @@
     "parti": "HOR ",
     "departement": "Alpes-\nMaritimes",
     "commune": "Nice",
+    "position": "Tête de liste ",
     "filename": "eric-ciotti.json"
   },
   "search_results": [
+    {
+      "title": "Premier meeting de campagne d'Eric Ciotti dans une boite de nuit à Nice - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVFRSLVN6QmhaeF82TV9MUkpVRGkzM0FpQXR0aHE5TFR1ZXllcU5kblE2cUtfRUxZbmQ1RzdaWEJlV19CM0VZX19RdERqenpkQkhtM3RlWkFXTjVyMVJvcWtXSEVLQW50ODhoY2JUaDFkUEl6alF6QnVHTGNEbzNpTm5GTWtSUWNYbWN5dnJSOUdlMjU2RFFMcTZBRnFZcEh6TEpPUlFIQnpEbklmSEN6ZWNqbTFtTVBhSzR2YjhlRWg3V19xbWp1ZjFUNHZlMjZueTdz?oc=5",
+      "snippet": "Premier meeting de campagne d'Eric Ciotti dans une boite de nuit à Nice&nbsp;&nbsp;francebleu.fr",
+      "date": "Thu, 08 Jan 2026 06:31:30 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026 : Éric Ciotti affine sa liste en présentant un colistier ce jeudi - CNews",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbU9tRmtHdDZ0Nks4SlBJZXAyT0g2bmxSbXZWcUdJSmoycF9QdF9YRXpudEJ6b05Jc1prejJBSEJyNzVzNmt1QzZ3S24tbFpXQkwwd1VYdWd6R0tVbG1BSkpoVFRGazdmYWhhbm1ZU3FQVlhkR2l0S2R3Q0FidE1xX0llODhSdkFIdC1BTE1WYy1YaFpsNk9zdjVIQkVFMk10SHFQM1JJWFg5VjlaTjA0MnB1RUFrV2VxVDJiaHAtdk_SAcABQVVfeXFMT21PbUZrR3Q2dDZLOEpQSWVwMk9INm5sUm12VnFHSUpqMnBfUHRfWEV6bnRCem9OSXNaa3oyQUhCcjc1czZrdUM2d0tuLWxaV0JMMHdVWHVnekdLVWxtQUpKaFRURms3ZmFoYW5tWVNxUFZYZEdpdEtkd0NBYnRNcV9JZTg4UnZBSHQtQUxNVmMtWGhabDZPc3Y1SEJFRTJNdEhxUDNSSVhYOVY5Wk4wNDJwdUVBa1dlcVQyYmhwLXZP?oc=5",
+      "snippet": "Municipales 2026 : Éric Ciotti affine sa liste en présentant un colistier ce jeudi&nbsp;&nbsp;CNews",
+      "date": "Thu, 08 Jan 2026 05:47:38 GMT",
+      "source": "CNews"
+    },
     {
       "title": "Municipales 2026 à Nice : Ciotti promet l’extension de la gratuité du stationnement des soignants - Le Parisien",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQY2xUbUtvV3RXV3lwd1ZYWGgyd3plUGR5Y3RQb1g0WDd6THh2WF9qWXNwbVZiOHhFX1g1azhqRUVIZzhTWExtQ1RIejdtWmlwUUpjZ1p2Um9oRWVvVVRqbmdBZ0sxMzd6cXItOHI5OV95bjBDLXV0RWVNRUU0SzFKeXZzcGIxSEdpWDdWMG1ybWtFZUVoSXMzbW1oZDlSems2RTZ3UkRSYWVBSmwtRDBCbE9lVlJ4a2FsTGhhNXpvRy0zZWZramczLXJXa1dnbXBrbmFmUi1fLWpCQzNvRzRCQTVnZ19uX3VGZ1JEUjIwZ3Z3NXZHcl8yanNSYjRJMkN3RklmUkR3eW5JV1ZfdlZJT200OFZPamNCd1Q0aUFLNmd2enVhMW90WUNnNDZJRmZ5YXcwWQ?oc=5",
@@ -50,8 +65,35 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Les sources 1 à 5 mentionnent explicitement Éric Ciotti comme **candidat aux Municipales de Nice en 2026** (janvier 2026). Les titres et snippets soulignent ses promesses électorales (gratuité du stationnement pour les soignants, projet sur le Carnaval) et son opposition déclarée à Christian Estrosi (Source 3), confirmant sa visibilité politique active dans cette campagne."
+      {
+        "source_index": 1,
+        "explication": "Meeting de campagne explicitement lié aux municipales 2026"
+      },
+      {
+        "source_index": 2,
+        "explication": "Présentation d'une liste et colistiers pour les municipales 2026"
+      },
+      {
+        "source_index": 3,
+        "explication": "Promesses électorales spécifiques aux municipales 2026 à Nice"
+      },
+      {
+        "source_index": 4,
+        "explication": "Annonce de mesures votées en cas d'élection municipale 2026"
+      },
+      {
+        "source_index": 5,
+        "explication": "Duel électoral explicitement lié aux municipales 2026"
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Les sources 1 à 5 mentionnent explicitement Éric Ciotti comme **candidat aux Municipales de Nice en 2026** (janvier 2026). Les titres et snippets soulignent ses promesses électorales (gratuité du stationnement pour les soignants, projet sur le Carnaval) et son opposition déclarée à Christian Estrosi (Source 3), confirmant sa visibilité politique active dans cette campagne.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:25:57.115248Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Meeting de campagne explicitement lié aux municipales 2026\"},\n        {\"source_index\": 2, \"explication\": \"Présentation d'une liste et colistiers pour les municipales 2026\"},\n        {\"source_index\": 3, \"explication\": \"Promesses électorales spécifiques aux municipales 2026 à Nice\"},\n        {\"source_index\": 4, \"explication\": \"Annonce de mesures votées en cas d'élection municipale 2026\"},\n        {\"source_index\": 5, \"explication\": \"Duel électoral explicitement lié aux municipales 2026\"}\n    ]\n}\n```"
   }
 }

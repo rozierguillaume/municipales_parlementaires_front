@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Cantal",
     "commune": "Montsalvy",
+    "position": "Pourrait être sur une liste",
     "filename": "vincent-descoeur.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "Actu.fr"
     },
     {
+      "title": "Politique : pourquoi Laurent Wauquiez se rend dans le Cantal prochainement ? - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXdPaTJEOFVhQWc3UndMcDlmZXJvVk0zelFnQUNTUXduenVCdlBoMmxjS2V1Ym5qVVA1RmNsTTlKaXBYUDNKLUNCbGpWazNyQ1gzTWJHRzZoQTZsaFQ1dGRJVE9jaUpYa0QtWEx0b1E5ak9ZNzNkZjlFTmlWRFlCWTcteFM4cmFfb0c0ckVoa1hrM0Q1MmI3NEVmYjhjX1lfNXFsbXZNMDFqRGFmeG5YRzdFeF80U0xtWld5b0JfT0o3eUlJNjF6Y2ZxLVZrRTIyUG9femRJUnBqUQ?oc=5",
+      "snippet": "Politique : pourquoi Laurent Wauquiez se rend dans le Cantal prochainement ?&nbsp;&nbsp;Actu.fr",
+      "date": "Thu, 06 Mar 2025 08:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
       "title": "Législatives. Pour le maire d’Aurillac, Pierre Mathonier : les gens sont déboussolés\" - Actu.fr",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU2JhdU54N1ppUV9uU1NSQ2dqUExzV1RrcEdrWGxJRVdLb0dKdEI0dEJsSE5KdzRkSTFsWllVRkVFTExxYVB3bnFNNHJfeG9makZ1U3B2VkF1bHRVYUtOY0g0Z25Jd0VtbzFaQzgwT0F1OVlPMktZQTYwSVcxUjNXOEFVVGF6UTQ3Vy1EazVlbExuT0FDVUdJaURYVE4xMEtLWnRVZEtKRVBjaXdEVE00QnlMNXUtY2ZJOW15NS1IOWlDaUNhZ0pSNWI3OFJQeXJpdzhMNkF2dU9TR1RkSWc?oc=5",
       "snippet": "Législatives. Pour le maire d’Aurillac, Pierre Mathonier : les gens sont déboussolés\"&nbsp;&nbsp;Actu.fr",
@@ -51,14 +59,19 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 1 (Actu.fr - 06 Jan 2026)",
-        "contenu": "Mentionne explicitement Vincent Descoeur comme adjoint cité dans une ville du sud du Cantal, évoquant ses Municipales 2026 en tant que figure émergente."
+        "source_index": 1,
+        "explication": "Référence explicite à des municipales 2026 et mention d'un adjoint candidat dans une ville du Cantal."
       },
       {
-        "source": "Source 3 (Actu.fr - 20 Sep 2025)",
-        "contenu": "Parle des 'Élections municipales 2026 à Aurillac', suggérant une dynamique de candidature pour Vincent Descoeur dans ce contexte local."
+        "source_index": 3,
+        "explication": "Titre évoquant explicitement les élections municipales 2026 à Aurillac avec un nouveau nom en lien avec Vincent Descoeur"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 (Actu.fr - 06 Jan 2026)\",\n            \"contenu\": \"Mentionne explicitement Vincent Descoeur comme adjoint cité dans une ville du sud du Cantal, évoquant ses Municipales 2026 en tant que figure émergente.\"\n        },\n        {\n            \"source\": \"Source 3 (Actu.fr - 20 Sep 2025)\",\n            \"contenu\": \"Parle des 'Élections municipales 2026 à Aurillac', suggérant une dynamique de candidature pour Vincent Descoeur dans ce contexte local.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      3
+    ],
+    "analysis_at": "2026-01-08T10:09:00.865685Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à des municipales 2026 et mention d'un adjoint candidat dans une ville du Cantal.\"},\n        {\"source_index\": 3, \"explication\": \"Titre évoquant explicitement les élections municipales 2026 à Aurillac avec un nouveau nom en lien avec Vincent Descoeur\"}\n    ]\n}\n```"
   }
 }

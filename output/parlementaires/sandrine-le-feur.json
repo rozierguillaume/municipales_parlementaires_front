@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Finistère",
     "commune": "nan",
+    "position": "nan",
     "filename": "sandrine-le-feur.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Zan : les élus en terrain instable&nbsp;&nbsp;mairesdefrance.com",
       "date": "Mon, 22 Sep 2025 07:00:00 GMT",
       "source": "mairesdefrance.com"
+    },
+    {
+      "title": "Sandrine Le Feur, députée Renaissance: «Si l’accord Mercosur est signé, il doit passer devant les Parlements nationaux» - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYXUyNXlhclFfeFlZbkRLQkdLeEZ2UUdhN055WGhwbmRLcWIwYzE4cHJoN0Q0ZV9hdVREOWZPU2hmM2xGR19pSl9XeWpmU1BsNndCbU1Md2RGT3NhRng3OHg4THNQbDJRVERGSUp5WFJRejlkTFc5Q1BHSTFMSUJTY1cxMkh5RVdlUUliT1pycE9MUlUwQWFKakRmd3lBV3pOenp3VGE3U1N1VkFDcFN4ak80NlJOdFdLNVVqT3FmSFQxSE9waWN6RjFjemVFNDlpTGhYMS03SmU0YUwtUFFnMHRwTmtaZl9LUGQtaktB?oc=5",
+      "snippet": "Sandrine Le Feur, députée Renaissance: «Si l’accord Mercosur est signé, il doit passer devant les Parlements nationaux»&nbsp;&nbsp;Le Figaro",
+      "date": "Mon, 25 Nov 2024 08:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {

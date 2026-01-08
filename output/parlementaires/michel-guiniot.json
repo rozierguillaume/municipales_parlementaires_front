@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Oise",
     "commune": "Noyon",
+    "position": "Sur une liste ",
     "filename": "michel-guiniot.json"
   },
   "search_results": [
@@ -49,7 +50,26 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Les sources confirment explicitement que Michel Guiniot est en train de constituer une liste pour les municipales de **Noyon en 2026** (Source 5 : « Je suis en train de constituer la liste » – Courrier picard, 5 septembre 2025).",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Les sources confirment explicitement que Michel Guiniot est en train de constituer une liste pour les municipales de **Noyon en 2026** (Source 5 : « Je suis en train de constituer la liste » – Courrier picard, 5 septembre 2025).\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Référence explicite aux municipales de Noyon en 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Hypothèse d'une candidature officielle à Noyon pour les municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Confirme sa participation active aux municipales de Noyon en 2026."
+      }
+    ],
+    "used_sources": [
+      1,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:23:22.618313Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite aux municipales de Noyon en 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Hypothèse d'une candidature officielle à Noyon pour les municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Confirme sa participation active aux municipales de Noyon en 2026.\"}\n    ]\n}\n```"
   }
 }

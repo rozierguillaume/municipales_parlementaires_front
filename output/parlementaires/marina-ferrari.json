@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Savoie",
     "commune": "Aix-les-Bains",
+    "position": "Tête de liste",
     "filename": "marina-ferrari.json"
   },
   "search_results": [
@@ -50,8 +51,35 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Tous les résultats de recherche mentionnent explicitement que Marina Ferrari **annonce sa candidature aux municipales de 2026** pour Aix-les-Bains (France Bleu, Libération, L’Essor Savoyard, Savoie News et France 3 Régions). Les titres et snippets confirment cette annonce officielle en décembre 2025."
+      {
+        "source_index": 1,
+        "explication": "Tous les sources confirment explicitement une annonce de candidature aux municipales 2026 pour Marina Ferrari à Aix-les-Bains."
+      },
+      {
+        "source_index": 2,
+        "explication": "Libération mentionne sa candidature officielle aux élections municipales 2026 dans la même ville."
+      },
+      {
+        "source_index": 3,
+        "explication": "L'Essor Savoyard confirme son intention de se présenter pour les prochaines municipales à Aix-les-Bains."
+      },
+      {
+        "source_index": 4,
+        "explication": "Savoie News précise sa candidature aux élections municipales 2026 dans la commune."
+      },
+      {
+        "source_index": 5,
+        "explication": "France 3 Régions souligne son engagement en tant que candidate officielle pour Aix-les-Bains en 2026."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Tous les résultats de recherche mentionnent explicitement que Marina Ferrari **annonce sa candidature aux municipales de 2026** pour Aix-les-Bains (France Bleu, Libération, L’Essor Savoyard, Savoie News et France 3 Régions). Les titres et snippets confirment cette annonce officielle en décembre 2025.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:19:20.509643Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Tous les sources confirment explicitement une annonce de candidature aux municipales 2026 pour Marina Ferrari à Aix-les-Bains.\"},\n        {\"source_index\": 2, \"explication\": \"Libération mentionne sa candidature officielle aux élections municipales 2026 dans la même ville.\"},\n        {\"source_index\": 3, \"explication\": \"L'Essor Savoyard confirme son intention de se présenter pour les prochaines municipales à Aix-les-Bains.\"},\n        {\"source_index\": 4, \"explication\": \"Savoie News précise sa candidature aux élections municipales 2026 dans la commune.\"},\n        {\"source_index\": 5, \"explication\": \"France 3 Régions souligne son engagement en tant que candidate officielle pour Aix-les-Bains en 2026.\"}\n    ]\n}\n```"
   }
 }

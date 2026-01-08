@@ -5,9 +5,10 @@
     "nom": "IBLED",
     "prenom": "Catherine",
     "full_name": "Catherine IBLED",
-    "parti": "PS",
+    "parti": "DVG",
     "departement": "Paris",
     "commune": "Paris - 13ème arrondissement",
+    "position": "Pourrait être tête de liste",
     "filename": "catherine-ibled.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Municipales 2026 à Paris : les candidats - presque - d’accord sur l’avenir de la petite ceinture&nbsp;&nbsp;Le Parisien",
       "date": "Fri, 12 Dec 2025 08:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Une soirée-débat pour remettre l’avenir de la Petite ceinture au cœur des municipales de 2026 - Le journal du Grand Paris",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTm5Zd3B0dHVxZFUzY2JMY3ctVGc5RXRBSHNMSTE2bmpveVRNOUxoOU9rcmN5TF9rZVUzX3RuY19OVktNc1pGcWtCNXYxY2hLbnNwN2pFLWpwbDZ6dVF0UUJPVEhGV04ybjRlMi1JQmZsbnNjYkVRMktLdEE0NmgtV3hlYWtza28tX0pTYkNURlhQcTRuUG91RWpRTkFXX1BPWEVNcFdqMmNCUlBKdFY4NWhhNWhnUVl0MENYMURsaXI3akxCOEdR0gHMAUFVX3lxTE5Zd3plMWpma1BBSlU4NzR2bmZHdldHWW8xQUVjZ0xLRndIR0kxbHdyUmdMVzVWMkZJT2tWSTRFZklLM1B0MXJKS0JXa3ZaaEZXLUV3a0g0dG9MZEFfRXY0d2pDeGNsaU1hejJzVTRueVdlMHNBUkxQNVFaOWVYVlpxNzVYSkljaHVxNkFIUkNOMkN6elhEMmNNeDBzQlczZ202VXdncnROenVrTmtBbHNtRDFhdXlIRzNTTG4wQ3VpdHhWSi0xWVBteDFJeA?oc=5",
+      "snippet": "Une soirée-débat pour remettre l’avenir de la Petite ceinture au cœur des municipales de 2026&nbsp;&nbsp;Le journal du Grand Paris",
+      "date": "Sun, 07 Dec 2025 08:00:00 GMT",
+      "source": "Le journal du Grand Paris"
     },
     {
       "title": "Municipales 2026 à Paris: pourquoi Renaissance a finalement préféré Pierre-Yves Bournazel à Rachida Dati - BFM",
@@ -45,11 +53,25 @@
       "snippet": "A Paris, Pierre-Yves Bournazel allonge la liste des prétendants à la mairie au sein de la majorité&nbsp;&nbsp;Le Monde.fr",
       "date": "Wed, 18 Oct 2023 07:00:00 GMT",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "Municipales : qui sont les candidats dans le 15e arrondissement de Paris ? - Yahoo Actualités",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzE5U19ObW1XdUpwRUpkZ3ZmekJDZUN5ME82XzFlS1FaTGQzZzJ4ZmRaeVN2dlhNM283MkZ6ZDdCWXJCTjY5OWtxckpFb0pZSFhYMDNYQlRzM291LWhPb0NPdEhRT3YtUE00QlpmcXJwOFZza2ZaQWY4SnZIRnhXVE9HaGpwbkdYYkNIT3B5OFcxX3VqeDAtOFRKelZnOWVzekhQUXREN3Awd1hDbmhrNUpB?oc=5",
+      "snippet": "Municipales : qui sont les candidats dans le 15e arrondissement de Paris ?&nbsp;&nbsp;Yahoo Actualités",
+      "date": "Tue, 03 Mar 2020 08:00:00 GMT",
+      "source": "Yahoo Actualités"
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucune des sources ne mentionne explicitement **Catherine Ibled** comme candidate aux élections municipales de Paris en 2026. Les articles concernent principalement Pierre-Yves Bournazel, Rachida Dati ou d'autres figures politiques liées à la campagne parisienne pour les prochaines municipales (2026).",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources ne mentionne explicitement **Catherine Ibled** comme candidate aux élections municipales de Paris en 2026. Les articles concernent principalement Pierre-Yves Bournazel, Rachida Dati ou d'autres figures politiques liées à la campagne parisienne pour les prochaines municipales (2026).\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Catherine Ibled comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des débats ou des dynamiques autour d'autres candidats (Bournazel, Dati) et des enjeux politiques sans référence directe à elle."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:10:52.072523Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Catherine Ibled comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des débats ou des dynamiques autour d'autres candidats (Bournazel, Dati) et des enjeux politiques sans référence directe à elle.\"}\n    ]\n}\n```"
   }
 }

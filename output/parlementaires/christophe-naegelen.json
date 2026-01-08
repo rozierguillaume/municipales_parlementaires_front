@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Vosges",
     "commune": "nan",
+    "position": "nan",
     "filename": "christophe-naegelen.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Législatives 2022 – Christophe Naegelen, nettement en tête, avant le deuxième tour face au Rassemblement National&nbsp;&nbsp;remiremontvallees.com",
       "date": "Sun, 12 Jun 2022 07:00:00 GMT",
       "source": "remiremontvallees.com"
+    },
+    {
+      "title": "Présidence du groupe Liot : ce duel que vous n’avez pas vu venir à l’Assemblée - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSTFJQlowbFZtYVJRQ25tZHp5UzlFVUV6TXR3d2Z2VGZLRng1bGFmTTBVRDZsTWNhVFB2eVdjOXdvdDJLdExFVmNRR3pneW9RR1RocDMzbnpiMkU2ZkFKRG5RaDZtMlpEcFlDdTEzdzNyZWRjdWI5UXhRSkVVNHRtWE10SDhoMXVlNExxZEhEYVhlcGR4Y2ctQjExc3RaM1BIQ3FvLU5mdTdITEZtdVY1c0ZiWnd1aUtzSmUzSndvZGEwMlBXRmNmQXlFajlJRWlUU3hUZXJVTGNzY3lRNHNUag?oc=5",
+      "snippet": "Présidence du groupe Liot : ce duel que vous n’avez pas vu venir à l’Assemblée&nbsp;&nbsp;Libération",
+      "date": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Résultats élections municipales Bellefontaine [88370] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQlJJbkMycU5Kd2hHN0hSY3RyVkxQTFZQcmhWOW40TDdqdmZUdlB4b3JCV0tCRDV1U19sWGxBVWxvVUc4bU9pbElLTjhwaGdwN21hZDNoXzlqZWlkN0ZBV1VhVlNEaVAyMXJzcHNXbjBhU29tUm9LYzFxd2Zjd0dWdQ?oc=5",
+      "snippet": "Résultats élections municipales Bellefontaine [88370] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

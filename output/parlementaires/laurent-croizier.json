@@ -8,6 +8,7 @@
     "parti": "EELV",
     "departement": "Doubs",
     "commune": "Besançon",
+    "position": "Sur une liste",
     "filename": "laurent-croizier.json"
   },
   "search_results": [
@@ -50,9 +51,25 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Laurent Croizier est mentionné comme **candidat officiel** dans une liste commune avec Ludovic Fagaut pour les élections municipales de Besançon en 2026 (Sources 2, 3).",
-      "Les sources récentes (octobre 2025) confirment son implication active dans la campagne municipale de 2026."
+      {
+        "source_index": 1,
+        "explication": "Mentionne explicitement Laurent Croizier comme candidat dans les grandes communes de Franche-Comté pour les municipales 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Annonce une alliance officielle avec Ludovic Fagaut pour une liste commune à Besançon en 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Confirme sa participation à une liste commune pour les municipales 2026 à Besançon"
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Laurent Croizier est mentionné comme **candidat officiel** dans une liste commune avec Ludovic Fagaut pour les élections municipales de Besançon en 2026 (Sources 2, 3).\",\n        \"Les sources récentes (octobre 2025) confirment son implication active dans la campagne municipale de 2026.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T10:17:48.687168Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mentionne explicitement Laurent Croizier comme candidat dans les grandes communes de Franche-Comté pour les municipales 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Annonce une alliance officielle avec Ludovic Fagaut pour une liste commune à Besançon en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Confirme sa participation à une liste commune pour les municipales 2026 à Besançon\"}\n    ]\n}\n```"
   }
 }

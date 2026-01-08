@@ -8,6 +8,7 @@
     "parti": "HOR ",
     "departement": "Alpes-Maritimes",
     "commune": "Nice",
+    "position": "Sur une liste ",
     "filename": "christelle-dintorni.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "La source **Source 5** (*Nice-Matin*, 9 mai 2025) précise explicitement que Christelle d’Intorni, députée UDR, a **choisi Nice comme ville de candidature pour les élections municipales de 2026**, ce qui confirme son intention officielle.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"La source **Source 5** (*Nice-Matin*, 9 mai 2025) précise explicitement que Christelle d’Intorni, députée UDR, a **choisi Nice comme ville de candidature pour les élections municipales de 2026**, ce qui confirme son intention officielle.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Source explicite mentionnant Christelle d’Intorni candidate aux municipales 2026 à Nice"
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:25:17.589714Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Source explicite mentionnant Christelle d’Intorni candidate aux municipales 2026 à Nice\"}\n    ]\n}\n```"
   }
 }

@@ -7,7 +7,8 @@
     "full_name": "Pierre CAZENEUVE",
     "parti": "LR",
     "departement": "Hauts-de-Seine",
-    "commune": "Reuil-Malmaison",
+    "commune": "Rueil-Malmaison",
+    "position": "Pourrait être sur une liste",
     "filename": "pierre-cazeneuve.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Dans les Hauts-de-Seine, l’increvable « génération Pasqua » en reprendrait bien pour sept ans&nbsp;&nbsp;Mediapart",
       "date": "Sun, 07 Dec 2025 08:00:00 GMT",
       "source": "Mediapart"
+    },
+    {
+      "title": "Belley. Municipales 2026 : que sont devenus les six candidats des dernières élections de 2020 ? - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOF85RWlKVm1kUW9UbEZNT0hFMDh1TkFOQU1yQko1dDRQZUU4ZGphcEVjVUNGOGtzQl81NDAybW1uZjM2N2I1aHhMLXcySnZob1BwRTZQV1Y3SFoyc2dfUmEwVGh1ejdpOTRHWDNKeFlCSldXUHBFdUxRUXJZdy05aHFwTTVaZUxTZVVaOG9JZTh0V1FHbjlMOUxRdUFsaTVLR3RJSDdETmNxYUlrSWt1VTBITnJUZU5kZFNfaWRHaWZJc1oxTjI1RA?oc=5",
+      "snippet": "Belley. Municipales 2026 : que sont devenus les six candidats des dernières élections de 2020 ?&nbsp;&nbsp;Le Progrès",
+      "date": "Sun, 16 Nov 2025 08:00:00 GMT",
+      "source": "Le Progrès"
     },
     {
       "title": "Municipales 2026 à Grenoble : un nouveau candidat dans la course, Pierre-Edouard Cardinal, soutenu par Renaissance - francebleu.fr",
@@ -49,7 +57,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Pierre Cazeneuve est mentionné dans un article du *Le Parisien* (22 décembre 2025) comme quittant Saint-Cloud pour Rueil-Malmaison avec l’intention explicite de se présenter aux **municipales de 2026** et d’être soutenu par Patrick Ollier.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Pierre Cazeneuve est mentionné dans un article du *Le Parisien* (22 décembre 2025) comme quittant Saint-Cloud pour Rueil-Malmaison avec l’intention explicite de se présenter aux **municipales de 2026** et d’être soutenu par Patrick Ollier.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Référence explicite à sa candidature aux municipales de 2026 pour Rueil-Malmaison"
+      }
+    ],
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T10:10:34.672532Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à sa candidature aux municipales de 2026 pour Rueil-Malmaison\"}\n    ]\n}\n```"
   }
 }

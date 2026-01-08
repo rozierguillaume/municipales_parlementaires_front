@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Vaucluse",
     "commune": "nan",
+    "position": "nan",
     "filename": "marie-france-lorho.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : la députée RN Bénédicte Auzanot officialise sa candidature à Cavaillon&nbsp;&nbsp;francebleu.fr",
       "date": "Sat, 22 Nov 2025 08:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Région : à Orange, ce procès s’invite en pleine campagne des municipales 2026 et fragilise la famille Bompard - Nice-Presse",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUhGY0NvRGE1c3VyeExfNGNPSUtvaWhzZ3RtbFQ2NnFXY0hURVNHb25aLTdKSXZuYmh3NER1SmFKNnZqcTZMaVRyd2F1MUVaa0dYdE5aMUd2MWYzUHI5Z0N6bzYycFZuaHA4STR3ZS1UdlBZS3FLNTlhRjRHRUtCa1R2ZmF0TUViUnJMbTVmZTlUX05saTh3cDNGSFpIMTdGNmpuQ1l5VWpqdHlXcmdvRV96QTNIWmdCS2llRWpMYi1VV2VXNnJqSA?oc=5",
+      "snippet": "Région : à Orange, ce procès s’invite en pleine campagne des municipales 2026 et fragilise la famille Bompard&nbsp;&nbsp;Nice-Presse",
+      "date": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "source": "Nice-Presse"
     }
   ],
   "analysis": {

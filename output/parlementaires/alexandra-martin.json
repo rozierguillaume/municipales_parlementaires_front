@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Alpes-Maritimes",
     "commune": "nan",
+    "position": "nan",
     "filename": "alexandra-martin.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales à Bordeaux : à la Fête de l’escargot, le bal des politiques et l’union à toutes les sauces&nbsp;&nbsp;Sud Ouest",
       "date": "Sun, 07 Sep 2025 07:00:00 GMT",
       "source": "Sud Ouest"
+    },
+    {
+      "title": "Municipales 2026: le RN et ses alliés peuvent-ils créer la surprise sur la Côte d'Azur et marquer un tournant politique dans les Alpes-Maritimes? - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOV2FWVGpuN3dHLURTbzh2d1ViOUpDX1V5Y25JU1ZseXEyRkV3MzRodkNyeWhOTHBiYVRYM0kxbndkWDZ3UVlCTDcwZzVtdHZJcnJMUXJHdXVfVVB3ZGN6M2tyUFdId2JONmdGellBazJ4QXF6N1V6RF80MjNkU05sMG5Pb2NJRjV5Q3JtNF9McVFIc2pUekt5NWlSZ3JKbjZyYWRnSVBWUEVvY0s0TUhqVUc2MVc2SzRSLVFyX3daUmNUVGM4elB2Y3gxZnJVbjJoRlR5NTVnUzlDeFZrLWtZOEV2RVlZSmR3WXF6NkxQazVQZEdnTk9JTXdRX1NGVVlWRDQ5dXlzLWsyMTE2eXV1VUticy1uZnR2OElILVhQY0s?oc=5",
+      "snippet": "Municipales 2026: le RN et ses alliés peuvent-ils créer la surprise sur la Côte d'Azur et marquer un tournant politique dans les Alpes-Maritimes?&nbsp;&nbsp;Nice-Matin",
+      "date": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "source": "Nice-Matin"
     }
   ],
   "analysis": {

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Manche",
     "commune": "nan",
+    "position": "nan",
     "filename": "stephane-travert.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Assemblée nationale : Aurélie Trouvé (LFI) devient présidente de la commission des Affaires économiques sur fond de dissensions entre macronie et LR&nbsp;&nbsp;Libération",
       "date": "Wed, 09 Oct 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Sébastien Lecornu, accident du travail, EPR... Les infos à retenir du lundi 6 octobre dans la Manche - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEZnRGlISW84WV9zQ3EyVnZQS3hORnN6cGpNNmY3aW5LSjhlcHhEY1BQX05XMnFvbUJWN1BpTmJGSEliUkVNVk1hbDlLYXRmLTFvMnVrVml6YXRaeWk5UFVjeUFDeU5uQVVxbGc0ZGhhaElwMFpFTTRlWXVhVDFOeFdYNGpzanhGOFoxdVA3b2hWUGVwR3RfekpZZzl3ZEdPTlpMQk9MNGRLdzFNSVkzRWhXbFZzaGxJYUxvQzNNQ1VobVEtZzVlNUlHZTAxdw?oc=5",
+      "snippet": "Sébastien Lecornu, accident du travail, EPR... Les infos à retenir du lundi 6 octobre dans la Manche&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

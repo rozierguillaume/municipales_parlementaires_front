@@ -5,9 +5,10 @@
     "nom": "CECCOLI",
     "prenom": "François-Xavier",
     "full_name": "François-Xavier CECCOLI",
-    "parti": "nan",
+    "parti": "DV",
     "departement": "Haute-Corse",
-    "commune": "nan",
+    "commune": "San-Giuliano",
+    "position": "Pourrait être sur une liste",
     "filename": "francois-xavier-ceccoli.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026 : le PNC fera \"un certain nombre d'annonces dans les prochains jours\"&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 06 Oct 2025 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Les Républicains : une Marseillaise nommée vice-présidente - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFJoY1lvbkJLdG05MlRPeDRNMDUzSzJfMkVuem1YT05ydmFKZVhUVEo2enNleGQxWXFDQkFtRndDZWktakk5bFJ6NkFCX3pCdV9FUVhjNEI3ZkJ4cWZ3cFB0N0tBcUo3VnZ6bkpyYjVlTGVQNUlUbkNZbFEwa2xBRXN3eTloVzUwaTJNX2pZMWpoQnMtZFBLX25EM1h2dWo2SlZpaUV1YlZnakpPRUdWY0IxMVdDdw?oc=5",
+      "snippet": "Les Républicains : une Marseillaise nommée vice-présidente&nbsp;&nbsp;mesinfos",
+      "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "source": "mesinfos"
     },
     {
       "title": "\"On enlève un peu plus de démocratie à nos territoires\" François-Xavier Ceccoli était l'invité de ICI RCFM - francebleu.fr",
@@ -51,18 +59,14 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 4 - France 3 Régions (1ᵉʳ juillet 2024)",
-        "contenu": "François-Xavier Ceccoli est mentionné comme candidat soutenu dans une circonscription de Haute-Corse lors des législatives, ce qui suggère qu’il a une visibilité politique locale et pourrait être un acteur sérieux pour les élections municipales de 2026."
-      },
-      {
-        "source": "Source 5 - France 3 Régions (9 mai 2022)",
-        "contenu": "Mention explicite de François-Xavier Ceccoli comme candidat aux législatives dans la même circonscription, indiquant une implication politique locale et une base électorale potentielle pour les municipales."
-      },
-      {
-        "source": "Source 1 - francebleu.fr (6 octobre 2025)",
-        "contenu": "Le PNC (Parti Nationaliste Corsen) mentionne des 'annonces' concernant les Municipales de 2026, ce qui implique une préparation active et une intention de candidature pour François-Xavier Ceccoli dans le cadre du parti."
+        "source_index": 5,
+        "explication": "Source indique explicitement que François-Xavier Ceccoli est soutenu comme candidat par une candidate RN dans la 2e circonscription de Haute-Corse pour les législatives 2024, suggérant une intention de se présenter aux municipales 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 - France 3 Régions (1ᵉʳ juillet 2024)\",\n            \"contenu\": \"François-Xavier Ceccoli est mentionné comme candidat soutenu dans une circonscription de Haute-Corse lors des législatives, ce qui suggère qu’il a une visibilité politique locale et pourrait être un acteur sérieux pour les élections municipales de 2026.\"\n        },\n        {\n            \"source\": \"Source 5 - France 3 Régions (9 mai 2022)\",\n            \"contenu\": \"Mention explicite de François-Xavier Ceccoli comme candidat aux législatives dans la même circonscription, indiquant une implication politique locale et une base électorale potentielle pour les municipales.\"\n        },\n        {\n            \"source\": \"Source 1 - francebleu.fr (6 octobre 2025)\",\n            \"contenu\": \"Le PNC (Parti Nationaliste Corsen) mentionne des 'annonces' concernant les Municipales de 2026, ce qui implique une préparation active et une intention de candidature pour François-Xavier Ceccoli dans le cadre du parti.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:08:48.194673Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Source indique explicitement que François-Xavier Ceccoli est soutenu comme candidat par une candidate RN dans la 2e circonscription de Haute-Corse pour les législatives 2024, suggérant une intention de se présenter aux municipales 2026.\"}\n    ]\n}\n```"
   }
 }

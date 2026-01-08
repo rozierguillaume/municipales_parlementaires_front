@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Nord",
     "commune": "Somain",
+    "position": "Pourrait être sur une liste",
     "filename": "matthieu-marchio.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "La Voix du Nord"
     },
     {
+      "title": "Loi Duplomb : dans le Douaisis, les agriculteurs se réjouissent, les écolos s’inquiètent - L'Observateur",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4TVFjMWhyeHNZMk93Z0ZEWEpyUk5aeXhtYjliallvbkNObWFZaGY3b1N1TmZPY1haeE0tYmlDRWpuVndHUzJLNjE2Zk5aTGpTYnRRYlZtdG5IbGRzSUgxckREV24zeHFEZllOMkM1S20wclFBNEVrVQ?oc=5",
+      "snippet": "Loi Duplomb : dans le Douaisis, les agriculteurs se réjouissent, les écolos s’inquiètent&nbsp;&nbsp;L'Observateur",
+      "date": "Thu, 17 Jul 2025 07:00:00 GMT",
+      "source": "L'Observateur"
+    },
+    {
       "title": "Monchecourt : élu sur une liste divers gauche, Matthieu Burgeat investi par le RN - La Voix du Nord",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2lrV3J6Tmh1Tm9xa0lpVVhObHA4SDZjTk56TENsdGFMMlkzTWlZcFVxaThEaC1Ib1puS1M4b25lTjlOdldZZXdNZzB3VTE1MUpsMU9qYnhrZlRmTjFhTVlZQXhySFliMTZJVDZnY1VRQVlVbWZ6Zl9fTDlwZjJoNllhWWxQZGpvNGVDb3IzWDVuLTRFUC16aUlsc1lEd2pjX2plbFFDQ3pXVGtYM2Roa0JfTUJXdVlLNVJjcjBLQXhLLXBrdktrbFZCVkVEQQ?oc=5",
       "snippet": "Monchecourt : élu sur une liste divers gauche, Matthieu Burgeat investi par le RN&nbsp;&nbsp;La Voix du Nord",
@@ -45,20 +53,32 @@
       "snippet": "Résultats des législatives 2024: qui sont les 76 députés déjà élus à l’issue du premier tour?&nbsp;&nbsp;Le Figaro",
       "date": "Mon, 01 Jul 2024 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Les candidats aux élections législatives de 2024 pour chaque circonscription du Nord - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNEtwN0xnYkpnMFpPZjd5WnFKSHRNaUhoVGN5dzRMQm94V3RTeUNkM01XMXRpYzhpRXBpb05xeTdMUzZSc2o0Mnc0a2pNbG0wOHJjSkljQnFMWm1lOW9TdEszSEFtdTBzMXhrSUZ3azFxY2h2S01XRUFHOXdxVHN1cXZCWnBiQmwtX2VDN3VFdnd0TC14d0ZiZjFNS2JuY0NiOXM3eE5WX0VpMEQ4aXBncXhaUE5iczFpd2toZG5QcE1SZS1CdlpnOUxTblIyd2ZpNWNVN3FLUEhrc0g5N3RXR1V0RV9uLURFUjRNVmlpV0Vxam5raGZYaWRBNF9oVUJpdFE?oc=5",
+      "snippet": "Les candidats aux élections législatives de 2024 pour chaque circonscription du Nord&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 21 Jun 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 2 - L'Observateur (4 Dec 2025)",
-        "details": "Matthieu Marchio est explicitement mentionné comme candidat du RN aux municipales de **2026** pour la commune de Douai."
+        "source_index": 1,
+        "explication": "Source indirecte : mention du RN et de la circonscription Douaisis (16ᵉ) comme contexte pour des municipales futures."
       },
       {
-        "source": "Source 3 - La Voix du Nord (2 Dec 2025)",
-        "details": "Bien que le snippet mentionne Maxence Lemoine, l’article est lié à une campagne municipale dans la **seizième circonscription** (incluant Aniche), et le RN y mobilise des candidats pour les élections de 2026. Le contexte suggère une implication active du parti et donc potentiellement Matthieu Marchio."
+        "source_index": 2,
+        "explication": "Explicite une candidature officielle aux municipales 2026 dans le Douaisis"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 2 - L'Observateur (4 Dec 2025)\",\n            \"details\": \"Matthieu Marchio est explicitement mentionné comme candidat du RN aux municipales de **2026** pour la commune de Douai.\"\n        },\n        {\n            \"source\": \"Source 3 - La Voix du Nord (2 Dec 2025)\",\n            \"details\": \"Bien que le snippet mentionne Maxence Lemoine, l’article est lié à une campagne municipale dans la **seizième circonscription** (incluant Aniche), et le RN y mobilise des candidats pour les élections de 2026. Le contexte suggère une implication active du parti et donc potentiellement Matthieu Marchio.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2
+    ],
+    "analysis_at": "2026-01-08T10:23:42.142759Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source indirecte : mention du RN et de la circonscription Douaisis (16ᵉ) comme contexte pour des municipales futures.\"},\n        {\"source_index\": 2, \"explication\": \"Explicite une candidature officielle aux municipales 2026 dans le Douaisis\"}\n    ]\n}\n```"
   }
 }

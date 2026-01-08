@@ -8,6 +8,7 @@
     "parti": "RN",
     "departement": "Pyrénées-Orientales",
     "commune": "Perpignan",
+    "position": "Pourrait être sur une liste",
     "filename": "sandrine-dogor-such.json"
   },
   "search_results": [
@@ -26,11 +27,25 @@
       "source": "Le Parisien"
     },
     {
+      "title": "Législatives 2024 : \"Maximum 19 élèves par classe \" promet cette candidate dans les Pyrénées-Orientales - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjR4R0FFcnQzZDhxMHRva1ZYU3FLZVRhblNHNTBKM3FMVDRPbzZqTUlfRGI2bmMyVWhEMnNidVlYWTZJRzhGQXNBeDhTWmtuRll4U3JoamFQdUU3YmMtOU9rVUFyR3ZSSUVCdGdxYVc5RXpveWhNLWNvWjAxaXlOU19pRlRFMldySkRIWmJscDNUTlNMcHowTzlaeUJRcUVWRm1SRFVWVGVwMmV4WkczbkU4OW1jZ1F3Nnk3cDNGRUtrRXB3NXpCUVRLdDhMdy1EZHA5eGxHMHRYSFNnOEtuZkZR?oc=5",
+      "snippet": "Législatives 2024 : \"Maximum 19 élèves par classe \" promet cette candidate dans les Pyrénées-Orientales&nbsp;&nbsp;francebleu.fr",
+      "date": "Wed, 26 Jun 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
       "title": "Législatives 2022 : les nouveaux visages jeunes et triomphants du Rassemblement National en Occitanie - Midi Libre",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNDExekZrcUdwMEhicmpqY1FXTU1fQ041VjNsb2ZZTG96WnVIU3N0ZTdfa0c1aGZXQkxpcjJCb1FwbExYckhSaXlYSVZiYUZNODBVcS00Mjc1bHN4eW9DWnVOWE91TmZBZE91dDdsektHUWRFV2I0U1kyZmNtTnNoUmFlOWx5T1ZkWmZLdENYRnNqX01WMG1FcmVhaVAtMjNZSWRzbnhVWEtFcnFkRHBGT2lla184RG5GMHk0X2RIa0lBVF9ROEsybWgwc3NuZ0lndE5XT1Vtd3lkSUdMS1dONTRn?oc=5",
       "snippet": "Législatives 2022 : les nouveaux visages jeunes et triomphants du Rassemblement National en Occitanie&nbsp;&nbsp;Midi Libre",
       "date": "Mon, 20 Jun 2022 07:00:00 GMT",
       "source": "Midi Libre"
+    },
+    {
+      "title": "Législatives 2022. Quel député pour la 3e circonscription des Pyrénées-Orientales ? Les résultats du second tour - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWjRZSWxJV2gwOG4yZzFFanpRcjZxQ0VYSFlqVnFmZndDSm95bzNzdmg2ekdPdWF5Uk1wUGswSFh3WUVZYlJiLXhJNnU4S1YtS0kwVFQ0TlBnbFNMak1rZ3R1LV9LeXBTZ1pHS2hUaExwellPWHNlMnNDRVIyVjUtd0V6dm02X0JPV0ltQmdtUmYxMmpqZDZKeVJTdWQxVUZqUzkxcFFkUFpWOFFvRGhNMHRTNXpYNkdDa1dpUUtSM1JzNC1rNkFlN2NJc2ZnakhmVDFpRHZvZV9DeGdfYW5Ta295UUpOWmhqV3RJYUpTNVQ1Tnk0R2Vjdw?oc=5",
+      "snippet": "Législatives 2022. Quel député pour la 3e circonscription des Pyrénées-Orientales ? Les résultats du second tour&nbsp;&nbsp;Actu.fr",
+      "date": "Sun, 19 Jun 2022 07:00:00 GMT",
+      "source": "Actu.fr"
     },
     {
       "title": "Législatives Pyrénées-Orientales : une candidate du RN veut le retour des soignants non-vaccinés - francebleu.fr",
@@ -48,8 +63,15 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources fournies ne mentionne explicitement Sandrine DOGOR-SUCH comme candidate aux élections municipales de **2026** dans les Pyrénées-Orientales. Les résultats concernent soit :\n    - Les législatives 2024 (Sources 1 et 2) ;\n    - Des articles sur le Rassemblement National en Occitanie (Source 3) ou des positions politiques du RN (Source 4) ;\n    - Des élections municipales antérieures à **2026** (Source 5, Perpignan 2017).\n    Aucune mention directe de sa candidature aux municipales 2026 n’est visible dans les données disponibles.\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources fournies ne mentionne explicitement Sandrine DOGOR-SUCH comme candidate aux élections municipales de **2026** dans les Pyrénées-Orientales. Les résultats concernent soit :\n    - Les législatives 2024 (Sources 1 et 2) ;\n    - Des articles sur le Rassemblement National en Occitanie (Source 3) ou des positions politiques du RN (Source 4) ;\n    - Des élections municipales antérieures à **2026** (Source 5, Perpignan 2017).\n    Aucune mention directe de sa candidature aux municipales 2026 n’est visible dans les données disponibles.\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune information pertinente sur les élections municipales 2026 pour Sandrine Dogor-Such dans les résultats fournis. Les sources concernent uniquement des législatives (2024 ou 2022) et des annonces de campagne sans lien direct avec les municipales."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:28.020629Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information pertinente sur les élections municipales 2026 pour Sandrine Dogor-Such dans les résultats fournis. Les sources concernent uniquement des législatives (2024 ou 2022) et des annonces de campagne sans lien direct avec les municipales.\"}\n    ]\n}\n```"
   }
 }

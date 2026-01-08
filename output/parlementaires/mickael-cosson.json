@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Côtes-d'Armor",
     "commune": "Hillion",
+    "position": "Pourrait être sur une liste",
     "filename": "mickael-cosson.json"
   },
   "search_results": [
@@ -16,6 +17,13 @@
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaXc1ZVlIQ01uTkxMTUFaZGpMSzlkUUYzMGc2OW9OLXRzUWtwcFFOUEdrZXJtNHYxTnY5dDZyX0kxazZmZVJkSlZrRXB3dzhvcFpfdGdNTlhMbGNxNnlfME9yNmM4Z3U3ejRHcWxWeWdzOXNnR3E0blV2OFhnWlZneWJJdDlMbUNHaGNyajVpTUFwREE1QndTQ0RzQ3ZaMGp5Y0xlNlpPd3JRN0x5U1BQamNpV0dpM0ZBbXVHcTdrdVVWWmtQR3VsYmhfa3d2cUtLU3dCb3p0Y0JodVNnTkRvbnpKSmFjaGdWSXRYUUplNy1MMEozZE9uVUdlWWJfMm4tRzRuX2pNblBtX1lVWmc?oc=5",
       "snippet": "Municipales 2026 à Montpellier : deux nouveaux soutiens pour Michaël Delafosse \"pour promouvoir une gauche unie, ambitieuse et solidaire\"&nbsp;&nbsp;Midi Libre",
       "date": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "Midi Libre"
+    },
+    {
+      "title": "Municipales 2026 à Montpellier : le Parti animaliste et Génération écologie rallient Delafosse et appellent Roumégas à l’union - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVzFvNHpvaWwzQTBNYkpicFZWcEVrTWlDeUtOSi1vRDgwWFktZzFjQUJoeTc5eEdQLXR1b0VGNG5WN2tHaG00Nm43UWs5eF9fT0g3bnhmdTZMNVp1eFhTYno2UlB6T0tLMHRmU09KVFdPeFBteXBOSDA2VndMaGtBd2dRRVVYU0dzVkVMMkRZVnRJTEZvSlllYUhHT0puUy10N1RiUUFpdXNGS3FKSnRZeVlITGQtdjd5YmMxajR3bHRYMGdUVHhRUlNfWXFFaWxUNGdCYU1CVVhLWDBTdFlrelh6bVRHYnBKM1pBUGtEajBWbzhDMHE2T3hCdGFxNERjZGVvbw?oc=5",
+      "snippet": "Municipales 2026 à Montpellier : le Parti animaliste et Génération écologie rallient Delafosse et appellent Roumégas à l’union&nbsp;&nbsp;Midi Libre",
+      "date": "Thu, 04 Dec 2025 08:00:00 GMT",
       "source": "Midi Libre"
     },
     {
@@ -49,7 +57,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Mickaël Cosson** comme candidat aux élections municipales de 2026. Les sources concernent principalement d'autres figures politiques (Michaël Delafosse, listes liées à La France Insoumise ou des dynamiques locales à Saint-Brieuc/Montpellier) et ne permettent pas de conclure sur son engagement pour ces élections.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Mickaël Cosson** comme candidat aux élections municipales de 2026. Les sources concernent principalement d'autres figures politiques (Michaël Delafosse, listes liées à La France Insoumise ou des dynamiques locales à Saint-Brieuc/Montpellier) et ne permettent pas de conclure sur son engagement pour ces élections.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Mickaël Cosson dans les résultats fournis comme candidat aux municipales 2026"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:17:42.894200Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Mickaël Cosson dans les résultats fournis comme candidat aux municipales 2026\"}\n    ]\n}\n```"
   }
 }

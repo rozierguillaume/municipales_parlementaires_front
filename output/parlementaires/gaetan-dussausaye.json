@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Vosges",
     "commune": "nan",
+    "position": "nan",
     "filename": "gaetan-dussausaye.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Gaëtan Dussausaye candidat RN à la législative partielle de Vitry-Alfortville&nbsp;&nbsp;Citoyens.com",
       "date": "Thu, 27 Aug 2020 07:00:00 GMT",
       "source": "Citoyens.com"
+    },
+    {
+      "title": "Les résultats définitifs dans la 2e circonscription de l’Oise - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdVRZWUM0Yk9SaFZPV0I2aGdaYWVnLVpybjAxUUFxZEtNSGZLQWZtX1Y2Qmw1MlNBT2o1cWx5b3A4U0xZSlFadkxwanBKV2lrSW5JLUJVaElBZ0ViZEhFTTJULTVPTjJCVVpEQ05sVDlJbnNNMF9pTzliWURPTHd2Wks4Z05WZ2w3QmpLSzBoLUp3VjEwTkx3cDA5dTJadkZYaGRWWk8xT1dOQXVxWWtQT2xGZ3U1Tk5MOTZndV9wRGRTTWlxTk1Hck9hVmVSS3BGU2M4MFVacWl1X3NJTlN6NnlET3Q5c1J4NUp6Uw?oc=5",
+      "snippet": "Les résultats définitifs dans la 2e circonscription de l’Oise&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 12 Jun 2017 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

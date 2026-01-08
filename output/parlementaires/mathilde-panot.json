@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-de-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "mathilde-panot.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : Mathilde Panot affirme que les maires LFI élus désarmeront leur police&nbsp;&nbsp;Le Figaro",
       "date": "Mon, 07 Jul 2025 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Municipales 2026 à Paris : Sarah Knafo officialise sa candidature - parismatch.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjBCVjMweGZ5azFMX0Q0emZ6YXVncV9XUVItYzN6SnB5ZHdPZzJIbmhPN29hU0lfOWs3OTJMbEIwYndjd3M3dmtNRl84WFgtaWVQOEY5WXVZeVZGQ0V5TlhrYlFRMXUyNjhIWEtHOTMxSW1IamY5WFMtSHVzRGc5cW13WWh1SndSZEZfczBnWHFMSXRmOXdwYnJiellUdnlCcFBOYUE1Y2w5Z0lHV3I4RzdR?oc=5",
+      "snippet": "Municipales 2026 à Paris : Sarah Knafo officialise sa candidature&nbsp;&nbsp;parismatch.com",
+      "date": "Wed, 07 Jan 2026 19:43:35 GMT",
+      "source": "parismatch.com"
     }
   ],
   "analysis": {

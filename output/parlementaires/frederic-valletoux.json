@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Seine-et-Marne",
     "commune": "Fontainebleau",
+    "position": "Pourrait être sur une liste",
     "filename": "frederic-valletoux.json"
   },
   "search_results": [
@@ -45,11 +46,25 @@
       "snippet": "PLFSS 2026 : Frédéric Valletoux souligne l’urgence d’une réforme structurelle&nbsp;&nbsp;Éditions WEKA",
       "date": "Fri, 07 Nov 2025 08:00:00 GMT",
       "source": "Éditions WEKA"
+    },
+    {
+      "title": "Municipales 2026 à Fontainebleau : « Nous formons un binôme solide », Frédéric Valletoux sera candidat mais... - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0RJMmhWajBvTEZvZjlYOEt3dE9IeWRRU3RCN2hZNWE3ZmRrWFY2M3NPRDl3b1pYS3hOVnpGTFVFbmFadEJDM2Y3ZDFWd05GN05RNEF1eHZzcFNUVEpRaVFoZEdnU2VpOWVNdzZWdnJJREhoQ0FzWlY5TFRESUpzQXdSMHRxYm5qTWNGQkZXT0ZCcEVFaFl5YlFQbXZWWkt1dGM5WlJuX0hkN01hQ3NDWUNUMy05ajZOdXhCTm5LN19MdUdVbWl4WTFIdWpXYm45OW9xbmFzaW1wOVVrR3BqVDRQSkJaQ3ZKNmdFaWhaUExYa2l6T0Fr?oc=5",
+      "snippet": "Municipales 2026 à Fontainebleau : « Nous formons un binôme solide », Frédéric Valletoux sera candidat mais...&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 23 Jun 2025 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
     "status": "NON",
-    "justification": "Aucune des sources ne mentionne explicitement Frédéric Valletoux comme candidat officiel aux **élections municipales de 2026**. Les articles se concentrent sur son rôle dans le canton de Fontainebleau (designation d’un candidat idéal pour une liste, pas sa propre candidature) et sur ses prises de position politiques sans confirmation formelle de sa participation active en tant que tête de liste ou candidat.",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"justification\": \"Aucune des sources ne mentionne explicitement Frédéric Valletoux comme candidat officiel aux **élections municipales de 2026**. Les articles se concentrent sur son rôle dans le canton de Fontainebleau (designation d’un candidat idéal pour une liste, pas sa propre candidature) et sur ses prises de position politiques sans confirmation formelle de sa participation active en tant que tête de liste ou candidat.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune source ne confirme une candidature officielle de Frédéric Valletoux aux municipales 2026 dans les résultats fournis. Les articles mentionnent des discussions ou désignations de candidats pour Fontainebleau mais pas sa propre candidature."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:14:52.298864Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne confirme une candidature officielle de Frédéric Valletoux aux municipales 2026 dans les résultats fournis. Les articles mentionnent des discussions ou désignations de candidats pour Fontainebleau mais pas sa propre candidature.\"}\n    ]\n}\n```"
   }
 }

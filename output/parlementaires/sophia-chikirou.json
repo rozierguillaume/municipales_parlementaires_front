@@ -8,9 +8,17 @@
     "parti": "PS",
     "departement": "Paris",
     "commune": "Paris",
+    "position": "Tête de liste ",
     "filename": "sophia-chikirou.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 à Paris : \"Mettre fin au désordre\"… l’eurodéputée Reconquête Sarah Knafo annonce sa candidature - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTjg0RlF5S2FRaEVRbVBIcENsTG5KVkhNVXZJYnlVSHpUOVBuNDhkUk9DbmtWSzVaUEZHYkdsRUdMV25GVUVPSFUzc3FnV0plYS1ZQmtKeG8zVHdnM0JrSjVVMUxVdEM3emhlNHhmREo0Qk1IM0JlSktLa2ptaFgzWkgzS21ZYzRBLWtnNmhqV1FYZjk5MlhadGVqdUxJZEhUQmRZRHFQQ1pqcFB1R0lvYUp5eGg5VUVwUHN6eTRkeGFZZlU2SHdzTWZSX1AtUjVjLU91LTFyLTNZNG5JZ3c0MzB2VEwzQW44MEpJ?oc=5",
+      "snippet": "Municipales 2026 à Paris : \"Mettre fin au désordre\"… l’eurodéputée Reconquête Sarah Knafo annonce sa candidature&nbsp;&nbsp;ladepeche.fr",
+      "date": "Wed, 07 Jan 2026 20:10:00 GMT",
+      "source": "ladepeche.fr"
+    },
     {
       "title": "Municipales 2026 à La Courneuve : Le député LFI Aly Diouara candidat, « un bras d’honneur » pour le maire PCF sortant - Yahoo Actualités",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHhRMVNWSjZQbjdkZ1IzTHVlZWkwMFFwT2FrRW5MbHhlTUhPTm9kUGp0VUVQeTQ0a3RpWjlzSVl0bXpWUjNNa2Z2VENOOVM2bVIxTmIwOUo2LWxEZGhCUXpFRzBLX1lUaUpnb0JZV0h6VTlxcjVwMnFueW9hdkhkQlFSWHUyUGhhOVBFZXh5TmRnSEk4RVE?oc=5",
@@ -51,14 +59,19 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "BFM - Fri, 14 Nov 2025",
-        "details": "La source précise explicitement que Sophia Chikirou a **officialisé sa candidature aux municipales de Paris pour 2026** (snippet : *« Municipales 2026 à Paris: l’insoumise Sophia Chikirou officialise sa candidature »*)."
+        "source_index": 3,
+        "explication": "Article mentionne explicitement Sophia Chikirou comme candidate jugée pour escroquerie aux municipales de Paris en 2026."
       },
       {
-        "source": "Valeurs actuelles - Sun, 04 Jan 2026",
-        "details": "Bien que mentionnant qu’elle est jugée pour escroquerie (et donc potentiellement exclue), le contexte reste celui d’une **candidature active** aux élections de 2026."
+        "source_index": 4,
+        "explication": "Source confirme sa candidature officielle et son statut judiciaire lié à une affaire avant les élections de 2026"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"BFM - Fri, 14 Nov 2025\",\n            \"details\": \"La source précise explicitement que Sophia Chikirou a **officialisé sa candidature aux municipales de Paris pour 2026** (snippet : *« Municipales 2026 à Paris: l’insoumise Sophia Chikirou officialise sa candidature »*).\"\n        },\n        {\n            \"source\": \"Valeurs actuelles - Sun, 04 Jan 2026\",\n            \"details\": \"Bien que mentionnant qu’elle est jugée pour escroquerie (et donc potentiellement exclue), le contexte reste celui d’une **candidature active** aux élections de 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:16:14.927501Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [3, 4],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Article mentionne explicitement Sophia Chikirou comme candidate jugée pour escroquerie aux municipales de Paris en 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Source confirme sa candidature officielle et son statut judiciaire lié à une affaire avant les élections de 2026\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Nord",
     "commune": "nan",
+    "position": "nan",
     "filename": "sandra-delannoy.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Législatives en Sambre-Avesnois : une demande d’invalidation de la candidature du binôme Sandra Delannoy / Joël Wilmotte (RN)&nbsp;&nbsp;CANAL FM",
       "date": "Wed, 26 Jun 2024 07:00:00 GMT",
       "source": "CANAL FM"
+    },
+    {
+      "title": "« Je récupère ma liberté de pensée » : après sa démission du RN, la députée Sandra Delannoy justifie son départ - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWFJSjMyRmp1YWdSbzlNcUR2a28xUGJkNUttX1pORXgyMDgwVlFZZWplS01PcmJLOWZQTm9rVEVmeG85U2tuWG5NeXFDcHlOd0J3RHJmSTlJMFZLNkE5UUZiMXU3c0d3M3MySHAzc25KRE9OaUdyYVFwTWFsZUFWMGJ3VVVURFFvUmlRR2MxRjBYVUttUUptWHZyOG54bVRKYlljU1JiZjVXekwzcFBxSEhRbUlhbU4xakh3M3N3N2JqVHV4ekEtU3BR?oc=5",
+      "snippet": "« Je récupère ma liberté de pensée » : après sa démission du RN, la députée Sandra Delannoy justifie son départ&nbsp;&nbsp;La Voix du Nord",
+      "date": "Wed, 07 Jan 2026 17:00:00 GMT",
+      "source": "La Voix du Nord"
+    },
+    {
+      "title": "Sandra Delannoy, députée de la 3ème circonscription du Nord, quitte le Rassemblement National - nordeclair.fr",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWkRIMVNFajJCbFJ4VDNnMkUzam9LSURUOHJMaWIya2hIV0czbHJzNERNSkptX0pZVlhHRURJaXlaVS15OGRhcGpPMy1iaFdvZHJkZENXbUV6dDVGSHdSVGxiTmo1bHlUMkFGakVhVC04Y2p1TWliRXVfZ1lIdnFvVkVsOHAtZktWYWlUeHJRSUM0MGZUc1lBQ3NZUHZKMEtmaVpiZ3kxdjNuRFI4Qkp4SHBnQmxYZnI4Ui1fSg?oc=5",
+      "snippet": "Sandra Delannoy, députée de la 3ème circonscription du Nord, quitte le Rassemblement National&nbsp;&nbsp;nordeclair.fr",
+      "date": "Tue, 06 Jan 2026 16:56:27 GMT",
+      "source": "nordeclair.fr"
     }
   ],
   "analysis": {

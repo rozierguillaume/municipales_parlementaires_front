@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Côte-d'Or",
     "commune": "nan",
+    "position": "nan",
     "filename": "oceane-godard.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Dijon. Non-cumul des mandats : la députée Océane Godard (NFP) a fait son choix&nbsp;&nbsp;Le Bien Public",
       "date": "Fri, 30 Aug 2024 07:00:00 GMT",
       "source": "Le Bien Public"
+    },
+    {
+      "title": "POLITIQUE : Océane Godard lance la reflexion sur la mutualisation du patrimoine des lycées et CFA de la région - Macon Infos",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQUJ5Uzh1ZVIxQlJfNkMzc3RPT0tRR25Db0ZmOC1VT3VKV21udjFNR0hIblltakFyUXU0em5oa2p0QXdDYmVJdGdwSE93SXpNTTNrLTFuRTM1Z2Q2WEJlSUxjTWQ0Z1JfMFFFejJsVUY2NFBfb0VFcjVPSVdNVThVdk5WVzZZVU00T0JWaXJtQ2hPQXY5aUVleDd2NWRJOUxqUXhoLXNGMW9mOXZPemdZRUxJb0NzYnBhY3ZqSDFpNzFrdExqSC1CY21vM3pIWmJ4OG16Z2puM3NiWnRMeE5JMVNDdEdBa3psR2RtbVJzbFg4M2lZQ2dR?oc=5",
+      "snippet": "POLITIQUE : Océane Godard lance la reflexion sur la mutualisation du patrimoine des lycées et CFA de la région&nbsp;&nbsp;Macon Infos",
+      "date": "Tue, 21 Nov 2023 08:00:00 GMT",
+      "source": "Macon Infos"
+    },
+    {
+      "title": "POLITIQUE : François Rebsamen ouvre le jeu pour les municipales à Dijon en 2026 - Infos Dijon",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTG4zYVZIc2t6QmxpNXQ4dXFTUlVlOGZXc2lXUmZPU1NkWWxZU0NOSHhzU0FzQnlyR2x4eEhUUFNCRWp6NzVldkkwRWwtT094d2NIQW1NVzZYX3g2eFVIYWRxOUNBNkt3ZWk3aWh0aGkyNkpNc2N1dE9ra01BSUxxckt4WlRWY01oU096NUUzMkMtTFdIcW05c2lpZmdtVVZnY1NrZDU4am5pMnR5RUtfeHd2bHlPX1hWa2dWaHp2bUp4TFBMeUZkSHpVc3I5M2wyc19z?oc=5",
+      "snippet": "POLITIQUE : François Rebsamen ouvre le jeu pour les municipales à Dijon en 2026&nbsp;&nbsp;Infos Dijon",
+      "date": "Mon, 27 Feb 2023 08:00:00 GMT",
+      "source": "Infos Dijon"
     }
   ],
   "analysis": {

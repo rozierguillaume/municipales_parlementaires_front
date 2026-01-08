@@ -8,6 +8,7 @@
     "parti": "DVC",
     "departement": "Indre-et-Loire",
     "commune": "Bléré",
+    "position": "Pourrait être sur une liste",
     "filename": "daniel-labaronne.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucune des sources fournies ne mentionne explicitement Daniel Labaronne comme candidat aux élections municipales de **2026**. Les articles cités concernent soit des débats politiques généraux (Source 1), des événements liés à d'autres figures politiques (Sources 2 et 3), ou des candidatures antérieures (Source 5, datant de 2020). Aucune mention directe de sa candidature aux municipales 2026 n'est observable.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources fournies ne mentionne explicitement Daniel Labaronne comme candidat aux élections municipales de **2026**. Les articles cités concernent soit des débats politiques généraux (Source 1), des événements liés à d'autres figures politiques (Sources 2 et 3), ou des candidatures antérieures (Source 5, datant de 2020). Aucune mention directe de sa candidature aux municipales 2026 n'est observable.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Daniel Labaronne comme candidat aux municipales 2026 dans les résultats fournis."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:11:05.697101Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Daniel Labaronne comme candidat aux municipales 2026 dans les résultats fournis.\"}\n    ]\n}\n```"
   }
 }

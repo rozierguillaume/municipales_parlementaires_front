@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-d'Oise",
     "commune": "nan",
+    "position": "nan",
     "filename": "gabrielle-cathala.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Deux élues LFI vont monter à bord d’un nouveau bateau vers Gaza le 18 juillet&nbsp;&nbsp;Ouest-France",
       "date": "Thu, 10 Jul 2025 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Gabrielle Cathala, députée LFI : «Si on arrive à Gaza, ça peut montrer que le blocus peut être brisé par une action non violente - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMUNiMk45UXpmNWt5ZjA2LVR0Mk1WSWljbm5wWjJWY1JDQUFUNnVtYzBCV0NWLWlCU2htQnVoNDhtXzNXR1EycS05bWJNRFRzZkNsMkZSb0xiV3F1UGt3QkpJcm5HUk5xc05GZzVYRjNoeU9WODR5NlVZMkxWNWd3Rnk4QUtWQzhhOGNhcWhPUXJXSE9HYmlMZkdhOGpCM1FSZ1E5UEZvSUpoeXNKXzBucFNBTkhhRE92WGJnbmtGSzhwcHRDSGlwNm9KTWwxWGxfT1Q2X3ZWT1pxOUFIWWduWGVCZFduYkFBdnVBV1RGSGtOVFpDdklzWjNBZk43c3ZyY0ZJV3F1RUdILVlDMmFYYklHTW03WTBVVTdHZERSUjFFQQ?oc=5",
+      "snippet": "Gabrielle Cathala, députée LFI : «Si on arrive à Gaza, ça peut montrer que le blocus peut être brisé par une action non violente&nbsp;&nbsp;Libération",
+      "date": "Fri, 11 Jul 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

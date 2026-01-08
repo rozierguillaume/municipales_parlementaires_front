@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Nord",
     "commune": "Cappelle-la-Grande",
+    "position": "Pourrait être sur une liste",
     "filename": "julien-gokel.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Julien GOKEL comme candidat aux élections municipales de 2026. Les articles cités concernent principalement Patrice Vergriete, des discussions sur les têtes de liste à Cappelle-la-Grande ou des informations générales sur les candidatures dans le Dunkerquois/Hauts-de-Flandre sans mentionner Julien GOKEL.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Julien GOKEL comme candidat aux élections municipales de 2026. Les articles cités concernent principalement Patrice Vergriete, des discussions sur les têtes de liste à Cappelle-la-Grande ou des informations générales sur les candidatures dans le Dunkerquois/Hauts-de-Flandre sans mentionner Julien GOKEL.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Julien Gokel comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent des permanences ou des listes pour d'autres figures politiques (Vergriete) ou des analyses locales sans référence à Julien Gokel."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:19:47.896817Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Julien Gokel comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent des permanences ou des listes pour d'autres figures politiques (Vergriete) ou des analyses locales sans référence à Julien Gokel.\"}\n    ]\n}\n```"
   }
 }

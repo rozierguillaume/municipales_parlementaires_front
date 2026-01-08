@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Bas-Rhin",
     "commune": "nan",
+    "position": "nan",
     "filename": "theo-bernhardt.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 : qui est Théo Bernhardt, l'unique député Rassemblement national en Alsace&nbsp;&nbsp;francebleu.fr",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Législatives 2024 en Alsace: qui est Théo Bernhardt, premier député Rassemblement national alsacien - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT0JYV1pRUWROX0ZHeGVXSmNaQWhtVlpfSnl2bFZ3RUhOaHN6Q0hadWI3V1VOdjRRSXpvOVRTUC1HUE11a3dXMjRWSTAyb3FFcUdyUHhFMS0tbEpBQklrWm80OW84QU1kY1k2d09PV3lrSDZaMEs1SFBram9xS0lrZlV3MGFSdE9UOXZ1bC1xSGt6YWJJMmZrUEVQa3Y2eG9qemxyS19WMFdjcUpjSlRWclFhcjlKTXFRTFp0em90dmdmSU8wYTVvM0EtNDUyZDlIeHFHMUpPRHNUNEhKazBrVUswdGdpa0lJYVZSZ0hDNEF5WGJWX1dOaw?oc=5",
+      "snippet": "Législatives 2024 en Alsace: qui est Théo Bernhardt, premier député Rassemblement national alsacien&nbsp;&nbsp;France 3 Régions",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "France 3 Régions"
     }
   ],
   "analysis": {

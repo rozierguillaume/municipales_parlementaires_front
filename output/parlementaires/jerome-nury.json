@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Orne",
     "commune": "nan",
+    "position": "nan",
     "filename": "jerome-nury.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "\"Le non-cumul des mandats est une erreur\", d'après le député de l'Orne et ancien maire de Tinchebray, Jérôme Nury&nbsp;&nbsp;francebleu.fr",
       "date": "Thu, 14 Mar 2024 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026 : dans le canton de Tinchebray, votre maire va-t-il se représenter ? - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOUY1MFZ0RVlod2VZcFlmNnhLdThqZ0N1TEFoVUZzWHJIYXlnZGdSekRfVWRoS29teGd0VkNZLWJsQjBCMDg2YTBNQi1WTExGOWNzRGhNT1psd05IZUtuYmJzTHNkLXFxVFRnQXN1Qy1SbWdZTnZRTkNfNHoyRXVZUFBhejhDSWg4eGtjbjBodzM2OU9zaUptR2lCQ1JvbFlGNFA1X3R5Nmh6TUl6dW84cFVNVVJGTUN3OXZJbnQzc0Y2UTU0SXhnc0doRWJJTXNkZEFfMXl5RWFCQTVR?oc=5",
+      "snippet": "Municipales 2026 : dans le canton de Tinchebray, votre maire va-t-il se représenter ?&nbsp;&nbsp;Actu.fr",
+      "date": "Thu, 02 Oct 2025 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

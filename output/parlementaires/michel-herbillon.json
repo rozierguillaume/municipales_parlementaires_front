@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-de-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "michel-herbillon.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Maisons-Alfort. Quand une candidate LREM aux municipales souhaite la mort d'un député&nbsp;&nbsp;Actu.fr",
       "date": "Fri, 20 Mar 2020 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Législatives: dans le Val-de-Marne, la marcheuse Emmanuelle Wargon ne raccroche pas le second tour - Libération",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYUlRbk55Z1d4UXpReUYzeExoS1pxc1k3MUFGQkFiV2ZBXzRfUW5YTE5KUVhscFRtVTV4NnFjblNFQWY1bm1pbF9VZEhNNTNhMXVabzViOE42RURHT2w5SWxhTjdLV2RLWXBaa0xYeTFyYlZIQ0Q3Q01PSlgwdjlFVFdIUzFHSHp6SkJTYjBjSm9oaTNKVEhXYnU4aGs5dDdZM25jd3V6dEpTeHZMUzQyR2RUVXFubDlCM3V5cUNybXc5V0k1MG9TaU5iUmJucFZrczR3azRUQW1XVG9YUWpFQzBqZVhJRV9oUzZFUHZfZFZjUFY2WVRqS1N4c3g2Wi1PTjBKZ0FB?oc=5",
+      "snippet": "Législatives: dans le Val-de-Marne, la marcheuse Emmanuelle Wargon ne raccroche pas le second tour&nbsp;&nbsp;Libération",
+      "date": "Sun, 12 Jun 2022 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

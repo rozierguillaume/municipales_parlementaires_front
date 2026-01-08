@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Nord",
     "commune": "Templeuve-en-Pévèle",
+    "position": "Tête de liste",
     "filename": "jean-moulliere.json"
   },
   "search_results": [
@@ -40,6 +41,13 @@
       "source": "Le Courrier des maires"
     },
     {
+      "title": "Loi Duplomb : dans le Douaisis, les agriculteurs se réjouissent, les écolos s’inquiètent - L'Observateur",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4TVFjMWhyeHNZMk93Z0ZEWEpyUk5aeXhtYjliallvbkNObWFZaGY3b1N1TmZPY1haeE0tYmlDRWpuVndHUzJLNjE2Zk5aTGpTYnRRYlZtdG5IbGRzSUgxckREV24zeHFEZllOMkM1S20wclFBNEVrVQ?oc=5",
+      "snippet": "Loi Duplomb : dans le Douaisis, les agriculteurs se réjouissent, les écolos s’inquiètent&nbsp;&nbsp;L'Observateur",
+      "date": "Thu, 17 Jul 2025 07:00:00 GMT",
+      "source": "L'Observateur"
+    },
+    {
       "title": "Les députés adoptent l’article phare de la réforme du scrutin municipal à Paris, Lyon et Marseille - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQejkxOHQwamY4LWxnOGlYa1g3czF3bUZNVEZMUHFoclZrWmYzNk56MjVZc0xDellJZjM5ckFKNVZUT1FmU1ZVd250T1lyaHhVeDU3VDFxUU5TM2dlSEFTdHVZM2xEcUFMOWRvcFY0X01WYlFpTEZQNUY2bEtRRkZLRHBnS0pxVnhNUVJUWmdsaEVoNHFEUkxsb1NUU1dLelA3MDRKd0Nsdy1zZGYxdU44Zkhubi1ZV3Y2czdqTFlZUDB5NVpyUGFabmZpRkhqYTBoTWdIVHFnYm0wTlctZ3JQV1l2YlRMLU5YMWpmeWVDTDNwazBScjRjWVNvMVJzRldBSmZTc25lWE9qMC1QSTZTeA?oc=5",
       "snippet": "Les députés adoptent l’article phare de la réforme du scrutin municipal à Paris, Lyon et Marseille&nbsp;&nbsp;Ouest-France",
@@ -51,14 +59,14 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 2 (La Voix du Nord - Mon, 06 Oct 2025)",
-        "texte": "Le député Jean Moullière candidat aux municipales de Templeuve-en-Pévèle"
-      },
-      {
-        "source": "Explicitation directe des sources",
-        "texte": "Les informations indiquent explicitement une candidature pour les élections municipales **de 2026** (Templeuve-en-Pévèle) via un article daté du 6 octobre 2025, confirmant sa participation active à ce scrutin."
+        "source_index": 2,
+        "explication": "Source directe confirmant la candidature de Jean Moullière aux municipales de Templeuve-en-Pévèle pour les élections de 2026"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 2 (La Voix du Nord - Mon, 06 Oct 2025)\",\n            \"texte\": \"Le député Jean Moullière candidat aux municipales de Templeuve-en-Pévèle\"\n        },\n        {\n            \"source\": \"Explicitation directe des sources\",\n            \"texte\": \"Les informations indiquent explicitement une candidature pour les élections municipales **de 2026** (Templeuve-en-Pévèle) via un article daté du 6 octobre 2025, confirmant sa participation active à ce scrutin.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      2
+    ],
+    "analysis_at": "2026-01-08T10:14:29.562783Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Source directe confirmant la candidature de Jean Moullière aux municipales de Templeuve-en-Pévèle pour les élections de 2026\"}\n    ]\n}\n```"
   }
 }

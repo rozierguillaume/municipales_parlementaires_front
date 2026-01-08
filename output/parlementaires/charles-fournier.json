@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Indre-et-Loire",
     "commune": "nan",
+    "position": "nan",
     "filename": "charles-fournier.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "\"Plus question d'investir dans une ville détenue par les écologistes\" : la déclaration du patron de Safran contrarie la stratégie des écologistes en vue des municipales&nbsp;&nbsp;Radio France",
       "date": "Thu, 17 Apr 2025 07:00:00 GMT",
       "source": "Radio France"
+    },
+    {
+      "title": "Municipales 2026. Aux Sables-d’Olonne, ce candidat veut s’allier avec le maire et lance un ultimatum - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbWJGZkRIa3BmWXB0RHJGV0lwalNXVndlVV9lTDRWdkVEMUVkM2FkaWNUbThORTBnT2huUUxMdnAxLXI0Sy02ekdJeURWZzhISzJwM1E4RWQwT3IzT3hTdUxVaG5qY3I0NHpSSFRnNnlJdERJdlN2MzNqYUJucXhoZk5ycG9fenkzZVljOTFRSnZkZVVvM2JDRE1UNThVX3E5YXotYnJ5bGFKWC1JcnYwVFRFdWc2eldKQVFzOHduVjNuTmFzUmN2LXgyZ2RoZnV2V2dGU04yd2JyS25aTVVhNlBwcUJqNU9NbTQ5bUpPUTdOd1FFa3dEb01wZVpSQXhydDZzZkJtTzZPQ1VhdmNWVg?oc=5",
+      "snippet": "Municipales 2026. Aux Sables-d’Olonne, ce candidat veut s’allier avec le maire et lance un ultimatum&nbsp;&nbsp;Ouest-France",
+      "date": "Sun, 02 Nov 2025 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

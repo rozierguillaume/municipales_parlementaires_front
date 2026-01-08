@@ -8,6 +8,7 @@
     "parti": "DVC",
     "departement": "Pas-de-Calais",
     "commune": "Arras",
+    "position": "Pourrait être sur une liste",
     "filename": "agnes-pannier-runacher.json"
   },
   "search_results": [
@@ -51,14 +52,19 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 3 & Source 4 (francebleu.fr)",
-        "analyse": "Les articles mentionnent des déclarations ambiguës d'Agnès Pannier-Runacher concernant sa candidature aux **municipales de 2026** à Arras, mais ne confirment ni n'infirment officiellement sa décision. Elle a exprimé une volonté ouverte ('Je ne m'interdis rien') sans engagement formel."
+        "source_index": 3,
+        "explication": "Référence explicite aux municipales de 2026 avec un doute sur sa candidature."
       },
       {
-        "source": "Sources 1 & 5",
-        "analyse": "Les autres sources (Ouest-France et Public Sénat) traitent d'autres sujets (budget Sécu, stratégie de Renaissance pour les municipales 2026) sans mention directe de sa candidature personnelle. Aucune information explicite ne confirme ou exclut sa participation."
+        "source_index": 4,
+        "explication": "Acknowledgment direct d'une éventuelle candidature aux municipales 2026 sans confirmation définitive"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 & Source 4 (francebleu.fr)\",\n            \"analyse\": \"Les articles mentionnent des déclarations ambiguës d'Agnès Pannier-Runacher concernant sa candidature aux **municipales de 2026** à Arras, mais ne confirment ni n'infirment officiellement sa décision. Elle a exprimé une volonté ouverte ('Je ne m'interdis rien') sans engagement formel.\"\n        },\n        {\n            \"source\": \"Sources 1 & 5\",\n            \"analyse\": \"Les autres sources (Ouest-France et Public Sénat) traitent d'autres sujets (budget Sécu, stratégie de Renaissance pour les municipales 2026) sans mention directe de sa candidature personnelle. Aucune information explicite ne confirme ou exclut sa participation.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:12:06.650018Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [3, 4],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Référence explicite aux municipales de 2026 avec un doute sur sa candidature.\"},\n        {\"source_index\": 4, \"explication\": \"Acknowledgment direct d'une éventuelle candidature aux municipales 2026 sans confirmation définitive\"}\n    ]\n}\n```"
   }
 }

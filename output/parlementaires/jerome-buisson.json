@@ -8,9 +8,24 @@
     "parti": "DVG",
     "departement": "Ain",
     "commune": "Bourg-en-Bresse",
+    "position": "Tête de liste ",
     "filename": "jerome-buisson.json"
   },
   "search_results": [
+    {
+      "title": "\"On se connaît, on est amis\" : à Bourg-en-Bresse, élus LR et cadres de Reconquête expérimentent l'union des droites aux municipales - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNQ1BsWkRvZjNpbjZrUDM2VTE0M3o0emQxd2xyOVFGcDZwcjM0ZngyUVI0QU1BbVpPT2ZFS0p0ZmdrR09RbG9tSWQ5UHNZMWJVY1lwczI0YzhWMF9aSDlXVlVsUUFyNnc4OXc3d0VtS3l6SF9LY1BYeDNZWm8wZ0VPdmFzTm9tZkprV1pNQ3JVeFFQTDUzYU96YTc3Zk95YU5mYVJ0NWVMLU9URzVKeUZaZXRDUDhZNjlVeFpxeF8yQ2s4SXRydkhPQXR4WERFVXR3VWpXLXVSQVQtbEtSekxwUUJvMXJlV1ZhX013RUtSenEwSFRHaFZVeV8tb0VIc1dZbWpKcS1ONjNSMWpIVWNzR2tMQThwVXo0dFNscEdBMjhTQQ?oc=5",
+      "snippet": "\"On se connaît, on est amis\" : à Bourg-en-Bresse, élus LR et cadres de Reconquête expérimentent l'union des droites aux municipales&nbsp;&nbsp;Franceinfo",
+      "date": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "Franceinfo"
+    },
+    {
+      "title": "Coutras. Municipales 2026 : Jérôme Cosnard entre en lice - leresistant.fr",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTk42NEVEMnJUM3JwVzVvSG0tUV9hWm1DMXFXSkJ2bEc3R1VEQ1BTaHQ2cERhQk04Z01fV0dLSk9kaGNDb2RueWZaZkhpdFBxeWU2ZnVKZFMxZEd5QUVHSVRRME1OVnVFMC03Uk9hbDhXR1BGdHA3bnJsNzNBZkpWSExJbXpnS20tSGktYUZ1TlU5ajhEbVJxeEZrRUc?oc=5",
+      "snippet": "Coutras. Municipales 2026 : Jérôme Cosnard entre en lice&nbsp;&nbsp;leresistant.fr",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "source": "leresistant.fr"
+    },
     {
       "title": "Municipales 2026 : \"On ne sollicite aucune investiture\", une liste \"d'Union des droites\" menée par un zemmouriste à Bourg-en-Bresse - France 3 Régions",
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdjNqcnRCV3VyOWJPZUV6a01tTHJOV0E3cUtvMy14Q0VUa29IMnJWQ3B1X29LeHpNbU9UaWdkS3NJT1EwLWNoV0R2QmcwWlpGSEpCdVhXanhNOXlsdGhvMzRrQkxoNDZ3NWFQdzRqNFVfLWxBS1hYUmNENE1seUNJYVZOOC0ybzJqVVd3QlEyemVab1RWNWM0U2FGV3Vlb2syZFg2VFNaTUY3NnFrQ1l3OXpIOVI0MVIyM0tyQ0wxQXF6MjdpeExpak9Za2Ztek5kdklUbmpGZjlDYUMxRnVoekNFS0V4Um9XVVZSbnlsRTFERlJoOTNibElzYTVrUGgxdkllZXhNR3FWLUdVemNvak1UX0NGTkdmcERZUDVFTUswYUIwbVdKemFkZF9sbU9KclN1OURqUTQ?oc=5",
@@ -51,14 +66,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Bien que Jérôme Buisson soit mentionné dans une liste 'd'Union des droites' menée par un Zemmouriste à Bourg-en-Bresse pour les Municipales de 2026, il n'est pas explicitement désigné comme candidat officiel. Le titre et snippet évoquent la formation d'une liste mais ne confirment pas sa candidature personnelle."
-      },
-      {
-        "source": "Source 5",
-        "analyse": "Le Progrès mentionne des 'règlements de comptes au Rassemblement national' impliquant Jérôme Buisson, sans lien direct avec une annonce explicite de sa candidature aux Municipales de 2026. Cela semble être un contexte interne et non une déclaration officielle."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Jérôme Buisson comme candidat officiel aux municipales 2026 dans les sources fournies. Les articles concernent des dynamiques locales (union des droites à Bourg-en-Bresse) ou d'autres figures politiques sans lien direct avec lui."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Bien que Jérôme Buisson soit mentionné dans une liste 'd'Union des droites' menée par un Zemmouriste à Bourg-en-Bresse pour les Municipales de 2026, il n'est pas explicitement désigné comme candidat officiel. Le titre et snippet évoquent la formation d'une liste mais ne confirment pas sa candidature personnelle.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"Le Progrès mentionne des 'règlements de comptes au Rassemblement national' impliquant Jérôme Buisson, sans lien direct avec une annonce explicite de sa candidature aux Municipales de 2026. Cela semble être un contexte interne et non une déclaration officielle.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:05.632138Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Jérôme Buisson comme candidat officiel aux municipales 2026 dans les sources fournies. Les articles concernent des dynamiques locales (union des droites à Bourg-en-Bresse) ou d'autres figures politiques sans lien direct avec lui.\"}\n    ]\n}\n```"
   }
 }

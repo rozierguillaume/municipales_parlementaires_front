@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Meurthe-et-Moselle",
     "commune": "Vandœuvre-lès-Nancy",
+    "position": "Pourrait être tête de liste",
     "filename": "stephane-hablot.json"
   },
   "search_results": [
@@ -51,22 +52,19 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Les propositions de loi et promesses évoquées concernent des enjeux généraux, pas une candidature explicite pour les municipales 2026."
+        "source_index": 1,
+        "explication": "Mentionne des promesses de campagne pour les municipales 2026 sans confirmation directe sur sa candidature."
       },
       {
-        "source": "Source 2",
-        "analyse": "Le titre mentionne explicitement 'Municipales 2026' et évoque Stéphane Hablot comme figure de l'opposition dans ce contexte. Le snippet suggère qu'il est en lice pour les élections municipales de Vandœuvre-lès-Nancy en 2026."
-      },
-      {
-        "source": "Source 3",
-        "analyse": "Les résultats des municipales 2020 ne concernent pas Stéphane Hablot ni son éventuelle candidature future. Aucune information sur 2026."
-      },
-      {
-        "source": "Sources 4 et 5",
-        "analyse": "Ces articles parlent de candidats officiels pour Renaissance (Macron) ou Emmanuel Lacresse, sans mentionner Stéphane Hablot."
+        "source_index": 2,
+        "explication": "Réfère à son nom dans le contexte des municipales 2026 à Vandœuvre mais sans validation explicite de sa candidature."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Les propositions de loi et promesses évoquées concernent des enjeux généraux, pas une candidature explicite pour les municipales 2026.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Le titre mentionne explicitement 'Municipales 2026' et évoque Stéphane Hablot comme figure de l'opposition dans ce contexte. Le snippet suggère qu'il est en lice pour les élections municipales de Vandœuvre-lès-Nancy en 2026.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Les résultats des municipales 2020 ne concernent pas Stéphane Hablot ni son éventuelle candidature future. Aucune information sur 2026.\"\n        },\n        {\n            \"source\": \"Sources 4 et 5\",\n            \"analyse\": \"Ces articles parlent de candidats officiels pour Renaissance (Macron) ou Emmanuel Lacresse, sans mentionner Stéphane Hablot.\"\n        }\n    ],\n    \"conclusion\": \"Statut : INCERTAIN (mais tendance plausible d'une candidature confirmée par Source 2)\"\n}\n```"
+    "used_sources": [
+      1,
+      2
+    ],
+    "analysis_at": "2026-01-08T10:19:57.272031Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [1, 2],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mentionne des promesses de campagne pour les municipales 2026 sans confirmation directe sur sa candidature.\"},\n        {\"source_index\": 2, \"explication\": \"Réfère à son nom dans le contexte des municipales 2026 à Vandœuvre mais sans validation explicite de sa candidature.\"}\n    ]\n}\n```"
   }
 }

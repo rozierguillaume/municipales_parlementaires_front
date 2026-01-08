@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Ille-et-Vilaine",
     "commune": "nan",
+    "position": "nan",
     "filename": "jean-luc-bourgeaux.json"
   },
   "search_results": [
@@ -44,6 +45,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV1pSU0RoYUNQbHE5Wm1kVkh6OUpOR1dvNEs0OHBPZlRNTUFqdWdPVTFaMl92Y05RTFU2d2F0VTFVc3FtYXMtTXIwekJxd0t0VlBZSEl5b0xJdEN1UmpvYktRMkt1bkNJREdPTXFZQ29pMFhOMkhqeWpOZ3ltSUxLdGZ6X2loTDZ3d0JIeTk5VlIyUkc0T09GNUdMcjhyME5pN3BKTFdUX0tXYXBaRUdsbHhWUjNBZU5GcHZGT0YtOWEzYXM?oc=5",
       "snippet": "Municipales. Jean-Luc Bourgeaux brigue un quatrième mandat à Cherrueix&nbsp;&nbsp;Ouest-France",
       "date": "Fri, 31 Jan 2020 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "À l’aube des élections municipales de 2026, comment la gauche se prépare-t-elle en pays de Dinard ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbWZnU0YzdlluQTJBRWYyOHRrVzgydjVEQ2Zrc3RuaGtFLVRVcDB4b1cxWm5kdjRTMzNaNU0xSDBKRTBOdUpKeHZrWjhpbU1XOERFZ3lJeUx2c01kd21DRy03Ymh4X254dWwxT1lRSl9IUEszTXdKUk04VHZJZ2VUa1hYRFowNF83Nnc2ZENOTmQ1bHZiLWNmZ0dhQXRrNUJva0NtbDB4WU10cHVuVUpORWNQeXlTV0ZZWlh2Q2VuNFN1bC1TZm80QUVlUTFYb0hMY3hTRmhMUkZxY0ZiY2RvTUwwNncxQzJabElIT09OQ3BxN1N5QmZfYzRXVkk2cjY5Umt5WVdwb1F2MmkyYlZN?oc=5",
+      "snippet": "À l’aube des élections municipales de 2026, comment la gauche se prépare-t-elle en pays de Dinard ?&nbsp;&nbsp;Ouest-France",
+      "date": "Fri, 06 Jun 2025 07:00:00 GMT",
       "source": "Ouest-France"
     }
   ],

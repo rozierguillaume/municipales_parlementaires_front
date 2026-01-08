@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Loire",
     "commune": "nan",
+    "position": "nan",
     "filename": "jean-pierre-taite.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : à Châtellerault, qui succèdera à Jean-Pierre Abelin ?&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 15 Dec 2025 08:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Forez. Municipales 2026 : dans le Forez, les masques tombent et les duels se dessinent - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnhzWmk1WS0tY0czelNhOS0yN0dRaEJ4NHBzeWNMZDB1eUJseng0MWROV2ZrWnhBdXVKX2VYd1M3d1dOX2piby1EWlJ1ODM5VU5ZeWJZY2JfN3lzM21MUGR5QTlHY1I3aG1xaVB3Ymp4NkNWN0ZXVGxBZ3JlR3dVM1lDYW5aMDlSNWM0RFBYZ1ZkdFdhOWhzWTZTOVJ0RzY4LVhYY1lpRHBEVDN4WFl4dGphdk8wcE0taER5T21fMA?oc=5",
+      "snippet": "Forez. Municipales 2026 : dans le Forez, les masques tombent et les duels se dessinent&nbsp;&nbsp;Le Progrès",
+      "date": "Tue, 06 Jan 2026 18:01:19 GMT",
+      "source": "Le Progrès"
     }
   ],
   "analysis": {

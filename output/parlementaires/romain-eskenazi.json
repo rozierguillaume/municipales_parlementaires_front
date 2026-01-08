@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Val-d'Oise",
     "commune": "Montmorency",
+    "position": "Pourrait être sur une liste",
     "filename": "romain-eskenazi.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Romain Eske nazi comme candidat aux **municipales de 2026**. Les articles cités concernent d'autres figures politiques (Térence Bandudi, Yves Zuili) ou évoquent des contextes locaux sans lien direct avec Romain Eske nazi.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Romain Eske nazi comme candidat aux **municipales de 2026**. Les articles cités concernent d'autres figures politiques (Térence Bandudi, Yves Zuili) ou évoquent des contextes locaux sans lien direct avec Romain Eske nazi.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Romain Eskenazi comme candidat aux municipales 2026 dans les résultats fournis. Les articles concernent d'autres figures politiques ou des villes spécifiques sans lien avec lui."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:19:31.951732Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Romain Eskenazi comme candidat aux municipales 2026 dans les résultats fournis. Les articles concernent d'autres figures politiques ou des villes spécifiques sans lien avec lui.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Pyrénées-Atlantiques",
     "commune": "nan",
+    "position": "nan",
     "filename": "peio-dufau.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "\"J'ai de l'énergie pour rassembler et apaiser\" Didier Codorniou candidat à la présidence de la FFR&nbsp;&nbsp;Radio France",
       "date": "Tue, 27 Aug 2024 07:00:00 GMT",
       "source": "Radio France"
+    },
+    {
+      "title": "Législatives 2024 : Peio Dufau, un député basque, syndicaliste, \"la victoire des petites gens\" - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa0NYaHdYMTJ6Undud2JGNG9DYXJ2MVhfYXA3Si1kQkJ4bGYtQk9GRVp0cE1JWERmUy1fRlVzSkRURDhCNG5JN1I4X1RXa1dmeEVQTTFjZjNaTzczVGV6dDd0U2V6N2RiV2Z0RlhIMmtwQWNOR08yY09uNGh0eEJvVlBmUjdXejRvQ0haY1VZNngwOGxOd0lKUHVSeHFrS0JIa0NHc0lMM0puZVJxaHNNUGJlOEtrVnQwTkl4TU1udG12MEsxOWhUUjZLM01MSjlHRUplcEFjR05QWEZLcGU5TzZhWQ?oc=5",
+      "snippet": "Législatives 2024 : Peio Dufau, un député basque, syndicaliste, \"la victoire des petites gens\"&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {

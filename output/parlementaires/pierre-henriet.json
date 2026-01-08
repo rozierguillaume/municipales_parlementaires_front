@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Vendée",
     "commune": "nan",
+    "position": "nan",
     "filename": "pierre-henriet.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 : le sortant Pierre Henriet défait le Rassemblement national dans la 5e circonscription de Vendée&nbsp;&nbsp;francebleu.fr",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Vendée : découvrez la liste des candidats aux élections législatives 2024 pour chaque circonscription - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNd3MySHRlRVZDSm1BVmJPZ0VfcWl2S3ZSZVZ6bExBc3dHTFdoZGJxT3U2WGFMRDNvRmlqUmhxdTIzZnMyejFlMWF0THdZOUVmakJya0JWVTllVjg5dVpHdmFFUFJOOF9UMzY3cjdXTUc3OVRmMjVKVmlxRTl2WC04c0kzV0JBS3M3V3ZvNDFFS2NPamxVVUg4UjNUT2toR3JZRHdKQm1QTEJaOUVoWDdxTUx3UWg4Y212R3NRSkE2SEN1My1taGxqR1RxOUUxYmVXLV9DVDFFem5aaG1Ka2FKRzNpRlJ1bjQxTEhqcmVhNGpBQmNUYTlyRkFBMG90VVNPeW9oanZHY05Ka1FE?oc=5",
+      "snippet": "Vendée : découvrez la liste des candidats aux élections législatives 2024 pour chaque circonscription&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 28 Jun 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

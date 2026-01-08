@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Somme",
     "commune": "nan",
+    "position": "nan",
     "filename": "francois-ruffin.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : Debout ! le parti de François Ruffin rejoint « Perpignan Autrement »&nbsp;&nbsp;made in perpignan",
       "date": "Wed, 12 Nov 2025 08:00:00 GMT",
       "source": "made in perpignan"
+    },
+    {
+      "title": "Municipales 2026 : Laurence Ruffin, sœur de François Ruffin, candidate écolo à la mairie de Grenoble - TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOclFCV1FsWU9PRmxGQnBfVnVrMm1lLVdqUFg3Z2k3RFZ6Y2dmcE1WcWNqa2gwRlc0Q005RWRpaVZxY0lWNGZadTFOWV8yeUg5bld2bEpiWEZlMkNEM3RkNXAxZng0WXgxQVN6LVJwSUpqX1o2aUdZOXRfWFg1Wm9UWEtwMVZ0MjVVd2JYYkFiZmRmelkzSE5OQk16M1NJOHhPOUxZalROTV9BMFVyYVJ1OXMzZnBpendJcTl5NjlGd09uYlZVdGxlQzY1X1hJQzFNdDRrRkhtTDBxdUYxbjJrdElB?oc=5",
+      "snippet": "Municipales 2026 : Laurence Ruffin, sœur de François Ruffin, candidate écolo à la mairie de Grenoble&nbsp;&nbsp;TF1 Info",
+      "date": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "source": "TF1 Info"
     }
   ],
   "analysis": {

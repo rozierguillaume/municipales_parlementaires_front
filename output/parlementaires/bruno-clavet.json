@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Pas-de-Calais",
     "commune": "Lens",
+    "position": "Pourrait être tête de liste",
     "filename": "bruno-clavet.json"
   },
   "search_results": [
@@ -51,14 +52,19 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 1 (HorizonActu.fr - 4 Déc. 2025): Le RN annonce explicitement que Bruno Clavet est une des six têtes de liste pour les municipales 2026 dans le Lensois.",
-        "indice_candidature": true
+        "source_index": 1,
+        "explication": "Le RN annonce explicitement Bruno Clavet comme tête de liste dans le Lensois pour les municipales 2026."
       },
       {
-        "source": "Source 4 (Nord Littoral - 21 Mars 2025): Mention explicite que Bruno Clavet, député RN à l'époque, « lorgne sur le fauteuil de Sylvain Robert » pour les municipales 2026 à Lens.",
-        "indice_candidature": true
+        "source_index": 4,
+        "explication": "Bruno Clavet est mentionné comme candidat potentiel aux municipales 2026 à Lens, en rivalité avec un autre élu."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 (HorizonActu.fr - 4 Déc. 2025): Le RN annonce explicitement que Bruno Clavet est une des six têtes de liste pour les municipales 2026 dans le Lensois.\",\n            \"indice_candidature\": true\n        },\n        {\n            \"source\": \"Source 4 (Nord Littoral - 21 Mars 2025): Mention explicite que Bruno Clavet, député RN à l'époque, « lorgne sur le fauteuil de Sylvain Robert » pour les municipales 2026 à Lens.\",\n            \"indice_candidature\": true\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:22:09.932927Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Le RN annonce explicitement Bruno Clavet comme tête de liste dans le Lensois pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Bruno Clavet est mentionné comme candidat potentiel aux municipales 2026 à Lens, en rivalité avec un autre élu.\"}\n    ]\n}\n```"
   }
 }

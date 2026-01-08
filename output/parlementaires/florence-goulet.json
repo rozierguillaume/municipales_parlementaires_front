@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Meuse",
     "commune": "nan",
+    "position": "nan",
     "filename": "florence-goulet.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Verdun. Pour Florence Goulet, députée RN, « les Français ont envie de protection, de sécurité »&nbsp;&nbsp;L'Est Républicain",
       "date": "Thu, 04 Jan 2024 08:00:00 GMT",
       "source": "L'Est Républicain"
+    },
+    {
+      "title": "Résultats Législatives 2024 : la carte des candidats arrivés en tête au premier tour - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkh4bHZTaUV0eTNYanhVdmp0Q0FJU3NNQ3c0Ukw1THJZcXpvdXE5SFFQdkRIRHNOdHVibS1YUkhqVHhSb3JxSzJZZVlqQzVzX0lReExPa182d1JEZldRR3VPdWR3QnhkOUx3R1ZJSU8za3dlYXZYLUtHNkRjYlVyRXpHMnJKSW9vNG5PQTFWX0pTWlE0VnBoMEQtUjdPOFhNSTlvMHpQU3BvSDBPeG53RllPWGhWVU1BS01TY0JxNUxNWWp1d3llNGpOYUJjN3BhMU9tdQ?oc=5",
+      "snippet": "Résultats Législatives 2024 : la carte des candidats arrivés en tête au premier tour&nbsp;&nbsp;Le Figaro",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {

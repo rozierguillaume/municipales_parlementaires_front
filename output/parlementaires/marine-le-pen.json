@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Pas-de-Calais",
     "commune": "nan",
+    "position": "nan",
     "filename": "marine-le-pen.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 à Saint-Malo : le candidat du RN, épinglé pour un selfie avec Dieudonné, se retire&nbsp;&nbsp;Le Parisien",
       "date": "Tue, 30 Dec 2025 20:10:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Que vient faire Marine Le Pen, ce 16 janvier, à Marseille ? - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1V3Vk40bTlOTmlEZFhRRHY0SWsyZmcxWTM5bkFvODdMb0R6ODJBZ1dsZ1VPU0pYYjVNa0tqdGh6cXJOVVJhN2t5b21nUkpPWmI3LXZvTzdFNkJXSWNYVlAyeVpYN0tsV1IzLTBqdWVNTnFYc0dpb0hRc2NKenJPNUZTWjFaX3VjVV83akZUVG5zNmhuTEN4ZUoyck5kYWs2NUZVTHlB?oc=5",
+      "snippet": "Que vient faire Marine Le Pen, ce 16 janvier, à Marseille ?&nbsp;&nbsp;mesinfos",
+      "date": "Thu, 08 Jan 2026 07:24:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {

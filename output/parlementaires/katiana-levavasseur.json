@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Eure",
     "commune": "Le Neubourg",
+    "position": "Pourrait être sur une liste",
     "filename": "katiana-levavasseur.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Katianna Levavasseur est mentionnée dans le snippet de la Source 5 (Paris Normandie - 30 juin 2024) comme candidate qualifiée pour le second tour de la législative **2024** dans la 2e circonscription de l’Eure. Bien que cette information ne concerne pas directement les municipales 2026, elle indique qu’elle a une expérience politique active et est connue dans ce contexte électoral en Eure. Aucune autre source ne mentionne explicitement sa candidature pour les **municipales 2026**, mais son nom apparaît dans un contexte de campagne électorale récente (2024), suggérant une possible préparation ou engagement actif pour des élections futures, notamment municipales.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Katianna Levavasseur est mentionnée dans le snippet de la Source 5 (Paris Normandie - 30 juin 2024) comme candidate qualifiée pour le second tour de la législative **2024** dans la 2e circonscription de l’Eure. Bien que cette information ne concerne pas directement les municipales 2026, elle indique qu’elle a une expérience politique active et est connue dans ce contexte électoral en Eure. Aucune autre source ne mentionne explicitement sa candidature pour les **municipales 2026**, mais son nom apparaît dans un contexte de campagne électorale récente (2024), suggérant une possible préparation ou engagement actif pour des élections futures, notamment municipales.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Nom de Katiana Levavasseur mentionné dans un article sur sa qualification pour le second tour des législatives 2024, dans une circonscription de l’Eure où les municipales 2026 sont pertinentes."
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:23:38.204526Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Nom de Katiana Levavasseur mentionné dans un article sur sa qualification pour le second tour des législatives 2024, dans une circonscription de l’Eure où les municipales 2026 sont pertinentes.\"}\n    ]\n}\n```"
   }
 }

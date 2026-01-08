@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Finistère",
     "commune": "nan",
+    "position": "nan",
     "filename": "graziella-melchior.json"
   },
   "search_results": [
@@ -44,6 +45,20 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ma0U5UmxHR2V1TmZNU29TVnczc2FzM3pIY0Y2NnowZ0RKdjY4UWdpalVZLWpPUlJIQW52MEpUNFotUWR1dE1zX2RLWGJqQlp4ekw3YTR3S2VGZThzTVRvOXhPb2RTWHdYQTJUb2VTODhmODU3Q0RWZEM5Yy1fUQ?oc=5",
       "snippet": "Résultats élections municipales Lesneven [29260] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Tous les habitants de La Forest-Landerneau bénéficieront de la fibre au printemps - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYS1HSkhyUU1TZS1ZeEFoRWktRjZlZHpuTE1RNHZoSEJaWGRfc0NrV0xQdnN6MWhkWkMtTUdPSjV0TEl2cnVYN1pxaEZZMmJNZEVtTm90OVZDbU43dEt0NmtFbDVxX1FOMG9VNloya0FmZEQ0TG9UUllZdnFLbVpoWEhBTEkxcHo2MHZ6UUhaWUZXWnlpVVFuM195MDViR0V2MjZqaUxjLUN2Z3VLUTh0WWpEWk4wcWVnakZTckQ4ODlWNjktQ0dqcExMTkpCQndQUDBHTDBKazUxdTNDMXdBWVFNLWVmdHYzaVpPZk1B?oc=5",
+      "snippet": "Tous les habitants de La Forest-Landerneau bénéficieront de la fibre au printemps&nbsp;&nbsp;Le Télégramme",
+      "date": "Mon, 09 Jan 2023 08:00:00 GMT",
+      "source": "Le Télégramme"
+    },
+    {
+      "title": "Lampaul-Guimiliau. Imaginépar les jeunes élus, un parcours sportif inauguré - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWFlGbThqVWlsM3R1WVpQOEdudkRyQkpSeTM2WjFHWnA2VmNOYU1vU3ZQZlY1cm42eV9od25uOEg5RzVtY2Y0LTJubU1pU08wdHhwc3pzNUxXcGZCaWVFRlpzS05NUGJIbjRsOTh1WThQb1ZFTnFwNWFWWVFQMndxYmhyb0RjQl9GYlZwYnppenNPdGdheGRuNmtjelJpNUU4NGpUa1VlZDUxUG03Nk10bXBfTDlEX2ZaYWJrSnlTNkdsWERMN2N3OFJNUzE3b2dUMTJaQmx0cVBuOGpwUFhjNl9SaC1qdVNw?oc=5",
+      "snippet": "Lampaul-Guimiliau. Imaginépar les jeunes élus, un parcours sportif inauguré&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 09 Sep 2025 07:00:00 GMT",
       "source": "Ouest-France"
     }
   ],

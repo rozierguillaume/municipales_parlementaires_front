@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Pas-de-Calais",
     "commune": "nan",
+    "position": "nan",
     "filename": "caroline-parmentier.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Une députée RN proche de Marine Le Pen mise en cause pour des propos racistes et pétainistes sur Facebook&nbsp;&nbsp;Franceinfo",
       "date": "Thu, 19 Jun 2025 07:00:00 GMT",
       "source": "Franceinfo"
+    },
+    {
+      "title": "La députée RN Caroline Parmentier regrette ses écrits racistes et homophobes (mais pas vraiment) - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd0FsQWp2eXY3UjN4MHo3Tk9UNW45M2FUd2JXT2lHNTZ3YzVzajduZ3podkRQTXNFaVdEX3hmZ0lwTEdEQ2hvMUlBRy0ycmZxeWlZVFdrR3oxZUE0bTBBMEtRZUpJYVJDNlo2QWRSNmpfcVR2M1A3WkFUVG9QQnBGaW80VWlQZFNfMjFGQ1o4S0ZKbnJNN1c0cWtlak81NENPYUZObDJtM3lLbDlEMFU4ZFVpNFVDbWU4ZGtEV2ZpUzBLaUxLNjE4NTVxaEdOUXhvaVFhbE02cU9TaWFlY2JmVXVuZW9ibTJrUTVnYmtqX3BOXzluUEZuRkViZw?oc=5",
+      "snippet": "La députée RN Caroline Parmentier regrette ses écrits racistes et homophobes (mais pas vraiment)&nbsp;&nbsp;Libération",
+      "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

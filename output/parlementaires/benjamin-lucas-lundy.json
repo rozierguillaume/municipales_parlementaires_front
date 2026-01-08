@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Yvelines",
     "commune": "nan",
+    "position": "nan",
     "filename": "benjamin-lucas-lundy.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Présidentielle 2027 : le « Front populaire » lance une primaire qui ne dit pas son nom&nbsp;&nbsp;Le Monde.fr",
       "date": "Wed, 02 Jul 2025 07:00:00 GMT",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "« Sans 49.3, ce sera difficile » : le casse-tête du budget 2026 de retour à l'Assemblée - Le Bien Public",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVhLd0FYRFRWMW9aZEJpbUpUcHYweG1nRk1jUmZSNklsTWJCNkpjWThmNTEtUUNUZmp2b2hoSHF1eUxhdmpGT0ttejJWelpndTFiaVl2NE1GTTl5YnNveUpUQ3FQTmFkUlBJMFd2aHB6dWc5aE5HYTQyZ2ZhY1RsbzlEQWp2Z0lJbXF3NHplUFhBdEFkUXRuRHNyR1JNX0hMbmo2UWdac08zTFdPTjF2QmpIaDBNM1FnemlmQlJ5UHZzSjFOd0dz?oc=5",
+      "snippet": "« Sans 49.3, ce sera difficile » : le casse-tête du budget 2026 de retour à l'Assemblée&nbsp;&nbsp;Le Bien Public",
+      "date": "Thu, 08 Jan 2026 05:30:11 GMT",
+      "source": "Le Bien Public"
     }
   ],
   "analysis": {

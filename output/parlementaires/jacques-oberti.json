@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Haute-Garonne",
     "commune": "Ayguesvives",
+    "position": "Pourrait être sur une liste",
     "filename": "jacques-oberti.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Jacques Oberti a exprimé son intention de se présenter à la succession du Sicoval en **2026** (Source 5 : *Actu.fr*, 25 Jan 2024). Bien que cette déclaration soit antérieure, elle est directement liée aux élections municipales prévues pour 2026.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Jacques Oberti a exprimé son intention de se présenter à la succession du Sicoval en **2026** (Source 5 : *Actu.fr*, 25 Jan 2024). Bien que cette déclaration soit antérieure, elle est directement liée aux élections municipales prévues pour 2026.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Article explicitement mentionnant Jacques Oberti comme candidat potentiel à la succession en 2026 pour le Sicoval"
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:20:38.127309Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Article explicitement mentionnant Jacques Oberti comme candidat potentiel à la succession en 2026 pour le Sicoval\"}\n    ]\n}\n```"
   }
 }

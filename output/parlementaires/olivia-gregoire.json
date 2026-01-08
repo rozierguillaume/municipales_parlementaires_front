@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Paris",
     "commune": "nan",
+    "position": "nan",
     "filename": "olivia-gregoire.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : l’impossible succession d’Anne Hidalgo&nbsp;&nbsp;La Tribune",
       "date": "Sat, 21 Jun 2025 07:00:00 GMT",
       "source": "La Tribune"
+    },
+    {
+      "title": "Municipales à Paris : Renaissance choisit Pierre-Yves Bournazel et écarte Rachida Dati - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVRRMHhOLUE2ZjYzWlo2dTdWWTBFUzVKSUl3bEE2bFJvdVFXMXJ5MWxvQ1NMb3ZvNDJqYkdWajBFMWgyTE9TNUJQa2EzaWNIWkk2dEJmOXh4ZENsU3JWTzRFT2tlUnZrZEVKc2hMNllSTTJrYnZZNjl2bTRXMnV1d3owVFIwb1d2bE1feHV6NVVUZXVPT2U2YUJ6RWFGQjRoTzdFLWhyRXZ1VTNMWG9OTk12cmQ3S2JxUzJPTlE5YUV1dy0tUHZr?oc=5",
+      "snippet": "Municipales à Paris : Renaissance choisit Pierre-Yves Bournazel et écarte Rachida Dati&nbsp;&nbsp;mesinfos",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {

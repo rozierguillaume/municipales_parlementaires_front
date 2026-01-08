@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Puy-de-Dôme",
     "commune": "Riom",
+    "position": "Tête de liste",
     "filename": "christine-pires-beaune.json"
   },
   "search_results": [
@@ -50,8 +51,25 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Christine Pirès-Beaune est explicitement mentionnée comme candidate aux **municipales de 2026** pour la mairie de Riom (Source 2 et Source 3). Elle dirige la liste « *Riom dynamique et solidaire* » (PS) dans cette commune."
+      {
+        "source_index": 1,
+        "explication": "Référence aux municipales de 2026 dans le Puy-de-Dôme sans mention explicite de Christine Pirès-Beaune."
+      },
+      {
+        "source_index": 2,
+        "explication": "Explicite sa candidature à la mairie de Riom pour les élections municipales de 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Mentionne son rôle de tête de liste « Riom dynamique et solidaire » pour les municipales 2026."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Christine Pirès-Beaune est explicitement mentionnée comme candidate aux **municipales de 2026** pour la mairie de Riom (Source 2 et Source 3). Elle dirige la liste « *Riom dynamique et solidaire* » (PS) dans cette commune.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T10:20:55.561538Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence aux municipales de 2026 dans le Puy-de-Dôme sans mention explicite de Christine Pirès-Beaune.\"},\n        {\"source_index\": 2, \"explication\": \"Explicite sa candidature à la mairie de Riom pour les élections municipales de 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Mentionne son rôle de tête de liste « Riom dynamique et solidaire » pour les municipales 2026.\"}\n    ]\n}\n```"
   }
 }

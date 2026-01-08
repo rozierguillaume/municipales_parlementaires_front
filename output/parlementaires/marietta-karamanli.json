@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Sarthe",
     "commune": "Le Mans",
+    "position": "Pourrait être sur une liste",
     "filename": "marietta-karamanli.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Bien que des articles mentionnent le groupe de Marietta Karamanli au Mans et son opposition à la participation de LFI aux municipales 2026 (Source 5), aucune information explicite ne confirme qu’elle **elle-même** se présente officiellement comme candidate pour les élections municipales de 2026. Les sources ne précisent pas explicitement sa candidature, seulement ses positions sur d’autres listes ou son groupe politique.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Bien que des articles mentionnent le groupe de Marietta Karamanli au Mans et son opposition à la participation de LFI aux municipales 2026 (Source 5), aucune information explicite ne confirme qu’elle **elle-même** se présente officiellement comme candidate pour les élections municipales de 2026. Les sources ne précisent pas explicitement sa candidature, seulement ses positions sur d’autres listes ou son groupe politique.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Marietta Karamanli comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des dynamiques internes (succession, opposition) ou d'autres figures politiques sans lien direct avec sa candidature."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:20:17.313617Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Marietta Karamanli comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des dynamiques internes (succession, opposition) ou d'autres figures politiques sans lien direct avec sa candidature.\"}\n    ]\n}\n```"
   }
 }

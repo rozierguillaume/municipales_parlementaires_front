@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Haute-Corse",
     "commune": "nan",
+    "position": "nan",
     "filename": "michel-castellani.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Corse : agression du président du parti identitaire Mossa Palatina et candidat aux municipales à Bastia&nbsp;&nbsp;Le Figaro",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "PuliticaMente : Julien Morganti, leader de la liste Uniti à Bastia - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2x2SDVtTmpDd2xfbGZNZmZ4OUQ2YWVDOW45QTJGcTNNZlBkQmVJRnIta3kzc2g1S3VzRUp3WFMyUG1kWkFCZGJqempPdWpsRDRwOHRqcE1MRTBjb3pxQnRRaHM1SmVJNnM3RmdSb2lRcWhsdGhfWjNVQmxwdTV6aWpORFlUdU5EeW5iUXVNb3l5TlhoSTZQNl9oZ0dHaHFZeTREQ3Z0RlZsMjZHc09EQi15aDFxcHNLcjNxRm9R?oc=5",
+      "snippet": "PuliticaMente : Julien Morganti, leader de la liste Uniti à Bastia&nbsp;&nbsp;francebleu.fr",
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {

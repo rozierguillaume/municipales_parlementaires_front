@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Moselle",
     "commune": "Metz",
+    "position": "Pourrait être sur une liste",
     "filename": "nathalie-colin-oesterle.json"
   },
   "search_results": [
@@ -40,6 +41,13 @@
       "source": "francebleu.fr"
     },
     {
+      "title": "Législatives 2024. Les candidats de la 3e circonscription de Moselle répondent à vos questions - Le Républicain Lorrain",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVBGa1BfLXZOX1BMaFpRanc3d0hleVZhaU55YWczcVdzb29vdjNqcVhRSEFycUJkYlJWQ0V1MUxXczl6V1dhZWtuX1h0M3RhbVhuTFp0ZlhMUHc3b3FzSmdpRzlnQ01VRVRNYlBYTVZzQVZaLV8yNFBITlZUOEplX1N6VndIOE5MNU5LRzVwSEpGdFBJVF9XeDloOFhNSmNidjRpTjFMTEZCd1pLdWw1NzJvSkJ2QWJUdldUazloTGFfSVhKNlRpZks2Yw?oc=5",
+      "snippet": "Législatives 2024. Les candidats de la 3e circonscription de Moselle répondent à vos questions&nbsp;&nbsp;Le Républicain Lorrain",
+      "date": "Tue, 25 Jun 2024 07:00:00 GMT",
+      "source": "Le Républicain Lorrain"
+    },
+    {
       "title": "Nathalie Colin-Oesterlé, députée européenne, en visite à Remiremont - remiremontvallees.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEE3NnFHZW5ENEF2OU1hMm1WZXhCT2RLNFUzR284NWtlZ0hJMnZ5dk9KQTZMeFpJbUdUNDRnZEkyVWczVnRZbl9IY1UzYW1rcXlkaHRocGdaTkRLdEcyM05JZXZTeGtfSFZGbnZHUEwtSmk5SW1QYUtkaFByZTdUcDB4dUNOWXpZcEdjZFk5bmpSa040LWhMSVVvMjF3TEd0UlZGOWdNNmsxNUE?oc=5",
       "snippet": "Nathalie Colin-Oesterlé, députée européenne, en visite à Remiremont&nbsp;&nbsp;remiremontvallees.com",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Nathalie Colin-Oesterlé comme candidate **aux élections municipales de Metz en 2026**. Bien qu’elle soit évoquée dans des articles liés à la Moselle (comme sa récente élection législative ou son rôle politique local), les sources ne confirment pas sa candidature officielle pour cette année-là. Les mentions des autres figures politiques (François Grosdidier, Anne Stémart) concernent plutôt leur positionnement dans le cadre de la campagne 2026 à Metz.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Nathalie Colin-Oesterlé comme candidate **aux élections municipales de Metz en 2026**. Bien qu’elle soit évoquée dans des articles liés à la Moselle (comme sa récente élection législative ou son rôle politique local), les sources ne confirment pas sa candidature officielle pour cette année-là. Les mentions des autres figures politiques (François Grosdidier, Anne Stémart) concernent plutôt leur positionnement dans le cadre de la campagne 2026 à Metz.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune information pertinente sur Nathalie Colin-Oesterlé comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des préparatifs ou des choix de candidats pour d'autres figures (Grosdidier, Stémart) et des élections législatives antérieures."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:14:01.816170Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information pertinente sur Nathalie Colin-Oesterlé comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des préparatifs ou des choix de candidats pour d'autres figures (Grosdidier, Stémart) et des élections législatives antérieures.\"}\n    ]\n}\n```"
   }
 }

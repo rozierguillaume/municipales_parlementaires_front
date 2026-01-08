@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Drôme",
     "commune": "nan",
+    "position": "nan",
     "filename": "thibaut-monnier.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Législatives : le carnet d'après-campagne du Rhône #4&nbsp;&nbsp;Mediacités",
       "date": "Thu, 11 Jul 2024 07:00:00 GMT",
       "source": "Mediacités"
+    },
+    {
+      "title": "Législatives 2024 : la campagne passe par Crépol dans la 4e circonscription de la Drôme - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmpZeFlGMXRJTVdJbW5wWHIwTE9aTVRLWnk2bXAwZ3BjWkxWTzVmbjZtRXVuQ1VnNE9wVVh4clo0aEZ0X1hKN2xBT1F4ZXl4b0U5UFloaVY1UmcxaWF5aWdaOFU5S2V6SVlBS1NhTEpSS1h1MHVNNm1jWTA1eDlCWngxT3NsTVItZnlWZzE1OUtHYm81OElhZEg5MVZrT2luX3JidXFqa01nXzRyQTBkczU3M0Z1bHpCMmtNVUF5ZDkzQUNWZkFaWXgtbEpILUlJ?oc=5",
+      "snippet": "Législatives 2024 : la campagne passe par Crépol dans la 4e circonscription de la Drôme&nbsp;&nbsp;francebleu.fr",
+      "date": "Wed, 26 Jun 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Législatives 2024 : qui sont les candidats dans la Drôme ? - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOThnWUVRMHFnXzRCc1UzWWNtbnQycDZCOGZ1ZlZ2SWcyZ1NtSGFwUDFBd1o4UGVaMVkxMUYzQkFIcVFUVF9SSzh1T0ZOeEhZYTJhQS1PV1Z2bHhfaWtvZ1hwUGNVVjJDRlNYdUFWRDZVc2tLUVdySlU0V083RlJOTTBRVXE0RUVKcnh6MWtvTjM2MTl3bldWTWZR?oc=5",
+      "snippet": "Législatives 2024 : qui sont les candidats dans la Drôme ?&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 17 Jun 2024 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

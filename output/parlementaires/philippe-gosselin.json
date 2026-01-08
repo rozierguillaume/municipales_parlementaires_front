@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Manche",
     "commune": "nan",
+    "position": "nan",
     "filename": "philippe-gosselin.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : une Assemblée divisée valide le scrutin de liste paritaire pour les petites communes&nbsp;&nbsp;Le Monde.fr",
       "date": "Tue, 08 Apr 2025 07:00:00 GMT",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "Municipales 2026 : la parité femme-homme doit s’installer dans toutes les mairies de la Manche - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOamQ3aHRvcFBDRjFJUmRKT0JqUVlXVjVfV2RLWlJzY2p6MDZldHNHalo1QWl4d3ZZMWFQaGNOZmZfRUxHWk5iZm1FNFRMR3JzWmRKamFTU3RHZ0haRE9XZWtLTkxOZG9tSXhTdms3aXVHOU9GczVTdFBZdDB3dkhfeGx2SjB3dDcyTERFRHpWRUVZTEgxemRRcmJYZUZaMk5rUUdYSVJMNkQtUTV5ZDlSaGJSMmZoREVSVDFGbXF0Wk8taFg3bkZXQnJR?oc=5",
+      "snippet": "Municipales 2026 : la parité femme-homme doit s’installer dans toutes les mairies de la Manche&nbsp;&nbsp;Actu.fr",
+      "date": "Thu, 10 Apr 2025 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

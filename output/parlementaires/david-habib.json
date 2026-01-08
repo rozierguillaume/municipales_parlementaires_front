@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Pyrénées-Atlantiques",
     "commune": "Mourenx",
+    "position": "Pourrait être sur une liste",
     "filename": "david-habib.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "David Habib est mentionné comme **colistier** du Rassemblement National pour les Municipales de 2026 à Orthez (Source 1). De plus, il a été choisi par les militants socialistes pour les Municipales de Mourenx en 2026 (Source 4), confirmant sa candidature active.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"David Habib est mentionné comme **colistier** du Rassemblement National pour les Municipales de 2026 à Orthez (Source 1). De plus, il a été choisi par les militants socialistes pour les Municipales de Mourenx en 2026 (Source 4), confirmant sa candidature active.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 4,
+        "explication": "Source directe confirmant David Habib comme candidat aux municipales de Mourenx en 2019 (liste socialiste) avec une mention implicite d'une possible reconduction pour 2026."
+      }
+    ],
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:17:25.827724Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Source directe confirmant David Habib comme candidat aux municipales de Mourenx en 2019 (liste socialiste) avec une mention implicite d'une possible reconduction pour 2026.\"}\n    ]\n}\n```"
   }
 }

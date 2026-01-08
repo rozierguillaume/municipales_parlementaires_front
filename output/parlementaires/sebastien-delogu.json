@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Bouches-du-Rhône",
     "commune": "Marseille",
+    "position": "Tête de liste ",
     "filename": "sebastien-delogu.json"
   },
   "search_results": [
@@ -51,21 +52,19 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 3 (Le Figaro)",
-        "contexte": "Les articles mentionnent explicitement les **Municipales 2026** et que Sébastien Delogu est en train de créer une polémique en lien avec sa candidature, notamment via des propos sur les « candidats racisés » (lié à son projet politique).",
-        "details": "Le Figaro souligne qu’il s’agit d’une campagne active pour ces élections municipales."
+        "source_index": 3,
+        "explication": "Référence explicite aux Municipales 2026 avec des propos liés à sa candidature."
       },
       {
-        "source": "Source 4 (Midi Libre)",
-        "contexte": "Sébastien Delogu est présenté comme **candidat LFI** aux Municipales de Marseille en 2026, avec des positions politiques précises (désir de quitter la Métropole si élu).",
-        "details": "Explicitement lié à une campagne électorale pour les élections municipales."
-      },
-      {
-        "source": "Source 5 (20 Minutes)",
-        "contexte": "Proposition explicite d’une loi pour supprimer la métropole Aix-Marseille, **dans le cadre des Municipales 2026**, en tant que projet politique de Delogu.",
-        "details": "Son initiative est directement associée à une campagne électorale."
+        "source_index": 4,
+        "explication": "Annonce claire de sa candidature aux municipales 2026 pour Marseille et proposition politique en lien direct avec les élections"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 (Le Figaro)\",\n            \"contexte\": \"Les articles mentionnent explicitement les **Municipales 2026** et que Sébastien Delogu est en train de créer une polémique en lien avec sa candidature, notamment via des propos sur les « candidats racisés » (lié à son projet politique).\",\n            \"details\": \"Le Figaro souligne qu’il s’agit d’une campagne active pour ces élections municipales.\"\n        },\n        {\n            \"source\": \"Source 4 (Midi Libre)\",\n            \"contexte\": \"Sébastien Delogu est présenté comme **candidat LFI** aux Municipales de Marseille en 2026, avec des positions politiques précises (désir de quitter la Métropole si élu).\",\n            \"details\": \"Explicitement lié à une campagne électorale pour les élections municipales.\"\n        },\n        {\n            \"source\": \"Source 5 (20 Minutes)\",\n            \"contexte\": \"Proposition explicite d’une loi pour supprimer la métropole Aix-Marseille, **dans le cadre des Municipales 2026**, en tant que projet politique de Delogu.\",\n            \"details\": \"Son initiative est directement associée à une campagne électorale.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:16:19.173750Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [3, 4],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Référence explicite aux Municipales 2026 avec des propos liés à sa candidature.\"},\n        {\"source_index\": 4, \"explication\": \"Annonce claire de sa candidature aux municipales 2026 pour Marseille et proposition politique en lien direct avec les élections\"}\n    ]\n}\n```"
   }
 }

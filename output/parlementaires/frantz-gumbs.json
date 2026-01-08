@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Saint-Barthélemy et Saint-Martin",
     "commune": "nan",
+    "position": "nan",
     "filename": "frantz-gumbs.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Législatives 2024 : les premiers résultats en outre-mer donnent la gauche victorieuse&nbsp;&nbsp;Libération",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Législatives 2022 : Présentation des parcours des 17 nouveaux députés d'Outre-mer entrant à l'Assemblée nationale - Outremers360",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaklLNkdsWnFNeGpzNkI0SnFSQzNtVG5uUDZZNHVnVW5sVjlQNHVxQUxycFFScXJTSVd3ZHRxQkR3V25BbXN0UzVpWjZ1N3ZZT1dna2hPQTRWbV93eE9BUzNSZ3B3ZnMtQmdOLTI3MnRnTTRTRGtDNGZFWFlLV1Bad0pycEpLTXBzUjlwX3k0akp3T2wyQmw2QTBwRUhIMnZWNHhCWG56eDF3MlFwYnJDWTNFTi03VVBWQ1RzM2NoR2MwSlhDcTVkci04ODdnVEhxOXdac3cxRGxPSGswX05qY0RLQlFLN2M5S2xlLU5sRQ?oc=5",
+      "snippet": "Législatives 2022 : Présentation des parcours des 17 nouveaux députés d'Outre-mer entrant à l'Assemblée nationale&nbsp;&nbsp;Outremers360",
+      "date": "Mon, 20 Jun 2022 10:41:10 GMT",
+      "source": "Outremers360"
     }
   ],
   "analysis": {

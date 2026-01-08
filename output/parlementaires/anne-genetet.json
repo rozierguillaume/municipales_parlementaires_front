@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Français établis hors de France",
     "commune": "nan",
+    "position": "nan",
     "filename": "anne-genetet.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Baccalauréat: une nouvelle épreuve anticipée de maths pour les candidats dès l'année prochaine&nbsp;&nbsp;BFM",
       "date": "Thu, 12 Jun 2025 07:00:00 GMT",
       "source": "BFM"
+    },
+    {
+      "title": "Loi Duplomb : l’argument Nutella que l’on n’avait pas vu venir - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSEpjMVFlYWlEVFNOcUZmcHl4dDVRd2p2UkVRUHVPUDY5OGlCVTFveVVNSDBVMFJNMER2Nm9ra3p1SzVaZENldWZkeUFlb0g2UWpxYnA5TktwWWRvOHkzR0dCNHlkYWxUbVNGblR4ZnRkVUxmVGFad093bVJad3lkcnVqZDU5MGVkUUk3RTAtSmpzV3FXVks4UjZjS0diWjVUYUg3MTRUNWtaTGFhWlVEWlRCQ2wzbVo2ejNlV2drRjF3RmRiNmRqMFpn?oc=5",
+      "snippet": "Loi Duplomb : l’argument Nutella que l’on n’avait pas vu venir&nbsp;&nbsp;Libération",
+      "date": "Tue, 22 Jul 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

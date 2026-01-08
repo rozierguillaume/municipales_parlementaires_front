@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Essonne",
     "commune": "nan",
+    "position": "nan",
     "filename": "antoine-leaument.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "\"Il faut une inscription automatique sur les listes électorales car le suffrage est censitaire en France\"Antoine Léaument&nbsp;&nbsp;La Gazette des Communes",
       "date": "Thu, 21 Aug 2025 07:00:00 GMT",
       "source": "La Gazette des Communes"
+    },
+    {
+      "title": "Des municipales à la présidentielle, le grand malentendu des machines à voter - Le Courrier des maires",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXh1bGpaOFY2VnozR3AwcXNud1JRRzhDVE9uaUkzU0RnVTFJa1BqM0s4aElDS3dLbTNJWUZ6OG95S19mNEUzV0owbFJJRVhEMzFQR1FhSzBDeHZWMFdTbFl3b2I5VEtnOWlqVWwxVVpqdHo4VG9pZHdwQzg2U0FBSG8yNUFORGlqeVlRVDFNZklOUEhCMTlER1FsZHl2akdXT2poaG9XWjVGRnN0cjF6dVNIc19UMzNPaUlzajBjWmQ?oc=5",
+      "snippet": "Des municipales à la présidentielle, le grand malentendu des machines à voter&nbsp;&nbsp;Le Courrier des maires",
+      "date": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "source": "Le Courrier des maires"
     }
   ],
   "analysis": {

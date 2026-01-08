@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Savoie",
     "commune": "Les Déserts",
+    "position": "Pourrait être sur une liste",
     "filename": "jean-francois-coulomme.json"
   },
   "search_results": [
@@ -51,26 +52,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 – Le Dauphiné Libéré (Nov 2025): Mentionne une campagne commune avec Avenir populaire et LFI pour une rupture avec la municipalité actuelle, mais ne précise pas si Jean-François Coulomme est impliqué directement dans cette campagne ou candidate.",
-        "analyse": "Aucune mention explicite de Jean-François Coulomme comme candidat."
-      },
-      {
-        "source": "Source 2 – L'Essor Savoyard (Mar 2025): Prédit un « embarras du choix » pour les électeurs à Chambéry en 2026, sans nommer explicitement Coulomme.",
-        "analyse": "Pas de confirmation ou d'exclusion de sa candidature."
-      },
-      {
-        "source": "Source 3 – Le Dauphiné Libéré (Dec 2024): LFI dévoile ses positions pour les municipales 2026 à Chambéry, sans mentionner Coulomme.",
-        "analyse": "Aucune indication sur son implication."
-      },
-      {
-        "source": "Source 4 – Le Dauphiné Libéré (Sep 2024): LFI propose des listes d’union populaire pour 2026 à Chambéry, sans référence directe à Coulomme.",
-        "analyse": "Pas de confirmation de sa candidature."
-      },
-      {
-        "source": "Source 5 – L'Essor Savoyard (Jun 2024): Parle des législatives 2024 et de son mandat actuel, pas des municipales 2026.",
-        "analyse": "Référence à une période antérieure (2024), donc hors contexte 2026."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Jean-François Coulomme comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent principalement des stratégies ou des dynamiques autour de Chambéry et d'autres listes, sans nommer explicitement Coulomme."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 – Le Dauphiné Libéré (Nov 2025): Mentionne une campagne commune avec Avenir populaire et LFI pour une rupture avec la municipalité actuelle, mais ne précise pas si Jean-François Coulomme est impliqué directement dans cette campagne ou candidate.\",\n            \"analyse\": \"Aucune mention explicite de Jean-François Coulomme comme candidat.\"\n        },\n        {\n            \"source\": \"Source 2 – L'Essor Savoyard (Mar 2025): Prédit un « embarras du choix » pour les électeurs à Chambéry en 2026, sans nommer explicitement Coulomme.\",\n            \"analyse\": \"Pas de confirmation ou d'exclusion de sa candidature.\"\n        },\n        {\n            \"source\": \"Source 3 – Le Dauphiné Libéré (Dec 2024): LFI dévoile ses positions pour les municipales 2026 à Chambéry, sans mentionner Coulomme.\",\n            \"analyse\": \"Aucune indication sur son implication.\"\n        },\n        {\n            \"source\": \"Source 4 – Le Dauphiné Libéré (Sep 2024): LFI propose des listes d’union populaire pour 2026 à Chambéry, sans référence directe à Coulomme.\",\n            \"analyse\": \"Pas de confirmation de sa candidature.\"\n        },\n        {\n            \"source\": \"Source 5 – L'Essor Savoyard (Jun 2024): Parle des législatives 2024 et de son mandat actuel, pas des municipales 2026.\",\n            \"analyse\": \"Référence à une période antérieure (2024), donc hors contexte 2026.\"\n        }\n    ],\n    \"conclusion\": \"Aucune information claire ne permet d'affirmer que Jean-François Coulomme est candidat aux municipales de Chambéry en 2026. Les sources évoquent des dynamiques politiques locales sans le nommer explicitement comme figure candidate.\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:15:47.177477Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Jean-François Coulomme comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent principalement des stratégies ou des dynamiques autour de Chambéry et d'autres listes, sans nommer explicitement Coulomme.\"}\n    ]\n}\n```"
   }
 }

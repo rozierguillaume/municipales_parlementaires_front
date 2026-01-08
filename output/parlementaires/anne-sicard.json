@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-d'Oise",
     "commune": "nan",
+    "position": "nan",
     "filename": "anne-sicard.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Une ex-députée macroniste du Val-d'Oise tentée par les Municipales 2026&nbsp;&nbsp;Actu.fr",
       "date": "Fri, 17 Jan 2025 08:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Dans le Val-d’Oise, le cow-boy Retailleau joue avec le shérif Macron - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTW5BZXZNQzNqTW1seEpHUllSMDNfdmNtWm14bXoyREZEWHYtSG1XRTFxcEt4TXhFbHpVdnBNV3VJSG92XzJtTW9IYnFVVUFRclFZMC12ME54czhQRUhjbXdkSF80WjFMOTdDcUdudEtMSHpQRkVmT0NVY2hYbUlLOEFSclUtaXE1SVk2YV85OHNaUUlFcXFKa1RyVi0wX2xsRzlZbl9rWGx6LXNUaWE1WXpZbzZ6OExQVWNJMXFieUVxUWljLTVuVjBQdUU1RmNWdS1jem1n?oc=5",
+      "snippet": "Dans le Val-d’Oise, le cow-boy Retailleau joue avec le shérif Macron&nbsp;&nbsp;Libération",
+      "date": "Wed, 23 Jul 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

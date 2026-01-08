@@ -8,6 +8,7 @@
     "parti": "PC",
     "departement": "Bouches-du-Rhône",
     "commune": "Martigues",
+    "position": "Sur une liste ",
     "filename": "emmanuel-fouquart.json"
   },
   "search_results": [
@@ -51,14 +52,19 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 2 - Maritima (Wed, 26 Nov 2025)",
-        "contenu": "Municipales 2026 à Martigues : Emmanuel Fouquart (RN) se déclare candidat et annonce sa participation aux élections municipales de 2026."
+        "source_index": 2,
+        "explication": "Source directe confirmant Emmanuel Fouquart comme candidat RN aux municipales 2026 à Martigues."
       },
       {
-        "source": "Source 3 - La Provence (Fri, 21 Nov 2025)",
-        "contenu": "Municipales 2026 à Martigues : Emmanuel Fouquart conduira la liste RN dans cette élection municipale."
+        "source_index": 3,
+        "explication": "Rafraîchit son rôle de tête de liste RN pour les élections municipales 2026 dans la même commune."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 2 - Maritima (Wed, 26 Nov 2025)\",\n            \"contenu\": \"Municipales 2026 à Martigues : Emmanuel Fouquart (RN) se déclare candidat et annonce sa participation aux élections municipales de 2026.\"\n        },\n        {\n            \"source\": \"Source 3 - La Provence (Fri, 21 Nov 2025)\",\n            \"contenu\": \"Municipales 2026 à Martigues : Emmanuel Fouquart conduira la liste RN dans cette élection municipale.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T10:22:47.740231Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 3],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Source directe confirmant Emmanuel Fouquart comme candidat RN aux municipales 2026 à Martigues.\"},\n        {\"source_index\": 3, \"explication\": \"Rafraîchit son rôle de tête de liste RN pour les élections municipales 2026 dans la même commune.\"}\n    ]\n}\n```"
   }
 }

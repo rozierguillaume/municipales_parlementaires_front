@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Tarn",
     "commune": "nan",
+    "position": "nan",
     "filename": "karen-erodi.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Résultats des législatives 2024 dans le Tarn : le RN tire son épingle du jeu&nbsp;&nbsp;Le Journal Toulousain",
       "date": "Sun, 30 Jun 2024 07:00:00 GMT",
       "source": "Le Journal Toulousain"
+    },
+    {
+      "title": "Législatives 2024 : Julien Bacou en chasse sur les dernières terres de gauche - lejournaldici.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMlBqNEZndklrU3dYVEFRMGR3TlRRdU5HVzR1SFAydVRvZDdhc2IyNVVGbEt6U0lfVVRRRmpBTEowemNHQXByZGNWWjRpcW1iTUVKcTNpc1RBSFc4T1BSSDZoalEtLUdHdk5NNHNMN2JVakFXQmlSeDhBT2J5MmR1b2xPc2dQcm1qUlZEMXpXYzN3dU9BVFVzRkNhUUs5V3hmaDZubnlrNUx2bm5DQXNQdHV6NjNrSTFKa2YwVWpn?oc=5",
+      "snippet": "Législatives 2024 : Julien Bacou en chasse sur les dernières terres de gauche&nbsp;&nbsp;lejournaldici.com",
+      "date": "Wed, 26 Jun 2024 07:00:00 GMT",
+      "source": "lejournaldici.com"
     }
   ],
   "analysis": {

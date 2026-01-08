@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Seine-Maritime",
     "commune": "Rouen",
+    "position": "Pourrait être sur une liste",
     "filename": "florence-herouin-leautey.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucune source ne mentionne explicitement Florence Hérouin-Léautey comme candidate officielle aux **municipales de Rouen en 2026**. Bien qu’elle soit citée dans des articles sur son parcours politique (démission de mandat local, candidature législative en 2024), les sources disponibles (Sources 1 et 2) ne confirment pas sa participation active à la campagne municipale de 2026. Les autres sources (3-5) concernent d’autres élections ou des faits antérieurs.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Florence Hérouin-Léautey comme candidate officielle aux **municipales de Rouen en 2026**. Bien qu’elle soit citée dans des articles sur son parcours politique (démission de mandat local, candidature législative en 2024), les sources disponibles (Sources 1 et 2) ne confirment pas sa participation active à la campagne municipale de 2026. Les autres sources (3-5) concernent d’autres élections ou des faits antérieurs.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune source ne mentionne Florence Hérouin-Léautey comme candidate officielle aux municipales 2026 dans les résultats fournis."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:20:05.321858Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne Florence Hérouin-Léautey comme candidate officielle aux municipales 2026 dans les résultats fournis.\"}\n    ]\n}\n```"
   }
 }

@@ -8,9 +8,17 @@
     "parti": "LR",
     "departement": "Var",
     "commune": "Six-Fours-les-Plages",
+    "position": "Tête de liste",
     "filename": "frederic-boccaletti.json"
   },
   "search_results": [
+    {
+      "title": "Le député RN Frédéric Boccaletti est « évidemment » candidat à la mairie de Six-Fours - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUFKY0Zaajc5bXVKMHlUUWtHSVBIWjkxTFYtLXI0VGo1cThWdzZJeHF1T09ub0ZXaWYwSDY1enpFaWRlT3lDMzJJTm1tY1J3ZkhrRzNTc1ViOXR6M0VwRk1aVEtBRUVvalVlWEVjbkh3WVgxczZxOElFYnZ0TDhuTjBYUUNOTzZkdnk0WGI2R21PMnZsWjd0cDlrWHBaanVQZnc5UXppLWhvQmNmQTVSRmxNWDYyWXJObGRFWExB?oc=5",
+      "snippet": "Le député RN Frédéric Boccaletti est « évidemment » candidat à la mairie de Six-Fours&nbsp;&nbsp;Nice-Matin",
+      "date": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "source": "Nice-Matin"
+    },
     {
       "title": "Municipales 2026 Var : Frank Giletti soutient un candidat RN condamné pour violence avec arme - BFM",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU2c5LVE4anJlemF5ekNvbjdEazd6NG55eWc2R2lOM0ViWmdaM081ZXhWWDRxbXJkZ2N1QXA5R016ZkpqMWlNTDdOcGVkcTVyenEzeVNHc01rMmhKTmhpN3IyT215WHNINEhsY3N4REZaZTEyNnBScnZNNVJWazBfdHBEaEg3cmJFUlNZUUllb21GdDJoaGMzQkJfSWlFMTctLWNpYXZtazhnSTh0REZRVVpvYUkwUlF2RUM0eHRNYTAtOW1QR0dkYURSZUdqVldXQkswSDNhamNWUjU4UG5XTy1IU21ZelJhNmpNYlFzRDNmZGZ0OVR1RDhybHJSdkRaQ1ZTbWJR?oc=5",
@@ -50,9 +58,25 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Frédéric Boccaletti a officiellement annoncé sa candidature aux **municipales de 2026** à Six-Fours-les-Plages (Var) selon les sources BFM (12 décembre 2025).",
-      "Les trois articles cités (Sources 2, 3 et 5) confirment son implication active dans la campagne municipale pour cette année-là."
+      {
+        "source_index": 1,
+        "explication": "Source confirme explicitement sa candidature à la mairie de Six-Fours pour les municipales 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Déclaration officielle de sa candidature aux élections municipales 2026 à Six-Fours-les-Plages."
+      },
+      {
+        "source_index": 4,
+        "explication": "Annonce formelle de son inscription en tant que candidat officiel pour la mairie de Six-Fours"
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Frédéric Boccaletti a officiellement annoncé sa candidature aux **municipales de 2026** à Six-Fours-les-Plages (Var) selon les sources BFM (12 décembre 2025).\",\n        \"Les trois articles cités (Sources 2, 3 et 5) confirment son implication active dans la campagne municipale pour cette année-là.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:21:52.187642Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source confirme explicitement sa candidature à la mairie de Six-Fours pour les municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Déclaration officielle de sa candidature aux élections municipales 2026 à Six-Fours-les-Plages.\"},\n        {\"source_index\": 4, \"explication\": \"Annonce formelle de son inscription en tant que candidat officiel pour la mairie de Six-Fours\"}\n    ]\n}\n```"
   }
 }

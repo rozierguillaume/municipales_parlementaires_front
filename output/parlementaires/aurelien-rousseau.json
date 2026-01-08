@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Yvelines",
     "commune": "nan",
+    "position": "nan",
     "filename": "aurelien-rousseau.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales à Paris : Bertrand Delanoë donne sa préférence à Emmanuel Grégoire&nbsp;&nbsp;l'Opinion",
       "date": "Sun, 23 Mar 2025 07:00:00 GMT",
       "source": "l'Opinion"
+    },
+    {
+      "title": "Législatives : Aurélien Rousseau, ex-ministre d'Emmanuel Macron, candidat pour le Nouveau Front populaire - TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYW9vZFpTdjdkZTUxbC1vX1FETnAzUVkxbHdYbTRvc0FlRG5tRTl5bkZ6NERwaURYbVBzSkJmeDdMZXdOTmZxNHctX0Rpb1JUSDRFR1J4cE4wV1lkY0w0bU1ETW1CTXhHSFZrS1I3Zm0xUnFxZmEzN24xaHhwY2pNR1EtWjdJVG1LakdpYlAtbWMxQXBuSC1sUmxTSU13UXVSVkNZcXRzUG9YbW1tMlRCbWl3NFE1NkFNRk5BSFBJaWZqTlNlVEVxdzhxaGdBWW5IZGpJWjRYU3NxZ190dnNJV19QM2I3T0g0ZFFNV0g3OVlQZlZOY2NrZC1iNmZPWWVnLTJRMWVUMFlJQnpmeXI3b3h3?oc=5",
+      "snippet": "Législatives : Aurélien Rousseau, ex-ministre d'Emmanuel Macron, candidat pour le Nouveau Front populaire&nbsp;&nbsp;TF1 Info",
+      "date": "Fri, 14 Jun 2024 07:00:00 GMT",
+      "source": "TF1 Info"
     }
   ],
   "analysis": {

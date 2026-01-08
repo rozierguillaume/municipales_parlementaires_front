@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Guadeloupe",
     "commune": "nan",
+    "position": "nan",
     "filename": "elie-califer.json"
   },
   "search_results": [
@@ -45,6 +46,27 @@
       "snippet": "Blaise Mornal,Camille Elisabeth, Elie Califer, Jocelyn Sapotille, Thierry Abelli et Jean-Louis Francisque investis&nbsp;&nbsp;Outre-mer la 1ère",
       "date": "Sat, 23 May 2020 07:00:00 GMT",
       "source": "Outre-mer la 1ère"
+    },
+    {
+      "title": "Gouvernement Lecornu II : de la droite au PS, les voix en faveur de la censure se multiplient - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVUVVZWxkVVZlME9RZVBJOGhUbFZjV3k5WmtqV2JodVhMaE04cVRrRXNjcjhOdndubjRMT29VSUdGakplcW44VnphRzVGdWp5b1BKZTVDR1JNbTdHUkQ3eHNDd1lOYUozNUs0Nzc5STVmVnhOT3lULVY4eHhPLVg1emZhVG94aEdibGczclViWmY0VVVOYmRrZ0k1S3lBRlhJenZlUWI5dk1icVFKcHpvTGllcjdQUmt0VFdOVWRDU3draDlYR3ExMWZCOHIzTmZrWkFXU2hoVWZkVXVtVk8za3A5WWJVczUxX1lV?oc=5",
+      "snippet": "Gouvernement Lecornu II : de la droite au PS, les voix en faveur de la censure se multiplient&nbsp;&nbsp;Libération",
+      "date": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "QUI SONT LES CANDIDATS POTENTIELS DANS VOTRE COMMUNE ? (2/2) - guadeloupe.franceantilles.fr",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGlfd3NHTHdyN25sVEpRaG95ZzZaTUh0b3ZkSEFQXzVMcHd1TFFJcy1uTUVMNFI2bEtFQ0NYLTc2YnhiUmxwZWxZVElKN0J0ZlgwMHFqNVlBd0JwQXZXWEM4RWxqSEF6ZkxsbGtEWlJUUy1NdEtyQXUwQURHYnV2cGg0dVp0V1JmVmc4NHRWdldtb0RndVZYam40MFdiaGpNQW0yOTVMX0EzSVBBeVRaMlBIZV9OVWFQTUhBVW8zMGpSaGdZbUE?oc=5",
+      "snippet": "QUI SONT LES CANDIDATS POTENTIELS DANS VOTRE COMMUNE ? (2/2)&nbsp;&nbsp;guadeloupe.franceantilles.fr",
+      "date": "Tue, 07 Jan 2020 08:00:00 GMT",
+      "source": "guadeloupe.franceantilles.fr"
+    },
+    {
+      "title": "Guadeloupe. Politique. Les 4 députés sortants peuvent-ils gagner ? - Caraib Creole News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGE1QUtCMi1MRUpzZVV3UUNJeGhkZm9CMWNHYThQWlFNVW84NXM4ekEyU2tjSjVmbHJJcmFsR0pJNlU5YWNQM2I2S3ZQNEgzZTlIbGNoank4NGhRY1IxWTF3RkVjQVA2U1NuelNmaUxGYUVVUllFMUFwa0k4ZGtDVy1meXBoYk40ak1QaUg3Z1lnX1JYc3pV?oc=5",
+      "snippet": "Guadeloupe. Politique. Les 4 députés sortants peuvent-ils gagner ?&nbsp;&nbsp;Caraib Creole News",
+      "date": "Sun, 23 Jun 2024 07:00:00 GMT",
+      "source": "Caraib Creole News"
     }
   ],
   "analysis": {

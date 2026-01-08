@@ -8,9 +8,17 @@
     "parti": "DVD",
     "departement": "Alpes-Maritimes",
     "commune": "Menton",
+    "position": "Tête de liste",
     "filename": "alexandra-masson.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 : après LR, Horizons soutient à son tour Louis Sarkozy, candidat à Menton - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRjVjcEpSVS1uY1R0eDdJLS14aEd0aklwR0FqMFhwZmdHR2o2S19uTHJpU0VzSGgzOVZYTjhMR2RSVkVvby04ZnFqYXRFMXZPXzdSZW9hMXN0Ry00ejNjdTdjSWE4RVZENXY3UG1KYWtRWlB4Z1R1TkRpNDZuSHhnZUpMbE81Q1hFVWxxeFcyZk0tc2Y4WENBcXh0MUhOM3FhV3hLX0VRdEFjS1Fpd0tBYl9JSF90ZURqbndTWnE1R2ZjV2tha0dJVk5DSzh3d2lEZXZ6eXJxejRCNWFUX1l4LUlxdHpkWmlacTl1dHl3XzFHQVNKMU5jMHBIYlZkT3RaWnR1YTF6cw?oc=5",
+      "snippet": "Municipales 2026 : après LR, Horizons soutient à son tour Louis Sarkozy, candidat à Menton&nbsp;&nbsp;Le Parisien",
+      "date": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "source": "Le Parisien"
+    },
     {
       "title": "Municipales 2026 : quelle stratégie du Rassemblement national dans les Alpes-Maritimes ? - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYXRjd0ltTzRyOWlIWnF0Z1lqbFdiWW5wUHRXT0FBS2NJdEZrZ1B2WV9Wb2FoRFBEX2dSbWlvWGdDTGpGazJrMk13cGppVEhDTThicy1CamxtbXZER0NFX0s1ZVhvRE5SQmVycE53Y1NVUENBbmpXTjdjVTFjRFBOMFJJR1lYUjQ3SG10cTdIVnFvYlhqckNSTlVONTNzVUpjckJNalNSdnZHcnIwUHpmUHZGUWp0a0pWV18wd3BoMHU0RG51bnYxN0VaM1hpeVZaRWp2bVNtTTJaZzFBMXBrR1ZobkZtY2VOeEcwYkN6eS0?oc=5",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": "Source 5 (Le Figaro - 26 septembre 2025) mentionne explicitement que **Alexandra Masson** est candidate aux **municipales de 2026 à Menton** en tant que représentante du Rassemblement National.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Source 5 (Le Figaro - 26 septembre 2025) mentionne explicitement que **Alexandra Masson** est candidate aux **municipales de 2026 à Menton** en tant que représentante du Rassemblement National.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Alexandra Masson comme candidate aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:24:49.035052Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Alexandra Masson comme candidate aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

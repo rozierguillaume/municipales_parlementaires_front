@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "nan",
     "commune": "nan",
+    "position": "nan",
     "filename": "nan-nan.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026. \"La facilité aurait été de dire, on plie le game !\", à Nantes, une alliance tardive entre la droite et le centre&nbsp;&nbsp;France 3 Régions",
       "date": "Sat, 15 Nov 2025 08:00:00 GMT",
       "source": "France 3 Régions"
+    },
+    {
+      "title": "Municipales 2026 : Marseille, Nantes, Lyon, Rennes, Grenoble… Ces villes où PS et écolos ont déjà opté pour le mariage de raison - Libération",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQai02c3hBQ19La3lhTC11Rl81V3VRNmFMYUh2YnFLZlJqOVMwMkFHZnh0WlhuSzBqd2NZNXdYUW5NR1lfd0N1b3NLMkpyY21YSEE0OWl4UW5yaWtWTmZYcjk2TzFyX0QxVkZ0TnJBeHFrbHpibjAtZElNRUlnZlBtQzk5VTBxWFpzYVdDNXdOTDh3ZFdvUWpLUVRqNTY3T0RONndSeENZczFaZ3Y4ZTU4WS1uSkFWUE1la1RyaEdfeTZ5NThiWjVZWVJicFZuZFJ3bGcxYUx2SFUwOGJGc0RnTlVYNTN0MEFnTzRKZnp2THBtWTJ3Q1FpdF9zZlA2VVJxZmtFbVlkMzhDbE5TTndjQkpEZFlGTDJ2VldmS1dUcEstc2JDSFpzRG4yYlM?oc=5",
+      "snippet": "Municipales 2026 : Marseille, Nantes, Lyon, Rennes, Grenoble… Ces villes où PS et écolos ont déjà opté pour le mariage de raison&nbsp;&nbsp;Libération",
+      "date": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Bas-Rhin",
     "commune": "nan",
+    "position": "nan",
     "filename": "charles-sitzenstuhl.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026. Sélestat : la fin de l’ère Marcel Bauer ?&nbsp;&nbsp;DNA - Les Dernières Nouvelles d'Alsace",
       "date": "Sun, 30 Mar 2025 07:00:00 GMT",
       "source": "DNA - Les Dernières Nouvelles d'Alsace"
+    },
+    {
+      "title": "Le député Renaissance Charles Sitzenstuhl veut quitter son poste de porte-parole - Libération",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRHhLZkJKZ2MxeDYzYlpETVQ1YV9xTW5VRjlDMTBsaXpSaHMzUTQ4ZWQxRzZjS1pGVUZ1dE4tbG5FbVdySXFmekdnc3hkd3lSSXNpVWpIWkV3Qy1jQ0VWZlE5STgtT2FubThiakFJcFFZWnE5RUNPZmg2ZnZrWXhXV19xaGJRT3FHY3YtUFZWMGZONDRfTmhnblpVbnlqOUU3VkIxMThOYS1YbHNmUGNzRzFCUGdYVHlyTDcxRWRuVjFkNTVvRWhRZ2QxRjZxbVNDVEtqS1pFTE5RanNlYWk3NDJMeGVMd2dZb2tZcUwwREltb0ZOcWp3Wmp4Ukg0ZWJxMklUVHZ6b0pXbzBqbHc?oc=5",
+      "snippet": "Le député Renaissance Charles Sitzenstuhl veut quitter son poste de porte-parole&nbsp;&nbsp;Libération",
+      "date": "Mon, 17 Jul 2023 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

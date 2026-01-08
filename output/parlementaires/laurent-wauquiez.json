@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Haute-Loire",
     "commune": "nan",
+    "position": "nan",
     "filename": "laurent-wauquiez.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : à Lyon, Jean-Michel Aulas scelle un accord avec Laurent Wauquiez&nbsp;&nbsp;Le Monde.fr",
       "date": "Thu, 04 Sep 2025 07:00:00 GMT",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "Lyon. Laurent Wauquiez annonce son soutien à Jean-Michel Aulas, candidat aux municipales - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWFBUUVhiWkRXY00tLTlLZkVaRk4wZG5ieHhXWGpVWi13b3ZONlp2ZzlDMENDMlh1RVpqblU1S2hLeFBqcTlLMXNqdnlQNnFfcHBqRXE2dzV6emlCNzc5OXNfX1RoTGFXUUpGeWZxOEdQbG9ZakdkMmR5UWlENVZKV0pmUEdQMHZneldmWHpMY2FiRGRqbmgwRUt2Rnk2NW9XeWUzNWtDUGpGZ2RKNXdiSDV4a3hKM1FFUTRIalBXSHc5NGd3d2RBQzdtQmU1VW9FTnRxQXJoamdIUQ?oc=5",
+      "snippet": "Lyon. Laurent Wauquiez annonce son soutien à Jean-Michel Aulas, candidat aux municipales&nbsp;&nbsp;Actu.fr",
+      "date": "Thu, 04 Sep 2025 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

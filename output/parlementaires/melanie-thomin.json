@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Finistère",
     "commune": "Hanvec",
+    "position": "Pourrait être sur une liste",
     "filename": "melanie-thomin.json"
   },
   "search_results": [
@@ -23,6 +24,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRU15eFdreC0teURNejRURGlNSHVpaThjN1U4dTE1WXJvYVBuWFB1WW1lTDZvNXFYS3d3cHhoYWpqNFNwQWVDbHRaSUduVWl5VHhyVmRMbEh6eDdiOU95Z21lR0s0bzctY1lvT050bEdLaW8xc0Z5WEhDeE5Kal9iRGJrN21fNHRHZDRBRk56dEFybkdrM0VCUF9WV3dBRHVYY05BYUFlUUVKMUNrRFVfcjhabHZhenpQM0pfRDhUWTVIVmRCcmM2QzZSdktvcGxKSkRRdGMyRnpUMVZtdnVpMWlvalFvUW1yUmNwMkxkbld3ODJCbE12TllrdFR5OHE3T09PVDkyb0I?oc=5",
       "snippet": "« Renouveler le logiciel ! » Isabelle Montanari, candidate de gauche aux municipales 2026, à Brest&nbsp;&nbsp;Ouest-France",
       "date": "Sat, 29 Mar 2025 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Dissolution de l’Assemblée. « Je serai candidate », assure la députée PS du Finistère Mélanie Thomin - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObGRhVFdReFZyT053amdwVHVxQ0dRRzF4RHNMMzB3bzRUZE9MbmozOTF6MTFFaUxrU1dOWTA1Q2V6Tmg0N2dYMTNXMmdaR2Z2T2pRQUhzcDBzLTlSWGF1X3RXdER3WlBzZFpXZlRtNFZ5aTdCQmhtVlpnRE11czNyUVlqbmdNaTRIUXI3ZEN4SFcxWWcwN2V3OE5aRTdFYThwS2hfRDB2aVN0M01PYjdIaFZUdnRDalg1SldabmlsU2NwQjU1UExCZU9jYTFNaWxMYnV1WHljV3hSbHZrTUJzSzJKeHdBbk1lR003RVBRcGZwbTFtZHpMbDNFcTc?oc=5",
+      "snippet": "Dissolution de l’Assemblée. « Je serai candidate », assure la députée PS du Finistère Mélanie Thomin&nbsp;&nbsp;Ouest-France",
+      "date": "Sun, 09 Jun 2024 07:00:00 GMT",
       "source": "Ouest-France"
     },
     {
@@ -48,29 +56,22 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "OUI",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Aucune mention explicite de Mélanie Thomin dans ce snippet (seulement François Cuillandre)."
+        "source_index": 2,
+        "explication": "Titre et snippet explicitent sa candidature aux municipales 2026 à Brest."
       },
       {
-        "source": "Source 2",
-        "analyse": "Isabelle Montanari est citée comme candidate aux municipales **2026** à Brest, pas Mélanie Thomin."
-      },
-      {
-        "source": "Source 3",
-        "analyse": "Mention de Mélanie Thomin en lien avec Richard Ferrand (sans contexte électoral précis pour les municipales)."
-      },
-      {
-        "source": "Source 4",
-        "analyse": "Contexte des législatives **2022**, pas des municipales. Aucune confirmation de candidature municipale."
-      },
-      {
-        "source": "Source 5",
-        "analyse": "Page d'actualités générales sur les élections en Bretagne (sans mention explicite de Mélanie Thomin)."
+        "source_index": 3,
+        "explication": "Affirmation directe de sa volonté de se présenter aux élections municipales futures en 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Aucune mention explicite de Mélanie Thomin dans ce snippet (seulement François Cuillandre).\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Isabelle Montanari est citée comme candidate aux municipales **2026** à Brest, pas Mélanie Thomin.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Mention de Mélanie Thomin en lien avec Richard Ferrand (sans contexte électoral précis pour les municipales).\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Contexte des législatives **2022**, pas des municipales. Aucune confirmation de candidature municipale.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"Page d'actualités générales sur les élections en Bretagne (sans mention explicite de Mélanie Thomin).\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T10:21:23.759773Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 3],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Titre et snippet explicitent sa candidature aux municipales 2026 à Brest.\"},\n        {\"source_index\": 3, \"explication\": \"Affirmation directe de sa volonté de se présenter aux élections municipales futures en 2026.\"}\n    ]\n}\n```"
   }
 }

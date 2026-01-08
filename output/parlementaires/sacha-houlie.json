@@ -8,6 +8,7 @@
     "parti": "EELV",
     "departement": "Vienne",
     "commune": "Poitiers",
+    "position": "Pourrait être tête de liste",
     "filename": "sacha-houlie.json"
   },
   "search_results": [
@@ -19,10 +20,24 @@
       "source": "lanouvellerepublique.fr"
     },
     {
+      "title": "Poitiers : Place publique annonce finalement soutenir aucun candidat aux élections municipales - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHhoQzdNNXd0M05CRzFWb3NaUW5sZ1pRZWJiNlpGejlGWlNKeTFUMjY0ZVZxQU9MWldINGZXSGhleWxqWjg3clV6SmpFVElpWVRQR19EVEZ3c0FQY1dIbjRTUUttYjZubGRrT1ZFcFNBQTVoVnAyV0F5V1ZBc0RjS1d2ZFhPUXljWWlxT2tPbWJ1bmJYMHdSQzZzQ2RQczhRczVuUloya1RJckVTclF3Y1dzTm9DNzBvYlQwYTdEOFNBV1JfbDUyWndNMHF2SUgtM2wyZW1feVZkaWYteHptbjRB?oc=5",
+      "snippet": "Poitiers : Place publique annonce finalement soutenir aucun candidat aux élections municipales&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "source": "lanouvellerepublique.fr"
+    },
+    {
       "title": "Municipales 2026 à Poitiers : le socialiste François Blanchard candidat - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTFyRkVYSlgwektIMm1McXZwNFhIakJ2al9FaEpOeE9KSDZub1YzcW9UM0FyVnZrckxwOVM1OS1TNC02QjFZMGJnOF9YcUVzZUdlUXlIM3hRR3Bna05KTzVmVXJRSk9vcTVQdDJpcUNSdU02UWJZWUtNZWpNNktTak1zVHVrdjBDRnJuZS1qODBEaWVrV0lJM2RjTXRfalhlSVNzVGxhR0xiYUQ3ajYyZE8yZ2Z4OWVqWjl3MEloZkE3ZGx3Y3RyTmJYNTY?oc=5",
       "snippet": "Municipales 2026 à Poitiers : le socialiste François Blanchard candidat&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026 : Anthony Brottier présente sa candidature \"pour les Poitevins et non pour les tambouilles électorales\" - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRmgySjVlM2VnaW54S3BoTEg5LTlzODZYWDMxTzlwVmZIOWdtZ1JIOHl4bFNnU1UzaUFsQ21xMVF1elhJcF9IaE9aODNKVU1JeTBCejRaWkVaSUZhc3RId3BPWXVKOFVXSHJmajN1NkY0UlhkU1M2aG5ObldLUURvcENmZ19lRUtMYVFNU2g3c29qcjNFSUNyRjVNam1PenlCSFFDa0xjV3VMNi1VellzQ3lRQ0NKZkdlUlJKcWRWbHh2NHMzcmZQWUU3QWtvZ1l4NmNJNWlwS1BBdjd0cm9XUXFkWWo4MmFZTVJhVGtJX2ljeEhuVWtIc0dB?oc=5",
+      "snippet": "Municipales 2026 : Anthony Brottier présente sa candidature \"pour les Poitevins et non pour les tambouilles électorales\"&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 10 Oct 2025 07:00:00 GMT",
       "source": "francebleu.fr"
     },
     {
@@ -51,18 +66,14 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Le titre mentionne un sondage en cours pour les municipales de Poitiers (2026), mais le snippet ne précise pas explicitement la candidature de Sacha Houlié."
-      },
-      {
-        "source": "Source 3",
-        "analyse": "L'article évoque une 'candidature potentielle' de Sacha Houlié, mais ne confirme pas officiellement sa décision. Le contexte suggère une anticipation du scrutin (2026), sans confirmation directe."
-      },
-      {
-        "source": "Source 4",
-        "analyse": "Le titre et le snippet mentionnent plusieurs noms (dont Sacha) dans un article sur les candidatures potentielles pour Poitiers en 2026, mais ne confirment pas sa candidature officielle."
+        "source_index": 5,
+        "explication": "Source mentionne un potentiel scrutin tendu en cas de candidature de Sacha Houlié aux municipales 2026 sans confirmation directe."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Le titre mentionne un sondage en cours pour les municipales de Poitiers (2026), mais le snippet ne précise pas explicitement la candidature de Sacha Houlié.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"L'article évoque une 'candidature potentielle' de Sacha Houlié, mais ne confirme pas officiellement sa décision. Le contexte suggère une anticipation du scrutin (2026), sans confirmation directe.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Le titre et le snippet mentionnent plusieurs noms (dont Sacha) dans un article sur les candidatures potentielles pour Poitiers en 2026, mais ne confirment pas sa candidature officielle.\"\n        }\n    ],\n    \"conclusion_par_sources_individuelles\": {\n        \"Source 1\": \"INCERTAIN\",\n        \"Source 3\": \"INCERTAIN (suggestion de candidature non confirmée)\",\n        \"Source 4\": \"INCERTAIN (liste de noms sans confirmation explicite)\"\n    }\n}\n```"
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:21:27.655926Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Source mentionne un potentiel scrutin tendu en cas de candidature de Sacha Houlié aux municipales 2026 sans confirmation directe.\"}\n    ]\n}\n```"
   }
 }

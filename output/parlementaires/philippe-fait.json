@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Pas-de-Calais",
     "commune": "nan",
+    "position": "nan",
     "filename": "philippe-fait.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : les premiers noms des colistiers de Philippe Mercier, candidat (divers droite) à Bourges&nbsp;&nbsp;Le Berry Républicain",
       "date": "Mon, 05 Jan 2026 18:05:00 GMT",
       "source": "Le Berry Républicain"
+    },
+    {
+      "title": "Municipales 2026 : étoile montante du PS, le député Philippe Brun candidat à la mairie de Louviers, dans l’Eure - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOaXR5b3I5aHNTamZUN01ZMlVxMm5meXA4Wm9SUlkwZTgwaC1EVFpSRzc4NjFEVnVWNXpmTE1HTkFFYUJra2RickczbHN6RlpESS1XaXkxR0hKNXZxSk4tNFRqaVI3T20xa3ctaHZDMldWcVlQMXZaa0lsbndHR0d2OUctNElOU1VybUsyMGZ1RU5wU3ltaHEtUmtLbDY1MmtKRDAwTVZOWUl5RmQtQXozdGpaemJVLWthLVdnQWozd0FDcVNlVXI1M01mbHBDRFFINzBlb3Q5dDAxQkRnNTJmUkxXUTVmVnVrQ0lqSGlpWjc4bUs5YU5wZXM0cWExNC0ta25KQWRqcEFOVVlMWTFnUTZGY2NlOU92SGNsSzlLRllRZw?oc=5",
+      "snippet": "Municipales 2026 : étoile montante du PS, le député Philippe Brun candidat à la mairie de Louviers, dans l’Eure&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 07 Jan 2026 15:40:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

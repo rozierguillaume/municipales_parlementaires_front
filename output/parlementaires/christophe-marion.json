@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Loir-et-Cher",
     "commune": "Saint-Ouen  ",
+    "position": "Pourrait être sur une liste",
     "filename": "christophe-marion.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "NON",
-    "justification": "Aucun des résultats fournis ne mentionne Christophe MARION comme candidat aux municipales de 2026. Les sources citées concernent soit d'autres personnalités (Didier Dezé, Olivier Prouteau, Christophe Béchu, Christophe Geourjon), soit des annonces liées à des élections antérieures ou des rôles institutionnels pour 2026 (comme le référent UDI).",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne Christophe MARION comme candidat aux municipales de 2026. Les sources citées concernent soit d'autres personnalités (Didier Dezé, Olivier Prouteau, Christophe Béchu, Christophe Geourjon), soit des annonces liées à des élections antérieures ou des rôles institutionnels pour 2026 (comme le référent UDI).\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Christophe Marion comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:11:36.536248Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Christophe Marion comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

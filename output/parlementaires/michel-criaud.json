@@ -8,14 +8,29 @@
     "parti": "SE",
     "departement": "Morbihan",
     "commune": "Muzillac",
+    "position": "Sur une liste",
     "filename": "michel-criaud.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 à Muzillac. Le député Michel Criaud se présente comme tête de liste - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcGc4bHdXMkY5ZENKeHpOT204ZTR2Rm9JcXdmcmhQV2Rpd2J5SWJxaFh0LUh5V29FRDRwR0RuVVNqb2xyX1FWc2xqR0RPLWlPajlvaFhwWmNidm1tU3dEZkVwWWx1bS1zQUFqRU4tbXJESVd3eDRucHJtOVhKTHBJUEI3Smd5dzI1OElKNVJmN1NRYWNTSjROMjBTUzZiVzEyQ1ZBemtuUDZEdXhOWnpnbEZqY0tYWWZEY3hlTlBRX1piTUlTREs4U0V0ZTdlbUhiYjNvc0lHX0M2LWxaazhUYXltOEZVQmQ5anM0Y3Bic1dDZERyNHZUTmZRdlZuS2c?oc=5",
+      "snippet": "Municipales 2026 à Muzillac. Le député Michel Criaud se présente comme tête de liste&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 08 Jan 2026 07:10:02 GMT",
+      "source": "Ouest-France"
+    },
     {
       "title": "Municipales 2026. Nicolas Criaud, candidat de la continuité à Guérande - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdXdNUTVOMTF1RTVNUV9LTmJwcFpGMHZfS1FUSG9SNkh1clE4bGtYUm9XNlhnZnVFWk1zM3JzOUNPSFI2S2Z0M3llRXVIZ3p5ZllnME1oYk1SaFdsOWd6djZZbExOeGhMaGJDTDF6Y0hpT3hISVlRUXJHeDNvVTBfRHRMcnFQMVNQSzNxMlEyYlJ5Rmx6ZVU0UTNuZUtrenRZb0ZyQ1FKdm5OQktSRzZfRjNuaGJlZE9yUU5wSHdlcXNhZms5anlEU1ZpLUZSTFpMcUhCQ1JZWEJSUjRUZ0toMTBCM1pRNWR3eDkw?oc=5",
       "snippet": "Municipales 2026. Nicolas Criaud, candidat de la continuité à Guérande&nbsp;&nbsp;Ouest-France",
       "date": "Sun, 04 Jan 2026 13:41:07 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026 : Pascal Jéhannin se présente pour un deuxième mandat à la mairie de Cournon - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS1BPNzFXYW0tVElsY3pFUVlYVWwyRlIyaWpVMnVxaHNyVzAxVFdOal9NdW52emF1YV9FczJkT0NNWEFmSk14YXdEN3BuZWE5dlNxRGxSQ1B6WXFUb24zcnhJUnF3RGtJNmVmTHBFNnZ6ckVoR3RfRXFkTU50OWREOGpXNnQyRzFPVmNPSmp1ODBWdWFoRDE5NHdDc0dZR1Uwbl9ZQ29vUDg4YVVqQzd3Qkp5VHNldEplX0JkTkF2Uk1UeFUxSU5XSTdSTjd5aHc1ZV92VmZuXzBWTF9hS2VOU0hSTndwZU0xNUJic2xNQ2lGUU1EV2JVNS0yV0hjSmtzaDFWYVhlQQ?oc=5",
+      "snippet": "Municipales 2026 : Pascal Jéhannin se présente pour un deuxième mandat à la mairie de Cournon&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 25 Dec 2025 08:00:00 GMT",
       "source": "Ouest-France"
     },
     {
@@ -50,8 +65,15 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Michel Criaud est mentionné comme maire de Muzillac qui **annonce officiellement sa candidature aux élections municipales de 2026** (Source 4 et Source 5)."
+      {
+        "source_index": 1,
+        "explication": "Source confirme explicitement que Michel Criaud se présente comme tête de liste pour les municipales 2026 à Muzillac."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Michel Criaud est mentionné comme maire de Muzillac qui **annonce officiellement sa candidature aux élections municipales de 2026** (Source 4 et Source 5).\"\n    ]\n}\n```"
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T10:14:05.695692Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source confirme explicitement que Michel Criaud se présente comme tête de liste pour les municipales 2026 à Muzillac.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Mayotte",
     "commune": "nan",
+    "position": "nan",
     "filename": "anchya-bamana.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Résultats des législatives 2024 à Mayotte et à la Réunion : le RN envoie ses deux premiers députés ultramarins à l’Assemblée nationale&nbsp;&nbsp;Libération",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Ouangani 2026 : Lahadji Abdou entre en lice avec un projet de renouveau pour la commune - Mayotte Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMXJjcW5HMWFaZFMxd0M5alpQMEtMVHVKTG43WWNmVXJkXzFaS3E4N2Ryck1pTEVVbjczb2FGOFNtbV9sZFdWWXFLcWVzMmhhVWJqY2cxV3NSWHhyeF9tVnNDNzNmVk9hbFRUMkFBaW9iT0hoUnVUdzd1ZWRmUDBPU2NzakhRZEJLNUpUdWtIODNreXYzaDZOWkd2dlNxYlc0WXU4cHYzazhBaEUxRWVMWTdGZ2dib2dkeFBidFlRZEROMW5oY1FZMjlpUjY?oc=5",
+      "snippet": "Ouangani 2026 : Lahadji Abdou entre en lice avec un projet de renouveau pour la commune&nbsp;&nbsp;Mayotte Hebdo",
+      "date": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "source": "Mayotte Hebdo"
     }
   ],
   "analysis": {

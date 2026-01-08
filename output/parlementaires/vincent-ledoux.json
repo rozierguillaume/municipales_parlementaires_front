@@ -5,9 +5,10 @@
     "nom": "LEDOUX",
     "prenom": "Vincent",
     "full_name": "Vincent LEDOUX",
-    "parti": "nan",
+    "parti": "DVC",
     "departement": "Nord",
-    "commune": "nan",
+    "commune": "Halluin",
+    "position": "Pourrait être tête de liste",
     "filename": "vincent-ledoux.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "La Voix du Nord"
     },
     {
+      "title": "Darmanin renonce à la mairie de Tourcoing… pour mieux soigner ses ambitions nationales - Mediacités",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdHY4VEplVzdQek90RzFMci1lQ0lrd1RuZTVtV1RybGFpbHRWRG5EQ2xhT0JCa2NTal9uR3gxcmREOUZrNDFHNWxNNVZhTENvcXlHekFsckdSVXNWSl9QRjFwY2Vzdzh6VEd5LWlZVEo1R1RKRWZNVDUwOHRlRlU0X016YWJ1N25ueTdNcThzTmhQMm9IbTU4b3dHd1VHckNYLU9qUnpld3dGalNWZUxNQWlNelFvUDM4MG14cXIzVEYxTC1xejJPLUdKYnN0Y0wy?oc=5",
+      "snippet": "Darmanin renonce à la mairie de Tourcoing… pour mieux soigner ses ambitions nationales&nbsp;&nbsp;Mediacités",
+      "date": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "source": "Mediacités"
+    },
+    {
       "title": "Municipales à Périgueux : La France insoumise se positionne - Sud Ouest",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3M4UW1FWjVmdzJpUndYMWxtR0I0SXlwVHQ4WU02amZKbm5LLURvd2NrdUlxaFkyOWRJVjd0czk5elROd0FtdXlZS1lWU191bHdQb09CMk1BUURTdW9pa2NJbWJSQUstSUNiQ3hsa0JEeS1EMEpBSjZQaGh3djhPbFkwSGl0dGZQSU51R0lFTnk2T00tNzUwaWd0MHNBcndWLV9CN08xUi10V1d2SFNTT0dvSnJnam5BMDZEYUhHWVBGbnJodE1BY0R2SGhxNTIx?oc=5",
       "snippet": "Municipales à Périgueux : La France insoumise se positionne&nbsp;&nbsp;Sud Ouest",
@@ -49,7 +57,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Source 3 mentionne explicitement que Vincent Ledoux, ancien maire de Roncq, **sera candidat aux municipales à Halluin en 2026**, ce qui confirme son intention politique pour ces élections.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Source 3 mentionne explicitement que Vincent Ledoux, ancien maire de Roncq, **sera candidat aux municipales à Halluin en 2026**, ce qui confirme son intention politique pour ces élections.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 3,
+        "explication": "Source directe confirmant sa candidature aux municipales de Halluin en 2026"
+      }
+    ],
+    "used_sources": [
+      3
+    ],
+    "analysis_at": "2026-01-08T10:11:19.677229Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [3],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Source directe confirmant sa candidature aux municipales de Halluin en 2026\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "HOR",
     "departement": "Marne",
     "commune": "Reims",
+    "position": "Pourrait être sur une liste",
     "filename": "laure-miller.json"
   },
   "search_results": [
@@ -50,9 +51,13 @@
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
-      "Aucun des résultats fournis ne mentionne explicitement **Laure Miller** comme candidate aux **municipales de 2026**. Bien que son nom apparaisse dans des articles sur ses prises de position (ex. : Marne, croisade contre TikTok), ces sujets relèvent davantage d’une activité politique récente ou institutionnelle (députée) et non d’une déclaration explicite de candidature aux élections municipales futures.",
-      "Seule la source 3 évoque une **appel à construire une coalition** sur des sujets urgents, sans lien direct avec une annonce formelle de candidature municipale pour 2026."
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Laure Miller comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des sujets personnels ou politiques sans lien direct avec une candidature officielle."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        \"Aucun des résultats fournis ne mentionne explicitement **Laure Miller** comme candidate aux **municipales de 2026**. Bien que son nom apparaisse dans des articles sur ses prises de position (ex. : Marne, croisade contre TikTok), ces sujets relèvent davantage d’une activité politique récente ou institutionnelle (députée) et non d’une déclaration explicite de candidature aux élections municipales futures.\",\n        \"Seule la source 3 évoque une **appel à construire une coalition** sur des sujets urgents, sans lien direct avec une annonce formelle de candidature municipale pour 2026.\"\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:11:54.377322Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Laure Miller comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des sujets personnels ou politiques sans lien direct avec une candidature officielle.\"}\n    ]\n}\n```"
   }
 }

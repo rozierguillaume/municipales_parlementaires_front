@@ -8,6 +8,7 @@
     "parti": "DVC",
     "departement": "Guyane",
     "commune": "Kourou",
+    "position": "Pourrait être sur une liste",
     "filename": "davy-rimane.json"
   },
   "search_results": [
@@ -45,11 +46,25 @@
       "snippet": "Législatives anticipées : Tour d'horizon des candidats et enjeux en Outre-mer&nbsp;&nbsp;Outremers360",
       "date": "Mon, 17 Jun 2024 07:00:00 GMT",
       "source": "Outremers360"
+    },
+    {
+      "title": "Législatives 2022 : Présentation des parcours des 17 nouveaux députés d'Outre-mer entrant à l'Assemblée nationale - Outremers360",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaklLNkdsWnFNeGpzNkI0SnFSQzNtVG5uUDZZNHVnVW5sVjlQNHVxQUxycFFScXJTSVd3ZHRxQkR3V25BbXN0UzVpWjZ1N3ZZT1dna2hPQTRWbV93eE9BUzNSZ3B3ZnMtQmdOLTI3MnRnTTRTRGtDNGZFWFlLV1Bad0pycEpLTXBzUjlwX3k0akp3T2wyQmw2QTBwRUhIMnZWNHhCWG56eDF3MlFwYnJDWTNFTi03VVBWQ1RzM2NoR2MwSlhDcTVkci04ODdnVEhxOXdac3cxRGxPSGswX05qY0RLQlFLN2M5S2xlLU5sRQ?oc=5",
+      "snippet": "Législatives 2022 : Présentation des parcours des 17 nouveaux députés d'Outre-mer entrant à l'Assemblée nationale&nbsp;&nbsp;Outremers360",
+      "date": "Mon, 20 Jun 2022 10:41:10 GMT",
+      "source": "Outremers360"
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": "Davy Rimane est mentionné comme **député sortant et candidat aux législatives 2024 en Guyane** (Source 4 : *Outre-mer la 1ère*, 26 juin 2024). Bien que les sources ne mentionnent pas explicitement sa candidature aux municipales 2026, son implication politique récurrente dans l’Outre-Mer et son rôle institutionnel actuel suggère une **continuité de sa visibilité électorale** pour ces élections. Les articles sur ses prises de parole (*mandat qui vous appartient*) renforcent cette hypothèse.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Davy Rimane est mentionné comme **député sortant et candidat aux législatives 2024 en Guyane** (Source 4 : *Outre-mer la 1ère*, 26 juin 2024). Bien que les sources ne mentionnent pas explicitement sa candidature aux municipales 2026, son implication politique récurrente dans l’Outre-Mer et son rôle institutionnel actuel suggère une **continuité de sa visibilité électorale** pour ces élections. Les articles sur ses prises de parole (*mandat qui vous appartient*) renforcent cette hypothèse.\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Davy Rimane comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent principalement les législatives 2024 et des portraits institutionnels sans lien direct avec les élections municipales futures."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:13:33.922116Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Davy Rimane comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent principalement les législatives 2024 et des portraits institutionnels sans lien direct avec les élections municipales futures.\"}\n    ]\n}\n```"
   }
 }

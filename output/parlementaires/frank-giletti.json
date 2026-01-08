@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Var",
     "commune": "Puget-sur-Argens",
+    "position": "Pourrait être sur une liste",
     "filename": "frank-giletti.json"
   },
   "search_results": [
@@ -51,18 +52,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Le Parisien mentionne Frank Giletti comme maire de Brignoles en lien avec le RN pour les Municipales 2026, mais ne précise pas explicitement si lui-même est candidat. Bien que soutenu par le RN, cela ne confirme pas directement sa candidature personnelle."
-      },
-      {
-        "source": "Source 2",
-        "analyse": "Cette source indique qu'il soutient un autre candidat RN condamné pour violence avec arme dans le Var pour les Municipales 2026, sans mentionner explicitement Frank Giletti comme candidat. Cela ne permet pas de conclure directement sur sa propre candidature."
-      },
-      {
-        "source": "Source 5",
-        "analyse": "Le RN investit cinq candidats dans des villes du Var pour les Municipales 2026, mais sans préciser si Frank Giletti fait partie de ces cinq. Aucune mention explicite de sa candidature personnelle."
+        "source_index": null,
+        "explication": "Aucune information directe ne confirme explicitement Frank Giletti comme candidat officiel aux municipales 2026 dans les sources fournies. Bien que des mentions de soutien à d'autres candidats RN ou des préparatifs locaux soient présentes, elles ne concernent pas directement Frank Giletti."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Le Parisien mentionne Frank Giletti comme maire de Brignoles en lien avec le RN pour les Municipales 2026, mais ne précise pas explicitement si lui-même est candidat. Bien que soutenu par le RN, cela ne confirme pas directement sa candidature personnelle.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Cette source indique qu'il soutient un autre candidat RN condamné pour violence avec arme dans le Var pour les Municipales 2026, sans mentionner explicitement Frank Giletti comme candidat. Cela ne permet pas de conclure directement sur sa propre candidature.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"Le RN investit cinq candidats dans des villes du Var pour les Municipales 2026, mais sans préciser si Frank Giletti fait partie de ces cinq. Aucune mention explicite de sa candidature personnelle.\"\n        }\n    ],\n    \"conclusion_globale\": \"Aucun texte des sources ne confirme explicitement que Frank Giletti est candidat aux élections municipales de 2026 en France, mais il semble lié au RN dans le Var. Les informations disponibles sont insuffisantes pour conclure avec certitude.\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:56.613657Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe ne confirme explicitement Frank Giletti comme candidat officiel aux municipales 2026 dans les sources fournies. Bien que des mentions de soutien à d'autres candidats RN ou des préparatifs locaux soient présentes, elles ne concernent pas directement Frank Giletti.\"}\n    ]\n}\n```"
   }
 }

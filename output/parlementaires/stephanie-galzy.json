@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Hérault",
     "commune": "nan",
+    "position": "nan",
     "filename": "stephanie-galzy.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives dans l'Hérault : intérimaire à la Poste, \"Française du peuple\", Stéphanie Galzy élue députée RN de la 5e circonscription&nbsp;&nbsp;France 3 Régions",
       "date": "Mon, 20 Jun 2022 07:00:00 GMT",
       "source": "France 3 Régions"
+    },
+    {
+      "title": "Les vœux originaux de la députée Stéphanie Galzy sous le signe d’un \"Wine January\", à Magalas - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdGYxWUJZdTZ2Rm9Yc3VuZGRLTXJDbUZqSHdQVzNaLWsteHZ3NnktMGRaOXNuM3ZkWVNObG5VMzlMNjZnblZ4eFpGazA3X1RoeFhaZ29laWdoSXgzSktWYjY5MHJ5MnFnR3ZHbVhIaFFKTkVacWhhU196ZlRkQUlJZ2ZBeW5rR0N2T0FCNTZiUkctLXZETWxaTDd1Vjh0ZkpVa0ZNcmtmQkd3RjdxamFxaWhpdlVQaVhBY0lhZWpjRWxZZThJaVBGOE1iUFNvS3hYYXdYRnFn?oc=5",
+      "snippet": "Les vœux originaux de la députée Stéphanie Galzy sous le signe d’un \"Wine January\", à Magalas&nbsp;&nbsp;Midi Libre",
+      "date": "Wed, 07 Jan 2026 16:11:00 GMT",
+      "source": "Midi Libre"
     }
   ],
   "analysis": {

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Somme",
     "commune": "nan",
+    "position": "nan",
     "filename": "matthias-renault.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Condamnation de Marine Le Pen : les réactions politiques en Picardie&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 31 Mar 2025 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Le RN revendique «pourrir» la niche parlementaire de LFI et le texte sur la nationalisation d’ArcelorMittal - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdm9tdmk0bnRiYVVSTnJXMW5UeUt1OGdNOHlsUXlNQVVLYlpiV3diYXpUQ25GTzVMZ2pvN3dBd1ZZaHJKQVZkY0gyeFBIaVcxb2NtTUpqWTZQQWIzTmc0YVBoLXIwZGJ4bEQyaGVrMWpZdmZxbElFUVBhWnZTSlNoYXoyc0NoRHBMSXl3OHczZzR2QXFQTlNrZ0N6WTFWUmdVcjFYLTFDbW1Fc0d1R1VGLURObnRTZktoWWkzVFJDU09BbThzMDBpWmlWZERRRGZUYm9fMkgtLTM3NnpMUHU3b21XNmt2bEVuTDJOeGgyTTFtZ3JQMUNudHBVb09pbUxIMDczSUQ5YlU?oc=5",
+      "snippet": "Le RN revendique «pourrir» la niche parlementaire de LFI et le texte sur la nationalisation d’ArcelorMittal&nbsp;&nbsp;Libération",
+      "date": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "«Si Patrick Cohen est à nouveau à l'antenne, son temps de parole devra être décompté sur celui du PS», ironise un député RN - europe1.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVS1RTC1tTnBMYXQ2Vl9aeU5Td3kxa1lZdVZUZzZsbmQ2T0xKT0Z4ajlBNk45MEFBcDVDOENRMUF6dHdEQUxiSXFVRTlDbXNSTlNjblJyeElvNldjZV9ST25lVV93SzQ4QU1nQVJFMXBNa0xsZzRfZDl5ckZVWVE2QktJM1Q5MXV4SFh3U3JYMml3YUVDVkhtNGZvQnJCSnd2TldvMjM3S3YtMUVsNkpybTNpb2pFSUticlFXeFlEak1HMUpYTXczbkVFaDRoVk9nbGhWMW5RandSNm01aml1VGN5RmxsMDA1SG1FcmtPdw?oc=5",
+      "snippet": "«Si Patrick Cohen est à nouveau à l'antenne, son temps de parole devra être décompté sur celui du PS», ironise un député RN&nbsp;&nbsp;europe1.fr",
+      "date": "Sat, 06 Sep 2025 07:00:00 GMT",
+      "source": "europe1.fr"
     }
   ],
   "analysis": {

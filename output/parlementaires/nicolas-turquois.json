@@ -8,6 +8,7 @@
     "parti": "UDI",
     "departement": "Vienne",
     "commune": "Moncontour",
+    "position": "Pourrait être sur une liste",
     "filename": "nicolas-turquois.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026 : \"Il y a une responsabilité d’union\", de nombreux commentaires après l’annonce du retrait d’Abelin à Châtellerault&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Sat, 06 Dec 2025 08:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Sacha Houlié salue la suspension de la réforme des retraites et n’exclut pas une candidature à la mairie de Poitiers - ICI - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMkd3UVg1YmhycmVoODJna1VXb0lTV1oxS0ZXX3ZzTjQ4c091UUxxLU1hQ1k4dHF3Qzl0M184UUczazNYVVg4NUNFZ093bWR6X0VvLXVWVVJkUWlvYTc2U2FXaGlicDBFSE90TGQ5VnIyZjg0enRDTWNjWlloS2ktVVZIdU96YlpfRWQ3V3ZqbUhORy05UTljNlhMU3kzcGU2X0NvaVNOV2Z4SVhrN09RNG1ENXNleHFPcUFfU2NQMndZXzFKWmpQMzJ2dVhnN2JnT0xSbnJiVVJzRmVqSmxQc01MYVFNd1ltY3JSRTE1UVlIUU1EY3B1dmg3ZkphSE5BaHZwU1Nn?oc=5",
+      "snippet": "Sacha Houlié salue la suspension de la réforme des retraites et n’exclut pas une candidature à la mairie de Poitiers - ICI&nbsp;&nbsp;francebleu.fr",
+      "date": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
     },
     {
       "title": "\"L’été n’est pas terminé…\" : le maire de Châtellerault fait durer le suspense sur sa position pour les municipales 2026 - lanouvellerepublique.fr",
@@ -51,18 +59,14 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Aucune mention explicite de Nicolas Turquois comme candidat aux municipales 2026. Les articles traitent principalement du retrait d’Abelin et des réactions autour, sans confirmation directe de sa candidature."
-      },
-      {
-        "source": "Source 3",
-        "analyse": "Le snippet évoque une réponse de Jean-Pierre Abelin au député Nicolas Turquois concernant les municipales 2026 à Châtellerault, mais ne précise pas si Turquois lui-même se présente. Aucune confirmation explicite."
-      },
-      {
-        "source": "Sources 2 et 4",
-        "analyse": "Ces articles portent sur la position suspicieuse ou hésitante de Jean-Pierre Abelin concernant les municipales 2026, sans lien direct avec Nicolas Turquois. Aucune indication sur sa candidature."
+        "source_index": 4,
+        "explication": "Source mentionne une interaction avec Nicolas Turquois dans le contexte des municipales 2026, mais ne confirme pas sa candidature directe."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Aucune mention explicite de Nicolas Turquois comme candidat aux municipales 2026. Les articles traitent principalement du retrait d’Abelin et des réactions autour, sans confirmation directe de sa candidature.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Le snippet évoque une réponse de Jean-Pierre Abelin au député Nicolas Turquois concernant les municipales 2026 à Châtellerault, mais ne précise pas si Turquois lui-même se présente. Aucune confirmation explicite.\"\n        },\n        {\n            \"source\": \"Sources 2 et 4\",\n            \"analyse\": \"Ces articles portent sur la position suspicieuse ou hésitante de Jean-Pierre Abelin concernant les municipales 2026, sans lien direct avec Nicolas Turquois. Aucune indication sur sa candidature.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:18:25.070671Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Source mentionne une interaction avec Nicolas Turquois dans le contexte des municipales 2026, mais ne confirme pas sa candidature directe.\"}\n    ]\n}\n```"
   }
 }

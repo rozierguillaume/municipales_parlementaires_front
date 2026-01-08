@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Haute-Garonne",
     "commune": "Toulouse",
+    "position": "Tête de liste ",
     "filename": "francois-piquemal.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026 à Toulouse. Comment la campagne de François Briançon va s'accélérer dans les quartiers&nbsp;&nbsp;Actu.fr",
       "date": "Tue, 06 Jan 2026 15:59:36 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2026 à Toulouse. \"C’est la fin d’un cycle\" : François Briançon (PS) défie Jean-Luc Moudenc - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ0JDVVg4aGFRYzBIOW95elhndW9kNTc2MnF1Q0ZmaEU4YXg3ZVdSUllSd2diWHdUYlNXVTJJeG1JWXY2eE5mc04xYU5MRW1qYlh3ZFIwRDNvbmxnYXJMTDM5ZV82OXRHOXhvNXdxMDE4eW9YSlA5T0lwQW1ad1NzclFmV3RLR1FKNEV5SmxSMUVsbkhnQk10VVJJcDEtNmFzb2ZpeUx5S0Nibkgta21ZQWtILTJYdzNHRkt5UnRyaWNSWlVGbnA2QUY1d2RRTW9XQmpQdzJKdWRxUQ?oc=5",
+      "snippet": "Municipales 2026 à Toulouse. \"C’est la fin d’un cycle\" : François Briançon (PS) défie Jean-Luc Moudenc&nbsp;&nbsp;ladepeche.fr",
+      "date": "Tue, 06 Jan 2026 14:08:00 GMT",
+      "source": "ladepeche.fr"
     },
     {
       "title": "Municipales 2026 à Toulouse : galette des rois de Moudenc, liste Piquemal et petites phrases… nos confidentiels de campagne - ladepeche.fr",
@@ -45,11 +53,37 @@
       "snippet": "Municipales 2026 à Toulouse : François Piquemal adresse ses vœux et déroule sa vision pour la ville&nbsp;&nbsp;ladepeche.fr",
       "date": "Fri, 02 Jan 2026 15:49:00 GMT",
       "source": "ladepeche.fr"
+    },
+    {
+      "title": "INFO ACTU TOULOUSE. Municipales 2026 : Jean-Luc Mélenchon vient au soutien de François Piquemal - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSUpFSlRuT19vWEFRUGVNWlNYbjFTQ0pMb19oX0dsa284TmRkMUJSZlF1MXdVVWl2NXNISGFmaXNtQ0NDZTlXLVZMUlZkTWRMaVBhcHViZUFDTjFKMTYzTU5ydF9pOGdfdkVKb0UyUlJjUzU2TEFCMjJtZXZncHE4UDZua3J3clhGQ1RfQjh5aV9rV0JCLTFrbFdoSzFkd0k5azFOVXpoSHFxbzlDNUtwUU5JekFSSkRtUUJ6c3B5ck9DcmJqUlMzNFVqYTRoRU1vMThlMjNwaXVIS0JsMHdwdQ?oc=5",
+      "snippet": "INFO ACTU TOULOUSE. Municipales 2026 : Jean-Luc Mélenchon vient au soutien de François Piquemal&nbsp;&nbsp;Actu.fr",
+      "date": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Les sources mentionnent explicitement des **Municipales 2026** à Toulouse (Sources 1, 2, 3, 4 et 5) avec une campagne active de François Piquemal.\n        - Source 3 : *« Municipales 2026 : François Piquemal présente ses vœux »*.\n        - Source 4 : *« Municipales 2026 : Toulouse a le cœur à gauche… pour François Piquemal »*.\n        - Les titres et snippets sont directement liés aux élections municipales de cette année.\"\n    ]\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Les sources mentionnent explicitement des **Municipales 2026** à Toulouse (Sources 1, 2, 3, 4 et 5) avec une campagne active de François Piquemal.\n        - Source 3 : *« Municipales 2026 : François Piquemal présente ses vœux »*.\n        - Source 4 : *« Municipales 2026 : Toulouse a le cœur à gauche… pour François Piquemal »*.\n        - Les titres et snippets sont directement liés aux élections municipales de cette année.\"\n    ]\n}\n```"
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Mention explicite de François Piquemal dans un contexte de campagne municipale pour Toulouse en 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Présentation officielle des vœux et défense d'une vision pour les municipales 2026 à Toulouse."
+      },
+      {
+        "source_index": 5,
+        "explication": "Déclaration explicite sur sa candidature aux municipales 2026 avec un ton de campagne active."
+      }
+    ],
+    "used_sources": [
+      1,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:16:49.611511Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite de François Piquemal dans un contexte de campagne municipale pour Toulouse en 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Présentation officielle des vœux et défense d'une vision pour les municipales 2026 à Toulouse.\"},\n        {\"source_index\": 5, \"explication\": \"Déclaration explicite sur sa candidature aux municipales 2026 avec un ton de campagne active.\"}\n    ]\n}\n```"
   }
 }

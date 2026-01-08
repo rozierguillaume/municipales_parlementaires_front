@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Loire-Atlantique",
     "commune": "nan",
+    "position": "nan",
     "filename": "sophie-errante.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Sophie Errante, députée du Vignoble nantais, annonce sa candidature à la mairie de Nantes&nbsp;&nbsp;Actu.fr",
       "date": "Wed, 29 May 2019 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Résultats élections municipales Boussay [44190] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXRWUDZBVk1rT0M1YmRjN2VWeWI3UmZMd2Jjay05R2I3a0JRUjJXMTZFbDRLSHk4ZUM3VkYxaHpGLUU5eEdJcFNLRWxhMF9BcHhUWjdTS1pVM2tzcGJTSzZEaldlb0prcmE0RXJfMzFSUFByaFNKU2pVQjY5c29ZajRnNUpQQQ?oc=5",
+      "snippet": "Résultats élections municipales Boussay [44190] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

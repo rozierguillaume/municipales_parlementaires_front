@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Charente-Maritime",
     "commune": "Villars-les-Bois",
+    "position": "Pourrait être tête de liste",
     "filename": "fabrice-barusseau.json"
   },
   "search_results": [
@@ -48,8 +49,17 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Fabrice Barusseau comme candidat aux **élections municipales de 2026**. Les articles disponibles concernent :\n    - Son rôle politique local (Source 3 : déclaration en septembre 2025 sur sa position à gauche),\n    - Des dynamiques internes des listes à gauche pour les élections de **2025** à Saintes,\n    - Aucune mention directe de sa candidature formelle ou de son intention pour 2026.\n    Les sources ne permettent pas d'inférer une déclaration explicite sur 2026.\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Fabrice Barusseau comme candidat aux **élections municipales de 2026**. Les articles disponibles concernent :\n    - Son rôle politique local (Source 3 : déclaration en septembre 2025 sur sa position à gauche),\n    - Des dynamiques internes des listes à gauche pour les élections de **2025** à Saintes,\n    - Aucune mention directe de sa candidature formelle ou de son intention pour 2026.\n    Les sources ne permettent pas d'inférer une déclaration explicite sur 2026.\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": 3,
+        "explication": "Mentionne Fabrice Barusseau comme député PS local à Saintes sans lien direct avec une candidature aux municipales de 2026."
+      }
+    ],
+    "used_sources": [
+      3
+    ],
+    "analysis_at": "2026-01-08T10:18:48.154776Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [3],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Mentionne Fabrice Barusseau comme député PS local à Saintes sans lien direct avec une candidature aux municipales de 2026.\"}\n    ]\n}\n```"
   }
 }

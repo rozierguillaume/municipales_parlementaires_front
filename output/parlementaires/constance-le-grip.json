@@ -8,9 +8,17 @@
     "parti": "DVC",
     "departement": "Hauts-de-Seine",
     "commune": "Neuilly-sur-Seine",
+    "position": "Pourrait être sur une liste",
     "filename": "constance-le-grip.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 à Neuilly : pour la première fois, il n’y aura pas de liste LR dans l’ancien fief de Sarkozy - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNckl2YnVUejNNZk90QzNhVjROMFVBOXI4RHJlVVUxR0JSS0JUT3JrRUpKaXlpZzdONUpfeWdjekVvenBOUHVtSENjRVBrS3ZHVlY2SWUwaW5jMmhJblB4NG5xaXBPUW92aGxJUDlSOGtfLTJ2SGVMeGZDdng5ZV9sM0hWRUh1NFZnVkVUaTFONkh1ZzVidk1JUDJoUjNBMlByQXE5anBvUnNOdUdNVE9MS2w1QWJJdEN6T2pUMWNpQ2Y5ZnBGVWNkd29ocDFVX2pRU2F3WlE0NEVnYXpoZzVVd1VEWGxGcW9qTG03REk2enJaMGhvay0zenJleEh6c0JFSDVzX3BrSTdndHZGaGktaHFjZ3prQzQ?oc=5",
+      "snippet": "Municipales 2026 à Neuilly : pour la première fois, il n’y aura pas de liste LR dans l’ancien fief de Sarkozy&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 07 Jan 2026 18:20:00 GMT",
+      "source": "Le Parisien"
+    },
     {
       "title": "Le moral des maires à 6 mois des législatives - Radio France",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejRySks0dVpFd28tb3pBMnFGY0IwckRiVW1ibGFEbWhaakVLcHFXODdGaDJwSDBiakJQUzdTc2pzMmlYS1lZWWxPZzdDUjJReXpmZ0RJaUdkcThjOUhJUUdVbUx4eU10dTYtU2J6RWhoTVhrbWVIQm5TdjVOajJNUVlReG5uUVVDZTZPcXk1NkxXY0dVT3FHakZpSXhIZTdRVXF1RjZPTHJBY0J5NzhYUHRuekZFOGMyTW9xZw?oc=5",
@@ -33,6 +41,13 @@
       "source": "Le Parisien"
     },
     {
+      "title": "Législatives dans les Hauts-de-Seine: un accord entre LR et Renaissance pour des candidats communs, dont Gabriel Attal - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUEVqWUZtSUl6V2k3a0JFNjUteDdvWlUyRE5BTlZ6VURkdTZfSkJYUUY1NzAzbVpWcWE4ZjExamx2UkJpelVzSERWTUJscGk1M0pxVVBlc1FBWWh4LUhVVWtCVlJGV3FtbWhsRnl0R3hqbTB6WGJuOEFLZ1FtWl9zeWJuZkItQjd2NWExTWhYd1BJRFZ4eE9UQ0lOQUJzODlBeTR5MVJCNDBtMm9LQ2ZoOGw2WkdTdE5OV2FWT2VCc1dUTXJ0bWZxSm4yVXZQYnZJNXZjblB3VndNWG94aDZWZE5KVkd2TUFrM1laSmlOV0d5eXhHODVTbg?oc=5",
+      "snippet": "Législatives dans les Hauts-de-Seine: un accord entre LR et Renaissance pour des candidats communs, dont Gabriel Attal&nbsp;&nbsp;BFM",
+      "date": "Fri, 14 Jun 2024 07:00:00 GMT",
+      "source": "BFM"
+    },
+    {
       "title": "Législatives : une dissidente LREM face à la candidate investie par le parti dans les Hauts-de-Seine - Actu.fr",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeUZJRDFfUFJWdDFtMFAwbHNrcUhFdmVBMFdld1J6Q3JQZEVIa3lUTGlYcG8zMEloYkxjSjlpeEZ0V1YtcnljSURKMFZHRDl5bGlybDF6NjRwcVVpLVR6dFV6Zl94d1RsWG93TUpqZlRyUGxPTDNueVBLR2NBNXRDRTZCVXl2U1ZGUW9nS2dxUlBwNE5VakVJUnpBLWFnVzJsd19VVzFYd3Q5RXBpcW1BUUM3STlGUHVPcXl6YnBkSllMdXo5N0k3VXhTQm52T2J6VmhTUGljajBNTzRpWUNnTGZjUEtuUC1Vd0NEVHhQMmlzajdTbVc5Rw?oc=5",
       "snippet": "Législatives : une dissidente LREM face à la candidate investie par le parti dans les Hauts-de-Seine&nbsp;&nbsp;Actu.fr",
@@ -48,11 +63,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
-      "Aucun des résultats fournis ne mentionne explicitement Constance LE GRIP comme candidate aux **Municipales de 2026**. Les sources concernent soit le moral des maires (Source 1), soit des campagnes ou annonces d'autres candidats (Sources 3 et 5, qui parlent de 2026 mais pour d'autres figures politiques).",
-      "Les articles récents (2025) ne mentionnent pas Constance LE GRIP du tout dans le contexte des Municipales."
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Constance Le Grip comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent soit des dynamiques locales (LR à Neuilly ou Courbevoie), soit des accords politiques sans lien direct avec elle."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        \"Aucun des résultats fournis ne mentionne explicitement Constance LE GRIP comme candidate aux **Municipales de 2026**. Les sources concernent soit le moral des maires (Source 1), soit des campagnes ou annonces d'autres candidats (Sources 3 et 5, qui parlent de 2026 mais pour d'autres figures politiques).\",\n        \"Les articles récents (2025) ne mentionnent pas Constance LE GRIP du tout dans le contexte des Municipales.\"\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:11:10.024304Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Constance Le Grip comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent soit des dynamiques locales (LR à Neuilly ou Courbevoie), soit des accords politiques sans lien direct avec elle.\"}\n    ]\n}\n```"
   }
 }

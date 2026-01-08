@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Drôme",
     "commune": "Valence",
+    "position": "Tête de liste",
     "filename": "paul-christophle.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026 . Le candidat Paul Christophle soutenu par la députée Clémentine Autain&nbsp;&nbsp;Le Dauphiné Libéré",
       "date": "Fri, 12 Dec 2025 08:00:00 GMT",
       "source": "Le Dauphiné Libéré"
+    },
+    {
+      "title": "Municipales 2026 : Paul Christophle, candidat à Valence en replay - Dimanche en politique - Rhône-Alpes - France TV",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTlV5a3BaaHp0a25JYTJJbkFTVEYxU1BBUm5vTFBtWjJUVm5lUnF5M2JiZUs2ZU5CdVBYTExXRkdpemI0VTl5c0lxXzdDcE42NW8yT2lCZjAtcnZmZ21Sb2JzVGlkZ2xNTmNrd09hd0hsc2IyZkZXZkFxV1dzamNVM05YWUU2Mm0xTWxKamoxV184MHJYV0dZdWtSNC16aE9GNlo1MkQ3M2NjWGpUMVV2VDJ1cWU0cTVuTDlic01obFZvdDhESFY1ZHo5NDg5ZWl2YVhtc204cUduSXRkWFFsN1FRZFMzQQ?oc=5",
+      "snippet": "Municipales 2026 : Paul Christophle, candidat à Valence en replay - Dimanche en politique - Rhône-Alpes&nbsp;&nbsp;France TV",
+      "date": "Sun, 26 Oct 2025 10:40:07 GMT",
+      "source": "France TV"
     },
     {
       "title": "Municipales 2026. LFI demande la démission du député socialiste Paul Christophle, candidat à Valence - Le Dauphiné Libéré",
@@ -50,9 +58,35 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Plusieurs sources (Sources 1, 3, 4, 5) confirment explicitement sa candidature aux **municipales de Valence en 2026** : il est désigné tête de liste ou candidat officiel dans un collectif de gauche pour cette élection.",
-      "Source 2 mentionne également son statut de 'candidat à Valence' pour les municipales 2026, avec une demande de démission liée à ce projet."
+      {
+        "source_index": 1,
+        "explication": "Mention explicite de Paul Christophle comme candidat aux municipales 2026 soutenu par Clémentine Autain."
+      },
+      {
+        "source_index": 2,
+        "explication": "Interview confirmant sa candidature à Valence pour les municipales 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "LFI mentionne explicitement son rôle de candidat aux municipales 2026 à Valence."
+      },
+      {
+        "source_index": 4,
+        "explication": "Déclaration explicite de sa candidature socialiste pour les municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Nommé tête de liste d'une coalition pour les municipales 2026 à Valence."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Plusieurs sources (Sources 1, 3, 4, 5) confirment explicitement sa candidature aux **municipales de Valence en 2026** : il est désigné tête de liste ou candidat officiel dans un collectif de gauche pour cette élection.\",\n        \"Source 2 mentionne également son statut de 'candidat à Valence' pour les municipales 2026, avec une demande de démission liée à ce projet.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:20:50.229082Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite de Paul Christophle comme candidat aux municipales 2026 soutenu par Clémentine Autain.\"},\n        {\"source_index\": 2, \"explication\": \"Interview confirmant sa candidature à Valence pour les municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"LFI mentionne explicitement son rôle de candidat aux municipales 2026 à Valence.\"},\n        {\"source_index\": 4, \"explication\": \"Déclaration explicite de sa candidature socialiste pour les municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Nommé tête de liste d'une coalition pour les municipales 2026 à Valence.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Nord",
     "commune": "nan",
+    "position": "nan",
     "filename": "paul-christophe.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 à Bollezeele : le premier adjoint se présente aux élections pour succéder à Pierre Marle&nbsp;&nbsp;Nord Littoral",
       "date": "Fri, 19 Dec 2025 08:00:00 GMT",
       "source": "Nord Littoral"
+    },
+    {
+      "title": "Municipales 2026 dans le Dunkerquois et les Hauts-de-Flandre : qui est candidat dans votre commune - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0NQaFR5YmxtVFBWcUJyaFZ0VV9YejBWY29pYTlsSkIxSjZ5b3VJaHduTng3TUNJLUd3b1dLdFlsM1prZi1rcWUtWnZWUm12MmRiZE84VjdVTXdKUnZvQlB0akZ5b0lFWkxJOUllVEdOVkE3bURJZGtiblQtNW4zYjdPMDBmZG1SWkZJcXZjYy0teFFBbmJhS1pKTXRfbHo0WTdwN21XaHYwSWxDdVhQVGhGeUx3RlpNNUtfY2phZ2RaSW5ncmR3dThuN1g?oc=5",
+      "snippet": "Municipales 2026 dans le Dunkerquois et les Hauts-de-Flandre : qui est candidat dans votre commune&nbsp;&nbsp;La Voix du Nord",
+      "date": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "source": "La Voix du Nord"
     }
   ],
   "analysis": {

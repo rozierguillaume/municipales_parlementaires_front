@@ -5,10 +5,10 @@
     "nom": "ALBERTINI",
     "prenom": "Xavier",
     "full_name": "Xavier ALBERTINI",
-    "parti": "nan",
+    "parti": "HOR",
     "departement": "Marne",
-    "commune": "nan",
-    "position": "nan",
+    "commune": "Reims",
+    "position": "Pourrait être sur une liste",
     "filename": "xavier-albertini.json"
   },
   "search_results": [
@@ -52,22 +52,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 – L'Union (Nov. 2025): Soutien d’Edouard Philippe à un maire de Reims pour un troisième mandat, sans mention explicite de Xavier Albertini.",
-        "analyse": "Pas de lien direct avec Xavier Albertini."
-      },
-      {
-        "source": "Source 2 – L'Union (Juin 2025): Opinion du député Albertini sur la campagne municipale d’Arnaud Robinet à Reims, sans annonce formelle de candidature personnelle.",
-        "analyse": "Contexte politique local mais pas de confirmation explicite de sa propre candidature."
-      },
-      {
-        "source": "Sources 3–4 (Juillet 2024): Réélection législative dans la 1re circonscription de Reims – Xavier Albertini est réélu, mais rien sur ses intentions pour les municipales 2026.",
-        "analyse": "Contexte électoral passé sans indication sur une éventuelle candidature municipale."
-      },
-      {
-        "source": "Source 5 (Juillet 2024): Candidat d’extrême droite devant Albertini dans la circonscription, mais pas de mention explicite de sa propre candidature municipale.",
-        "analyse": "Contexte concurrentiel sans confirmation directe de son engagement pour Reims en 2026."
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature aux municipales 2026 pour Xavier Albertini dans les sources fournies. Les résultats des élections législatives (2024) et les soutiens politiques mentionnés concernent des mandats antérieurs ou contextuels sans lien explicite avec les élections municipales futures."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 – L'Union (Nov. 2025): Soutien d’Edouard Philippe à un maire de Reims pour un troisième mandat, sans mention explicite de Xavier Albertini.\",\n            \"analyse\": \"Pas de lien direct avec Xavier Albertini.\"\n        },\n        {\n            \"source\": \"Source 2 – L'Union (Juin 2025): Opinion du député Albertini sur la campagne municipale d’Arnaud Robinet à Reims, sans annonce formelle de candidature personnelle.\",\n            \"analyse\": \"Contexte politique local mais pas de confirmation explicite de sa propre candidature.\"\n        },\n        {\n            \"source\": \"Sources 3–4 (Juillet 2024): Réélection législative dans la 1re circonscription de Reims – Xavier Albertini est réélu, mais rien sur ses intentions pour les municipales 2026.\",\n            \"analyse\": \"Contexte électoral passé sans indication sur une éventuelle candidature municipale.\"\n        },\n        {\n            \"source\": \"Source 5 (Juillet 2024): Candidat d’extrême droite devant Albertini dans la circonscription, mais pas de mention explicite de sa propre candidature municipale.\",\n            \"analyse\": \"Contexte concurrentiel sans confirmation directe de son engagement pour Reims en 2026.\"\n        }\n    ],\n    \"conclusion\": \"Aucune information claire et récente (post-juillet 2024) ne confirme ou exclut sa candidature aux municipales de Reims en 2026. Les sources disponibles concernent soit des élections législatives antérieures, soit des dynamiques locales sans lien direct avec lui.\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:13:41.928320Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales 2026 pour Xavier Albertini dans les sources fournies. Les résultats des élections législatives (2024) et les soutiens politiques mentionnés concernent des mandats antérieurs ou contextuels sans lien explicite avec les élections municipales futures.\"}\n    ]\n}\n```"
   }
 }

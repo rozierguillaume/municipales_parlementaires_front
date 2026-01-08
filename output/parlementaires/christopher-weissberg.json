@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Français établis hors de France",
     "commune": "nan",
+    "position": "nan",
     "filename": "christopher-weissberg.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Candidat, le maire sortant d'Entrains-sur-Nohain ne sera pas réélu&nbsp;&nbsp;Le Journal du Centre",
       "date": "Sat, 27 Jun 2020 07:00:00 GMT",
       "source": "Le Journal du Centre"
+    },
+    {
+      "title": "Le rapport cinglant sur le contrôle de l’école privée qui risque de mettre le feu aux poudres - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOenNGVXQxWmNZb0NwdWpGZXZfcGZmMmhjbzVHTVRMUjhhN2hDZi16bDhiZGxZNXp6dnJ4Y0pCc01zZk9JS1c5Y3VoeHpLaFl6akxwak9BWk1oMGNiUi1EOHRQemZaTUhrZnBkLV96aF9Oa2ZlakhUUzJaSFltU0VpTmY0YVh2WEpYV1ZxX3NnYnVoVGdTMGhUSXBjdklKVXdjOHFZQ1hrUkFhV2xHUC1GMjhaLURVUmR3YjZLWG1aQXhucGwyZ211bVZ4cW5BbkNJUktJaFhudG9hQ3NjLXBqWWpURzB0aW9GUnN4NzNQcnhLT3VSbVFCcjF4U2xzQ3M?oc=5",
+      "snippet": "Le rapport cinglant sur le contrôle de l’école privée qui risque de mettre le feu aux poudres&nbsp;&nbsp;Le Parisien",
+      "date": "Sun, 31 Mar 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

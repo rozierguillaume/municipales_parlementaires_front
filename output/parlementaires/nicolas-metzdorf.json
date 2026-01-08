@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Nouvelle-Calédonie",
     "commune": "nan",
+    "position": "nan",
     "filename": "nicolas-metzdorf.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 : Antilles, Guyane, Polynésie, Nouvelle-Calédonie... découvrez les résultats en Outre-mer&nbsp;&nbsp;Le Figaro",
       "date": "Sun, 30 Jun 2024 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Nouvelle-Calédonie : les indépendantistes sous le choc après le transfert de militants en métropole - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPalowVHdkN0thZlA1UFp2X3h1d3lNRnoyamJsZ2xrdUtYV0tUNGl0aC03Z0VDdUZQUWpEVDQzczlIWm5YMEtzSzdiNmpONmNhZFlGN3pYWkZzR043TFY3dGd5LUlJUjVpemRSZzBoa1dpdEFLdW1vZkhzU21DWWtXeFl1LUtlMEN3V1o3OHBqUnQ3OE56QU9xVVFqOUZhVnZ6SUwtZVJIUmZzR2swQUk4bHdMM2x0RDRfOFcwTnQwRFM2Zk5vcURobU43Sms5SFBw?oc=5",
+      "snippet": "Nouvelle-Calédonie : les indépendantistes sous le choc après le transfert de militants en métropole&nbsp;&nbsp;Actu.fr",
+      "date": "Sun, 23 Jun 2024 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

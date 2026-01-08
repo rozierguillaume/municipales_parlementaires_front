@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Val-de-Marne",
     "commune": "Villeneuve-Saint-Georges",
+    "position": "Pourrait être tête de liste",
     "filename": "louis-boyard.json"
   },
   "search_results": [
@@ -40,6 +41,13 @@
       "source": "BFM"
     },
     {
+      "title": "Val-de-Marne : LFI fait profil bas après l’échec de Louis Boyard aux municipales, le reste de la gauche en profite - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQUFpaRFNlYjZXYlFCVmotYzJwbHFmSXhwbnhUQnpVYlNGNHJ1UmdIYWU2eVNZUmxQdVFWNWFGT1FwNkpIanZ2czB1OXlnS0RJd1Ftd1luR2thREk5Z0ZlOVRUNEdfTHR2NHZhVnB3blc3cTJCRzhuQ3pVVGJIZzZjTHowLW13WUVtNFA0VVVaTkw4RUVJTzRmUnVEb3M0S3ZYQy10SHhUTUZEVE9JUEpFb2U2bHdnMHBKUFdTMXdPTkFJSW1PaXZ1T3haYnhuaklsZjUxT21lLVp2X0FGUHRqZ3hsdUFLbWxLZTBXdHRSVHk0a3JfcUdvNWpWMjRVNnRWck55S1JlXzM1SU1Yb21JMEhPdnRTQ1I1OWtHZTAtd1BfUGViSTNJ?oc=5",
+      "snippet": "Val-de-Marne : LFI fait profil bas après l’échec de Louis Boyard aux municipales, le reste de la gauche en profite&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 09 Jun 2025 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
       "title": "Louis Boyard, un élu « insoumis » désavoué par son propre camp au conseil municipal de Villeneuve-Saint-Georges - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ3R4T2pQVWdqQUJCc3haazNieTVBVVdMSC1adEhaa3Q1WldtZkkzYThjVGpqM2VHdzdxLURXem9XTnlDVlNpS1lnU3hBendUN056Q01WaGxVeGd4Qm1KMDg0dTF6UDV1NEEzLWJwMjBIY1RFQU5JWG50dERiN2g4NDJjXzlFNUhla2dFQVRwWllLUkE5R25mZjZWVXNwYTNfZktSSlpHZlVQSno3VHliLTRqX292TnVDV0k1S0hWdG05Z3BPWVJ5RlZ2Y2JadkZYa0pnUzcwdTZqUVRuNUREd20wSm5ndHlEenFTbF9JTE4xRURoMHp5cS1R?oc=5",
       "snippet": "Louis Boyard, un élu « insoumis » désavoué par son propre camp au conseil municipal de Villeneuve-Saint-Georges&nbsp;&nbsp;Le Monde.fr",
@@ -48,21 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Seule une mention de soutien à LFI pour les municipales 2026 (pas de confirmation directe de candidature)."
-      },
-      {
-        "source": "Source 4",
-        "analyse": "Référence à un échec aux municipales **passées** (2020) et non aux élections de 2026. Pas d'indice sur une nouvelle candidature."
-      },
-      {
-        "source": "Sources 3, 5",
-        "analyse": "Aucune mention explicite des municipales 2026 pour Louis Boyard."
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature officielle aux municipales 2026 pour Louis Boyard dans les sources fournies. Les articles évoquent des soutiens ou des retours en campagne post-2020 sans confirmation de participation active à 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Seule une mention de soutien à LFI pour les municipales 2026 (pas de confirmation directe de candidature).\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Référence à un échec aux municipales **passées** (2020) et non aux élections de 2026. Pas d'indice sur une nouvelle candidature.\"\n        },\n        {\n            \"source\": \"Sources 3, 5\",\n            \"analyse\": \"Aucune mention explicite des municipales 2026 pour Louis Boyard.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:15:27.627560Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature officielle aux municipales 2026 pour Louis Boyard dans les sources fournies. Les articles évoquent des soutiens ou des retours en campagne post-2020 sans confirmation de participation active à 2026.\"}\n    ]\n}\n```"
   }
 }

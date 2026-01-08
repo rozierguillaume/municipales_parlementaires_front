@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Yonne",
     "commune": "Flogny-la-Chapelle",
+    "position": "Pourrait être sur une liste",
     "filename": "sophie-laurence-roy.json"
   },
   "search_results": [
@@ -45,11 +46,25 @@
       "snippet": "\"On compte sur vous\" : du RN à la gauche en passant par Renaissance, les partis comptent leurs forces avant un dimanche très politique&nbsp;&nbsp;Franceinfo",
       "date": "Fri, 04 Apr 2025 07:00:00 GMT",
       "source": "Franceinfo"
+    },
+    {
+      "title": "Le grand chelem, objectif à atteindre dans l’Yonne ? Les candidats du RN se dévoilent sur fond d’alliance... - PRESSE EVASION",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQeW1mUkZiQWktTWVsNlJXazRLWGkwN0theFVDRDgxREZpQ1NqU3pzLWpOMHZxZTNDWjVzblBYX0t2dlFiM0pfdkZWZXE1WC1pU1pnZzYteXFROGxSWWd0ODN3X1dlMjJTNWh3UUJWSVVBSnFDSldOLUNhR0h3ZVFQUEVoZGNDUjVLVFhybkZEcmJYSFg2VGg1SmJoRDdacktiVW1GWnZBazNsQ1ViWmdCTWZEcGZYNDdTeTdONm5ISmRvejAyT1hKb0o3SUhMR3dRenAweTl3bUFoNXFDdERKVzY1VDBsU3RlX2VONkxXSWZvNVN5MF9ZR1FlZ3ZjckpnVHc5QU5sc0FReWVHVnpV0gGUAkFVX3lxTE0yMGdqY1B3T0ZkWDh4dGRSU3E2a2FuWHJHMFJtMzkyU0tNdjd1ejNJNlpoSlE5THhXRXZXSnc5bkk2TGM4X2RNR2F0dXdwZWtqczRRdlU4UTBUNHVDZjItTTdacExQVDlyTHJQcVFuODh6QzROWWhKM1BYc3EzaXdUQkVoVHVJUl9PYUFwZFdaYUIyNGRjLUFheXRab2lJSGUxUU55bjB0T2VfNk51NWFKYnJrc2dfd3FvSWJFYjZkSmlQbFZuRlVmdEloYXZNb0xWY1pZdEw1d3FFM3ZpeGtEa2h4ZzYwU1dsOVNQSXJnRkVCUGRBN202V2J4VHFpMzFYWEdSM0Q1X1Q5MGRXM0NDRWt6cQ?oc=5",
+      "snippet": "Le grand chelem, objectif à atteindre dans l’Yonne ? Les candidats du RN se dévoilent sur fond d’alliance...&nbsp;&nbsp;PRESSE EVASION",
+      "date": "Mon, 17 Jun 2024 07:00:00 GMT",
+      "source": "PRESSE EVASION"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Sophie-Laurence ROY comme candidate officielle pour les municipales de **2026**. Les sources évoquent uniquement le RN (Rassemblement National) en tant que force politique structurant des listes dans l'Yonne, sans préciser si elle est une figure centrale ou secondaire. Aucune mention directe de sa candidature personnelle n'est détectée.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Sophie-Laurence ROY comme candidate officielle pour les municipales de **2026**. Les sources évoquent uniquement le RN (Rassemblement National) en tant que force politique structurant des listes dans l'Yonne, sans préciser si elle est une figure centrale ou secondaire. Aucune mention directe de sa candidature personnelle n'est détectée.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Sophie-Laurence ROY comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent principalement le RN et ses stratégies régionales sans nommer Sophie-Laurence ROY."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:24:40.242587Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Sophie-Laurence ROY comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent principalement le RN et ses stratégies régionales sans nommer Sophie-Laurence ROY.\"}\n    ]\n}\n```"
   }
 }

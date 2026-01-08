@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Ain",
     "commune": "Saint-Genis-Pouilly",
+    "position": "Pourrait être tête de liste",
     "filename": "olga-givernet.json"
   },
   "search_results": [
@@ -51,14 +52,14 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 4 (Le Dauphiné Libéré - 27 mai 2025)",
-        "texte_analyse": "L'article mentionne explicitement que 'Olga Givernet serait-elle tentée par la mairie ?' dans le contexte des **municipales 2026** pour Saint-Genis-Pouilly, indiquant une intention de candidature."
-      },
-      {
-        "source": "Source 2 & Source 3 (La Voix de l'Ain et Le Progrès - juin 2025)",
-        "texte_analyse": "Les articles évoquent la préparation des investitures et alliances de **Renaissance** dans l’Ain pour les élections municipales de 2026, sans exclure explicitement Olga Givernet comme candidate potentielle."
+        "source_index": 4,
+        "explication": "Référence explicite à une éventuelle candidature d'Olga Givernet pour les municipales de 2026 dans Saint-Genis-Pouilly."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (Le Dauphiné Libéré - 27 mai 2025)\",\n            \"texte_analyse\": \"L'article mentionne explicitement que 'Olga Givernet serait-elle tentée par la mairie ?' dans le contexte des **municipales 2026** pour Saint-Genis-Pouilly, indiquant une intention de candidature.\"\n        },\n        {\n            \"source\": \"Source 2 & Source 3 (La Voix de l'Ain et Le Progrès - juin 2025)\",\n            \"texte_analyse\": \"Les articles évoquent la préparation des investitures et alliances de **Renaissance** dans l’Ain pour les élections municipales de 2026, sans exclure explicitement Olga Givernet comme candidate potentielle.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:12:23.780375Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Référence explicite à une éventuelle candidature d'Olga Givernet pour les municipales de 2026 dans Saint-Genis-Pouilly.\"}\n    ]\n}\n```"
   }
 }

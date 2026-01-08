@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Rhône",
     "commune": "Vaulx-en-Velin",
+    "position": "Tête de liste",
     "filename": "abdelkader-lahmar.json"
   },
   "search_results": [
@@ -51,18 +52,29 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 3 (lyonmag.com - Sat, 21 Jun 2025)",
-        "explication": "Abdelkader Lahmar est explicitement mentionné comme **chef de file** pour les Municipales 2026 à Vaulx-en-Velin et dans le contexte des élections locales prévues en 2026."
+        "source_index": 1,
+        "explication": "Mention explicite de Abdelkader Lahmar comme figure politique active dans la campagne des municipales 2026 pour Lyon."
       },
       {
-        "source": "Source 4 (Lyon Capitale - Thu, 22 May 2025)",
-        "explication": "Le titre mentionne explicitement : *« Municipales 2026 à Lyon : vers un candidat LFI dès le premier tour ? »*, et les articles des sources précédentes (3, 1) confirment son implication active dans la campagne pour ces élections."
+        "source_index": 3,
+        "explication": "Identifie Abdelkader Lahmar (LFI) comme chef de file officiel pour Vaulx-en-Velin en 2026."
       },
       {
-        "source": "Source 5 (Le Monde.fr - Sat, 19 Apr 2025)",
-        "explication": "Contexte de campagne électorale pour les Municipales 2026 dans les banlieues populaires de Lyon, incluant des déclarations sur sa stratégie politique."
+        "source_index": 4,
+        "explication": "Prédit sa candidature LFI dès le premier tour dans Lyon pour les municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Contexte des banlieues populaires de Lyon en 2026 avec une implication active de LFI et mention explicite de Lahmar."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 (lyonmag.com - Sat, 21 Jun 2025)\",\n            \"explication\": \"Abdelkader Lahmar est explicitement mentionné comme **chef de file** pour les Municipales 2026 à Vaulx-en-Velin et dans le contexte des élections locales prévues en 2026.\"\n        },\n        {\n            \"source\": \"Source 4 (Lyon Capitale - Thu, 22 May 2025)\",\n            \"explication\": \"Le titre mentionne explicitement : *« Municipales 2026 à Lyon : vers un candidat LFI dès le premier tour ? »*, et les articles des sources précédentes (3, 1) confirment son implication active dans la campagne pour ces élections.\"\n        },\n        {\n            \"source\": \"Source 5 (Le Monde.fr - Sat, 19 Apr 2025)\",\n            \"explication\": \"Contexte de campagne électorale pour les Municipales 2026 dans les banlieues populaires de Lyon, incluant des déclarations sur sa stratégie politique.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:16:38.563511Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite de Abdelkader Lahmar comme figure politique active dans la campagne des municipales 2026 pour Lyon.\"},\n        {\"source_index\": 3, \"explication\": \"Identifie Abdelkader Lahmar (LFI) comme chef de file officiel pour Vaulx-en-Velin en 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Prédit sa candidature LFI dès le premier tour dans Lyon pour les municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Contexte des banlieues populaires de Lyon en 2026 avec une implication active de LFI et mention explicite de Lahmar.\"}\n    ]\n}\n```"
   }
 }

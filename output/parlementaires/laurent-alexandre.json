@@ -8,7 +8,7 @@
     "parti": "SE",
     "departement": "Aveyron",
     "commune": "Aubin",
-    "position": "Pourrait être sur la liste",
+    "position": "Pourrait être sur une liste",
     "filename": "laurent-alexandre.json"
   },
   "search_results": [
@@ -34,6 +34,13 @@
       "source": "Le Parisien"
     },
     {
+      "title": "Municipales 2026. Alexandre Dupalais lance l’union des droites à Lyon - - Lyon people",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc1pBeUVjblNYSHFXNVVkQzRjN08xdjhCR2xLVldNN0xpUC10VUl4VmsweDBFRmY1Y3hqcGtpY2ZBWWl6UGY2cld4Z3lYZlc4cGZjeXh2V1N3ZkNrc3dFRkJfbnpObm1tamNwSG10dW11QVcyMzFpakc1QnlaSHRFSVFUeWE2SktpNzliQ0k3T1RUMU81LUZUQU5nZGkxbGk2VjBxQS1vWjlVeFlyV29MVDBkeWY3ZF9XVUFkVVZCdmZsYXo2Sm05WjdiWHN0Vm91d2pzVTdROHZMVElsTmt5TVVQaXd3UQ?oc=5",
+      "snippet": "Municipales 2026. Alexandre Dupalais lance l’union des droites à Lyon -&nbsp;&nbsp;Lyon people",
+      "date": "Fri, 26 Sep 2025 07:00:00 GMT",
+      "source": "Lyon people"
+    },
+    {
       "title": "« Lyon mérite mieux que des dogmes » : campagne lancée pour Alexandre Dupalais, candidat de la droite extrême - Le Progrès",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTd6WXNJMnhOMG00UHpuMXJVdGFVcllBT0NwOTk4U3gtR1M5eXlpUmVxVVYxSGw0VEROclZ1OXVGYkRCWDVkTEJxV3VOb0ttY0xnMjk2U2wzb04zdkxzd1NFTkFmTEVRR3o0dWY2SUxtQlBWN3pzOFFZNjV6a28tRTZNZzM4Y2lSa2RoMnpoaEE4YXhqQVVsTnlFcVJGZmFZN2V2alhtWGdNOFM5WDFDd1ppZFUtT3UtbnFscV9BSUViUlFDLWU1bWFaUUU2WW9HNUV4d0szQ3pLQmNNLV9oS1JR?oc=5",
       "snippet": "« Lyon mérite mieux que des dogmes » : campagne lancée pour Alexandre Dupalais, candidat de la droite extrême&nbsp;&nbsp;Le Progrès",
@@ -49,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Laurent Alexandre** comme candidat aux élections municipales de 2026. Bien que les sources évoquent d'autres candidats (ex. : Jacques Dermilly, Alexandre Latil) pour des communes spécifiques en 2026, Laurent Alexandre n'apparaît pas dans ces annonces.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Laurent Alexandre** comme candidat aux élections municipales de 2026. Bien que les sources évoquent d'autres candidats (ex. : Jacques Dermilly, Alexandre Latil) pour des communes spécifiques en 2026, Laurent Alexandre n'apparaît pas dans ces annonces.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Laurent Alexandre comme candidat aux municipales 2026 dans les résultats fournis."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:15:04.732075Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Laurent Alexandre comme candidat aux municipales 2026 dans les résultats fournis.\"}\n    ]\n}\n```"
   }
 }

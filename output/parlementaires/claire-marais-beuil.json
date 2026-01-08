@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Oise",
     "commune": "nan",
+    "position": "nan",
     "filename": "claire-marais-beuil.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Elections municipales 2026 à Beauvais : des candidats se déclarent, la course déjà lancée&nbsp;&nbsp;Actu.fr",
       "date": "Sat, 15 Feb 2025 08:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "RN : La désignation de Claire Marais-Beuil comme candidate à Beauvais provoque 5 démissions à la fédé du RN de l'Oise - Oise Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV05mWWpQek1ERnZpWlNoWGwySjEtaldZSkhWNVFoTUhVcW5xYjVqUTdYckotTTRiQzZpTWYzVXQ5ZlgwSUxSREwyMWdmeVBfXzY3X0JKS2t1eDd3M3QtbThVV0JvMVN1b0I4aUhsVnp2NEtBV1NLaWo5RFNkV1piaDhEM3RXM3Z6U0ZQQ05nRDJINWNJanZkaG9NTVRFRnZxWmVhTjBYRmhqZVE?oc=5",
+      "snippet": "RN : La désignation de Claire Marais-Beuil comme candidate à Beauvais provoque 5 démissions à la fédé du RN de l'Oise&nbsp;&nbsp;Oise Hebdo",
+      "date": "Sat, 20 Dec 2025 08:00:00 GMT",
+      "source": "Oise Hebdo"
     }
   ],
   "analysis": {

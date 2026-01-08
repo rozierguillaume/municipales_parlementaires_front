@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Var",
     "commune": "Draguignan",
+    "position": "Pourrait être tête de liste",
     "filename": "philippe-schreck.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "Nice-Matin"
     },
     {
+      "title": "Municipales 2026: le RN place le territoire sous influence, tour d'horizon dans le centre et le haut Var - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLXRIaFhveVpodTQ3YjFudU9VZFhLb0o4Ulloa191RE1UVlNPYXFEMGtaWHU2NEh5eGY4eUZPV3hJc1lQaWVMY1BfQkdRd05BeUpUbEgyZXNRcEdZZmljSGhiS0xoQVprOTlNaklSRFRBbFktRzFSZnpuckFnNU9Ecm0wXzV2c0pCMGJMbGUwdWl0WTZheG95QW1VdWdtMTdrVFJTcF9rQTUzeWpDX1FMTkE0UUprMjlyaXNibUd0SlBINkhiYTQ3VWZ3M0tqcDhzM0NpMUNCMHpXZWFBdDl4Y1JKUXJjblow?oc=5",
+      "snippet": "Municipales 2026: le RN place le territoire sous influence, tour d'horizon dans le centre et le haut Var&nbsp;&nbsp;Nice-Matin",
+      "date": "Sat, 30 Nov 2024 08:00:00 GMT",
+      "source": "Nice-Matin"
+    },
+    {
       "title": "Voici les candidats aux élections législatives de 2024 pour chaque circonscription du Var - Le Parisien",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZ1RWVDdoSHFCZFpuQXNlSHdwVFFmRnNjdjczekZtUm94c1dOb0xiMUdlNkRydk1zc1o3aWJWZm15ei1ObWtjeXlmSGsySHB6Nm1hUzE1cUgtV0RaQXVTVzlsMkxNNlBnRUxObHBZY2VpbWpQQWF2SWdrbVR4eE02NHJtZ2xSVExreE84TFZVa0hvYUlwNzFuTmJoTG5oNklSbHVQb2JzdUJ6RHBibXlPSXhQdGpoMUM0SWlyNHlDWktTMGFWclc3Y2lpc2RqWUQ4N1NGNHl1ckIweHhlMWFhVmtjdk00ZHZiV3ZielZteEQxbWplenFnVU52d0lCV1F2cHNvMw?oc=5",
       "snippet": "Voici les candidats aux élections législatives de 2024 pour chaque circonscription du Var&nbsp;&nbsp;Le Parisien",
@@ -51,25 +59,19 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Aucune mention explicite de Philippe Schreck comme candidat aux municipales de Vidauban (2026)."
+        "source_index": 2,
+        "explication": "Référence à une possible candidature aux municipales de Draguignan en 2026."
       },
       {
-        "source": "Source 2",
-        "analyse": "Le texte évoque des **doutes** sur sa candidature à Draguignan pour les municipales de 2026, mais ne confirme pas explicitement son engagement. La source suggère une incertitude active."
-      },
-      {
-        "source": "Source 3",
-        "analyse": "Référence indirecte à un possible soutien de Philippe Schreck au RN pour la liste municipale de Draguignan en **2026**, mais sans confirmation formelle de sa candidature personnelle. Le ton est interrogatif et non déclaratif."
-      },
-      {
-        "source": "Sources 4 & 5",
-        "analyse": [
-          "Source 4 (législatives 2024) : Aucune mention de Philippe Schreck comme candidat municipal.",
-          "Source 5 (municipales 2020) : Parle d'événements passés à Draguignan, sans lien direct avec une candidature future."
-        ]
+        "source_index": 3,
+        "explication": "Mention explicite d'une préparation d'une liste RN pour les municipales 2026 à Draguignan"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Aucune mention explicite de Philippe Schreck comme candidat aux municipales de Vidauban (2026).\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Le texte évoque des **doutes** sur sa candidature à Draguignan pour les municipales de 2026, mais ne confirme pas explicitement son engagement. La source suggère une incertitude active.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Référence indirecte à un possible soutien de Philippe Schreck au RN pour la liste municipale de Draguignan en **2026**, mais sans confirmation formelle de sa candidature personnelle. Le ton est interrogatif et non déclaratif.\"\n        },\n        {\n            \"source\": \"Sources 4 & 5\",\n            \"analyse\": [\n                \"Source 4 (législatives 2024) : Aucune mention de Philippe Schreck comme candidat municipal.\",\n                \"Source 5 (municipales 2020) : Parle d'événements passés à Draguignan, sans lien direct avec une candidature future.\"\n            ]\n        }\n    ],\n    \"conclusion\": \"Les sources disponibles ne permettent pas de trancher clairement entre une **candidature confirmée** ou une **incertitude**. Les articles récents (2024–2025) soulignent des **doutes** et des **rumeurs**, mais aucune déclaration explicite n’a été trouvée.\"\n}\n```"
+    "used_sources": [
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T10:25:22.362504Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [2, 3],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Référence à une possible candidature aux municipales de Draguignan en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Mention explicite d'une préparation d'une liste RN pour les municipales 2026 à Draguignan\"}\n    ]\n}\n```"
   }
 }

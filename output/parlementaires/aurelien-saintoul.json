@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Hauts-de-Seine",
     "commune": "nan",
+    "position": "nan",
     "filename": "aurelien-saintoul.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Extralocal : Un débat de l’entre-deux-tours musclé&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Thu, 04 Jul 2024 07:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "« Montrouge mérite une maire présente » : Juliette Méadel, ex-ministre de la ville, repart en campagne municipale - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMWEwYUYzY29ha0Y0dV9LMUVFMnNnU3lfYjlDb3RWTVZJYjh1T1VYT3dDNTl5RG1uMThVX3dBcUZNZlF0RlU4Mjc5YVRQR0xhR3B3Rk10UmM0SWVBandCVzNYaEZLYmJhVzRDSWd5VVdEYjVzMmgyWG5CdDFtWVVzaXpwNUdNWXVKSGxWc3lPdnRRRzRRYUVhUTVzN3lrbVZrTjdTRXcxWm5QbVZQOVphYjROTGFpWWliRERJOEpwblVQRXFjcjktZ1JXdmxRTjg2TkFocDNUNlA5RmNoRjJmSHNBbzd6QUZDWnpkME1VRXJDWmY2SHZrZlR2RGhHSDNiTkNyRG9qYmxjLUFCWGN6aDZBZ3llV2prSV9xV3JocjY?oc=5",
+      "snippet": "« Montrouge mérite une maire présente » : Juliette Méadel, ex-ministre de la ville, repart en campagne municipale&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 07 Jan 2026 13:39:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

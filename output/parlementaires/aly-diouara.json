@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-Saint-Denis",
     "commune": "nan",
+    "position": "nan",
     "filename": "aly-diouara.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : trois nuances de gauche à La Courneuve, terre de conquête revendiquée des Insoumis&nbsp;&nbsp;Le Parisien",
       "date": "Mon, 10 Nov 2025 08:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Municipales 2026 à La Courneuve : Le député LFI Aly Diouara candidat, « un bras d’honneur » pour le maire PCF sortant - Yahoo Actualités",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHhRMVNWSjZQbjdkZ1IzTHVlZWkwMFFwT2FrRW5MbHhlTUhPTm9kUGp0VUVQeTQ0a3RpWjlzSVl0bXpWUjNNa2Z2VENOOVM2bVIxTmIwOUo2LWxEZGhCUXpFRzBLX1lUaUpnb0JZV0h6VTlxcjVwMnFueW9hdkhkQlFSWHUyUGhhOVBFZXh5TmRnSEk4RVE?oc=5",
+      "snippet": "Municipales 2026 à La Courneuve : Le député LFI Aly Diouara candidat, « un bras d’honneur » pour le maire PCF sortant&nbsp;&nbsp;Yahoo Actualités",
+      "date": "Wed, 07 Jan 2026 13:18:21 GMT",
+      "source": "Yahoo Actualités"
     }
   ],
   "analysis": {

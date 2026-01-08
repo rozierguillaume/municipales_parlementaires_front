@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Isère",
     "commune": "La Salle-en-Beaumont",
+    "position": "Pourrait être sur une liste",
     "filename": "marie-noelle-battistel.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Municipales 2026. À Fontaine, la gauche “unie” conseille à Franck Longo de faire ses valises&nbsp;&nbsp;Le Dauphiné Libéré",
       "date": "Sun, 30 Nov 2025 08:00:00 GMT",
       "source": "Le Dauphiné Libéré"
+    },
+    {
+      "title": "«Concurrence déloyale», «produits toxiques» : plus de 80 députés réclament l’interdiction de Shein en France - Libération",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOck9WSkdHYjlDeVRIZzVWRkRqZnkwMngxYXdyQnV6Y2ZUeUNuYXoxMDNTcW5IaVBhdFpIb3A1MXdVRU1LeVBXWlJkM1E0N0xJSzdTX1hkNUptUWVHYndFdEY4THgyMVFla3BTREp4dno3R1NVNkhxcW9jTFJEdVNwUmdRTXlTRDVPQzVmUmpnWVpLN3ZuS0FTQ0J4VDVsUkJjNDdjamRCQmtqXzNUSUtOeEl3T3ViR1ZMbzJYcmdoZVU4Z2xvT2dTUmplQ1dKYkhjRHZCQkJKcFpKUnpaeWNhRE9xRXllbW1OaWZER2llQm8yNDc2R2syU0F2cHV4Rno1T21v?oc=5",
+      "snippet": "«Concurrence déloyale», «produits toxiques» : plus de 80 députés réclament l’interdiction de Shein en France&nbsp;&nbsp;Libération",
+      "date": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "source": "Libération"
     },
     {
       "title": "Législatives 2024 : cinq candidats face à Marie-Noëlle Battistel sur la 4e circonscription de l'Isère - francebleu.fr",
@@ -48,8 +56,19 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Marie-Noëlle Battistel comme candidate aux **municipales de 2026**. Bien que des références à ses activités politiques (comme sa présence dans la circonscription iséroise) soient présentes, les sources citées concernent :\n    - Des votes parlementaires ou interventions en 2024/2025 (Sources 1, 3, 5),\n    - Une campagne électorale **2026** pour un autre candidat (Source 2 : Franck Longo à Fontaine).\n    Aucune mention directe de sa propre candidature aux municipales de 2026 n’est confirmée.\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Marie-Noëlle Battistel comme candidate aux **municipales de 2026**. Bien que des références à ses activités politiques (comme sa présence dans la circonscription iséroise) soient présentes, les sources citées concernent :\n    - Des votes parlementaires ou interventions en 2024/2025 (Sources 1, 3, 5),\n    - Une campagne électorale **2026** pour un autre candidat (Source 2 : Franck Longo à Fontaine).\n    Aucune mention directe de sa propre candidature aux municipales de 2026 n’est confirmée.\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Marie-Noëlle Battistel comme candidate aux municipales 2026 dans les résultats fournis."
+      },
+      {
+        "source_index": null,
+        "explication": "Les sources disponibles concernent des sujets divers (budget social, critiques contre Shein, législatives passées) sans lien direct avec une candidature municipale en 2026."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:18:52.967819Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Marie-Noëlle Battistel comme candidate aux municipales 2026 dans les résultats fournis.\"},\n        {\"source_index\": null, \"explication\": \"Les sources disponibles concernent des sujets divers (budget social, critiques contre Shein, législatives passées) sans lien direct avec une candidature municipale en 2026.\"}\n    ]\n}\n```"
   }
 }

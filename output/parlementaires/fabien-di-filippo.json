@@ -5,9 +5,10 @@
     "nom": "DI FILIPPO",
     "prenom": "Fabien",
     "full_name": "Fabien DI FILIPPO",
-    "parti": "DVD",
+    "parti": "LR",
     "departement": "Moselle",
-    "commune": "Metz",
+    "commune": "Sarrebourg",
+    "position": "Tête de liste",
     "filename": "fabien-di-filippo.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026. Lorraine : candidats déclarés, listes pressenties, qui se présente dans les grandes communes ?&nbsp;&nbsp;L'Est Républicain",
       "date": "Mon, 05 Jan 2026 17:00:14 GMT",
       "source": "L'Est Républicain"
+    },
+    {
+      "title": "Municipales : ce député de Moselle se lance dans la campagne à Sarrebourg - La Semaine",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWoxZWl6bzFVUjhUektfWWVibjdreE5nWXJ6cFZRRmd3X0Q4MjBfbDYxZnZOYkxNbnN5UkZOU2F0eVBiX0hqQW1hUmxObmxVTTREd0xwQWp0NGgtVFRRZ2t4NDdncTZmcHA5OVM3TTctamJUbndXekJuNjNWRUJKalV2T1Jlc09UNGZCN1hxTWt2YnZYQndKUHhPQkx2eFFfQ0tMc19FQWQ3Mlk?oc=5",
+      "snippet": "Municipales : ce député de Moselle se lance dans la campagne à Sarrebourg&nbsp;&nbsp;La Semaine",
+      "date": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "La Semaine"
     },
     {
       "title": "Municipales 2026 : Le député de la Moselle Fabien Di Filippo candidat à Sarrebourg - francebleu.fr",
@@ -50,8 +58,35 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Fabien Di Filippo est explicitement mentionné comme **tête de liste** pour les Municipales 2026 à Sarrebourg (Moselle) dans plusieurs sources récentes (décembre 2025 et novembre 2025). Les articles des Sources 2, 3 et 4 confirment sa candidature officielle pour cette élection municipale."
+      {
+        "source_index": 1,
+        "explication": "Référence explicite à Fabien Di Filippo comme candidat déclaré dans les grandes communes pour les municipales 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Mentionne explicitement son rôle de député se lançant en campagne à Sarrebourg pour les municipales 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Confirme sa candidature officielle aux municipales 2026 comme tête de liste à Sarrebourg."
+      },
+      {
+        "source_index": 4,
+        "explication": "Annonce qu'il est tête de liste pour les municipales 2026 à Sarrebourg."
+      },
+      {
+        "source_index": 5,
+        "explication": "Précise son choix de se présenter en tête de liste à Sarrebourg pour les élections municipales 2026."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Fabien Di Filippo est explicitement mentionné comme **tête de liste** pour les Municipales 2026 à Sarrebourg (Moselle) dans plusieurs sources récentes (décembre 2025 et novembre 2025). Les articles des Sources 2, 3 et 4 confirment sa candidature officielle pour cette élection municipale.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:09:06.994275Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à Fabien Di Filippo comme candidat déclaré dans les grandes communes pour les municipales 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Mentionne explicitement son rôle de député se lançant en campagne à Sarrebourg pour les municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Confirme sa candidature officielle aux municipales 2026 comme tête de liste à Sarrebourg.\"},\n        {\"source_index\": 4, \"explication\": \"Annonce qu'il est tête de liste pour les municipales 2026 à Sarrebourg.\"},\n        {\"source_index\": 5, \"explication\": \"Précise son choix de se présenter en tête de liste à Sarrebourg pour les élections municipales 2026.\"}\n    ]\n}\n```"
   }
 }

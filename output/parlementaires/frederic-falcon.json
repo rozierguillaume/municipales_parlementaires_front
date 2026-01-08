@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Aude",
     "commune": "Narbonne",
+    "position": "Pourrait être tête de liste",
     "filename": "frederic-falcon.json"
   },
   "search_results": [
@@ -50,10 +51,13 @@
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
-      "Aucune source ne mentionne explicitement Frédéric FALCON comme candidat officiel aux élections municipales de Narbonne en **2026** ni comme investi par le RN pour cette élection spécifique.",
-      "Les articles cités (Sources 1, 2 et 4) évoquent plutôt des stratégies ou des recherches du RN pour les communes de l’Aude dans le cadre des municipales futures, sans nommer Frédéric FALCON en particulier. Les autres sources (Source 3 et 5) se concentrent sur la campagne générale du RN et ne mentionnent pas son nom.",
-      "Aucun snippet ne confirme ou infirme sa candidature pour Narbonne en 2026."
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Frédéric Falcon comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent soit le RN en général (stratégie électorale), soit des candidats potentiels non identifiés ou des dynamiques internes."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        \"Aucune source ne mentionne explicitement Frédéric FALCON comme candidat officiel aux élections municipales de Narbonne en **2026** ni comme investi par le RN pour cette élection spécifique.\",\n        \"Les articles cités (Sources 1, 2 et 4) évoquent plutôt des stratégies ou des recherches du RN pour les communes de l’Aude dans le cadre des municipales futures, sans nommer Frédéric FALCON en particulier. Les autres sources (Source 3 et 5) se concentrent sur la campagne générale du RN et ne mentionnent pas son nom.\",\n        \"Aucun snippet ne confirme ou infirme sa candidature pour Narbonne en 2026.\"\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:23:30.178919Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Frédéric Falcon comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent soit le RN en général (stratégie électorale), soit des candidats potentiels non identifiés ou des dynamiques internes.\"}\n    ]\n}\n```"
   }
 }

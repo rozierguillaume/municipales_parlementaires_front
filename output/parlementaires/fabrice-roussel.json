@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Loire-Atlantique",
     "commune": "La Chapelle-sur-Erdre",
+    "position": "Pourrait être sur une liste",
     "filename": "fabrice-roussel.json"
   },
   "search_results": [
@@ -21,6 +22,13 @@
     {
       "title": "Vœux des politiques pour 2026 : les municipales en ligne de mire - Maville",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGVWVy1vX3pQQldfVWNnNV9paURFYjlEMl9mUHRqNl9kNXZDVm1PZmZzaDBpbmk1UmlEc19tRF9nTFRoTU5ycllzRlBCMGRiQ1N3S08yNVFLandsQTMxQlJlYnpLNFMyOEtadThScU51Yktxd3B6OW9hQnNFUmNaUHZhOUw1bUhjUEFBcW1IQTBVbFRmNHFMcjA3YVV3ZHFndm14TWk4WmFQbWxZUTU0TG5ZY1cyeEJqOXFmRWdORndNZWs2M3lhOGhUZVFkdw?oc=5",
+      "snippet": "Vœux des politiques pour 2026 : les municipales en ligne de mire&nbsp;&nbsp;Maville",
+      "date": "Thu, 01 Jan 2026 17:32:00 GMT",
+      "source": "Maville"
+    },
+    {
+      "title": "Vœux des politiques pour 2026 : les municipales en ligne de mire - Maville",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXkya3hLRENpM092S3VPNjdFd2U5M2tCX3VMQ0VsZERBWjJSYkJ1ZW5ZTFAxcmlCUUJxUXRONDVMZnJ0cnpxLWNaSzM5WHU1WFZKU0kxVkFMSUpUcG1RcmJVdWhCRFVkekxKRmFpQjh3aUU3WVlMQTVSc0V0b0pmY3RYSkI2am1fTFRMdWNzS0RwNVZXekp2TmNheGVZNUhEVmFDTGZDTTlyaHhEbC1Od3Q5enFYd00teXZvTVJWNWdXTFBQalE?oc=5",
       "snippet": "Vœux des politiques pour 2026 : les municipales en ligne de mire&nbsp;&nbsp;Maville",
       "date": "Thu, 01 Jan 2026 17:32:00 GMT",
       "source": "Maville"
@@ -49,7 +57,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Fabrice ROUSSEL** comme candidat aux municipales de 2026. Bien que les articles évoquent des campagnes ou des annonces potentielles pour cette élection (ex. : listes de gauche à Carquefou, vœux politiques en janvier 2026), Fabrice Roussel n’est pas identifié dans ces sources.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Fabrice ROUSSEL** comme candidat aux municipales de 2026. Bien que les articles évoquent des campagnes ou des annonces potentielles pour cette élection (ex. : listes de gauche à Carquefou, vœux politiques en janvier 2026), Fabrice Roussel n’est pas identifié dans ces sources.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Fabrice Roussel comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres figures politiques ou des listes locales sans référence directe à lui."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:21:07.607122Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Fabrice Roussel comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres figures politiques ou des listes locales sans référence directe à lui.\"}\n    ]\n}\n```"
   }
 }

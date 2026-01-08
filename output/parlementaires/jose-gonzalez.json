@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Bouches-du-Rhône",
     "commune": "Allauch",
+    "position": "Pourrait être sur une liste",
     "filename": "jose-gonzalez.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement José GONZALEZ comme candidat aux élections municipales de 2026. Les articles cités concernent principalement d'autres figures politiques (Simond, Kevin Rahou) ou des dynamiques internes à des communes spécifiques (Plan-de-Cuques, Auriol, Balaruc-le-Vieux), sans référence directe à José GONZALEZ.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement José GONZALEZ comme candidat aux élections municipales de 2026. Les articles cités concernent principalement d'autres figures politiques (Simond, Kevin Rahou) ou des dynamiques internes à des communes spécifiques (Plan-de-Cuques, Auriol, Balaruc-le-Vieux), sans référence directe à José GONZALEZ.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de José GONZALEZ comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:23:14.540125Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de José GONZALEZ comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

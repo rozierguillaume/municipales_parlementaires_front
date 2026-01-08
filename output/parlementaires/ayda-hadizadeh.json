@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Val-d'Oise",
     "commune": "Saint-Ouen-l'Aumône",
+    "position": "Pourrait être sur une liste",
     "filename": "ayda-hadizadeh.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "\"Aucun enfant ne traversera seul les couloirs de la justice\" : les mineurs placés seront bientôt tous défendus par un avocat&nbsp;&nbsp;Le Berry Républicain",
       "date": "Thu, 11 Dec 2025 08:00:00 GMT",
       "source": "Le Berry Républicain"
+    },
+    {
+      "title": "L’Assemblée nationale adopte à l’unanimité une loi qui garantit un avocat auprès de chaque enfant placé - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQlQ0NXo3M2hRdE5aNUxKWXZsNDNGbk1mNnN3cnY3NE1xT2kyZkQ0aGFJTjg2czFUYm00RkFhQld1Mjk3M242NUJKVFZJakk4OGFnQzMtTnZlallNdUFuSTc1YTNGQ1ZoSWpYOGxYYVdFM1BXaWxNTGE1TnFMUE1kb2Z1Q2JUSF9yZ3ZNRDhQQzJmbk1CaWZpMjBRRjh4c0xzNFU2bEJUU0ZiNHZGY2Y4Mm1qZUc4UXh3UXhvMmM3QjdyXzJvOHl2M3h0bWlEeWV5T0JkQVZMSUF0dEI5aEN5cEQ3enc0eVJGZ3lIX2lGMTJScXY1SHRJRC00YURKQU84T0E?oc=5",
+      "snippet": "L’Assemblée nationale adopte à l’unanimité une loi qui garantit un avocat auprès de chaque enfant placé&nbsp;&nbsp;Libération",
+      "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "source": "Libération"
     },
     {
       "title": "Assemblée : Philippe Juvin, rapporteur général du budget et homme aux mille et une vies - Le Figaro",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Ayda HADIZADEH comme candidate aux élections municipales de 2026. Les sources concernent des sujets politiques généraux (lois, actualités parlementaires) ou des informations sur d'autres personnalités sans lien direct avec Ayda Hadizadeh.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Ayda HADIZADEH comme candidate aux élections municipales de 2026. Les sources concernent des sujets politiques généraux (lois, actualités parlementaires) ou des informations sur d'autres personnalités sans lien direct avec Ayda Hadizadeh.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de candidature aux élections municipales 2026 pour Ayda Hadizadeh dans les sources fournies. Les articles concernent des sujets politiques généraux ou législatifs sans lien avec une inscription sur liste municipale."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:20:01.536466Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de candidature aux élections municipales 2026 pour Ayda Hadizadeh dans les sources fournies. Les articles concernent des sujets politiques généraux ou législatifs sans lien avec une inscription sur liste municipale.\"}\n    ]\n}\n```"
   }
 }

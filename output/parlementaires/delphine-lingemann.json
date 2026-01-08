@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Puy-de-Dôme",
     "commune": "Clermont-Ferrand",
+    "position": "Pourrait être sur une liste",
     "filename": "delphine-lingemann.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "La source **Source 2** (*La Montagne*, 12 Oct 2025) mentionne explicitement que la députée Delphine Lingemann (MoDem) sera candidate sur une liste à Clermont pour les municipales de 2026.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"La source **Source 2** (*La Montagne*, 12 Oct 2025) mentionne explicitement que la députée Delphine Lingemann (MoDem) sera candidate sur une liste à Clermont pour les municipales de 2026.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 2,
+        "explication": "Source directe confirmant sa candidature sur une liste à Clermont pour les municipales 2026"
+      }
+    ],
+    "used_sources": [
+      2
+    ],
+    "analysis_at": "2026-01-08T10:18:05.202163Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Source directe confirmant sa candidature sur une liste à Clermont pour les municipales 2026\"}\n    ]\n}\n```"
   }
 }

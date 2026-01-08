@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Allier",
     "commune": "nan",
+    "position": "nan",
     "filename": "nicolas-ray.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Votre maire se représentera-t-il en 2026 dans l'Allier ?&nbsp;&nbsp;La Montagne",
       "date": "Wed, 21 May 2025 07:00:00 GMT",
       "source": "La Montagne"
+    },
+    {
+      "title": "Les députés adoptent l’article phare de la réforme du scrutin municipal à Paris, Lyon et Marseille - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQejkxOHQwamY4LWxnOGlYa1g3czF3bUZNVEZMUHFoclZrWmYzNk56MjVZc0xDellJZjM5ckFKNVZUT1FmU1ZVd250T1lyaHhVeDU3VDFxUU5TM2dlSEFTdHVZM2xEcUFMOWRvcFY0X01WYlFpTEZQNUY2bEtRRkZLRHBnS0pxVnhNUVJUWmdsaEVoNHFEUkxsb1NUU1dLelA3MDRKd0Nsdy1zZGYxdU44Zkhubi1ZV3Y2czdqTFlZUDB5NVpyUGFabmZpRkhqYTBoTWdIVHFnYm0wTlctZ3JQV1l2YlRMLU5YMWpmeWVDTDNwazBScjRjWVNvMVJzRldBSmZTc25lWE9qMC1QSTZTeA?oc=5",
+      "snippet": "Les députés adoptent l’article phare de la réforme du scrutin municipal à Paris, Lyon et Marseille&nbsp;&nbsp;Ouest-France",
+      "date": "Wed, 09 Apr 2025 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

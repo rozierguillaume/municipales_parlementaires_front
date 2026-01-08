@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Loire",
     "commune": "nan",
+    "position": "nan",
     "filename": "emmanuel-mandon.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026. Saint-Étienne : à droite, «un arc républicain historique» pour en finir avec l’ère Perdriau&nbsp;&nbsp;Le Progrès",
       "date": "Fri, 23 May 2025 07:00:00 GMT",
       "source": "Le Progrès"
+    },
+    {
+      "title": "Municipales : PAZ demande aux candidats de s’engager à ne plus accueillir de salons animaliers - TL7, Télévision loire 7",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbDVDaUVRdXhXZ2xtbmltckJ1UTVaX3JNRElBQUJKZjZjTkZqX05RSDdacmVhR1liV3VIY0l0eWJiUURLZmlNQVBpRVpVbHNnWDVRalhOeG1VMWV1cWNNYmYzZFlzX1ZhN2hlcE9lb0o2NG94SU01ZG9yVTcwcWVNWFk3TlQzS2FaTlNaZnpzWHU1TDRpMG9EZjNuZjhaYmNKaEdVcW1WRXpyVlRqWkR0bGxkSWNYSmk3Vm5mOENCbE1vYk5pTi1IYnhuWVp2MktyVTJLT2lRTy1FUllGRnd3dXVOX0xYRzU5b0xvY3IzUGtWZw?oc=5",
+      "snippet": "Municipales : PAZ demande aux candidats de s’engager à ne plus accueillir de salons animaliers&nbsp;&nbsp;TL7, Télévision loire 7",
+      "date": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "source": "TL7, Télévision loire 7"
     }
   ],
   "analysis": {

@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Pas-de-Calais",
     "commune": "Boulogne-sur-Mer",
+    "position": "Tête de liste",
     "filename": "antoine-golliot.json"
   },
   "search_results": [
@@ -50,10 +51,30 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Antoine Golliot est mentionné comme **premier candidat déclaré** aux municipales de Boulogne-sur-Mer pour les élections de mars 2026 (Source 2, radio6.fr).",
-      "Son officialisation de la candidature est confirmée explicitement dans le titre et le snippet de Source 4 (Nord Littoral), daté du 1er octobre 2025.",
-      "Les sources 3 et 1 confirment son engagement actif pour les municipales 2026, avec des programmes et une position claire sur la sécurité."
+      {
+        "source_index": 1,
+        "explication": "Référence explicite aux élections municipales de 2026"
+      },
+      {
+        "source_index": 2,
+        "explication": "Déclaration formelle d'Antoine Golliot comme premier candidat RN pour les municipales 2026 à Boulogne"
+      },
+      {
+        "source_index": 3,
+        "explication": "Programme lié explicitement aux municipales 2026 dans la ville de Boulogne-sur-Mer"
+      },
+      {
+        "source_index": 4,
+        "explication": "Officialisation de sa candidature officielle aux municipales 2026"
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Antoine Golliot est mentionné comme **premier candidat déclaré** aux municipales de Boulogne-sur-Mer pour les élections de mars 2026 (Source 2, radio6.fr).\",\n        \"Son officialisation de la candidature est confirmée explicitement dans le titre et le snippet de Source 4 (Nord Littoral), daté du 1er octobre 2025.\",\n        \"Les sources 3 et 1 confirment son engagement actif pour les municipales 2026, avec des programmes et une position claire sur la sécurité.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:23:10.797167Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite aux élections municipales de 2026\"},\n        {\"source_index\": 2, \"explication\": \"Déclaration formelle d'Antoine Golliot comme premier candidat RN pour les municipales 2026 à Boulogne\"},\n        {\"source_index\": 3, \"explication\": \"Programme lié explicitement aux municipales 2026 dans la ville de Boulogne-sur-Mer\"},\n        {\"source_index\": 4, \"explication\": \"Officialisation de sa candidature officielle aux municipales 2026\"}\n    ]\n}\n```"
   }
 }

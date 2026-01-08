@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Essonne",
     "commune": "nan",
+    "position": "nan",
     "filename": "claire-lejeune.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Budget : « Le PS est en train de commettre une faute politique très grave »&nbsp;&nbsp;Politis.fr",
       "date": "Wed, 22 Oct 2025 07:00:00 GMT",
       "source": "Politis.fr"
+    },
+    {
+      "title": "«Faire battre l’extrême gauche» : le ministre de l’Intérieur Bruno Retailleau peut-il ainsi s’immiscer dans une élection ? - Libération",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOa1BCUTdxeXE0UU50aEl4MktBamlWSzNfOWNBMjlIU18zUkZSLXBhWk9ZNDk5SnRfVUhBejdKQ2hfWFJpMW45Q1dERDh3QVFjWlBYTUxUaGl2LTRybmNXa29MeXprcXR2ekVXaFdUYWJmTXNpc0JnV3BidFh1S1I3dzdoMEduaTFrbXpVcjZHTWxSQTFHVTBKVHNwSEdOVlFiZzRMUU5vT2NfV0pYdGMtQ1JqcDNBY1NnNlZ4WFRDczMwcVNJRmFNbmVvR1pzR294N1Q1VVQxVmt2NDJYSElzVjJNNEs4bG95TDlLam9zZHpoSjFwZENIRzhKd3R1cFRrRjdiSFlDRGVfaFdIUzBBODZodkU?oc=5",
+      "snippet": "«Faire battre l’extrême gauche» : le ministre de l’Intérieur Bruno Retailleau peut-il ainsi s’immiscer dans une élection ?&nbsp;&nbsp;Libération",
+      "date": "Tue, 04 Feb 2025 08:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

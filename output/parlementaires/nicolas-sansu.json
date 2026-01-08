@@ -8,14 +8,29 @@
     "parti": "PC",
     "departement": "Cher",
     "commune": "Vierzon",
+    "position": "Pourrait être sur une liste",
     "filename": "nicolas-sansu.json"
   },
   "search_results": [
+    {
+      "title": "Christophe Drunat, maire de Rians, candidat à un troisième mandat lors des municipales 2026 - Le Berry Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWGdtM2pybmVObGRHeEhEenNOYkJ2ZjBkdVJtbFZqRGZYcEZ0czcyLTVZUlhyMUtuWE5CaVRUTjJIcXBVY1NEOGNtTVVzVzVqdUVJdF9qY1FOaGVuSUI4SjlnYWJVTHlHUTBfQXVtSndaZ1RncWxodXVYNlJWSGxTU1hhOEFoNTFxNjZBTk9NaDZZR3R3c3c4MTdTRW0tWl9rTmZlc3BJTHJrR3AxamVHOFRUYkt2RlpUd2d5RzVyLXVROHA3Vkw5RXhMdU9LQUw5bTU5SFVxVEpZdklJMlE?oc=5",
+      "snippet": "Christophe Drunat, maire de Rians, candidat à un troisième mandat lors des municipales 2026&nbsp;&nbsp;Le Berry Républicain",
+      "date": "Wed, 07 Jan 2026 13:47:00 GMT",
+      "source": "Le Berry Républicain"
+    },
     {
       "title": "\"Ils l'ont traînée dans la boue\" : les réactions après le retrait de candidature de Corinne Ollivier, maire de Vierzon, aux municipales - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRmhmdVNrR21WYVpMV2ptaXpzbjJJWS1uOXFxVzZ0a09zWGZ6a25OX2RISFliY1pERHk2UWNkcXdfLUxrT1l3RnFrVnhsSHpOM2VudlZvRGxfQzRSNEVUaFpnRGs4RkJueHRPc3BSd3MydDRnS1gwa1UxaFdkNnNjTDBEb2dUMkhIaG0yWEF2QmlZZkxYbUFDTkpqQllYa0ZNMlBhZTlEVTBqNVZlY0pRWW9aVjVUNVZMa3VJZXozcEpMMzF5S1Y3RGFaS0IxNU1LdENuam1hRzE5OERJczFYVjV4M1BDN0FFdUY2dXBOQkZWdFJzVEJRR1EwM1M1NlQxeUxfcng3eDdRZ0U0STFYZ1hUZ0tKZw?oc=5",
       "snippet": "\"Ils l'ont traînée dans la boue\" : les réactions après le retrait de candidature de Corinne Ollivier, maire de Vierzon, aux municipales&nbsp;&nbsp;Le Berry Républicain",
       "date": "Tue, 06 Jan 2026 20:18:00 GMT",
+      "source": "Le Berry Républicain"
+    },
+    {
+      "title": "On vous dit qui est Maryvonne Roux, tête de liste à la place de Corinne Ollivier, pour les municipales 2026 à Vierzon - Le Berry Républicain",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaUstdHlDRG04dmdCRS1NbktXd0YwVjJGUHoyTm9JTGJQbGVNalJ4d1ZfcHpMYUt5UldzU2lSS3JvbXJYaEhtM0t0NDRXS3VWdDVucUo0eTBabDBEaGlBc0ZRZ0lNVHpEWlZ6SU9ZNVBDM05hRG5selRpSEVZX19xZ0lrRW1qbnhmcXp4ajIzX0VTNmlHalg4dE8tV0R0Q1ljSF9teExzSnRoWnBneVZFSXU2WUtJWTF1ZmhlV0VLa3RzM2RqcXhfeWJJNFNEdHFBbmlQa1BaWnlPSk9nRVFqZnk4b2dMRklhdkdrZmowX3BMM0pqNlBPU055WE1CNEN1dFNn?oc=5",
+      "snippet": "On vous dit qui est Maryvonne Roux, tête de liste à la place de Corinne Ollivier, pour les municipales 2026 à Vierzon&nbsp;&nbsp;Le Berry Républicain",
+      "date": "Mon, 05 Jan 2026 20:45:00 GMT",
       "source": "Le Berry Républicain"
     },
     {
@@ -49,7 +64,14 @@
   ],
   "analysis": {
     "status": "NON",
-    "justification": "Aucun des résultats fournis ne mentionne Nicolas Sansu comme candidat aux **municipales de 2026**. Seule une réélection en **2020** est confirmée (Source 5). Les autres sources concernent d'autres candidats ou événements liés à Vierzon.",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne Nicolas Sansu comme candidat aux **municipales de 2026**. Seule une réélection en **2020** est confirmée (Source 5). Les autres sources concernent d'autres candidats ou événements liés à Vierzon.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Nicolas Sansu comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:13:37.645386Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Nicolas Sansu comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

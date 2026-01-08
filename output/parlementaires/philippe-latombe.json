@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Vendée",
     "commune": "nan",
+    "position": "nan",
     "filename": "philippe-latombe.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Municipales 2026 à La Roche-sur-Yon : près de 400 personnes autour de Luc Bouard pour lancer sa campagne&nbsp;&nbsp;Actu.fr",
       "date": "Sun, 14 Sep 2025 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2026. Clément Nauleau sera tête de liste à Châteauneuf - Maville",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYlZsWTZaa1hWNzNsTXM4Tk0xTXR6OWlGRk9UeFlOajdhUEdLT0ozOWZXT1E4NGtmQ18zR0xrRGx1dm9IaGZ0MGppS21XaG1ISy1lRXJfdXhXekpxVXpqSUdfd0dBa3Z4WWlWbUZyQWdJNE5yVkt0dGRmUWdIenRWT3owUEtFWjh3VFBHQ3JjQjlEQ0RnRlNkQmljT3hzTU1fS1NuZDFEZzAzOEdNZ0I4OFhXWjdZSV9qUFVsR1l2QmFVNGFxRkg5Y1dNcGpmalVDS2c?oc=5",
+      "snippet": "Municipales 2026. Clément Nauleau sera tête de liste à Châteauneuf&nbsp;&nbsp;Maville",
+      "date": "Wed, 17 Dec 2025 11:56:00 GMT",
+      "source": "Maville"
+    },
+    {
+      "title": "Suppression des avantages des ministres : « Je fais confiance au ministre de l’Intérieur », assure François Baroin - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcUtkalhfSUM4TXItWm92b3UyUmpWTm9Hc0JmMHN1QkFrcG80RktyWWJZQkZGQXdRR3M0SkszVTZXSDhXR1JSdDJOS0FBYlJ6MnVWMXVYM0w2eE5VeUVneFl1YWV1OTRJRFRwdWJ5NER5M3VxVHNMUmhTaTNNVFZqekhUZGc0UzlGenJtWGxVN2U5SjhSTlhsLTZCUTRORjRJaHRkOEQ3anNJcm1FdjlmeWJ6cnJuS2I0VUVRbGFmbmxNazFsN0J5MFUwQW9FdlhXdXRXX3k0aXZzUjRpVGV2SEJXeHpBSGFKUnRSZDRzOWlrT1pkTkRtSXpjX2k0VlVIa2h5TVI1TDlrd2VEN3Jj?oc=5",
+      "snippet": "Suppression des avantages des ministres : « Je fais confiance au ministre de l’Intérieur », assure François Baroin&nbsp;&nbsp;Le Parisien",
+      "date": "Tue, 06 Jan 2026 14:05:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

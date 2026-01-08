@@ -52,22 +52,29 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 1 – Actu.fr (Municipales 2026 : Farida Amrani tête de liste investie par LFI en Essonne)",
-        "details": "Farida Amrani est explicitement mentionnée comme candidate tête de liste pour les municipales 2026 dans l’Essonne, investie par La France insoumise."
+        "source_index": 1,
+        "explication": "Farida Amrani est explicitement candidate tête de liste investie par LFI en Essonne pour les municipales 2026."
       },
       {
-        "source": "Source 2 – Le Républicain de l'Essonne (Municipales 2026 à Evry-Courcouronnes : Farida Amrani candidate)",
-        "details": "Farida Amrani est présentée comme candidate aux municipales 2026 pour Évry-Courcouronnes."
+        "source_index": 2,
+        "explication": "Mentionne sa candidature aux municipales 2026 à Evry-Courcouronnes avec un programme spécifique pour cette élection."
       },
       {
-        "source": "Source 3 – Le Parisien (Municipales 2026 : Farida Amrani lance sa campagne à Évry)",
-        "details": "Son annonce officielle de campagne pour les municipales 2026 est confirmée, avec un focus sur Évry."
+        "source_index": 3,
+        "explication": "Confirme son lancement de campagne municipale à Évry pour les élections de 2026."
       },
       {
-        "source": "Source 4 – La Gazette France (Farida Amrani en campagne pour LFI à Évry)",
-        "details": "Contexte de sa candidature comme figure clé de LFI pour une première ville-préfecture des municipales 2026."
+        "source_index": 4,
+        "explication": "Souligne sa campagne pour être la première ville-préfecture de LFI aux municipales 2026 à Evry"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 – Actu.fr (Municipales 2026 : Farida Amrani tête de liste investie par LFI en Essonne)\",\n            \"details\": \"Farida Amrani est explicitement mentionnée comme candidate tête de liste pour les municipales 2026 dans l’Essonne, investie par La France insoumise.\"\n        },\n        {\n            \"source\": \"Source 2 – Le Républicain de l'Essonne (Municipales 2026 à Evry-Courcouronnes : Farida Amrani candidate)\",\n            \"details\": \"Farida Amrani est présentée comme candidate aux municipales 2026 pour Évry-Courcouronnes.\"\n        },\n        {\n            \"source\": \"Source 3 – Le Parisien (Municipales 2026 : Farida Amrani lance sa campagne à Évry)\",\n            \"details\": \"Son annonce officielle de campagne pour les municipales 2026 est confirmée, avec un focus sur Évry.\"\n        },\n        {\n            \"source\": \"Source 4 – La Gazette France (Farida Amrani en campagne pour LFI à Évry)\",\n            \"details\": \"Contexte de sa candidature comme figure clé de LFI pour une première ville-préfecture des municipales 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:15:14.020463Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Farida Amrani est explicitement candidate tête de liste investie par LFI en Essonne pour les municipales 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Mentionne sa candidature aux municipales 2026 à Evry-Courcouronnes avec un programme spécifique pour cette élection.\"},\n        {\"source_index\": 3, \"explication\": \"Confirme son lancement de campagne municipale à Évry pour les élections de 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Souligne sa campagne pour être la première ville-préfecture de LFI aux municipales 2026 à Evry\"}\n    ]\n}\n```"
   }
 }

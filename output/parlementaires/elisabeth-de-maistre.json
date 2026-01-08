@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Hauts-de-Seine",
     "commune": "Boulogne-Billancourt",
+    "position": "Pourrait être sur une liste",
     "filename": "elisabeth-de-maistre.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Les sources fournies concernent uniquement les **législatives partielles de 2025** à Boulogne-Billancourt (tournes en février 2025) et ne mentionnent aucune candidature aux **élections municipales de 2026**. Bien qu’Élisabeth de Maistre soit élue députée dans ce contexte, les données ne permettent pas d’en déduire une intention ou une déclaration explicite pour les élections municipales futures. Aucune information sur sa position municipale n’est disponible.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Les sources fournies concernent uniquement les **législatives partielles de 2025** à Boulogne-Billancourt (tournes en février 2025) et ne mentionnent aucune candidature aux **élections municipales de 2026**. Bien qu’Élisabeth de Maistre soit élue députée dans ce contexte, les données ne permettent pas d’en déduire une intention ou une déclaration explicite pour les élections municipales futures. Aucune information sur sa position municipale n’est disponible.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature aux municipales de 2026 dans les sources fournies. Les articles concernent uniquement des élections législatives partielles en 2025 et ne mentionnent pas explicitement un projet municipal pour 2026."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:08:56.529591Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales de 2026 dans les sources fournies. Les articles concernent uniquement des élections législatives partielles en 2025 et ne mentionnent pas explicitement un projet municipal pour 2026.\"}\n    ]\n}\n```"
   }
 }

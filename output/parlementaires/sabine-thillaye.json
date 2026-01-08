@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Indre-et-Loire",
     "commune": "nan",
+    "position": "nan",
     "filename": "sabine-thillaye.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Fabienne Colboc et Sabine Thillaye, deux candidates en Marche en Touraine&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 29 May 2017 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Le portrait des 5 députés d’Indre-et-Loire - 37° degrés",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWmFGUzN0SUhURHdYVllLVEh3UFhKRmtWVm84YzZNbjBjVkpwNUdSSmRGMkxKM3VWeU0xNEZ1aUd6ejEtQzdJcV82eUpfeGFHNmZ3RTdpbUEwUU9QZzFNR2Uzd1BLbm8zblozZEVmUFJkMDVFODI5OTd2VURySjVuWWcxWXhUdEk?oc=5",
+      "snippet": "Le portrait des 5 députés d’Indre-et-Loire&nbsp;&nbsp;37° degrés",
+      "date": "Sun, 07 Jul 2024 07:00:00 GMT",
+      "source": "37° degrés"
     }
   ],
   "analysis": {

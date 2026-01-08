@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Gard",
     "commune": "Vauvert",
+    "position": "Tête de liste",
     "filename": "nicolas-meizonnet.json"
   },
   "search_results": [
@@ -48,8 +49,37 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Les sources confirment que Nicolas Meizonnet (RN) a officiellement annoncé sa candidature aux **municipales de 2026** à Vauvert. Exemples :\n        - *Source 1* : « Municipales 2026 : pour Nicolas Meizonnet (RN), candidat aux municipales à Vauvert » (Midi Libre, 13 déc. 2025).\n        - *Source 3* : « officialise sa candidature pour les municipales » (Le réveil de midi, 12 déc. 2025).\n        - *Source 4* : « Elections municipales : Nicolas Meizonnet candidat à Vauvert » (même date et titre explicite).\n    \"\n]\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Les sources confirment que Nicolas Meizonnet (RN) a officiellement annoncé sa candidature aux **municipales de 2026** à Vauvert. Exemples :\n        - *Source 1* : « Municipales 2026 : pour Nicolas Meizonnet (RN), candidat aux municipales à Vauvert » (Midi Libre, 13 déc. 2025).\n        - *Source 3* : « officialise sa candidature pour les municipales » (Le réveil de midi, 12 déc. 2025).\n        - *Source 4* : « Elections municipales : Nicolas Meizonnet candidat à Vauvert » (même date et titre explicite).\n    \"\n]\n}\n```"
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Tous les titres et snippets confirment explicitement sa candidature aux municipales de Vauvert en 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Annonce officielle de la campagne municipale à Vauvert pour 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Candidature explicitement mentionnée comme officielle pour les municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Référence directe à sa candidature aux élections municipales à Vauvert sans date antérieure."
+      },
+      {
+        "source_index": 5,
+        "explication": "Déclaration de son intention de se présenter aux municipales de Vauvert en 2026."
+      }
+    ],
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:24:00.911976Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Tous les titres et snippets confirment explicitement sa candidature aux municipales de Vauvert en 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Annonce officielle de la campagne municipale à Vauvert pour 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Candidature explicitement mentionnée comme officielle pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Référence directe à sa candidature aux élections municipales à Vauvert sans date antérieure.\"},\n        {\"source_index\": 5, \"explication\": \"Déclaration de son intention de se présenter aux municipales de Vauvert en 2026.\"}\n    ]\n}\n```"
   }
 }

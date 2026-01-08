@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Hauts-de-Seine",
     "commune": "nan",
+    "position": "nan",
     "filename": "elsa-faucillon.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2020. Vers Le Mans en commun dévoile ses candidats&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 04 Feb 2020 08:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Elsa Faucillon : «Le basculement peut pencher vers le pire» - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNW94a2dab0Z2TmhLb1N1QU5xV1dsVTFtSXhRZ3ZQZGZrR0VWdm9zY3JxSEdsc3NuUmJ3RHgyMjZOLTI0OVlldjA0RFVzTE5CVUZ2cFZKYUNVNENnQ1RVbXUzaXpPVDJRM3RFNUM4dTR3UDg4aE55R0w0ZzlPSE5sTEtqRlRoc1prdnRsVmREUDJ4NjVIMm5hRllqT0YzRlZ0NHNGQ3JjUmFWUzhPeE9YdkRnOHRLZHFV?oc=5",
+      "snippet": "Elsa Faucillon : «Le basculement peut pencher vers le pire»&nbsp;&nbsp;Libération",
+      "date": "Sat, 16 May 2020 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

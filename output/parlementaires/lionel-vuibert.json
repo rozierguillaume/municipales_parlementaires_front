@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Ardennes",
     "commune": "Faissault",
+    "position": "Pourrait être sur une liste",
     "filename": "lionel-vuibert.json"
   },
   "search_results": [
@@ -49,7 +50,21 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Lionel Vuibert a explicitement annoncé sa candidature à une **législative partielle dans les Ardennes (1re circonscription) en 2024** (Source 5, francebleu.fr – 31 Oct 2024). Bien que cette élection ne soit pas municipale, son engagement politique récent et sa visibilité médiatique suggèrent qu’il pourrait être en préparation pour des élections municipales futures (notamment en 2026), notamment dans les Ardennes ou d’autres territoires où il a déjà une base électorale.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Lionel Vuibert a explicitement annoncé sa candidature à une **législative partielle dans les Ardennes (1re circonscription) en 2024** (Source 5, francebleu.fr – 31 Oct 2024). Bien que cette élection ne soit pas municipale, son engagement politique récent et sa visibilité médiatique suggèrent qu’il pourrait être en préparation pour des élections municipales futures (notamment en 2026), notamment dans les Ardennes ou d’autres territoires où il a déjà une base électorale.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 4,
+        "explication": "Lionel Vuibert exprime des intentions politiques en lien avec une future élection législative, suggérant une préparation à des mandats futurs incluant les municipales."
+      },
+      {
+        "source_index": 5,
+        "explication": "Son annonce explicite de candidature dans une circonscription des Ardennes pour une législative partielle (2024) implique une intention de se présenter aux élections municipales futures en tant que candidat potentiel."
+      }
+    ],
+    "used_sources": [
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:18:44.396876Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4, 5],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Lionel Vuibert exprime des intentions politiques en lien avec une future élection législative, suggérant une préparation à des mandats futurs incluant les municipales.\"},\n        {\"source_index\": 5, \"explication\": \"Son annonce explicite de candidature dans une circonscription des Ardennes pour une législative partielle (2024) implique une intention de se présenter aux élections municipales futures en tant que candidat potentiel.\"}\n    ]\n}\n```"
   }
 }

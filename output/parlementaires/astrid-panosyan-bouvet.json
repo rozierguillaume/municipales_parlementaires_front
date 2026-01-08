@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Paris",
     "commune": "nan",
+    "position": "nan",
     "filename": "astrid-panosyan-bouvet.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales : à Paris, les macronistes menacent de présenter un candidat face à Dati&nbsp;&nbsp;l'Opinion",
       "date": "Fri, 05 Sep 2025 07:00:00 GMT",
       "source": "l'Opinion"
+    },
+    {
+      "title": "Municipales à Paris : Renaissance choisit Pierre-Yves Bournazel et écarte Rachida Dati - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVRRMHhOLUE2ZjYzWlo2dTdWWTBFUzVKSUl3bEE2bFJvdVFXMXJ5MWxvQ1NMb3ZvNDJqYkdWajBFMWgyTE9TNUJQa2EzaWNIWkk2dEJmOXh4ZENsU3JWTzRFT2tlUnZrZEVKc2hMNllSTTJrYnZZNjl2bTRXMnV1d3owVFIwb1d2bE1feHV6NVVUZXVPT2U2YUJ6RWFGQjRoTzdFLWhyRXZ1VTNMWG9OTk12cmQ3S2JxUzJPTlE5YUV1dy0tUHZr?oc=5",
+      "snippet": "Municipales à Paris : Renaissance choisit Pierre-Yves Bournazel et écarte Rachida Dati&nbsp;&nbsp;mesinfos",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {

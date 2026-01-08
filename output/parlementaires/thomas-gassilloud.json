@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Rhône",
     "commune": "nan",
+    "position": "nan",
     "filename": "thomas-gassilloud.json"
   },
   "search_results": [
@@ -45,6 +46,27 @@
       "snippet": "Législatives : dans le Rhône, les marcheurs bousculés par la gauche&nbsp;&nbsp;Libération",
       "date": "Mon, 13 Jun 2022 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Législatives : Thomas Gassilloud (Ensemble !) n’a pas tremblé dans les Monts du Lyonnais - Lyon décideurs",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenJ6YVExQndTMmtCajdWSmwySkNHckZ0Yk5ZNy1ad202WmpNR190cHBmMmNRVUxMUTVpS210cWpSU2ZJLVBjY2IwRnRxb2FPRzhhV1FJVC04NEJpWWk4ZjZaR01acDNtZVZWUmJRWDY4STU1ckpDVWVVRWJFM3hGcEt4eG1OTjJIWXhTR3VvRTBzMUdUTDFRVlEwZUthcnRLYk9PMUUtU1hOZnhyWkh4YzFwZ3ZINkdHQ3lCOGt3?oc=5",
+      "snippet": "Législatives : Thomas Gassilloud (Ensemble !) n’a pas tremblé dans les Monts du Lyonnais&nbsp;&nbsp;Lyon décideurs",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "Lyon décideurs"
+    },
+    {
+      "title": "Dans le Rhône, le Nouveau Front populaire détrône la majorité présidentielle - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOFdoZHZBdkdyVHg4WWFxRFNiV1VLR3IzekFQcndGc1RuRHFEVDdMTXMyOE9JOUV1NldzNzR2QmVsQ2VvZ3hEN21KY2NZYWRsS2ppcGgtb1pod0ltVHZ1a0RzNFZLWHpYbnVMeWdFZ0J1TjM0aE1VY1p3NkhINnRrQVVIa1NzdlJNNTFsRGU2Y09EclRfMkVkeWN1azNTQUtFUTZqVS1vUE0zanFwRW1YbUxKNDdhMnF0bFdtenVEbzNIa1lOdmNyZnRGTldzQVdWUEJKY2xGOTFUOHNvQnNTel96U0dHdFFCWEN2Wko5Zw?oc=5",
+      "snippet": "Dans le Rhône, le Nouveau Front populaire détrône la majorité présidentielle&nbsp;&nbsp;Libération",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Saint-Symphorien-sur-Coise. Jérôme Banino sera candidat à sa propre succession en mars - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHBNVnFsOThPZWExeTlQdmw3MkJWZnlCdmI5R2YzZnNxbTkySDJ4SGw4Q1JYVTcyLXc0anFlNWV5cVlaSGlMMkI5QVBYblo5cTBGQ2g1bmUxdHRMOGEwcjJ4dlNnOU5YeWdDWkpSTk44N2VTSllCcWxHR2dQYWhxelRQM0dSWGk1VS1YUW1ISkxQeTYtV0VqT1F4VFgydWRBZ3FmLXE2VQ?oc=5",
+      "snippet": "Saint-Symphorien-sur-Coise. Jérôme Banino sera candidat à sa propre succession en mars&nbsp;&nbsp;Le Progrès",
+      "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "source": "Le Progrès"
     }
   ],
   "analysis": {

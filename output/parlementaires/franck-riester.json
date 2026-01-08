@@ -5,12 +5,20 @@
     "nom": "RIESTER",
     "prenom": "Franck",
     "full_name": "Franck RIESTER",
-    "parti": "nan",
+    "parti": "HOR",
     "departement": "Seine-et-Marne",
-    "commune": "nan",
+    "commune": "Coulommiers",
+    "position": "Pourrait être sur une liste",
     "filename": "franck-riester.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 à Dijon : l'ancienne ministre et députée Fadila Khattabi candidate Renaissance pour mener une liste - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQzhBc083TkdLa2tnYjVhMW9vcmtIaGVUVng4SEltOXd4VkxnU2lNMUY1Wm0yRmE1QmcybjN5N0RlMW9GMFZGcG8zdlZrLUlBWDVkMDJpOWhVNG96RUhnT1hwMm54Y1hsREp5TE9kMzUwVVlYcURQMHFEUkV6aTRQVGRiWmRSZnlUX1QwZFhqU21Da0ZoTWozUlFyaXY1ak1TZ3NWUUhCQVRTWFFqRENfV0hLTHFVbl9qTmxTWG9GYy1KYWhqamlqcXAxTWZWXzJ3RVptanVRd1AxdXJxbzNHRUZfSzFoUFhFcmp5UTVHdVp5V2F2UmNN?oc=5",
+      "snippet": "Municipales 2026 à Dijon : l'ancienne ministre et députée Fadila Khattabi candidate Renaissance pour mener une liste&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
     {
       "title": "Municipales : à Paris, Renaissance préfère Pierre-Yves Bournazel à Rachida Dati - La Tribune",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUVBHanQzVmdOMUdzd0J1akZwT3hGLUtMTjd2eWJ0NnVxTGUtRkFKQXNKQk54NzI4cHozU0hXWkdzSTJBR0dSTXlwSGszaTVzRzNrWW50cFNEZ1NiQUFKNmxTRmZOUlNzSHVZWVBIb3hUcDBfWlE3WlJJRklMX2lycGg2U0I3TmJ3dHdRN1N1S0dfOU02UGNQMXRVeUJBWERlQmlaUGVBd1lwdW51amxreUVCUThPbXhWcDJ6cnQ2RFVCRy1uVmdrQmV2Rkg2X0xSNWp2UmM2bG1ocVpfcVVFMWRSQ2tpT3Qtb3c?oc=5",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucune source ne mentionne explicitement **Franck Riester** comme candidat aux élections municipales de Paris pour les **Municipales 2026**. Les articles des sources consultées (La Tribune, Les Echos, Libération, Le Monde.fr) se concentrent sur la dynamique interne autour de **Renaissance**, en particulier le choix entre Pierre-Yves Bournazel et Rachida Dati. Bien que Franck Riester soit associé à Renaissance, il n’est pas identifié comme un candidat officiel pour cette élection spécifique dans les résultats fournis.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement **Franck Riester** comme candidat aux élections municipales de Paris pour les **Municipales 2026**. Les articles des sources consultées (La Tribune, Les Echos, Libération, Le Monde.fr) se concentrent sur la dynamique interne autour de **Renaissance**, en particulier le choix entre Pierre-Yves Bournazel et Rachida Dati. Bien que Franck Riester soit associé à Renaissance, il n’est pas identifié comme un candidat officiel pour cette élection spécifique dans les résultats fournis.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Franck Riester comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent principalement des dynamiques internes à Renaissance ou d'autres figures (Khattabi, Bournazel) sans lien direct avec Riester."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:12:10.997395Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Franck Riester comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent principalement des dynamiques internes à Renaissance ou d'autres figures (Khattabi, Bournazel) sans lien direct avec Riester.\"}\n    ]\n}\n```"
   }
 }

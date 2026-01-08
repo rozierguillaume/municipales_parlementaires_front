@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Dordogne",
     "commune": "Bergerac",
+    "position": "Sur une liste ",
     "filename": "serge-muller.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Ce candidat RN aux municipales de Bergerac a aussi des ambitions pour l'Agglomération&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 15 Dec 2025 08:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026 à Bergerac : le Rassemblement National lance Christian Gérard, 25 ans, dans la course à la mairie - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR3BuM19UQzJaR0xScldLY3lfRktpSV9CREFnZm1fWjNMTzBXbHVqVkhTZGJRbTRreEJNbkR2OExnRFhUcC1aRWY0M1JyeThBZFV0ekNNU3lsQW9MSGI5aUNkaGZEbWEyQ016aWdPTk13R192SVVFdWlRaExScFN0bGVBZ2JmUzV2aVQwNW1ZaldfR2YzZVM5c21TbEI0ZFFNNTN0Z2tVa1pmbi1STTdlVjFWWDZrYjZ6YzRyd2FPSkQxVXFnOHZ0SmlBOXZ5Wll2eHpjMWtzVXhYTWxnalZGZmZVR2dGNzY2czVBSVpsbHhWQQ?oc=5",
+      "snippet": "Municipales 2026 à Bergerac : le Rassemblement National lance Christian Gérard, 25 ans, dans la course à la mairie&nbsp;&nbsp;Sud Ouest",
+      "date": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "source": "Sud Ouest"
     },
     {
       "title": "Municipales 2026 à Bergerac : le jeune Christian Gérard portera les espoirs du Rassemblement national - Sud Ouest",
@@ -48,11 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "NON",
     "justification": [
-      "Source 5 : 'Élections municipales en Dordogne : le député RN Serge Muller sera sur la liste de son parti à Bergerac' (08 Sep 2025) – mention explicite de sa participation aux municipales de Bergerac pour 2026.",
-      "Sources 2 et 4 : Références indirectes à ses ambitions pour les municipales de Bergerac en 2026 via le Rassemblement National (RN)."
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Serge Muller comme candidat aux municipales 2026 dans les sources fournies"
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Source 5 : 'Élections municipales en Dordogne : le député RN Serge Muller sera sur la liste de son parti à Bergerac' (08 Sep 2025) – mention explicite de sa participation aux municipales de Bergerac pour 2026.\",\n        \"Sources 2 et 4 : Références indirectes à ses ambitions pour les municipales de Bergerac en 2026 via le Rassemblement National (RN).\"\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:24:59.049525Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Serge Muller comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

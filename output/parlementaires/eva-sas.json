@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Paris",
     "commune": "nan",
+    "position": "nan",
     "filename": "eva-sas.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "76 députés élus dès le premier tour, dont la moitié Rassemblement national&nbsp;&nbsp;Le Courrier des maires",
       "date": "Mon, 01 Jul 2024 07:00:00 GMT",
       "source": "Le Courrier des maires"
+    },
+    {
+      "title": "Présidentielle 2022 : le candidat des Verts sera désigné via une primaire avant fin septembre 2021 - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZGZJRGNwM2h1Y3dUQ2JqRWdBMkE2MDRqVzZUaGhRcGVlczc0bnQxQ0Q0YUlvVDdDMG5vRkFGalB4N3dhTDdrM1Y5UzB6UFo3V1B2ZWt2Q2NUbHhKX2pjX0hnci00ZFBMSlQ4Tlg2NkRtcE94eW04RVViTnlsVUZiRzR4VkwxczBwcWdQU28wOFZmM09YcDg4U0EzRnZGRmt1NWEtcXdQNmNvNFUzRkJYTEZrZGhYcXl4OTk0eUFZQ190aU4zN1p5UnVHWXBhOUtvZDhFQ2JFMjM2VUsySGFlQ0hjVmFSSllZWnlWbg?oc=5",
+      "snippet": "Présidentielle 2022 : le candidat des Verts sera désigné via une primaire avant fin septembre 2021&nbsp;&nbsp;Les Echos",
+      "date": "Mon, 23 Nov 2020 08:00:00 GMT",
+      "source": "Les Echos"
     }
   ],
   "analysis": {

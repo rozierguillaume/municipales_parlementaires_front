@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Saône-et-Loire",
     "commune": "Mâcon",
+    "position": "Pourrait être sur une liste",
     "filename": "aurelien-dutremble.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Aurélien DUTREMBLE** comme candidat aux élections municipales de 2026. Les sources évoquent uniquement d'autres figures politiques (comme Pauline Humbert) ou des stratégies du Rassemblement National dans différentes communes, sans lien direct avec Aurélien Dutremble.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Aurélien DUTREMBLE** comme candidat aux élections municipales de 2026. Les sources évoquent uniquement d'autres figures politiques (comme Pauline Humbert) ou des stratégies du Rassemblement National dans différentes communes, sans lien direct avec Aurélien Dutremble.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Aurélien DUTREMBLE comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:39.815138Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Aurélien DUTREMBLE comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

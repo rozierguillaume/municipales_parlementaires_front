@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Guadeloupe",
     "commune": "nan",
+    "position": "nan",
     "filename": "olivier-serva.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "LREM. Olivier Serva s'excuse après ses propos sur l'homosexualité&nbsp;&nbsp;Ouest-France",
       "date": "Thu, 01 Jun 2017 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Législatives 2024 : Antilles, Guyane, Polynésie, Nouvelle-Calédonie... découvrez les résultats en Outre-mer - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2lVMlZtVG5mTERjZW5LeUlqU2JiTkhrTGNnaWlfb1lXY2wwR0ZPSXhiWjlUSGNTSVp6YkNxdWRnOUZWTEgybk5HdDFFM1I1SUxZYU14QzRBTWNaeGRDZzVVODQxcy1xVktqN1g3aFF1SGJwWV9GbFdZbnRkVlhWNVpRZHZYYU1BU2szRVUya2Y1WGd2RS0zQkpHZ2RJbHBVX2RfQTh0U20zejVxR0tkeDMtYXZNX0NDcWFzODhHS0hrOUEzV1ZrcF9DcnhFQQ?oc=5",
+      "snippet": "Législatives 2024 : Antilles, Guyane, Polynésie, Nouvelle-Calédonie... découvrez les résultats en Outre-mer&nbsp;&nbsp;Le Figaro",
+      "date": "Sun, 30 Jun 2024 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {

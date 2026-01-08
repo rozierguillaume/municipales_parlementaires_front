@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Bas-Rhin",
     "commune": "nan",
+    "position": "nan",
     "filename": "francoise-buffet.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Yvetot. Françoise Deniau : une première déclaration de candidature pour les municipales&nbsp;&nbsp;lecourriercauchois.fr",
       "date": "Mon, 03 Nov 2025 08:00:00 GMT",
       "source": "lecourriercauchois.fr"
+    },
+    {
+      "title": "Côtes-d'Armor. Municipales 2026 : le maire de Saint-Mayeux a pris sa décision - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFhzWkp1el9idG1UWjRLQTMxZlpHLXY2Nk92cUhBMFRJd3djNHpVU2tZV0lKUHBSN0pNU1NTV0YxYW1fWXlRV1ZqeTQ2YVY5cEJHbzN2X0FlMndObEtoRUJ1amRnc3ozM216Vl9xNVpUeTdwU3dDS2x6SzBDbGhHcXVhNWp0UWZEcWRTOElfWGJlMnlSeFhHaXZaR0IwNjRrTngwVEZvWGNQN0ZmemVmLWJyVGpZd2VKclZ0clNDWXhCNF9YbDU5WW94Yw?oc=5",
+      "snippet": "Côtes-d'Armor. Municipales 2026 : le maire de Saint-Mayeux a pris sa décision&nbsp;&nbsp;Actu.fr",
+      "date": "Wed, 07 Jan 2026 18:31:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2026. Débarrasser Ostwald de « son étiquette de ville-dortoir » : Dylan Hirn consulte et réfléchit - DNA.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeVIySUhuUlJQMHVnb2lZVVJ0VjBnWHp5dmE1bm02TFZ3bGhCY2ZXZW5nNEtBUFQxRU5PU1daU2pJdmhrOTg4YW1idm0yMExpYlBzS0FPU0pXYVZuQ3RnWXo1UWExMmlwZnRNa1J2TUF4emhWTlhnd0w2N3lUUDhMX3p4YUNNVlJ4djlnaEMzWTZYQ0FzeDdrbk9NX041b19ObDVEUzc2UHJLVDJja3VNY0JYRHQ4ODNvQV84RmctV21FbnZEbHVESnVfeFpoMVhOd2dj?oc=5",
+      "snippet": "Municipales 2026. Débarrasser Ostwald de « son étiquette de ville-dortoir » : Dylan Hirn consulte et réfléchit&nbsp;&nbsp;DNA.fr",
+      "date": "Sun, 27 Jul 2025 07:00:00 GMT",
+      "source": "DNA.fr"
     }
   ],
   "analysis": {

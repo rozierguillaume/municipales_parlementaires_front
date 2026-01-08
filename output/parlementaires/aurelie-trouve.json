@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-Saint-Denis",
     "commune": "nan",
+    "position": "nan",
     "filename": "aurelie-trouve.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : à six mois des élections, qui est candidat dans l'Yonne ?&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 15 Sep 2025 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026 à Rennes : le Rassemblement national mise sur des candidats « discrets » pour boucler sa liste - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNckpuR2Z2Zk1ZLWF3eG8tVW9hX0ltcExFS091UHhiR29sS3NhalNud2lXN29zNHF4U3NyeHc2MExVem9TVlRxRHk1em9yZXJ2dUswaklCSUk3N2o1VUtnd1pELS00Tkc2ckFJMDllanZjZ3IwcFBBYXRjV0Q1Sm9nS2p4QlVPQVJGYV93UzJzZDJ1RF9sSXZheFcwbDVFSzdqRlJYOFVRY2Y3RFNHUzJQOWo2T2FFc2RpWXh1NVFoa25SdzZJZHQ5R2FDSmpzYXI3QXZlYVpqMVNHUFJxd01PTlV1SWJmaElpVXozeElEOTZBWkRnM3pWMk5jdlJ6MEl3YTYxM0dUckFHNXpWM2FDN1ZzbVNoMElFZWFzVg?oc=5",
+      "snippet": "Municipales 2026 à Rennes : le Rassemblement national mise sur des candidats « discrets » pour boucler sa liste&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

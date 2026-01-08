@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Hauts-de-Seine",
     "commune": "Clamart",
+    "position": "Pourrait être sur une liste",
     "filename": "jean-didier-berger.json"
   },
   "search_results": [
@@ -40,6 +41,13 @@
       "source": "Le Parisien"
     },
     {
+      "title": "«La métropole du Grand Paris a démontré son caractère nuisible», le député LR Jean-Didier Berger défend sa suppression - CNews",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ3h6YVFldlJwbG5oVncxcDFpVDBqdDdXWFRWbVpNMlNfLTl1ZG50el96R0lmc1hmVjQ5SHJraG44LXVVUVZpVS1lek03eHV1MEhyVDNfd0NpVTVoUTZ6cEJZR25UcDdURmgtZ0ljU0VmaUxPSjZNeTlrakZXWHhTdlluSloxWnVKNm14T09ER1BHbG9CZzlhalN0TElkN1ZTUmhHajREaHFkeTBCYnVaUDFwUU8wblXSAbwBQVVfeXFMUHJsNTh4MFBqOUxMQUZ6VFRYVENINWpSaDgxakppa2JBOFM5V0EzbXlTeUlfbGc2VEQyQ2QxX3RCZkxNUTR0UVVrM2RDZk9Zb19Hd3pnZVhfSUVudVZsQXhnTUR1Tml6dmZYaFRtUTE0UHIwT0VReHlHOVlRalFNcTRjbkVHcHhBdy1yM2xOMzlKOHNDd2pLSWN1bEw0V3pYa21ROER3bW9tQWtFb0p3TUxkTkFuLVRVZU1BWEY?oc=5",
+      "snippet": "«La métropole du Grand Paris a démontré son caractère nuisible», le député LR Jean-Didier Berger défend sa suppression&nbsp;&nbsp;CNews",
+      "date": "Sat, 14 Jun 2025 07:00:00 GMT",
+      "source": "CNews"
+    },
+    {
       "title": "UN DUO POUR AVANCER - Ville de Clamart",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qd2dvaG44YjdoeUh5RnhiVGNHNU1SRk0yUTZncTBQVjJlQTFZck1HUkc5VGd6MHR5OTJKQTdDcHBFVklxVXFaQnEwdWZINWFEQm1TWUg5RlNURktiR0d1ckQwekZkeHM?oc=5",
       "snippet": "UN DUO POUR AVANCER&nbsp;&nbsp;Ville de Clamart",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Jean-Didier Berger** comme candidat aux élections municipales de 2026. Les sources citées concernent soit :\n    - Jean-Pierre Berger (Source 1, autre nom),\n    - Des analyses générales sur la rentrée politique ou les défis municipaux sans lien avec un individu spécifique,\n    - Une commission d’investiture des Républicains (Source 3) ou une annonce locale pour Clamart (Source 5).\n    Aucune mention directe de Jean-Didier Berger n’apparaît dans les snippets analysés.\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Jean-Didier Berger** comme candidat aux élections municipales de 2026. Les sources citées concernent soit :\n    - Jean-Pierre Berger (Source 1, autre nom),\n    - Des analyses générales sur la rentrée politique ou les défis municipaux sans lien avec un individu spécifique,\n    - Une commission d’investiture des Républicains (Source 3) ou une annonce locale pour Clamart (Source 5).\n    Aucune mention directe de Jean-Didier Berger n’apparaît dans les snippets analysés.\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Jean-Didier Berger comme candidat aux municipales de 2026 dans les résultats fournis."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:08:27.111191Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jean-Didier Berger comme candidat aux municipales de 2026 dans les résultats fournis.\"}\n    ]\n}\n```"
   }
 }

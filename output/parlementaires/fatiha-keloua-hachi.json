@@ -8,9 +8,24 @@
     "parti": "LR",
     "departement": "Seine-Saint-Denis",
     "commune": "Rosny-sous-Bois",
+    "position": "Pourrait être sur une liste",
     "filename": "fatiha-keloua-hachi.json"
   },
   "search_results": [
+    {
+      "title": "Sept PS et une LR : qui sont les députés qui ont voté la censure du gouvernement Lecornu contre la consigne de leur groupe - Libération",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMzhYQnBxcTVCX1paWjY0QWhRVkNTSzNUZjBYZUE2MzMybC1Sd3dnYldCdUpQU01IQnZsUHNLUWVyeWI0dEhuSDhRWGNiYzVXTVdOUWdTWmFiVmhIUk9SSHdmVmtXWUIxamt4WTNhSGM0RElLNFhCbkRQLTI1VTBUek13QnIyZWFNRVExNExnQXJpdURGZXlaNkV6ZkdwbHdVRzlDcGdfQnIwQ2NYaDhyUXdWQXZVYjF6QXN0eEVJaE9DMzM2ajNkLTdnWGk5M0FWRGd6ZXdWSm55VUM2U21fZmphd3JrYjhVQW9lMElnZGNHbFVMeTB1SFQ5RTl6ZDBUbXRJQ3hGeThRTVdvbElTY082X2l1VE1qYWVDT0VB?oc=5",
+      "snippet": "Sept PS et une LR : qui sont les députés qui ont voté la censure du gouvernement Lecornu contre la consigne de leur groupe&nbsp;&nbsp;Libération",
+      "date": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Gouvernement Lecornu II : de la droite au PS, les voix en faveur de la censure se multiplient - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVUVVZWxkVVZlME9RZVBJOGhUbFZjV3k5WmtqV2JodVhMaE04cVRrRXNjcjhOdndubjRMT29VSUdGakplcW44VnphRzVGdWp5b1BKZTVDR1JNbTdHUkQ3eHNDd1lOYUozNUs0Nzc5STVmVnhOT3lULVY4eHhPLVg1emZhVG94aEdibGczclViWmY0VVVOYmRrZ0k1S3lBRlhJenZlUWI5dk1icVFKcHpvTGllcjdQUmt0VFdOVWRDU3draDlYR3ExMWZCOHIzTmZrWkFXU2hoVWZkVXVtVk8za3A5WWJVczUxX1lV?oc=5",
+      "snippet": "Gouvernement Lecornu II : de la droite au PS, les voix en faveur de la censure se multiplient&nbsp;&nbsp;Libération",
+      "date": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "source": "Libération"
+    },
     {
       "title": "Ce qui se cache derrière la bataille autour des postes clés de l'Assemblée nationale - Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTlpjNHdmTGM4RzNqbXZIRUpnQmxVTjZIQk5IdnBROXJKbXZ4MVk0SVRxS1RTN1pqbGZvUU45UFFhVk5sOEFfRUxYLU9XX1lYT2dvOGhtNGxZUFA2MVhQVmlNVzlwRUVIc0xMQlpRdFdXU0tWRnRpdll2NS1xT2tuNndPZ01XTVQxNW96RUlObTB0dnhlc2VEZ2t2b0F0cDNNTGhHR3FKcFhMWVZidTN2SA?oc=5",
@@ -48,8 +63,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Fatiha Keloua Hachi** ni dans le contexte des élections municipales de 2026. Les articles cités concernent d'autres figures politiques (Emmanuel Grégoire, Rachida Dati) ou des sujets non liés à sa candidature.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Fatiha Keloua Hachi** ni dans le contexte des élections municipales de 2026. Les articles cités concernent d'autres figures politiques (Emmanuel Grégoire, Rachida Dati) ou des sujets non liés à sa candidature.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune information pertinente sur Fatiha Keloua Hachoui comme candidate aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:20:21.129550Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information pertinente sur Fatiha Keloua Hachoui comme candidate aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

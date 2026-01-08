@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Puy-de-Dôme",
     "commune": "Clermont-Ferrand",
+    "position": "Pourrait être sur une liste",
     "filename": "nicolas-bonnet.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "La République du Centre"
     },
     {
+      "title": "Biarritz : sept listes en préparation pour les municipales - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDJqaUpaeFVZVXoyQ1p3em5sc29ZeGlGejlNQ0hQNUVBTUJhX1YzUkZ2OGxmU21PdVJEUVpXYTBVVHlHcS01dmhnak9UVFdsSkJ1U21DRTVBb2xrNjczbTktTF9pa0JfcklSajJNcVp6X2VNTmNWQVRSMm1qWUxid3pDYW5nZkhFdnpXZ3B4ZnNSYzVnODhZNk5QaERjSEdMQzVGSy0wSkVWZlh1MHlhbGYzaGtXUkRsTWN1T3Z3bTc?oc=5",
+      "snippet": "Biarritz : sept listes en préparation pour les municipales&nbsp;&nbsp;Sud Ouest",
+      "date": "Sun, 21 Sep 2025 07:00:00 GMT",
+      "source": "Sud Ouest"
+    },
+    {
       "title": "« Municipales 2026 : avant la bataille » : entretien avec Nicolas Bonnet - 7 Jours à Clermont",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05WEVaMDlhbTU0ZmdJWlQ3T19CNUswbXZfdF9UYU1lT21KSVpfNGlTdExIUjlld1ZQYTZtc3ZtamVRUXpvSzlEblkzdUNIRHh1Zk9uY0U4cjQwZw?oc=5",
       "snippet": "« Municipales 2026 : avant la bataille » : entretien avec Nicolas Bonnet&nbsp;&nbsp;7 Jours à Clermont",
@@ -48,29 +56,17 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "OUI",
     "justification": [
       {
-        "source": "Source 1: La Provence – Mentions Nicolas Koukas (pas Nicolas Bonnet)",
-        "analyse": "Aucune mention explicite de Nicolas Bonnet dans ce contexte."
-      },
-      {
-        "source": "Source 2: Nice-Matin – René Bonnet",
-        "analyse": "Le nom est différent (René Bonnet vs Nicolas Bonnet)."
-      },
-      {
-        "source": "Source 3: La République du Centre – Christophe Bonnet",
-        "analyse": "Autre personne (Christophe Bonnet) et pas de confirmation pour Nicolas Bonnet."
-      },
-      {
-        "source": "Source 4: 7 Jours à Clermont – Entretien avec Nicolas Bonnet",
-        "analyse": "Nicolas Bonnet est cité, mais le contexte reste un entretien général sur les municipales **2026** (pas une annonce officielle de candidature)."
-      },
-      {
-        "source": "Source 5: La France insoumise – Candidatures collectives",
-        "analyse": "Mentionne l’engagement des partis dans les municipales, mais pas Nicolas Bonnet en tant que candidat spécifique."
+        "source_index": 5,
+        "explication": "Entretien explicitement lié aux municipales de 2026 et mention directe du nom Nicolas Bonnet"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1: La Provence – Mentions Nicolas Koukas (pas Nicolas Bonnet)\",\n            \"analyse\": \"Aucune mention explicite de Nicolas Bonnet dans ce contexte.\"\n        },\n        {\n            \"source\": \"Source 2: Nice-Matin – René Bonnet\",\n            \"analyse\": \"Le nom est différent (René Bonnet vs Nicolas Bonnet).\"\n        },\n        {\n            \"source\": \"Source 3: La République du Centre – Christophe Bonnet\",\n            \"analyse\": \"Autre personne (Christophe Bonnet) et pas de confirmation pour Nicolas Bonnet.\"\n        },\n        {\n            \"source\": \"Source 4: 7 Jours à Clermont – Entretien avec Nicolas Bonnet\",\n            \"analyse\": \"Nicolas Bonnet est cité, mais le contexte reste un entretien général sur les municipales **2026** (pas une annonce officielle de candidature).\"\n        },\n        {\n            \"source\": \"Source 5: La France insoumise – Candidatures collectives\",\n            \"analyse\": \"Mentionne l’engagement des partis dans les municipales, mais pas Nicolas Bonnet en tant que candidat spécifique.\"\n        }\n    ],\n    \"conclusion_par_sources\": [\n        {\n            \"statut_individuel\": \"NON\",\n            \"source\": \"Source 1\"\n        },\n        {\n            \"statut_individuel\": \"INCERTAIN\",\n            \"source\": \"Source 2 (René Bonnet)\"\n        },\n        {\n            \"statut_individuel\": \"NON\",\n            \"source\": \"Source 3 (Christophe Bonnet)\"\n        },\n        {\n            \"statut_individuel\": \"INCERTAIN\",\n            \"source\": \"Source 4 (entretien, pas annonce explicite de candidature)\"\n        },\n        {\n            \"statut_individuel\": \"NON\",\n            \"source\": \"Source 5\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:12:27.179964Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Entretien explicitement lié aux municipales de 2026 et mention directe du nom Nicolas Bonnet\"}\n    ]\n}\n```"
   }
 }

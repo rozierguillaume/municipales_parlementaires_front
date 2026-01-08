@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Côtes-d'Armor",
     "commune": "Quintin",
+    "position": "Pourrait être sur une liste",
     "filename": "corentin-le-fur.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Vœux municipaux : à Grâce-Uzel, le maire se présentera aux prochaines élections&nbsp;&nbsp;Le Télégramme",
       "date": "Sun, 04 Jan 2026 14:42:23 GMT",
       "source": "Le Télégramme"
+    },
+    {
+      "title": "Municipales 2026. Et si une liste du Rassemblement national se présentait à Lamballe-Armor ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZHBlbWNpa0JnNENiQTVLUGctWVoyMkRIVzA0Q0RiWGNZZjhLMVZVQWdySFZrcWsyY0Rka1RaS2RLZEI2WjQ5NWdMTkx6S1BvNm11eWY2QmltYVhBVEU3Y19zWTl5UTFlOWtsUllPWkkxbVdBbjVreThhRDAyUE1DaHBQTzNidkxULTFxLVk5QWFwRE81TmVKZkJPOEJuOXYyQlRLeFJfVmxaaEt0aE1yMVZMQ2pSV1hsYXNfd1F5SlBRcW82VV9UcW1VdzNnX2tQMEdRWEhNTmVJT2l5bGlmNjZyWXB1T3VMTFpqbjU5aEJSWFY1T05MQnlNSXUwOXFOcUVfMVdMRQ?oc=5",
+      "snippet": "Municipales 2026. Et si une liste du Rassemblement national se présentait à Lamballe-Armor ?&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "source": "Ouest-France"
     },
     {
       "title": "Municipales 2026 : Antoine Ravard sera-t-il le candidat de la majorité sortante à Lamballe ? - Ouest-France",
@@ -49,7 +57,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Corentin LE FUR** ni sa candidature aux élections municipales de 2026. Les sources citées concernent d'autres maires (Yohann Hervo, Antoine Ravard, Philippe Hercouët) ou des analyses stratégiques pour d’autres communes (Lamballe, Grâce-Uzel, Eaubonne). Aucune mention directe ne permet de conclure.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Corentin LE FUR** ni sa candidature aux élections municipales de 2026. Les sources citées concernent d'autres maires (Yohann Hervo, Antoine Ravard, Philippe Hercouët) ou des analyses stratégiques pour d’autres communes (Lamballe, Grâce-Uzel, Eaubonne). Aucune mention directe ne permet de conclure.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Corentin LE FUR dans les résultats fournis comme candidat aux municipales 2026"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:09:32.584097Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Corentin LE FUR dans les résultats fournis comme candidat aux municipales 2026\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "HOR",
     "departement": "Vendée",
     "commune": "La Roche-sur-Yon",
+    "position": "Pourrait être sur une liste",
     "filename": "beatrice-bellamy.json"
   },
   "search_results": [
@@ -48,17 +49,17 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "OUI",
     "justification": [
       {
-        "source": "Source 5 (francebleu.fr - 20 juin 2022)",
-        "explication": "Béatrice Bellamy est mentionnée comme une députée élue aux législatives de 2022, mais rien n'indique qu'elle soit candidate pour les municipales de 2026 dans cette source."
-      },
-      {
-        "source": "Aucune mention explicite sur Béatrice Bellamy en lien avec des candidatures pour les Municipales 2026 dans les sources fournies (Ouest-France, Actu.fr, Le Progrès, RCF Radio).",
-        "explication": "Bien que certaines sources évoquent des campagnes ou des listes de droite pour des municipales futures (Saint-Hilaire-de-Riez et La Roche-sur-Yon), aucune ne précise qu'elle est candidate."
+        "source_index": 5,
+        "explication": "Béatrice Bellamy est explicitement présentée comme une candidate aux législatives de La Roche-sur-Yon Sud/Talmont en 2022, mais mentionne son rôle politique actuel et potentiel dans des élections municipales futures (2026) sans exclure sa candidature."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 5 (francebleu.fr - 20 juin 2022)\",\n            \"explication\": \"Béatrice Bellamy est mentionnée comme une députée élue aux législatives de 2022, mais rien n'indique qu'elle soit candidate pour les municipales de 2026 dans cette source.\"\n        },\n        {\n            \"source\": \"Aucune mention explicite sur Béatrice Bellamy en lien avec des candidatures pour les Municipales 2026 dans les sources fournies (Ouest-France, Actu.fr, Le Progrès, RCF Radio).\",\n            \"explication\": \"Bien que certaines sources évoquent des campagnes ou des listes de droite pour des municipales futures (Saint-Hilaire-de-Riez et La Roche-sur-Yon), aucune ne précise qu'elle est candidate.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:13:46.202755Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Béatrice Bellamy est explicitement présentée comme une candidate aux législatives de La Roche-sur-Yon Sud/Talmont en 2022, mais mentionne son rôle politique actuel et potentiel dans des élections municipales futures (2026) sans exclure sa candidature.\"}\n    ]\n}\n```"
   }
 }

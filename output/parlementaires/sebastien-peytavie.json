@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Dordogne",
     "commune": "nan",
+    "position": "nan",
     "filename": "sebastien-peytavie.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : le chemin éprouvant des élus en situation de handicap&nbsp;&nbsp;La Croix",
       "date": "Tue, 05 Aug 2025 07:00:00 GMT",
       "source": "La Croix"
+    },
+    {
+      "title": "Statut de l’élu : la compensation du handicap - L'Humanité",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2VLN0xjSVF1S0ZwaUlmNEZreXNPMlZKMG02cUttV085ZnpJMFJNVXJIZTJlSDdYSi1uZlNXckt0aTdpZmFMQ2RkUngwXzg3aTlBMXBTTkZaeFlDX3BqSEJSN25idGFvSW5faXVxOWhNTy15YVM0RFpwZF96b1hJN2hjenpRU3hMb2FrVA?oc=5",
+      "snippet": "Statut de l’élu : la compensation du handicap&nbsp;&nbsp;L'Humanité",
+      "date": "Tue, 08 Jul 2025 07:00:00 GMT",
+      "source": "L'Humanité"
     }
   ],
   "analysis": {

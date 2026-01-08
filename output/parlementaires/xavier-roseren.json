@@ -8,6 +8,7 @@
     "parti": "UDI",
     "departement": "Haute-Savoie",
     "commune": "Chamonix-Mont-Blanc",
+    "position": "Tête de liste",
     "filename": "xavier-roseren.json"
   },
   "search_results": [
@@ -45,14 +46,42 @@
       "snippet": "Chamonix : Le député Xavier Roseren candidat aux municipales 2026&nbsp;&nbsp;ODS Radio",
       "date": "Fri, 26 Sep 2025 07:00:00 GMT",
       "source": "ODS Radio"
+    },
+    {
+      "title": "Municipales 2026 : le député de Haute-Savoie Xavier Roseren annonce sa candidature à la mairie de Chamonix - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdEZSQnR6bHRaaXJFSm5VM0xMX2hmOFpySGd3U2lFaEVDWEFVaVp2ODlsck56dE9tLTRwTm5HVjBIRnJVOFVuSG1GcTVqMzZJcWpNazlYV1ZwSEFaQ1ExRmxFNEh1cmpqMjN6eExnLU8yb21EZHA2cUpnV1NPT3FuYWF0R3hCdms0UUJWbnlpUXpyQjJ3QXdhc0JzbWpmcmxYekNDMlhuSmFrMzlXdXUtWE1sVlhHZFUzYVU5VFY2V1huRkdEYTg4NjYybFMxLWJCZVhyUnlqMjMyMy04SUdERi13MGducGl0clE?oc=5",
+      "snippet": "Municipales 2026 : le député de Haute-Savoie Xavier Roseren annonce sa candidature à la mairie de Chamonix&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 26 Sep 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Les sources 2 à 5 confirment explicitement que Xavier Roseren a **officiellement annoncé sa candidature aux élections municipales de 2026 pour la mairie de Chamonix** (France 3 Régions, Le Dauphiné Libéré, Le Messager, ODS Radio).",
-      "La date du 26 septembre 2025 correspond à une annonce récente et non à un rappel d’une candidature passée."
+      {
+        "source_index": 2,
+        "explication": "Déclaration explicite de sa candidature aux municipales 2026 pour Chamonix."
+      },
+      {
+        "source_index": 3,
+        "explication": "Confirmation officielle de la candidature à Chamonix pour les élections municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Annonce formelle de sa candidature à la mairie de Chamonix en vue des municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Mention claire de sa candidature aux élections municipales 2026 à Chamonix."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Les sources 2 à 5 confirment explicitement que Xavier Roseren a **officiellement annoncé sa candidature aux élections municipales de 2026 pour la mairie de Chamonix** (France 3 Régions, Le Dauphiné Libéré, Le Messager, ODS Radio).\",\n        \"La date du 26 septembre 2025 correspond à une annonce récente et non à un rappel d’une candidature passée.\"\n    ]\n}\n```"
+    "used_sources": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:15:38.652403Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Déclaration explicite de sa candidature aux municipales 2026 pour Chamonix.\"},\n        {\"source_index\": 3, \"explication\": \"Confirmation officielle de la candidature à Chamonix pour les élections municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Annonce formelle de sa candidature à la mairie de Chamonix en vue des municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Mention claire de sa candidature aux élections municipales 2026 à Chamonix.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Oise",
     "commune": "Compiègne",
+    "position": "Pourrait être sur une liste",
     "filename": "frederic-pierre-vos.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Frédéric-Pierre VOS comme candidat aux élections municipales de **2026**. Bien que les sources évoquent des préparatifs pour les municipales 2026 (ex. : soutien à d'autres listes), aucune référence directe à Frédéric-Pierre VOS n'est présente dans les snippets analysés.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Frédéric-Pierre VOS comme candidat aux élections municipales de **2026**. Bien que les sources évoquent des préparatifs pour les municipales 2026 (ex. : soutien à d'autres listes), aucune référence directe à Frédéric-Pierre VOS n'est présente dans les snippets analysés.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Frédéric-Pierre VOS comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:25:42.335565Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Frédéric-Pierre VOS comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

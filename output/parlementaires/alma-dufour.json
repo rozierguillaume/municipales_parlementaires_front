@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-Maritime",
     "commune": "nan",
+    "position": "nan",
     "filename": "alma-dufour.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "En Seine-Maritime, les manœuvres socialistes pour contenir LFI ressurgissent un an après&nbsp;&nbsp;Mediapart",
       "date": "Fri, 13 Jun 2025 07:00:00 GMT",
       "source": "Mediapart"
+    },
+    {
+      "title": "Face à LFI, les méthodes brutales mais vaines de Nicolas Mayer-Rossignol aux législatives 2024 - Le Poulpe",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNE96b016TFdITFVLempFWlAwZHVwZ0NMRTllWEZ5X3QtQzFXWWwzM25nQ3oyTFR2MWhEaTBqT0tRRENaUm1BOFY3RlBPV1BocTJBMThXUjlGZEFmUU5FV210MmExd2EzeThWZC1TV2dKVUhwWEF4bFNkRTFKRDc2ZmdXdmdwbVZlNmRsRkVodmg5NlpkdUlnbGRRZm5TNzN2ODdpWE55TWN1TWJ6MmdMVEczdl9QZXNOMVlR?oc=5",
+      "snippet": "Face à LFI, les méthodes brutales mais vaines de Nicolas Mayer-Rossignol aux législatives 2024&nbsp;&nbsp;Le Poulpe",
+      "date": "Tue, 10 Jun 2025 07:00:00 GMT",
+      "source": "Le Poulpe"
     }
   ],
   "analysis": {

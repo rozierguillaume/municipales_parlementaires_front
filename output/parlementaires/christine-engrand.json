@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Pas-de-Calais",
     "commune": "nan",
+    "position": "nan",
     "filename": "christine-engrand.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "La députée du Pas-de-Calais Christine Engrand exclue du Rassemblement national&nbsp;&nbsp;Le Figaro",
       "date": "Thu, 20 Mar 2025 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Deux députés de l’Assemblée nationale exclus temporairement pour usage illicite de leurs frais de mandat - Libération",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOb3FLcVUwZGVzcU9iVWFOc0xFZnNkQ3diU0t3Mm1jaEZ5QU1tVDlpMFNtQXZZWlB6eXFkemx4WkwyejZNaVlyc0tzYkt5SlpVSXZ1cHdRWlRyNUtYRktGaG84ajR4UnlrUlJEZU84cWRTWG1EX25sR19sN3VENlhDdkl5X01ybTRrWDRzb2paYzdRdlRSajVySDBZT0FFaUhtQ1ZyTjNmeTRGdF9FLV83YnN0dU1Qd2VMczY1VVBLSF9xcnkwWDl5SEw1WFV2YVNCbTVmZDNvbmpjZWVVejdaU1FyRWlKWHRjd094U1BjcnlnTmRuVS16WUVhdDNtNHJlWEM0dm1NSQ?oc=5",
+      "snippet": "Deux députés de l’Assemblée nationale exclus temporairement pour usage illicite de leurs frais de mandat&nbsp;&nbsp;Libération",
+      "date": "Wed, 07 May 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

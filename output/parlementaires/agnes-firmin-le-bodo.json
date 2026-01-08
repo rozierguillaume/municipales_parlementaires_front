@@ -8,9 +8,17 @@
     "parti": "HOR",
     "departement": "Seine-Maritime",
     "commune": "Le Havre",
+    "position": "Pourrait être sur une liste",
     "filename": "agnes-firmin-le-bodo.json"
   },
   "search_results": [
+    {
+      "title": "Municipales dans le Gers : Julien Pellicer se représente avec la liste \"Unis pour Lectoure\" - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEJSTGJ6MUlqekNXLXI5OFc4cU9EN2ZmeGRWYnR5LVYtaURtZzdHSjk0Qm10ZUJmUDFQRmJGUzFBMlRmR1ZFNUdJNmItcXJ6WXlKd2VSVnFYcFNUOHFZcGlDdWlTckZNWk55SmtneTFBeldaWU54V2IzSVk0eWJSSlloT1k1R3pmRjNqTzJTaTJJNVh2Vl9vY1pCb1h0RTlIVmt2ZmxLOGFvSlNHbFdnYjNuem5UNUZqOThBTDhDRXhhWkFCVU1uYkpsZ2t3YVJtR2c?oc=5",
+      "snippet": "Municipales dans le Gers : Julien Pellicer se représente avec la liste \"Unis pour Lectoure\"&nbsp;&nbsp;ladepeche.fr",
+      "date": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "source": "ladepeche.fr"
+    },
     {
       "title": "Municipales 2026 dans le Gers : à Mirande, les trois groupes du conseil unis derrière l’élu Bernard Dorey - ladepeche.fr",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVM2akxlcHkxSWdIZ3UtS0FxeHVuZVpGaUl3bm5iZE54QVdWZUhRRG51dUhsaFZUTnZVN3NtY3RweHo3TEVtWWphd2k0cy15LV9hcG51d01OOTRZM1RZMTN3MDV6WnNQRnl4QUlRQWl2LVYtamplalc2OHg4aEczNXdqY2x3Tk96NjhjNGFENC1MeVlhdkI4VmJXNU5GdGhCcVlVZ2Ywamc4TEg0ZUVsMVhHUWRoOXRpUjFpS3Jvb19qdE8yRU5LRmxzNmxpeWhjeTVtbnFRVTA5UWlwOHNKajYyRDc?oc=5",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Agnès Firmin Le Bodo comme candidate aux **Municipales de 2026**. Les sources concernent soit des sujets généraux sur les élections municipales futures (scrutins, réformes), soit des annonces liées à d'autres candidats (Bernard Dorey, Édouard Philippe). Aucune mention directe ou indirecte de Firmin Le Bodo n'est détectée dans les snippets analysés.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Agnès Firmin Le Bodo comme candidate aux **Municipales de 2026**. Les sources concernent soit des sujets généraux sur les élections municipales futures (scrutins, réformes), soit des annonces liées à d'autres candidats (Bernard Dorey, Édouard Philippe). Aucune mention directe ou indirecte de Firmin Le Bodo n'est détectée dans les snippets analysés.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite ni indirecte de la candidature d'Agnès Firmin Le Bodo aux municipales 2026 dans les sources fournies."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:14:09.418043Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite ni indirecte de la candidature d'Agnès Firmin Le Bodo aux municipales 2026 dans les sources fournies.\"}\n    ]\n}\n```"
   }
 }

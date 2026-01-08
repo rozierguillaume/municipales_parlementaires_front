@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Bouches-du-Rhône",
     "commune": "nan",
+    "position": "nan",
     "filename": "gerault-verny.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Bouches-du-Rhône: le RN se dit \"prêt\" pour les futures échéances électorales lors de ses vœux 2025&nbsp;&nbsp;BFM",
       "date": "Sun, 19 Jan 2025 08:00:00 GMT",
       "source": "BFM"
+    },
+    {
+      "title": "Sexisme à l’Assemblée : chez Ciotti, le Verny craque - Libération",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGl1cXpVZjJ6VVMtUU43WXozQkRiZ3BWTm5MbWRrdzREUkx5SkdhUWx4REhsSFpXNkVVNGUzbm8zdE45QTVOVlZoNE0yZTkwbXhrdlJ1NFdIbGh4b3RTNmc4eVMweERGRHV4endUa2tXWVdBbEFyLUNaVDc0T0NJRm8yemZJQURHVHR6Z0RoaWxTSW8ybGJKeW50RlUtLUpGRmJ4SnZ4cUNCd2E0eTdUMmwtTm4ydVJJZ05JWXdGMA?oc=5",
+      "snippet": "Sexisme à l’Assemblée : chez Ciotti, le Verny craque&nbsp;&nbsp;Libération",
+      "date": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

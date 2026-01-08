@@ -8,9 +8,17 @@
     "parti": "LR",
     "departement": "Calvados",
     "commune": "Caen",
+    "position": "Pourrait être sur une liste",
     "filename": "joel-bruneau.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 : Brice Desrettes est le nouveau candidat officiellement déclaré par le RN et l'UDR à Caen - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNclVYcExjT2ktRFJXMzFRY1RmRFRldTFLRHpnWVoxcGI5MGxMUmNmb1pRdm9nYVBBSGp0S1pDTnpGRDA2ZTl4MVFVQ2VncUxoTGNPRk5rTmhfWjR0VEFpUTI4M3ZDSVdiVVd6d3hOQWtlRkk3UXhLbThUNWlRY2JJUGJxTEdYNDRIYmcxS241a2lQWS1GdmVrTURuTnpnazV4Y1VSSFdaV3NqZVdXeEwyVkxubTZGbjlQZVdNUTNlYzQ4ZWJSNzY4VlMtaG85Y0xaNjF1dzh0MVZhcXhiSHV5VjU2clNsek4wdFE5RVlLc2c0eHhMYkRzVQ?oc=5",
+      "snippet": "Municipales 2026 : Brice Desrettes est le nouveau candidat officiellement déclaré par le RN et l'UDR à Caen&nbsp;&nbsp;francebleu.fr",
+      "date": "Wed, 07 Jan 2026 15:35:24 GMT",
+      "source": "francebleu.fr"
+    },
     {
       "title": "Élections municipales 2026 à Caen. Éducation, sport, solidarité, culture : l’heure du bilan a sonné - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLUlsTHFSTF9uY3c5amwwQmE1MXM0Nk16YUZEeU1yZEt2bkJ1bk9sd2VJQlNuSFB1NlZubVpITjM5Sm9ldTJudEo0TVBTMndjNl9FWnMwSkhreEtqQm0yaGZwUzBNOVNjWFpLX1N1RWs4bGpVVzdDNUh3eVRPb3NOOXB6Wk9zYlZYbXF5LXBiSWJwSkdyMnFLQnhmQlBDemZUV1FSNkFOZEZXZ1hnUHdER0NuRTgySXhqOWE2aklEaTNmVHhwNzJWZjhBYkNVZUZrcUdKLTJyaV9lQ0t4WFptUmc2VEJoMTFwdEpPOHFELVBhNTBxZS1CclFncFNCdUw2dGdQV0k3TmlIYWc?oc=5",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucune source ne mentionne explicitement **Joël Brunaud** comme candidat aux élections municipales de Caen en 2026. Les articles cités concernent uniquement Aristide Olivier, maire sortant de Caen, et ses préparatifs pour les Municipales 2026 (Sources 1–5). Aucune référence à Joël Brunaud n’apparaît dans ces résultats.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement **Joël Brunaud** comme candidat aux élections municipales de Caen en 2026. Les articles cités concernent uniquement Aristide Olivier, maire sortant de Caen, et ses préparatifs pour les Municipales 2026 (Sources 1–5). Aucune référence à Joël Brunaud n’apparaît dans ces résultats.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Joël Brunneau comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:17:11.315103Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Joël Brunneau comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

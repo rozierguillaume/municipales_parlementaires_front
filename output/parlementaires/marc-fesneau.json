@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Loir-et-Cher",
     "commune": "Marchenoir",
+    "position": "Pourrait être sur une liste",
     "filename": "marc-fesneau.json"
   },
   "search_results": [
@@ -45,11 +46,25 @@
       "snippet": "Le parti de François Bayrou dévoile le nom des 120 premiers chefs de file pour les municipales&nbsp;&nbsp;Ouest-France",
       "date": "Wed, 11 Jun 2025 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "L'eurodéputé Christophe Grudler, candidat \"naturellement\" aux prochaines municipales de Belfort en 2026 - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVmFlbDFzYmFuRUhsalg0SHdaNmtGSXIyUUlkTnVUdXBBWG1DN1lSenFsZ0Nob3JCNzhoLWNIT0RWRW1oQTZqeHhsUG1OSDhGbTRTekg0eFhBNGhZLUc4VUhPa1hhYUNGR2RCS204Y0RiOFVHcFVBNlFUdkhxU0xZR1YxWlJ0OVZzaUVxSnJxcFpZVFh0aTBQSTRScTVPOFlYemZnSWhFM25IaTRDMDBmd2NsenYtYm9yTlpKWjQ3aHJHWGp0LUVMMjNIX0pfRm9vVTRmWk9pMHdCRkhzWG5jRTQ2SQ?oc=5",
+      "snippet": "L'eurodéputé Christophe Grudler, candidat \"naturellement\" aux prochaines municipales de Belfort en 2026&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 07 Mar 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Marc FESNEAU comme candidat aux **Municipales de 2026**. Les sources concernent soit d'autres figures politiques (Louis de Redon, Philippe Vigier), soit des stratégies ou annonces générales liées au parti de François Bayrou pour les municipales futures. Aucune trace directe de Marc Fesnau dans le contexte des élections municipales en cours ou à venir.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Marc FESNEAU comme candidat aux **Municipales de 2026**. Les sources concernent soit d'autres figures politiques (Louis de Redon, Philippe Vigier), soit des stratégies ou annonces générales liées au parti de François Bayrou pour les municipales futures. Aucune trace directe de Marc Fesnau dans le contexte des élections municipales en cours ou à venir.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Marc Fesnneau dans les résultats des recherches pour les municipales 2026 ni dans les articles cités."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:17:57.715196Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Marc Fesnneau dans les résultats des recherches pour les municipales 2026 ni dans les articles cités.\"}\n    ]\n}\n```"
   }
 }

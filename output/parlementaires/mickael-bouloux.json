@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Ille-et-Vilaine",
     "commune": "Le Rheu",
+    "position": "Pourrait être sur une liste",
     "filename": "mickael-bouloux.json"
   },
   "search_results": [
@@ -40,6 +41,13 @@
       "source": "Ouest-France"
     },
     {
+      "title": "Municipales au Rheu. Mickaël Bouloux d’une courte tête - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVVpSTZoS3dYZFFZZ05wM21nWFRLM1ZwaFhtbl9sWk9kNjA0OEJfVDctTE83Z2E2ZTVFYlBrSW9yQTFiT3NpekROckc2T2hXRlk5T1d2X2VyLW1pbFVxMmdtT1FJc0VOZmRZXzQ0UVhjUlhiYlVELUpLLUY1a3BEa0NidU9PSW4yM3pSeEltMS1SRlZBOHBYUGotV0loRXg4c2Q5OUtRSHdtczNBUU1GVGJR?oc=5",
+      "snippet": "Municipales au Rheu. Mickaël Bouloux d’une courte tête&nbsp;&nbsp;Ouest-France",
+      "date": "Sun, 28 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
       "title": "Municipales au Rheu. Le maire sortant, Mickaël Bouloux, présente sa liste au complet - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcjBnS05UZDNWNGJfaWN1a3U3TFl3bXJlaG9rQzVNYnYwMXRYdWFDOTdIWFdNMDY0d1YwQXBUSkNkakxReGJoUmVndGdpV2plcGdocW1HT1VsdE1wa00yOWpRVmZfY1l2d2NIZzl4ZEtQUEhRWjZ5ZjFjdTlTOFR6RkNreDlaUUc5MHJRZHVRbWJPNllNMElKVnNEOW9hX04tNU5xdkNBY1ZVMldaMGR1TTFwTGZ3SDZXZGZZRXlfUk9VRVJ1ejFyVUJTS0VOR3ZzS0xhMDRB?oc=5",
       "snippet": "Municipales au Rheu. Le maire sortant, Mickaël Bouloux, présente sa liste au complet&nbsp;&nbsp;Ouest-France",
@@ -51,18 +59,14 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 4 (Ouest-France - 28 Jun 2020)",
-        "contenu": "Référence aux municipales de 2020, pas de mention explicite pour 2026."
-      },
-      {
-        "source": "Source 5 (Ouest-France - 31 Jan 2020)",
-        "contenu": "Mention du maire sortant Mickaël Bouloux présentant sa liste en 2020, sans confirmation pour 2026."
-      },
-      {
-        "source": "Source 1 (Actu.fr - 17 Nov 2025)",
-        "contenu": "Référence à une situation dans le cadre des municipales de 2026 au Rheu, mais ne précise pas si Mickaël Bouloux lui-même se représente. Le snippet indique qu'il laisse la place à son adjoint (pas explicitement lui-même)."
+        "source_index": 4,
+        "explication": "Référence à Mickaël Bouloux comme maire sortant aux municipales de 2020 sans mention explicite pour 2026"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (Ouest-France - 28 Jun 2020)\",\n            \"contenu\": \"Référence aux municipales de 2020, pas de mention explicite pour 2026.\"\n        },\n        {\n            \"source\": \"Source 5 (Ouest-France - 31 Jan 2020)\",\n            \"contenu\": \"Mention du maire sortant Mickaël Bouloux présentant sa liste en 2020, sans confirmation pour 2026.\"\n        },\n        {\n            \"source\": \"Source 1 (Actu.fr - 17 Nov 2025)\",\n            \"contenu\": \"Référence à une situation dans le cadre des municipales de 2026 au Rheu, mais ne précise pas si Mickaël Bouloux lui-même se représente. Le snippet indique qu'il laisse la place à son adjoint (pas explicitement lui-même).\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:18:56.963741Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Référence à Mickaël Bouloux comme maire sortant aux municipales de 2020 sans mention explicite pour 2026\"}\n    ]\n}\n```"
   }
 }

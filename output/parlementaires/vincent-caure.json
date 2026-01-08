@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Français établis hors de France",
     "commune": "nan",
+    "position": "nan",
     "filename": "vincent-caure.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives : les investitures mettent la majorité sous haute tension&nbsp;&nbsp;Le Parisien",
       "date": "Fri, 14 Jun 2024 07:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Résultats des législatives : «Nous aurons plusieurs candidatures à proposer», affirme Mélenchon - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc1o2UURDTjFEOWsyOUVKdTdxbzBUb19icnJ6bmRLRGZqWVpQSUktTTBaSjUtbHM3YVpJbXhYLUZpU0FVSnJyX3BwY3F0a3BJTjRBRzhLSWxEVnhLRGpqbE13SWR5NGk2eEVPTjRXZFRHNjdsZ1NiV1Bqa2ZhZElkWXRWbVE5Z0JfYXpnU1BjOW0xYUVEM0h4cEF4UlF6bXVmYlozb2dKV2NUam5uQlh6bk9NeDJZSWk1X0dlc2NIc3BMNkhEd1F2MlVpLVpHdmQwOFZtc2J6SU1oeFpqYU1pM1UtNGFhcC10MVprLW5taWltZGVndHdQZERsMExfaHplOFNNeFdQTDU?oc=5",
+      "snippet": "Résultats des législatives : «Nous aurons plusieurs candidatures à proposer», affirme Mélenchon&nbsp;&nbsp;Le Figaro",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {

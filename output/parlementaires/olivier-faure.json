@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-et-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "olivier-faure.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Elections Municipales 2026 : « LFI a décidé de faire tomber, partout où ils le peuvent, des mairies socialistes », déplore Patrick Kanner&nbsp;&nbsp;Public Sénat",
       "date": "Wed, 28 May 2025 07:00:00 GMT",
       "source": "Public Sénat"
+    },
+    {
+      "title": "Municipales 2026 : « La maire a oublié qu’elle était de gauche », à Moissy, la patronne LFI du 77 défie la maire sortante - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObWVGODdoZ2hpWm5IRWR1T0tURVlvSU1yZTc1eTRFM2h4TnRvcExtZUlhVloyV1N6U0tNVFJ2cUpKTkwzMlhGYVRoem51NmVydDM1ZmoyYV9iNGpxV2xsWHRya2ZFTHlDNDItMW9lZWpCQ1FNbzdvMmdLeHlXRGxsaDhMRHF3UDM0TnA3ZlNIYzN4T2VXY1FMSlJSXzZqdGFTdUp6Qk5xeEhLNmFGb3NNWFNCaHNrVmhVdnA4bDhFZnZVVjhCUmEwVDY2R2U1U2dZd0NUMmllLUUxMTBNTl96UzJUZGprTHpxOHN0cm0weXlsQm9EZ1lteDF2Vkt5cnZRQlVsWFVaQmwtM1FUdzZqVW52dko5WlFuZmR4cmY5UHhTdVpJVlFTMkhn?oc=5",
+      "snippet": "Municipales 2026 : « La maire a oublié qu’elle était de gauche », à Moissy, la patronne LFI du 77 défie la maire sortante&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

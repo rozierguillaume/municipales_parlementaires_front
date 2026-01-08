@@ -8,6 +8,7 @@
     "parti": "DVG",
     "departement": "Lot",
     "commune": "Cahors",
+    "position": "Pourrait être tête de liste",
     "filename": "aurelien-pradie.json"
   },
   "search_results": [
@@ -51,14 +52,14 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 4 (Actu.fr - 23 Oct 2025)",
-        "texte_analyse": "Bien que des articles mentionnent Aurélien Pradié en lien avec les municipales de Cahors pour 2026, il déclare explicitement dans ce snippet : *« Je n'ai toujours pas pris de décision »*, indiquant une position d'attente ou d'indécision sur sa candidature."
-      },
-      {
-        "source": "Source 5 (ladepeche.fr - 12 Apr 2025)",
-        "texte_analyse": "L'article évoque ses *« ambitions pour Cahors »* en 2026, mais ne confirme pas sa candidature formelle. Il s'agit d'une déclaration sur ses intentions plutôt qu'une annonce officielle."
+        "source_index": 4,
+        "explication": "Source mentionne une déclaration d'Aurélien Pradié sur sa possible candidature aux municipales de 2026 à Cahors sans confirmation définitive."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (Actu.fr - 23 Oct 2025)\",\n            \"texte_analyse\": \"Bien que des articles mentionnent Aurélien Pradié en lien avec les municipales de Cahors pour 2026, il déclare explicitement dans ce snippet : *« Je n'ai toujours pas pris de décision »*, indiquant une position d'attente ou d'indécision sur sa candidature.\"\n        },\n        {\n            \"source\": \"Source 5 (ladepeche.fr - 12 Apr 2025)\",\n            \"texte_analyse\": \"L'article évoque ses *« ambitions pour Cahors »* en 2026, mais ne confirme pas sa candidature formelle. Il s'agit d'une déclaration sur ses intentions plutôt qu'une annonce officielle.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:19:36.059276Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Source mentionne une déclaration d'Aurélien Pradié sur sa possible candidature aux municipales de 2026 à Cahors sans confirmation définitive.\"}\n    ]\n}\n```"
   }
 }

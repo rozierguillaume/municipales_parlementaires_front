@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-et-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "jean-louis-thieriot.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives en Seine-et-Marne : député sortant, Jean-Louis Thiériot (LR) réélu dans la 3e circonscription&nbsp;&nbsp;Actu.fr",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2026 à Champagne-sur-Seine : Michel Gonord veut continuer sa mission - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdDE2dTJZdHIyU2Q4U0NfMm9XVC1vMkpraDIxT193NFloOEJlY3dMRXdSM2Q0UDJMeXAzcTNYZHk2aVlTbUNCTTEzcG9hRFJHREhTR25KbGFRZGxIY1NfY1ZhUnExcVRQQ09aa0psNktNSHJtRjF1c1YtMG5Udm5Ra25kbDFUd2FpVUFFaWNDbF9DajZXTHltMzVkX01CcWZCLWxxNUhuOVZLM1lrNFkta1ZzQlJzNGo1T3psakc4NGdGd3RaRy0tWFpHSlEzUnhYVWc?oc=5",
+      "snippet": "Municipales 2026 à Champagne-sur-Seine : Michel Gonord veut continuer sa mission&nbsp;&nbsp;mesinfos",
+      "date": "Thu, 08 Jan 2026 06:15:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {

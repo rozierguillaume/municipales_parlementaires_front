@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-Saint-Denis",
     "commune": "nan",
+    "position": "nan",
     "filename": "clementine-autain.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : à Agen, la gauche part unie du PS… à LFI&nbsp;&nbsp;Public Sénat",
       "date": "Thu, 19 Jun 2025 07:00:00 GMT",
       "source": "Public Sénat"
+    },
+    {
+      "title": "L’Après annonce son ralliement à Grégoire pour les municipales de 2026 - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmhjV3FBenhKc00zZzM2VUxheFhwMmY0SVpyRXFFbmxCUzBaSU9sTFp4X3JzVzhJVm9jeHFKakNrWUZxalZMdkIzMVpTYjhCWDNtWmZRQ1dGM19FMDZTY2lrQzY5emZZLS0wUVU3dlBxTS0zWS1OWWozdTA0ejZaejg5M2dINEZkZjh3UmMxZ1dzck5sOTNkdmNDakVjeGItZFdaR2lTTVhHVDIweUJTMFgxRDRKMjYxT1NuS0lINmxMdw?oc=5",
+      "snippet": "L’Après annonce son ralliement à Grégoire pour les municipales de 2026&nbsp;&nbsp;20 Minutes",
+      "date": "Wed, 07 Jan 2026 13:51:00 GMT",
+      "source": "20 Minutes"
     }
   ],
   "analysis": {

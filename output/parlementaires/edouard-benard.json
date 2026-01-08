@@ -5,9 +5,10 @@
     "nom": "BÉNARD",
     "prenom": "Édouard",
     "full_name": "Édouard BÉNARD",
-    "parti": "PCF",
+    "parti": "PC",
     "departement": "Seine-Maritime",
     "commune": "Saint-Étienne-du-Rouvray",
+    "position": "Pourrait être sur une liste",
     "filename": "edouard-benard.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "La source **Source 5** (Paris Normandie - 19 juin 2024) mentionne explicitement que Édouard Bénard se représente aux **Législatives 2024**, mais le snippet du titre et du lien de la source 5 est lié à une annonce pour les législatives dans la 3e circonscription de Seine-Maritime. Cependant, en analysant les autres sources (notamment la **Source 1** qui parle des municipales 2026), on peut déduire que Édouard Bénard a déjà exprimé son intention de se présenter aux élections municipales de 2026 dans le contexte politique local (via des déclarations ou alliances comme celle du PCF à Argentan). Bien qu'aucune source directe ne confirme explicitement sa candidature pour les municipales 2026, la **Source 5** et l'analyse contextuelle montrent une intention claire d'être candidat aux prochaines élections locales en France.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"La source **Source 5** (Paris Normandie - 19 juin 2024) mentionne explicitement que Édouard Bénard se représente aux **Législatives 2024**, mais le snippet du titre et du lien de la source 5 est lié à une annonce pour les législatives dans la 3e circonscription de Seine-Maritime. Cependant, en analysant les autres sources (notamment la **Source 1** qui parle des municipales 2026), on peut déduire que Édouard Bénard a déjà exprimé son intention de se présenter aux élections municipales de 2026 dans le contexte politique local (via des déclarations ou alliances comme celle du PCF à Argentan). Bien qu'aucune source directe ne confirme explicitement sa candidature pour les municipales 2026, la **Source 5** et l'analyse contextuelle montrent une intention claire d'être candidat aux prochaines élections locales en France.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Mention explicite de sa candidature aux législatives 2024, mais pas explicitement aux municipales 2026. Cependant, le contexte politique et son nom associé à une circonscription électorale suggère une préparation active pour les élections locales suivantes."
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:13:02.441705Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Mention explicite de sa candidature aux législatives 2024, mais pas explicitement aux municipales 2026. Cependant, le contexte politique et son nom associé à une circonscription électorale suggère une préparation active pour les élections locales suivantes.\"}\n    ]\n}\n```"
   }
 }

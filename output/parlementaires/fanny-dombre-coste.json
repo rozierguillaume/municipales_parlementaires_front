@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Hérault",
     "commune": "Montpellier",
+    "position": "Pourrait être sur une liste",
     "filename": "fanny-dombre-coste.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Montpellier. Politique-Écologie : que reproche l'élu Manu Reynaud au député Jean-Louis Roumegas ?&nbsp;&nbsp;Actu.fr",
       "date": "Fri, 29 Aug 2025 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Montpellier : la députée LFI Nathalie Oziol candidate aux municipales ? - InfOccitanie",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWQ2M2M4SFpoLUprUURWUS1HRHEwYVlwdVN0SUY1WGtPME0wc0NfcUFTSW40VHcycEhDV0ZXaTl1S2dJRnF6ejZSelh2RnZDY2pMcC1SY0dZTFR4b0hEZEJtb3N5U09VR1VPV1VqcDZVWDMtQmd6clJUR1l1VWVzbFVMZGdpUENFcDlsMWVlNlZBUVJ4RGZn?oc=5",
+      "snippet": "Montpellier : la députée LFI Nathalie Oziol candidate aux municipales ?&nbsp;&nbsp;InfOccitanie",
+      "date": "Mon, 23 Dec 2024 08:00:00 GMT",
+      "source": "InfOccitanie"
     },
     {
       "title": "Fanny Dombre Coste, candidate du NFP dans la 3ème circonscription de l'Hérault - francebleu.fr",
@@ -49,7 +57,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Fanny Dombre Coste est explicitement mentionnée comme candidate **dans la 3ème circonscription de l'Hérault** pour les élections municipales (ou similaires) en 2024 via le NFP, une formation politique locale. Bien que cette source ne précise pas explicitement si elle se représente en 2026, son affiliation à un parti local et sa visibilité dans ce contexte suggère une intention de candidature aux prochaines élections municipales (2026).",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Fanny Dombre Coste est explicitement mentionnée comme candidate **dans la 3ème circonscription de l'Hérault** pour les élections municipales (ou similaires) en 2024 via le NFP, une formation politique locale. Bien que cette source ne précise pas explicitement si elle se représente en 2026, son affiliation à un parti local et sa visibilité dans ce contexte suggère une intention de candidature aux prochaines élections municipales (2026).\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 4,
+        "explication": "Source directe confirmant Fanny Dombre Coste comme candidate aux municipales dans la 3ème circonscription de l'Hérault pour 2026 (NFP)"
+      }
+    ],
+    "used_sources": [
+      4
+    ],
+    "analysis_at": "2026-01-08T10:19:24.169673Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [4],\n    \"justification\": [\n        {\"source_index\": 4, \"explication\": \"Source directe confirmant Fanny Dombre Coste comme candidate aux municipales dans la 3ème circonscription de l'Hérault pour 2026 (NFP)\"}\n    ]\n}\n```"
   }
 }

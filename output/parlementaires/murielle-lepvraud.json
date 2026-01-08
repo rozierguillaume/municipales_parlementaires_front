@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Côtes-d'Armor",
     "commune": "nan",
+    "position": "nan",
     "filename": "murielle-lepvraud.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Elections législatives : Muriel Lepvraud, candidate de la Nouvelle Union populaire à Guingamp&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 30 May 2022 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Législatives à Guingamp-Rostrenen. Le RN est en tête, Cyril Jobic, troisième, va-t-il se maintenir ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSkQzVWhxSzBJZk84YUp5YVhQTUVXXzFJa2lzVTlaTExSdVdmOGQxRU53ZVBlNW1WN3loQ05sUGdDakJXNnBHeS1wUVhwcVlJZy1weGlDOG00MjJ0SjNvbEEyY0tUallxbHczV0Z1ZzVYNnZwaVJkNk9ldWZGTzNVSFFaWDVWcEotTWtLZUhqNDdSbkhCYU1HeEU0bi05TC1FZTJXc2NLeXNFSGtaQi1Ib2VVZkpYdklMZEFWbE9rVFQ5eGZHRkJwam8wVnY4dkxSX1dITzI3eWxOeUd2N1NOQV80cnlnVTNvdnFTc1l4RUxmem10Sk5Xd0lxbnNLU0RfeklPM3pUSVBieGRWX3Zj?oc=5",
+      "snippet": "Législatives à Guingamp-Rostrenen. Le RN est en tête, Cyril Jobic, troisième, va-t-il se maintenir ?&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

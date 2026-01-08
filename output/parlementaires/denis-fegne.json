@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Hautes-Pyrénées",
     "commune": "Ibos",
+    "position": "Pourrait être sur une liste",
     "filename": "denis-fegne.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "Le Monde.fr"
     },
     {
+      "title": "Ce député des Hautes-Pyrénées s’insurge contre le déremboursement des cures thermales - Le Journal Toulousain",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLUFnM3dDMTVCcXYtTXVheFF4aE51TmhFUHU4T3YtZTk2SUVlaHlCLWxYTnlYa2dzWXZHN2c0Y0ZTSDBOa2J1RFFzOGhtT09TSmVIM3NMSl9rYTFhSjlWczY2YmVEbEtBUzliblhrdDJtSEpaQXBwQzh0bzF0X3lMYTF4VG9EbGd5S2dmcU96VUVnanI4YjJPcGUyazdrdHJ2VWdZNmE1SEJ0ZDJkQ1ZSUV9PQ3BKNEc4V3FnbUd5LXVaTElkRlZwX2JvYnotUldNeHJXMG1mUWU2NHo4Q2RWSnVkQ1dHaXl3NUlaRjRqMzJMUnpURTk1TQ?oc=5",
+      "snippet": "Ce député des Hautes-Pyrénées s’insurge contre le déremboursement des cures thermales&nbsp;&nbsp;Le Journal Toulousain",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT",
+      "source": "Le Journal Toulousain"
+    },
+    {
       "title": "À La Courneuve, LFI veut mettre fin à 30 ans de règne communiste - mesinfos",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMVk2Q1JfckE4YmUtTE5XNVRuYk85WVZTY2M3cG43djdJbWd4el9tcUlCX0ZJR0l4dW9RQzk4UEtkYlI1eUs4TnlXV1l3VS1WVEV0SFhNVG1Fb0tYRDkzaGVEd09vaUIwSDczekxCb21nWVBEbXNqc1Bqb2FrZlVfOFV0SDNmejRxNWpNU1YwYktpbzVHTWk2RDFmcUt4V2hiaTJrOGpZZXIzbUNRajFpWllFNHA?oc=5",
       "snippet": "À La Courneuve, LFI veut mettre fin à 30 ans de règne communiste&nbsp;&nbsp;mesinfos",
@@ -45,11 +53,25 @@
       "snippet": "Philippe Cabidoche annonce sa candidature aux Municipales 2026&nbsp;&nbsp;NRPyrenees.fr",
       "date": "Fri, 10 Oct 2025 07:00:00 GMT",
       "source": "NRPyrenees.fr"
+    },
+    {
+      "title": "Le député Denis Fégné interpelle le gouvernement sur la situation de la psychiatrie à Lannemezan - NRPyrenees.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQXVEZHlhdVRmaWpZRGpSVGVkME14emRLTWFzZW16b3AwUDBWVjlsbWJTTFJidjRqNkI5TWxzNTVCUm9pdzJ0eXlJYkUyQ3JKQWpFSDBiRmZlNXpMLXAwUFk5NXRJQ1A0bWFRVlZWc216STJTMW1WREtTQlNWN1F1Sldoc0dCODVsY21TcHI4R1daR3NVX2Q1WTR3Qkx3bzNkWjFETTQyWlIwVmlvZzdCcDRfbjNtbkZubkdDOVo4cFJuYUIweWhxYUFMVDVFY2Z6MHJQeGpNZTFZb3pDMG1v?oc=5",
+      "snippet": "Le député Denis Fégné interpelle le gouvernement sur la situation de la psychiatrie à Lannemezan&nbsp;&nbsp;NRPyrenees.fr",
+      "date": "Thu, 17 Apr 2025 07:00:00 GMT",
+      "source": "NRPyrenees.fr"
     }
   ],
   "analysis": {
     "status": "NON",
-    "justification": "Aucune des sources fournies ne mentionne explicitement Denis FÉGNÉ comme candidat aux élections municipales de 2026. Les informations disponibles concernent principalement d'autres personnalités (comme Emmanuel Denis) ou des contextes locaux sans lien direct avec Denis Fégné.",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"justification\": \"Aucune des sources fournies ne mentionne explicitement Denis FÉGNÉ comme candidat aux élections municipales de 2026. Les informations disponibles concernent principalement d'autres personnalités (comme Emmanuel Denis) ou des contextes locaux sans lien direct avec Denis Fégné.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Denis FÉGNÉ comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres personnalités ou des sujets divers."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:19:39.728526Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Denis FÉGNÉ comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres personnalités ou des sujets divers.\"}\n    ]\n}\n```"
   }
 }

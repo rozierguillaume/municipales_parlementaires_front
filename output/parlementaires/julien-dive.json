@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Aisne",
     "commune": "Itancourt",
+    "position": "Pourrait être sur une liste",
     "filename": "julien-dive.json"
   },
   "search_results": [
@@ -48,21 +49,32 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "OUI",
     "justification": [
       {
-        "source": "Source 1, Source 2, Source 3",
-        "analyse": "Aucune mention explicite de Julien Dive comme candidat aux municipales de 2026 dans ces articles. Les sources évoquent principalement le RN et la gauche pour Saint-Quentin, sans référence directe à lui."
+        "source_index": 1,
+        "explication": "Référence explicite à des ambitions du RN pour les municipales de 2026 à Saint-Quentin, incluant une mention implicite d’un contexte local où Julien Dive pourrait être impliqué."
       },
       {
-        "source": "Source 4",
-        "analyse": "Julien Dive est cité en tant que député réélu lors des législatives **2024** (pas de lien direct avec les municipales 2026). Bien qu’il soit LR, il n’est pas mentionné comme candidat municipal pour cette élection."
+        "source_index": 2,
+        "explication": "Contexte similaire aux municipales 2026 avec le RN comme acteur principal, suggérant un environnement favorable pour des candidats locaux comme Dive."
       },
       {
-        "source": "Source 5",
-        "analyse": "Contexte sur la stratégie des candidats LR pour les législatives 2024, sans indication de sa candidature municipale future. Aucune référence explicite à une intention électorale pour 2026."
+        "source_index": 3,
+        "explication": "Mention de la gauche en préparation pour les municipales 2026 à Saint-Quentin, indiquant une dynamique électorale active incluant potentiellement Julien Dive."
+      },
+      {
+        "source_index": 4,
+        "explication": "Julien Dive est réélu dans une circonscription locale (Aisne) avec un parti (LR) historiquement présent aux municipales, renforçant sa crédibilité comme candidat local pour 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1, Source 2, Source 3\",\n            \"analyse\": \"Aucune mention explicite de Julien Dive comme candidat aux municipales de 2026 dans ces articles. Les sources évoquent principalement le RN et la gauche pour Saint-Quentin, sans référence directe à lui.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Julien Dive est cité en tant que député réélu lors des législatives **2024** (pas de lien direct avec les municipales 2026). Bien qu’il soit LR, il n’est pas mentionné comme candidat municipal pour cette élection.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"Contexte sur la stratégie des candidats LR pour les législatives 2024, sans indication de sa candidature municipale future. Aucune référence explicite à une intention électorale pour 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:09:13.513388Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à des ambitions du RN pour les municipales de 2026 à Saint-Quentin, incluant une mention implicite d’un contexte local où Julien Dive pourrait être impliqué.\"},\n        {\"source_index\": 2, \"explication\": \"Contexte similaire aux municipales 2026 avec le RN comme acteur principal, suggérant un environnement favorable pour des candidats locaux comme Dive.\"},\n        {\"source_index\": 3, \"explication\": \"Mention de la gauche en préparation pour les municipales 2026 à Saint-Quentin, indiquant une dynamique électorale active incluant potentiellement Julien Dive.\"},\n        {\"source_index\": 4, \"explication\": \"Julien Dive est réélu dans une circonscription locale (Aisne) avec un parti (LR) historiquement présent aux municipales, renforçant sa crédibilité comme candidat local pour 2026.\"}\n    ]\n}\n```"
   }
 }

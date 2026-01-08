@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Mayenne",
     "commune": "nan",
+    "position": "nan",
     "filename": "yannick-favennec-becot.json"
   },
   "search_results": [
@@ -24,6 +25,20 @@
       "snippet": "Dans la Mayenne, un maire, Jacques Louvigné, est décédé en cours de mandat&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 18 Jan 2021 08:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "En désaccord sur la loi Immigration, le député Yannick Favennec-Bécot quitte le groupe Horizons pour Liot - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMWNKVnh5dm1FcTBYV3EwcTNld0U0a051U0VMZk0tT19uN1ZBeHU2OXJsRFp2TDZRR0JwaGZBYW9XUXdOTGNBVWRncVdyVUotNmNxdndlOWVoWk5jeUV1aGpwcjNZeHlOaGEwQVRhU2RaU1F0U0REczljWEY4Mnp0Q0ZRVTRMWGVJMmtVNUpNMnMybENKajVHbXIyeVkzcml4TUxoS0ZZeTVwS2hLZEJIdXJZQzgtM2VQNXJMTXF1Q2lYanFuUnQ5cUFMT0NXS1FhZ3VuUHV6ZzZyYXg3ZWY4S1FyaWdVZmVWSFdFUExUQlU1NWUwTHM1Zk9uUk5JWXF6Z2ktR1dZdHJqUXEwekFZ?oc=5",
+      "snippet": "En désaccord sur la loi Immigration, le député Yannick Favennec-Bécot quitte le groupe Horizons pour Liot&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 26 Jan 2024 08:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "L’Assemblée rejette un texte transpartisan sur la régulation de l’installation des médecins - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeUptUm51M2ZwblJnUHNoS1JXT0RoeGFUYm9xa1V1WmZxUVZUOUU5aDJXZy1iN0Y5VEYxNjlqem9WQmtncW5HMjNUT0QyU2JCcmVXb2xiMXREemh6Q1l3d3dCY2h6Mk9QOWNQVm1WWU5CUXBJaEdiaXNYSzNlTGg5MDZKUGlJVXNRSHdhNC1nLUJrOGktc3RtSkh5Zk90T1FaSWZvVjdQVDktZEtkZFlnVXlWMHhWLURXT0ItZjhJS05YRFNZc21kd1FKX3Y0ZEtzNGRsWUV5NEFxcUlaSkdOU19VS3dNNm1tYkkxWmxiblk1c0NpVW1Ic0ln?oc=5",
+      "snippet": "L’Assemblée rejette un texte transpartisan sur la régulation de l’installation des médecins&nbsp;&nbsp;Libération",
+      "date": "Wed, 14 Jun 2023 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

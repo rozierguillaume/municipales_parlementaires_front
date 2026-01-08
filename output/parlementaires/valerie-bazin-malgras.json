@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Aube",
     "commune": "Troyes",
+    "position": "Pourrait être sur une liste",
     "filename": "valerie-bazin-malgras.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Valérie Bazin-Malgras** comme candidate aux élections municipales de Troyes en 2026. Bien que les sources évoquent des candidats potentiels (comme dans la Source 2 concernant un candidat du RN), Valérie Bazin-Malgras n'apparaît pas dans ces articles récents ou futurs.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Valérie Bazin-Malgras** comme candidate aux élections municipales de Troyes en 2026. Bien que les sources évoquent des candidats potentiels (comme dans la Source 2 concernant un candidat du RN), Valérie Bazin-Malgras n'apparaît pas dans ces articles récents ou futurs.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Valérie Bazin-Malgras comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent soit des candidats potentiels (Rassemblement national) ou d'autres figures politiques sans lien direct avec elle."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:08:23.414082Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Valérie Bazin-Malgras comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent soit des candidats potentiels (Rassemblement national) ou d'autres figures politiques sans lien direct avec elle.\"}\n    ]\n}\n```"
   }
 }

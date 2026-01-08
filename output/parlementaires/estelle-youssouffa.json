@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Mayotte",
     "commune": "nan",
+    "position": "nan",
     "filename": "estelle-youssouffa.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "À Mayotte, la réponse sexiste d'un candidat aux législatives face à son adversaire&nbsp;&nbsp;Le HuffPost",
       "date": "Thu, 16 Jun 2022 07:00:00 GMT",
       "source": "Le HuffPost"
+    },
+    {
+      "title": "Législatives 2024 : qui est le député le mieux élu au premier tour ? - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjJ5ZWdXSjg3RzdiRGlVY0Z6NmhGZS1Nam9wcFJ6UkMzZEpJNHhYT1BnRGpGVGpoYjNGcThoWXR0RE1LLWZnVEo3VEZLaTdDaThRajVlNHU2VzBwZDlyN1ZZNEdJcXktSnI4YU5TWnJiczhtMjZnYlk3YjhmUXA2SGdxV0dzb2sxRVNSV1Q1dUpUS1F0ZzVZUzNQVzVIVk9TTWVBdVdRTDNXcm1JU1pQbmtULUYzZHJBQ3JLcQ?oc=5",
+      "snippet": "Législatives 2024 : qui est le député le mieux élu au premier tour ?&nbsp;&nbsp;Le Figaro",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {

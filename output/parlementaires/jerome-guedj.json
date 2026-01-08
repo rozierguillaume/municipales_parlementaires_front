@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Essonne",
     "commune": "nan",
+    "position": "nan",
     "filename": "jerome-guedj.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "À trois mois du congrès, Boris Vallaud vise la tête du Parti socialiste&nbsp;&nbsp;Ouest-France",
       "date": "Thu, 13 Mar 2025 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026 : à Caluire, les écologistes réclament une liste de gauche unie au 1er tour - lyonmag.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWJraURfemdiWHBKMWNNa2FTeVl1Vlk1NmxpM0tVTGdsMm5qb3AtcXhsS2ZaUERDb3hXX3V6bVNmTHEtWmVpejhjQnl5bUhjTFd1YzlIS2hsY2dQam9HYnlvQmN6cUZoZDJqMTVtbU1NNzh0ZzdVckQ2V3E1Xzh6dHJJemhmWmdMd3F5XzgwVDdQNWdseHc5d0dCem1UTFczQnA3bTloWjhEQXgyT0ZxNU4tLUpjRTNsSmtJbnphNmpUWFRnZ0Fv?oc=5",
+      "snippet": "Municipales 2026 : à Caluire, les écologistes réclament une liste de gauche unie au 1er tour&nbsp;&nbsp;lyonmag.com",
+      "date": "Tue, 04 Mar 2025 08:00:00 GMT",
+      "source": "lyonmag.com"
     }
   ],
   "analysis": {

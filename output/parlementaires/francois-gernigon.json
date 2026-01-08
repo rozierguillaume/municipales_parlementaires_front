@@ -5,9 +5,10 @@
     "nom": "GERNIGON",
     "prenom": "François",
     "full_name": "François GERNIGON",
-    "parti": "nan",
+    "parti": "DVD",
     "departement": "Maine-et-Loire",
-    "commune": "nan",
+    "commune": "Verrières en Anjou",
+    "position": "Pourrait être sur une liste",
     "filename": "francois-gernigon.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "Ouest-France"
     },
     {
+      "title": "Dissolution de l’Assemblée. Qui repart du côté des députés sortants de Maine-et-Loire ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYmZCcm41RlQxcGR4RW5jZnFyamQxVHp2cXZEc05iRjRnMXZqUlR3c2dnRmkxT3RXTFFWQTJ4QlpDSUIweS1YaHIxdWVDWG1NR2p5bUZnZWxZbWNxc1pSNGdaX3hsRWpGRnVLNVl2WGM1Vl95Nks0NXB4YVFCWUc2NlFNRlA5bHV3cER3ZTQ2cmpkNDVLeW5ITEUwQTQ3c3RnejY5YTVXNDhiT0p0Z3VkbUFVU2x2T2dkaE00Zzkxb2xESkxwcHA0WGxZMi1oOE5XRDlzZGJ2N0dkRnFWaUk0aGtVc2dTbGszOGl2QXdxT2ZEckhsNVc3QmtGZnc?oc=5",
+      "snippet": "Dissolution de l’Assemblée. Qui repart du côté des députés sortants de Maine-et-Loire ?&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
       "title": "Elections législatives. François GERNIGON, candidat à la 1ere circonscription du Maine et Loire - Angers Info",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZnJydUM0Wk9XbGhRRU9xSFZQcTZ2ZmptZVBoaFY1cXlfZTUxN3BDaDJfd1ltS2c0N3o2WlZjcHRIZ1ZDYnNwc1l2SzhaaF9xOE5haHFZZjlNTF83cmwySV81bGcwbmRCVEhGN2lLdDIxamNkcVVfdjVrUXY1RXJVck1icWE3THlpcm9lRGpnUzBubDl0UWs5UHZaVTdoMERFVDh6MjRCTjBzbjB6WnBQUTVRN21JdkN4ZERIUlczTmRWZWUyaElEMw?oc=5",
       "snippet": "Elections législatives. François GERNIGON, candidat à la 1ere circonscription du Maine et Loire&nbsp;&nbsp;Angers Info",
@@ -51,22 +59,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1: Angers Info - Décembre 2025",
-        "analyse": "François Gernigon est mentionné comme élu député en 2025, mais aucune mention explicite de sa candidature aux municipales de 2026."
-      },
-      {
-        "source": "Source 2: Ouest-France - Mars 2025 (un an avant les municipales 2026)",
-        "analyse": "Le titre et le snippet évoquent des forces en présence pour les municipales 2026 à Angers, mais ne mentionnent pas François Gernigon comme candidat."
-      },
-      {
-        "source": "Source 3: Ouest-France - Mars 2025",
-        "analyse": "Contexte sur Christophe Béchu et ses raisons de s’inquiéter pour les municipales 2026 à Angers, sans mention explicite de François Gernigon."
-      },
-      {
-        "source": "Source 4: Angers Info - Mai 2022",
-        "analyse": "Référence aux élections législatives de 2022 (pas liées aux municipales 2026). Aucune information sur sa candidature municipale future."
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature aux municipales 2026 pour François Gernigon dans les sources fournies. Les mentions concernent uniquement des élections législatives passées ou des rôles actuels (député) sans lien avec les municipales futures."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1: Angers Info - Décembre 2025\",\n            \"analyse\": \"François Gernigon est mentionné comme élu député en 2025, mais aucune mention explicite de sa candidature aux municipales de 2026.\"\n        },\n        {\n            \"source\": \"Source 2: Ouest-France - Mars 2025 (un an avant les municipales 2026)\",\n            \"analyse\": \"Le titre et le snippet évoquent des forces en présence pour les municipales 2026 à Angers, mais ne mentionnent pas François Gernigon comme candidat.\"\n        },\n        {\n            \"source\": \"Source 3: Ouest-France - Mars 2025\",\n            \"analyse\": \"Contexte sur Christophe Béchu et ses raisons de s’inquiéter pour les municipales 2026 à Angers, sans mention explicite de François Gernigon.\"\n        },\n        {\n            \"source\": \"Source 4: Angers Info - Mai 2022\",\n            \"analyse\": \"Référence aux élections législatives de 2022 (pas liées aux municipales 2026). Aucune information sur sa candidature municipale future.\"\n        }\n    ],\n    \"conclusion\": \"Aucun des résultats fournis ne confirme explicitement une candidature officielle de François Gernigon pour les municipales de 2026. Les sources antérieures ou contextuelles (comme celles de 2025) ne le mentionnent pas comme candidat actif.\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:14:13.455918Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales 2026 pour François Gernigon dans les sources fournies. Les mentions concernent uniquement des élections législatives passées ou des rôles actuels (député) sans lien avec les municipales futures.\"}\n    ]\n}\n```"
   }
 }

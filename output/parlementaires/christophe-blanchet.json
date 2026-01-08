@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Calvados",
     "commune": "Merville-Franceville",
+    "position": "Sur une liste ",
     "filename": "christophe-blanchet.json"
   },
   "search_results": [
@@ -16,6 +17,13 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSE8tb0dRUWgyTGsyWlVjSGRPUnZtTVgzaVVhcGloTi1aaHo1cGMxQm5vcWd1dDE0ZW84akM5U2JIenRRLWhhWlFkR3dQX3lxSDlMQXFxNVA5VkFvNGwxY1FpUDV1aHJNUUlqTnNUMUllMjk3ZEZ3YVVUZkU5cGpXbFgxVGI5UmJPOHlVTzNsTEVfbGloVlF3cFJsUGpfZ201NDdiZ1c1RzV2SWVzVXh6dVR1X1NqaHl0M0gxREpSNUUzcTBXUmVBaVkxaERqUTJRajJkTVgyS1R0ZVU0VFBJd0djYUVtb2RlX0E?oc=5",
       "snippet": "Municipales 2026 dans l’Indre : à Buzançais, deux adjoints en lice pour une succession&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Montmorillon : Christophe Martin entre en campagne pour la mairie - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1JaOUYxS2pxZ0d0REZ5SlprSHZPQVhydUNudjBMOHFoTWxSdG1jRzJJTEEtRjlBOGp3SXVBS05SLTJNeHRRbXNTdE5Fa0JPQXZ0S25ldXdZTFJ1NHBXZmJWZXV2YlRWaDViYWkxRndsRnFqRDdZWWFFYkVseWlDcjg5TGg4QVZWbjI4VWNyRTJ4cWQ3QzNsam1scDNzWDhrN05YYjNHdjk2ckpscTZBTTRrRGhTZ2Y1UmhlV0tNTUFsdw?oc=5",
+      "snippet": "Montmorillon : Christophe Martin entre en campagne pour la mairie&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Tue, 04 Nov 2025 08:00:00 GMT",
       "source": "lanouvellerepublique.fr"
     },
     {
@@ -51,10 +59,19 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 3 (Ouest-France)",
-        "details": "Christophe Blanchet est mentionné comme « numéro 2 » de Déborah Pawlik pour les **Municipales 2026** à Merville-Franceville, ce qui indique son implication active dans une campagne municipale en cours d’élaboration pour cette élection."
+        "source_index": 1,
+        "explication": "Référence explicite à des adjoints en lice pour les municipales 2026 dans le contexte de Buzançais."
+      },
+      {
+        "source_index": 4,
+        "explication": "Christophe Blanchet est mentionné comme « numéro 2 » d’une liste candidate aux municipales 2026 à Merville-Franceville"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 (Ouest-France)\",\n            \"details\": \"Christophe Blanchet est mentionné comme « numéro 2 » de Déborah Pawlik pour les **Municipales 2026** à Merville-Franceville, ce qui indique son implication active dans une campagne municipale en cours d’élaboration pour cette élection.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:17:38.888193Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à des adjoints en lice pour les municipales 2026 dans le contexte de Buzançais.\"},\n        {\"source_index\": 4, \"explication\": \"Christophe Blanchet est mentionné comme « numéro 2 » d’une liste candidate aux municipales 2026 à Merville-Franceville\"}\n    ]\n}\n```"
   }
 }

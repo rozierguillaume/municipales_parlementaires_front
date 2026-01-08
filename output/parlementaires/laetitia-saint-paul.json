@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Maine-et-Loire",
     "commune": "nan",
+    "position": "nan",
     "filename": "laetitia-saint-paul.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Commission Nationale d’Investiture des Républicains&nbsp;&nbsp;Les Républicains",
       "date": "Mon, 28 Jul 2025 07:00:00 GMT",
       "source": "Les Républicains"
+    },
+    {
+      "title": "Municipales. Le Parti socialiste dévoile la liste des candidats investis - Oise Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhNMVk5d2YybHFERllmM2ZqSmY1ODh6UXBkdlp0ajg5MEhtLURxWExhaTRZbXUwNHRHSmR5Q2FwMG5uRkp1MFVmRVhCOEF0aGotRDZpb190N3JWWWN5Zjc4NDh5VDRTVWRldVdhcEI1VXBsamtVSDZJbHZIMk9nbTRoWTRETjhKNUZFTg?oc=5",
+      "snippet": "Municipales. Le Parti socialiste dévoile la liste des candidats investis&nbsp;&nbsp;Oise Hebdo",
+      "date": "Wed, 07 Jan 2026 17:42:23 GMT",
+      "source": "Oise Hebdo"
+    },
+    {
+      "title": "Résultats élections municipales Bellevigne-les-Châteaux [49260] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXNPMjB4NHFxUUM2SFNBWFVIeEViRE9yOHU3LU92dVYxWEhLYjdmWS13TmFSMC03LTJmMUpCSjdMakUyOUw3V3BFUU1wT19FaDFydHhCZHlfQWV5am1pWmwyYl9XUWhFX2NGVlI0WXVnYS1RTmdZUnBpMFJpZWF3NGpVdTdVSGIxMGRlZjhLLVZhOGFDZWNWeQ?oc=5",
+      "snippet": "Résultats élections municipales Bellevigne-les-Châteaux [49260] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 15 Dec 2025 21:22:36 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

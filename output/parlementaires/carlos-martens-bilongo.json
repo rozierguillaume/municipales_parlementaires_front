@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-d'Oise",
     "commune": "nan",
+    "position": "nan",
     "filename": "carlos-martens-bilongo.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : LFI part à l’offensive en comptant sur une dynamique nationale&nbsp;&nbsp;Le Monde.fr",
       "date": "Mon, 24 Nov 2025 08:00:00 GMT",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "Municipales 2026 : Sarah Knafo officiellement candidate à la mairie de Paris - frontieresmedia.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnpRSVVtN2YzNlZSWlQyOFhFMk1aTHZldWtDTEl2MnNLZ3IxZTYxZzZaYzF4a01kNDdYUEhHSjdHNVNaQkVGNkhJLXVOMDd5SUdFeWNmcHpLdnJGUHdyUDlGamhNeWhjSTZidXdIWEtLX0VtZnBPYUxHQ3Z0Z3FRcWJzcXhzdjRqYkRhNHhqTklhNl9ULTJiekxnNXg0WjNuMkZuQ1dxcWkyOWpCbS10cm9UcnhJY01VTFdCLUVLRFA?oc=5",
+      "snippet": "Municipales 2026 : Sarah Knafo officiellement candidate à la mairie de Paris&nbsp;&nbsp;frontieresmedia.fr",
+      "date": "Wed, 07 Jan 2026 19:01:00 GMT",
+      "source": "frontieresmedia.fr"
     }
   ],
   "analysis": {

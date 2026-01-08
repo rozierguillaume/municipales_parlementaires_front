@@ -5,9 +5,10 @@
     "nom": "BLIN",
     "prenom": "Anne-Laure",
     "full_name": "Anne-Laure BLIN",
-    "parti": "nan",
+    "parti": "DVG",
     "departement": "Maine-et-Loire",
-    "commune": "nan",
+    "commune": "Saumur",
+    "position": "Pourrait être sur une liste",
     "filename": "anne-laure-blin.json"
   },
   "search_results": [
@@ -51,18 +52,24 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 5 - Ouest-France (16 Juil. 2025)",
-        "texte": "La députée LR Anne-Laure Blin est explicitement mentionnée comme étant en charge de fédérer la droite à Saumur pour les **Municipales 2026**."
+        "source_index": 1,
+        "explication": "Mentionne une dynamique de la droite à Saumur sans tête de liste mais avec Anne-Laure Blin en contexte"
       },
       {
-        "source": "Source 1 (Ouest-France - 3 Oct. 2025)",
-        "texte": "Bien que le titre parle des 'droits sort du bois', Anne-Laure Blin n'est pas explicitement citée, mais son rôle de fédératrice dans la droite locale est sous-entendu via les autres sources."
+        "source_index": 2,
+        "explication": "Anne-Laure Blin est explicitement citée dans un contexte des municipales 2026"
       },
       {
-        "source": "Source 2 (RCF Radio - 24 Sept. 2025)",
-        "texte": "La mention explicite de sa 'mise au point' sur les municipales à Saumur renforce son implication active dans la campagne pour 2026."
+        "source_index": 5,
+        "explication": "La députée LR Anne-Laure Blin est désignée comme chargée de fédérer la droite pour les municipales 2026"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 5 - Ouest-France (16 Juil. 2025)\",\n            \"texte\": \"La députée LR Anne-Laure Blin est explicitement mentionnée comme étant en charge de fédérer la droite à Saumur pour les **Municipales 2026**.\"\n        },\n        {\n            \"source\": \"Source 1 (Ouest-France - 3 Oct. 2025)\",\n            \"texte\": \"Bien que le titre parle des 'droits sort du bois', Anne-Laure Blin n'est pas explicitement citée, mais son rôle de fédératrice dans la droite locale est sous-entendu via les autres sources.\"\n        },\n        {\n            \"source\": \"Source 2 (RCF Radio - 24 Sept. 2025)\",\n            \"texte\": \"La mention explicite de sa 'mise au point' sur les municipales à Saumur renforce son implication active dans la campagne pour 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:08:32.076025Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mentionne une dynamique de la droite à Saumur sans tête de liste mais avec Anne-Laure Blin en contexte\"},\n        {\"source_index\": 2, \"explication\": \"Anne-Laure Blin est explicitement citée dans un contexte des municipales 2026\"},\n        {\"source_index\": 5, \"explication\": \"La députée LR Anne-Laure Blin est désignée comme chargée de fédérer la droite pour les municipales 2026\"}\n    ]\n}\n```"
   }
 }

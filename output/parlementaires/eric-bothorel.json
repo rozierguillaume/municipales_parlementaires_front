@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Côtes-d'Armor",
     "commune": "nan",
+    "position": "nan",
     "filename": "eric-bothorel.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2014. La liste d'Éric Bothorel dévoilée&nbsp;&nbsp;Le Télégramme",
       "date": "Mon, 03 Mar 2014 08:00:00 GMT",
       "source": "Le Télégramme"
+    },
+    {
+      "title": "Législatives : le SMS touchant d'Emmanuel Macron envoyé à Eric Bothorel - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYm5vZDNETTNSMEpjX0ExU0QwOVcyU3pOY3lINnZ0M0RrQ1YzS1RpNmdabjlkSDJidnBhQTdRSnFpUWtMdUVJLXJfZFJ0R3VSQVRXZ2czTGJ5SnJSNE95X01udjhNdm9xM2JWZ1Y1OFVhU1dyaVA1SjlsWVFmMFI0RmxuMTdmaEtaYWdBWnZQcEJNS1JHZEstSWlOcGgybUFuN3RiMGhMa3RIbDZXSGpJRGZrZEdaQlBodzNaMDNzbWxrQkVxaFpSaDNfaWFKOU0zUS0xQ045Rm1JN2pZ?oc=5",
+      "snippet": "Législatives : le SMS touchant d'Emmanuel Macron envoyé à Eric Bothorel&nbsp;&nbsp;France 3 Régions",
+      "date": "Mon, 12 Jun 2017 07:00:00 GMT",
+      "source": "France 3 Régions"
     }
   ],
   "analysis": {

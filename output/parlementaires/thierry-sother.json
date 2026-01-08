@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Bas-Rhin",
     "commune": "nan",
+    "position": "nan",
     "filename": "thierry-sother.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Municipales 2026. Le PS strasbourgeois rappelle à l’ordre des dissidents&nbsp;&nbsp;DNA - Les Dernières Nouvelles d'Alsace",
       "date": "Sat, 03 May 2025 07:00:00 GMT",
       "source": "DNA - Les Dernières Nouvelles d'Alsace"
+    },
+    {
+      "title": "Municipales 2026. Premiers thèmes, alliances... À Strasbourg, les socialistes dévoilent leur stratégie pour les élections - DNA.fr",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1dXYVZRcUloVkpfVVYyc1VGOThXQ2tURHh4WHctQ0xzN2doLU1zb1BvMTducmdEX0NndjVlNk16dUw2blZTMjNiMEhwMUViOE4wOEF4NGl4cFdhNEtkZmRrMkh6N0tENnpRX01jVnpaQmdKUmlkaEsxMnA1LU5kb2FWakZDYjk2aDlHOU40MjFyaDZyc1laX1VQREx6QzF5LVMw?oc=5",
+      "snippet": "Municipales 2026. Premiers thèmes, alliances... À Strasbourg, les socialistes dévoilent leur stratégie pour les élections&nbsp;&nbsp;DNA.fr",
+      "date": "Fri, 25 Apr 2025 07:00:00 GMT",
+      "source": "DNA.fr"
+    },
+    {
+      "title": "Législatives 2024 : dans le Grand Est, Strasbourg résiste, mais le RN poursuit sa poussée - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdWM1NUpGalRCUlA3emlZZEZJR2VNUmhSX0hLSFQ3UkxmcEhadkFsSk9ORFl3d012R2h6b01IdmlXcnZsNlZUQW1Jd2IyVjB4N2NFQkdlTE83YWt5Z0U2QTRxQ0EzT1RuZmJWeFVVeFN2bW53OHpBRVpTeENGeV9uVFkzZmNhbmNRNXJ0ckoySkJnYkI1RTZLMC1JTEdTQmVxU1gwQTJtUk5oaWplT2ppcW1uM2ExRFF3Q3JzVkNVUUtnblhaOC1zT3pqMWhGZ3Nfa090dlQ4YkpJU0M1SE5oejVvbkVjamp4ZDQ4cXAxX3ZIbXdjQXlGTFFZemw?oc=5",
+      "snippet": "Législatives 2024 : dans le Grand Est, Strasbourg résiste, mais le RN poursuit sa poussée&nbsp;&nbsp;Libération",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

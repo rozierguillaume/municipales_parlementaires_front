@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Loiret",
     "commune": "nan",
+    "position": "nan",
     "filename": "thomas-menage.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : Trois listes en lice pour conquérir la mairie à Châlette-sur-Loing&nbsp;&nbsp;La République du Centre",
       "date": "Fri, 26 Dec 2025 08:00:00 GMT",
       "source": "La République du Centre"
+    },
+    {
+      "title": "Aux municipales 2026, le RN a toujours du mal à se séparer des « brebis galeuses » - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRjBuM0VoZnJjMi1zWWFhU1NkekZMXzZ4R2NOb09HSmN3UWlIdHR0VVBoeWEtSkNjVVZ2ZDFldUd3YkFPSENKZmg2ZmpTME9tbEo1NHNVUDBaT21BdnZuMkFJWGU1N2JPYkNhMVdOZW9adlNkRTVRd215R3hqbDZkS0ttMURGU3BiN0VQNlAybXlMRHlKakhsSFlaSFFxZjZkMk1nUDhRVlUwUHZSQmRlNmJ0SGw3a0syZVVQY05rb0EtNEhrZWhsTzBPcEtFR3d2ZGlJ?oc=5",
+      "snippet": "Aux municipales 2026, le RN a toujours du mal à se séparer des « brebis galeuses »&nbsp;&nbsp;Le HuffPost",
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "Le HuffPost"
     }
   ],
   "analysis": {

@@ -8,6 +8,7 @@
     "parti": "PC",
     "departement": "Nord",
     "commune": "Saint-Amand-les-Eaux",
+    "position": "Pourrait être sur une liste",
     "filename": "guillaume-florquin.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucune source ne mentionne explicitement **Guillaume FLORQUIN** comme candidat aux municipales de 2026 dans les résultats fournis. Les articles cités concernent d'autres figures politiques (Eric Castelain, Nicolas Dujardin) ou des annonces générales sur la préparation des élections pour le RN et d’autres partis.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement **Guillaume FLORQUIN** comme candidat aux municipales de 2026 dans les résultats fournis. Les articles cités concernent d'autres figures politiques (Eric Castelain, Nicolas Dujardin) ou des annonces générales sur la préparation des élections pour le RN et d’autres partis.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Guillaume FLORQUIN comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:43.243517Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Guillaume FLORQUIN comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

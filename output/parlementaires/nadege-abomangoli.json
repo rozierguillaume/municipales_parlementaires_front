@@ -8,7 +8,7 @@
     "parti": "PS",
     "departement": "Seine-Saint-Denis",
     "commune": "Pantin",
-    "position": "Pourrait être sur la liste",
+    "position": "Pourrait être sur une liste",
     "filename": "nadege-abomangoli.json"
   },
   "search_results": [
@@ -50,7 +50,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Nadège Abomangoli comme candidate officielle aux **municipales de 2026**. Bien que les articles évoquent la préparation électorale par LFI (dont elle pourrait faire partie) ou des dynamiques locales à Aulnay, aucune confirmation directe de sa candidature n'est identifiée dans les sources consultées.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Nadège Abomangoli comme candidate officielle aux **municipales de 2026**. Bien que les articles évoquent la préparation électorale par LFI (dont elle pourrait faire partie) ou des dynamiques locales à Aulnay, aucune confirmation directe de sa candidature n'est identifiée dans les sources consultées.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Nadège Abomangoli comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent d'autres villes ou des dynamiques internes (LFI, PS/PCF) sans lien direct avec son nom."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:15:01.010745Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Nadège Abomangoli comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent d'autres villes ou des dynamiques internes (LFI, PS/PCF) sans lien direct avec son nom.\"}\n    ]\n}\n```"
   }
 }

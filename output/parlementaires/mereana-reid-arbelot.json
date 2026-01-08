@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Polynésie Française",
     "commune": "nan",
+    "position": "nan",
     "filename": "mereana-reid-arbelot.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 : Antilles, Guyane, Polynésie, Nouvelle-Calédonie... découvrez les résultats en Outre-mer&nbsp;&nbsp;Le Figaro",
       "date": "Sun, 30 Jun 2024 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Dissolution et législatives : silence au Tavini - Radio1 Tahiti",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HR2tjbFBTaFhqQUhmUk9kWEFzdXY5M0tLbzN0S2NRNFRVdzc3aEE1UlBJWURrRk5hbTJTQVlubjlfOHpZNjNBNDlGYzA5R0NWREJYQl9Tc2VTa1VVaVVpUHZpLWdOQUxBN0EySGpWY242c0ZzbXQ00gF8QVVfeXFMUE54T2hnRWF0aWVEVDVmNmQ3MENrZ05CNWZhT2ZpVlFmNm5GLURvNXVEX3lnZUVpWmVpcE5Fckd2bzdpRWtQcURURkVOVFhYby1kYk5EM21rd05pVmJ6bzlsbHJqMmRETXJ6VmQybTFrZzREa1J0a3hUVTR4eQ?oc=5",
+      "snippet": "Dissolution et législatives : silence au Tavini&nbsp;&nbsp;Radio1 Tahiti",
+      "date": "Sun, 09 Jun 2024 07:00:00 GMT",
+      "source": "Radio1 Tahiti"
     }
   ],
   "analysis": {

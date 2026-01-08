@@ -8,9 +8,17 @@
     "parti": "LR",
     "departement": "Vaucluse",
     "commune": "Cavaillon",
+    "position": "Tête de liste",
     "filename": "benedicte-auzanot.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 : il ne reste plus qu’un mois pour vous inscrire sur les listes électorales en Vaucluse - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVd0Z1NQUHROcDdYRW0wMTVqTjNadUwyb3o3bHU2dW5RQUN6SHBNVkwzSDRjWndjQlNhMzBXRVhVUGEwcUdZWVBNamNKNV9vcTI0RndqVXU2cmUxUnpWNU4zVjdjTDZYUHdiLVFXTG0weTdpR1lrX1I1eEpReXJDcUVCVTlkZ3k1Q2tvM2Z4TEZrbVBMejNia0k3TmJhMEd1TUR6dXZRVTdaT3A0Z0JXOXJ5UllLVDUyYnhoeGRMVlFXYXhaVWtsenQ2cXZyQQ?oc=5",
+      "snippet": "Municipales 2026 : il ne reste plus qu’un mois pour vous inscrire sur les listes électorales en Vaucluse&nbsp;&nbsp;francebleu.fr",
+      "date": "Wed, 07 Jan 2026 16:15:18 GMT",
+      "source": "francebleu.fr"
+    },
     {
       "title": "Municipales 2026 : Olivier Gras (RN) officialise sa candidature à Châteauneuf-de-Gadagne - La Provence",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWM1Q2tEQTNLenRDcDhYQmVBaUFxWHYyM1pndXB0amdGdVlpQUlEZjlxeDZLZF9obUpTdFlTUFhPLXJ3cXpEODNHSTN4OHd1T2RXMU44MmVoWHVPMGxwYTBudGM2eFFuWWk3LVJONWJtVzdzd09xYlRyXzRsckl2TjB3LW9KRXhtaU5wOFdhWmNJbnVFeEQzTndERElHR2l3QW5HVE9XaFdkejJ2dFZJa0Q3YVVJbEdsbUtXbU42REpCZWNyQW1zSlYxWkZXNjc4V2RFWkFfeHNkU3d5QVF3?oc=5",
@@ -48,8 +56,22 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Sources confirmant sa candidature officielle aux **Municipales 2026** à Cavaillon :\n        - Source 2 : *« Municipales 2026 : la députée RN Bénédicte Auzanot officialise sa candidature à Cavaillon »* (francebleu.fr, 22 Nov. 2025).\n        - Source 3 : *« Municipales 2026 à Cavaillon : Bénédicte Auzanot entre en campagne »* (La Provence, 22 Nov. 2025).\"\n    ]\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Sources confirmant sa candidature officielle aux **Municipales 2026** à Cavaillon :\n        - Source 2 : *« Municipales 2026 : la députée RN Bénédicte Auzanot officialise sa candidature à Cavaillon »* (francebleu.fr, 22 Nov. 2025).\n        - Source 3 : *« Municipales 2026 à Cavaillon : Bénédicte Auzanot entre en campagne »* (La Provence, 22 Nov. 2025).\"\n    ]\n}\n```"
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 3,
+        "explication": "Source confirme officiellement la candidature de Bénédicte Auzanot aux municipales 2026 à Cavaillon."
+      },
+      {
+        "source_index": 4,
+        "explication": "Mentionne son entrée en campagne pour les élections municipales 2026 à Cavaillon avec une liste de droite"
+      }
+    ],
+    "used_sources": [
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:22:19.419349Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [3, 4],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Source confirme officiellement la candidature de Bénédicte Auzanot aux municipales 2026 à Cavaillon.\"},\n        {\"source_index\": 4, \"explication\": \"Mentionne son entrée en campagne pour les élections municipales 2026 à Cavaillon avec une liste de droite\"}\n    ]\n}\n```"
   }
 }

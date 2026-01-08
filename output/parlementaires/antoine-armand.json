@@ -51,10 +51,30 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Source 5 (francebleu.fr - 21 Sep 2025): 'Municipales 2026 : Antoine Armand se déclare officiellement candidat à la mairie d'Annecy'",
-      "Sources 3 et 4 (Nov 2025) mentionnent explicitement les **municipales de 2026** dans Annecy avec une implication active d’Antoine Armand.",
-      "Source 1 (Jan 2026) confirme son rôle de candidat en évoquant des propositions pour la mairie d'Annecy"
+      {
+        "source_index": 1,
+        "explication": "Référence explicite à sa candidature aux municipales d'Annecy en 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Mention de son rapprochement et préparation pour les élections municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Annonce officielle d'une collaboration pour les municipales 2026 à Annecy."
+      },
+      {
+        "source_index": 5,
+        "explication": "Déclaration formelle de candidature aux municipales 2026 à la mairie d'Annecy."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Source 5 (francebleu.fr - 21 Sep 2025): 'Municipales 2026 : Antoine Armand se déclare officiellement candidat à la mairie d'Annecy'\",\n        \"Sources 3 et 4 (Nov 2025) mentionnent explicitement les **municipales de 2026** dans Annecy avec une implication active d’Antoine Armand.\",\n        \"Source 1 (Jan 2026) confirme son rôle de candidat en évoquant des propositions pour la mairie d'Annecy\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:10:01.435940Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence explicite à sa candidature aux municipales d'Annecy en 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Mention de son rapprochement et préparation pour les élections municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Annonce officielle d'une collaboration pour les municipales 2026 à Annecy.\"},\n        {\"source_index\": 5, \"explication\": \"Déclaration formelle de candidature aux municipales 2026 à la mairie d'Annecy.\"}\n    ]\n}\n```"
   }
 }

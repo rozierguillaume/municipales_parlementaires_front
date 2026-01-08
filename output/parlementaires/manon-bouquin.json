@@ -8,6 +8,7 @@
     "parti": "DVC",
     "departement": "Hérault",
     "commune": "Mèze",
+    "position": "Sur une liste",
     "filename": "manon-bouquin.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "lesinguliersete.fr"
     },
     {
+      "title": "Sète, municipales 2026 : dernière votation citoyenne de Nouvelle page pour finaliser la liste - echo-des-tribunes.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkpfdENoWFJNZUQtM1c4UVRyVllET3RHTE5BcE5TZTYzSmdNeTdDRzRhbFoyMDRhM1ZMNFZMSU42Q1lPV054SXlHV01FcVpQNnJCRG9rdk9jMGd5T1EzMXN0YUNQdzFaRDEtVWpOcW1YRmJZdkFXOHJLLUd5VEsySTctX0hIbXYtd0VyUDVVSEI4amZOYUFlMXdmM2JIOFhOYll1R1hmRFJJNnJpTWJNN1V1ZEdURVdNZWVZamVQdGVOZ3BTT2RJcTExbHQ?oc=5",
+      "snippet": "Sète, municipales 2026 : dernière votation citoyenne de Nouvelle page pour finaliser la liste&nbsp;&nbsp;echo-des-tribunes.com",
+      "date": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "source": "echo-des-tribunes.com"
+    },
+    {
       "title": "Mèze, municipales 2026 : l'ostréiculteur Joël Armentier, aux côtés de la députée RN Manon Bouquin - Hérault Tribune",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc1loV201cUZXN3A0NFB4X1RxUXRsUlJpbFhrQ0hkTjUxMGQzdkxPUk03QWFlYjhHdWNCbFdxSGs4Mnk1ZjZwX0RNOFBOSG53WExaN3hMOFFIR01DQjJoMHpNUUxZWnFSdEQxUE5HMl9fRHBhNTRkSFd1bUY0SFlvZy0tanRYeGExMUZ4bjZkako3bzVJTlBsdVcxLVVLVEVjN2dkX3RLYl80Q05JWF94Uk8taTVJcnMtWlFhQ2xncFpVMDNnZS1qZ2Uwd0poUVU?oc=5",
       "snippet": "Mèze, municipales 2026 : l'ostréiculteur Joël Armentier, aux côtés de la députée RN Manon Bouquin&nbsp;&nbsp;Hérault Tribune",
@@ -45,20 +53,37 @@
       "snippet": "L’ancienne députée transgenre Eva Son-Forget s’introduit dans une chambre privée de l’Assemblée, vide le minibar et vole des robes&nbsp;&nbsp;Le Figaro",
       "date": "Thu, 29 May 2025 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "L’ancienne députée Son-Forget s’introduit dans un bureau de l’Assemblée, vide le minibar et vole des robes - Libération",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZWpWSks1a2ZqVVhqeDJJMDZvUGpfZVZzVlpaZzZkS3hNXzJpbjBMMk5WRkhkbHhHOFBVN2syLV9uX0ExSkhJTGw0NWJ6bXJsLVNLanJpZ2R0TFZnX0JIWk5ybEhrZ25QMGZ6WURjQl9zYVpwMUVORnc2OGthNGVZLU9nWEhyc3lmNmVNWHZqVTRab0FoMV94SVlYeVk5RVBHWDN0YTRleWpseGk0Q0l1YnFXeXB1MkFmUVFUcVNJVW9OVTFvbG04SENia19IaW1maFNSN3dXTnZobkxERGdOa0hibmNQWjBQLUZTYzk0d01rTDBnUl93NHNyb1NRai0wS0NoMTA3OGI2QnJSRk1GOGU1aw?oc=5",
+      "snippet": "L’ancienne députée Son-Forget s’introduit dans un bureau de l’Assemblée, vide le minibar et vole des robes&nbsp;&nbsp;Libération",
+      "date": "Wed, 28 May 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 4 - Hérault Tribune (17 Nov 2025)",
-        "texte": "Municipales 2026 : l'ostréiculteur Joël Armentier, aux côtés de la députée RN Manon Bouquin"
+        "source_index": 1,
+        "explication": "Mentionne explicitement Manon Bouquin comme candidate RN aux municipales 2026 à Gignac."
       },
       {
-        "source": "Source 2 - Hérault Tribune (5 Dec 2025)",
-        "texte": "Municipales 2026 à Gignac : avec le soutien du Rassemblement national, Amélie Drevet défie Jean-François Soto. **Manon Bouquin est explicitement mentionnée dans un contexte de campagne électorale pour les municipales 2026 via son lien avec Joël Armentier (Source 4).**"
+        "source_index": 2,
+        "explication": "Confirme sa candidature aux municipales 2026 avec le soutien du RN dans la même commune que source 1."
+      },
+      {
+        "source_index": 5,
+        "explication": "Rappelle son statut de députée RN et son implication dans une liste municipale pour Mèze en 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 - Hérault Tribune (17 Nov 2025)\",\n            \"texte\": \"Municipales 2026 : l'ostréiculteur Joël Armentier, aux côtés de la députée RN Manon Bouquin\"\n        },\n        {\n            \"source\": \"Source 2 - Hérault Tribune (5 Dec 2025)\",\n            \"texte\": \"Municipales 2026 à Gignac : avec le soutien du Rassemblement national, Amélie Drevet défie Jean-François Soto. **Manon Bouquin est explicitement mentionnée dans un contexte de campagne électorale pour les municipales 2026 via son lien avec Joël Armentier (Source 4).**\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:23:05.376040Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mentionne explicitement Manon Bouquin comme candidate RN aux municipales 2026 à Gignac.\"},\n        {\"source_index\": 2, \"explication\": \"Confirme sa candidature aux municipales 2026 avec le soutien du RN dans la même commune que source 1.\"},\n        {\"source_index\": 5, \"explication\": \"Rappelle son statut de députée RN et son implication dans une liste municipale pour Mèze en 2026.\"}\n    ]\n}\n```"
   }
 }

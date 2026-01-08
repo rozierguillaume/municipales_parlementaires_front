@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-d'Oise",
     "commune": "nan",
+    "position": "nan",
     "filename": "benoit-blanchard.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : qui sont les candidats déclarés et pressentis à Marseille ?&nbsp;&nbsp;mesinfos",
       "date": "Thu, 02 Oct 2025 07:00:00 GMT",
       "source": "mesinfos"
+    },
+    {
+      "title": "Vienne : Place publique a désigné ses chefs de file pour les municipales à Poitiers - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaklWOElkN3JzaXF4REZOelpfT3g0bm5VM04yQ2x0RzV0V0RILWJ5aU1zanAxWjNWY0VJTVRYU25odHlWYWhVWDM4NVhjUjVoRFNZR3Q4VVZjRmVnWlY3V2pzMEFic1VGLTZaXzNad2o0RXVZQkxNTmdRYkhqWkJSNHRNTlJVaEQxZjN3OTFMc1BQXzV1VENRaTl0N0U3RUF4TVJUcjBkTmJxX2RRT1RzenhXNmFNWmxhSHl2bkVpMVB1YWxZX2ZDX0h2NXgtNWtWZ2FF?oc=5",
+      "snippet": "Vienne : Place publique a désigné ses chefs de file pour les municipales à Poitiers&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Mon, 04 Aug 2025 07:00:00 GMT",
+      "source": "lanouvellerepublique.fr"
     }
   ],
   "analysis": {

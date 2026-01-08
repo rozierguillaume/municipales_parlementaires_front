@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Gard",
     "commune": "nan",
+    "position": "nan",
     "filename": "pierre-meurin.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026. La candidature de Marion Maréchal Le Pen est-elle possible à Nîmes ?&nbsp;&nbsp;Actu.fr",
       "date": "Thu, 20 Mar 2025 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "À Pont-Saint-Esprit, une gauche encore invisible - www.lamarseillaise.fr",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWxYNUp4WEdyMEFaVlR1WmFlMGVtcURKb0NIUjBhUzgweVdhc1ptLWlHTE14S01pYXdabHQwcW9hMFpVV3pwd3F3ZWJEdmtKZzAzWlVCRUpHVDJJREJmVmE5TFpZYjQxRUxXLUJSVE5QazI1eTZ0TkdkT2ZyZHFETUxJX0cybEFhWGwzUFdRTzRMYlpMaFpad29wa1VDS2s?oc=5",
+      "snippet": "À Pont-Saint-Esprit, une gauche encore invisible&nbsp;&nbsp;www.lamarseillaise.fr",
+      "date": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "source": "www.lamarseillaise.fr"
     }
   ],
   "analysis": {

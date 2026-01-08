@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Hauts-de-Seine",
     "commune": "La Garenne-Colombes",
+    "position": "Pourrait être sur une liste",
     "filename": "philippe-juvin.json"
   },
   "search_results": [
@@ -51,26 +52,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Les Echos - Octobre 2025",
-        "analyse": "Seuls des commentaires sur son rôle dans le budget 2026 (pas de mention explicite de candidature)."
-      },
-      {
-        "source": "Le Figaro - Octobre 2025",
-        "analyse": "Description de son profil politique sans confirmation directe d'une candidature aux municipales 2026."
-      },
-      {
-        "source": "echoidf.fr - Septembre 2025",
-        "analyse": "Référence à une autre personne (Pierre Crosnier Leconte) et pas de mention de Philippe Juvin pour les municipales 2026."
-      },
-      {
-        "source": "Le Parisien - Juillet 2025",
-        "analyse": "Article sur l'état des maires dans les Hauts-de-Seine, sans lien direct avec une candidature spécifique de Philippe Juvin."
-      },
-      {
-        "source": "Ouest-France - Mars 2025",
-        "analyse": "Mention d'une dynamique associative pour les municipales 2026, mais pas liée à Philippe Juvin."
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature officielle de Philippe Juvin aux municipales 2026 dans les sources fournies. Les articles mentionnent son rôle politique sans confirmation explicite d'une démarche électorale pour cette année-là."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Les Echos - Octobre 2025\",\n            \"analyse\": \"Seuls des commentaires sur son rôle dans le budget 2026 (pas de mention explicite de candidature).\"\n        },\n        {\n            \"source\": \"Le Figaro - Octobre 2025\",\n            \"analyse\": \"Description de son profil politique sans confirmation directe d'une candidature aux municipales 2026.\"\n        },\n        {\n            \"source\": \"echoidf.fr - Septembre 2025\",\n            \"analyse\": \"Référence à une autre personne (Pierre Crosnier Leconte) et pas de mention de Philippe Juvin pour les municipales 2026.\"\n        },\n        {\n            \"source\": \"Le Parisien - Juillet 2025\",\n            \"analyse\": \"Article sur l'état des maires dans les Hauts-de-Seine, sans lien direct avec une candidature spécifique de Philippe Juvin.\"\n        },\n        {\n            \"source\": \"Ouest-France - Mars 2025\",\n            \"analyse\": \"Mention d'une dynamique associative pour les municipales 2026, mais pas liée à Philippe Juvin.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:09:28.623484Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature officielle de Philippe Juvin aux municipales 2026 dans les sources fournies. Les articles mentionnent son rôle politique sans confirmation explicite d'une démarche électorale pour cette année-là.\"}\n    ]\n}\n```"
   }
 }

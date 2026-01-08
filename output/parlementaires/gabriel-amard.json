@@ -5,10 +5,10 @@
     "nom": "AMARD",
     "prenom": "Gabriel",
     "full_name": "Gabriel AMARD",
-    "parti": "nan",
+    "parti": "PS",
     "departement": "Rhône",
-    "commune": "nan",
-    "position": "nan",
+    "commune": "Villeurbannne",
+    "position": "Pourrait être sur une liste",
     "filename": "gabriel-amard.json"
   },
   "search_results": [
@@ -49,8 +49,17 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources ne mentionne explicitement Gabriel Amard comme candidat officiel aux **élections municipales de 2026**. Bien que les articles évoquent son départ du PS (Source 5) et une possible position dans le contexte local, aucune confirmation directe de sa candidature n'est apportée. Les sources concernent plutôt :\n    - La désignation des têtes de liste pour la Métropole de Lyon (LFI, Villeurbanne – Sources 1 & 2),\n    - Une annonce antérieure de Jean-Paul Bret (Municipales 2026) (Source 3).\n    Aucune mention explicite de Gabriel Amard comme candidat aux municipales 2026.\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune des sources ne mentionne explicitement Gabriel Amard comme candidat officiel aux **élections municipales de 2026**. Bien que les articles évoquent son départ du PS (Source 5) et une possible position dans le contexte local, aucune confirmation directe de sa candidature n'est apportée. Les sources concernent plutôt :\n    - La désignation des têtes de liste pour la Métropole de Lyon (LFI, Villeurbanne – Sources 1 & 2),\n    - Une annonce antérieure de Jean-Paul Bret (Municipales 2026) (Source 3).\n    Aucune mention explicite de Gabriel Amard comme candidat aux municipales 2026.\"\n}\n```"
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Mention explicite de Gabriel Amard comme figure politique active dans Villeurbanne en lien avec une rupture avec le Parti Socialiste, suggérant sa préparation aux municipales 2026."
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:15:08.154731Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Mention explicite de Gabriel Amard comme figure politique active dans Villeurbanne en lien avec une rupture avec le Parti Socialiste, suggérant sa préparation aux municipales 2026.\"}\n    ]\n}\n```"
   }
 }

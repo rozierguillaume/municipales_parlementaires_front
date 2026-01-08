@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Loiret",
     "commune": "Orléans",
+    "position": "Pourrait être sur une liste",
     "filename": "stephanie-rist.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Aux législatives partielles, Renaissance et LR partenaires particuliers&nbsp;&nbsp;Libération",
       "date": "Mon, 08 Dec 2025 08:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Législative partielle dans la première circonscription du Loiret : quelles dates et quels candidats ? Ce que l'on sait - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNT3RFNUtZdXpqZER1OVJWM0VjZTluRklGMFNoc0VwaXc2VWdnal91dW81VHFNSkVlWVVDdGVHVWhTS2I0d1dWZGNOMTNOWW5ONkN4aWVWYnpQcFg3ZWs4SjIwd0Z2RE5pd2NXR1FQVFYyb1ltNGFCVE9xYnhLcVlwaXpDWW5ZR25kNHRhTDg0T040MlIyRnRYLUZ3SUhhWHhZbjRHbDRJaUxtR2JDLUJpQUpCSDdpRXRaR1pyaFNrV0JEcVZPVXpWYkFHbGtEQjhUUG5WQWtSYkRFNVFVd3NGQVJuUl9KbDFKVm9YSmtUOGNmajNjTktka3F5WE44bTF6bUpJcmprMnlUclNqVjloVGpGOXJhMG9PcGs1TQ?oc=5",
+      "snippet": "Législative partielle dans la première circonscription du Loiret : quelles dates et quels candidats ? Ce que l'on sait&nbsp;&nbsp;France 3 Régions",
+      "date": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "France 3 Régions"
     },
     {
       "title": "Municipales 2026 : l'intrigant rendez-vous proposé par Yann Chaillou au pied de l'arbre 45 du Festival de Loire à Orléans - La République du Centre",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": "Stéphanie Rist est désignée comme 'pilote' de la liste Renaissance pour les **municipales 2026** à Orléans (Source 5 : francebleu.fr, 3 juin 2025).",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Stéphanie Rist est désignée comme 'pilote' de la liste Renaissance pour les **municipales 2026** à Orléans (Source 5 : francebleu.fr, 3 juin 2025).\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Stéphanie RIST comme candidate aux municipales 2026 dans les résultats fournis. Les sources concernent des législatives partielles ou des événements ponctuels sans lien direct avec ses candidatures municipales futures."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:13:50.332843Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Stéphanie RIST comme candidate aux municipales 2026 dans les résultats fournis. Les sources concernent des législatives partielles ou des événements ponctuels sans lien direct avec ses candidatures municipales futures.\"}\n    ]\n}\n```"
   }
 }

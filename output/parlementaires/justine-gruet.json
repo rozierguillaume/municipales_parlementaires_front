@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Jura",
     "commune": "Dole",
+    "position": "Pourrait être sur une liste",
     "filename": "justine-gruet.json"
   },
   "search_results": [
@@ -45,11 +46,27 @@
       "snippet": "DOLE. Qui est Justine Gruet, la Doloise appelée à succéder à Sermier ?&nbsp;&nbsp;Le Bien Public",
       "date": "Fri, 21 Jan 2022 08:00:00 GMT",
       "source": "Le Bien Public"
+    },
+    {
+      "title": "Le député Les Républicains du Jura, Jean-Marie Sermier, ne se représente pas aux législatives - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOalZFMFdVM2VtSm85X1JxWTA5UnJoY2xsR2ZYZER2aGVRaUdGSFFua2xhVGgyLVdTajZwOTd0OTVfUmwyM1hOLTkwOTVaRWJWWERIUVh6dEEyMXJ6V1lFT3RFU0RpZWNwQUtPOVBtWVllVG53ejdlODFIQlNaRVNiM1dmWGxrSEZnOEtZRWhrYU5WRFBtOEw5c3g4S3pNa2RBRnJVX0xBeUQ0VlhtMHBuSDFTbkxYOFJSY0lQcmJCU2NSZlVTZWtEeFVPUE5ZT1R2eExzV3dkZmJXUWtq?oc=5",
+      "snippet": "Le député Les Républicains du Jura, Jean-Marie Sermier, ne se représente pas aux législatives&nbsp;&nbsp;francebleu.fr",
+      "date": "Sat, 15 Jan 2022 08:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Justine Gruet est explicitement mentionnée dans le snippet de la Source 5 (Le Bien Public - 21 Jan 2022) comme candidate potentielle à la mairie de Dole pour les **municipales 2026**, bien qu'elle soit appelée à succéder à Sermier. Le contexte suggère une préparation active et une visibilité locale, confirmant son intention de se présenter.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Justine Gruet est explicitement mentionnée dans le snippet de la Source 5 (Le Bien Public - 21 Jan 2022) comme candidate potentielle à la mairie de Dole pour les **municipales 2026**, bien qu'elle soit appelée à succéder à Sermier. Le contexte suggère une préparation active et une visibilité locale, confirmant son intention de se présenter.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Source mentionne explicitement Justine Gruet comme candidate potentielle à la mairie de Dole pour les municipales 2026."
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:09:24.602660Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Source mentionne explicitement Justine Gruet comme candidate potentielle à la mairie de Dole pour les municipales 2026.\"}\n    ]\n}\n```"
   }
 }

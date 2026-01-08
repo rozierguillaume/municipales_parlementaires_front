@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Val-de-Marne",
     "commune": "Thiais",
+    "position": "Pourrait être sur une liste",
     "filename": "nicolas-tryzna.json"
   },
   "search_results": [
@@ -44,14 +45,16 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Les lancements de campagnes pour les Municipales 2026 à Vitry-sur-Seine, Arcueil et Chevilly-Larue sont mentionnés, mais **pas Nicolas TRYZNA** ni son implication directe dans ces annonces. Aucune trace de sa candidature explicite."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Nicolas TRYZNA comme candidat aux municipales 2026 ni dans les lancements de campagnes ou les annonces récentes."
       },
       {
-        "source": "Source 4",
-        "analyse": "Référence aux 'Municipales 2020' (anciennes élections) mentionnant un 'look pour faire campagne', sans lien avec Nicolas TRYZNA ou les Municipales 2026."
+        "source_index": null,
+        "explication": "Les sources disponibles concernent des élections passées (Législatives 2024, Départementales 2021) ou des informations générales sur la campagne municipale sans lien direct avec TRYZNA."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Les lancements de campagnes pour les Municipales 2026 à Vitry-sur-Seine, Arcueil et Chevilly-Larue sont mentionnés, mais **pas Nicolas TRYZNA** ni son implication directe dans ces annonces. Aucune trace de sa candidature explicite.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Référence aux 'Municipales 2020' (anciennes élections) mentionnant un 'look pour faire campagne', sans lien avec Nicolas TRYZNA ou les Municipales 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:09:55.969537Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Nicolas TRYZNA comme candidat aux municipales 2026 ni dans les lancements de campagnes ou les annonces récentes.\"},\n        {\"source_index\": null, \"explication\": \"Les sources disponibles concernent des élections passées (Législatives 2024, Départementales 2021) ou des informations générales sur la campagne municipale sans lien direct avec TRYZNA.\"}\n    ]\n}\n```"
   }
 }

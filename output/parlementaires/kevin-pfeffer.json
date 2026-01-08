@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Moselle",
     "commune": "Stiring-Wendel",
+    "position": "Sur une liste ",
     "filename": "kevin-pfeffer.json"
   },
   "search_results": [
@@ -51,14 +52,29 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 5 - Le Republicain Lorrain (29 Mar 2025)",
-        "texte_justificatif": "Kévin Pfeffer, député RN de Forbach, est explicitement mentionné comme candidat aux **Municipales 2026**"
+        "source_index": 1,
+        "explication": "Source mentionne explicitement Kévin Pfeffer comme candidat aux municipales 2026 à Metz."
       },
       {
-        "source": "Source 1, 2 et 3 (toutes sur Metz, mais contexte des élections 2026)",
-        "texte_justificatif": "Bien que ces articles parlent d'Étienne Anstett pour Metz, ils confirment le cadre des **Municipales 2026** comme sujet central et montrent une préparation active de la part du RN. Ces sources ne mentionnent pas Pfeffer mais illustrent l'environnement électoral en cours."
+        "source_index": 2,
+        "explication": "Confirme l'investiture de Kévin Pfeffer (RN) pour les élections municipales 2026 dans une autre ville (Forbach)."
+      },
+      {
+        "source_index": 3,
+        "explication": "Renforce la candidature de Kévin Pfeffer comme député RN aux municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Source directe confirmant sa candidature officielle et son appartenance au RN pour les élections municipales 2026"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 5 - Le Republicain Lorrain (29 Mar 2025)\",\n            \"texte_justificatif\": \"Kévin Pfeffer, député RN de Forbach, est explicitement mentionné comme candidat aux **Municipales 2026**\"\n        },\n        {\n            \"source\": \"Source 1, 2 et 3 (toutes sur Metz, mais contexte des élections 2026)\",\n            \"texte_justificatif\": \"Bien que ces articles parlent d'Étienne Anstett pour Metz, ils confirment le cadre des **Municipales 2026** comme sujet central et montrent une préparation active de la part du RN. Ces sources ne mentionnent pas Pfeffer mais illustrent l'environnement électoral en cours.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:24:25.333872Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source mentionne explicitement Kévin Pfeffer comme candidat aux municipales 2026 à Metz.\"},\n        {\"source_index\": 2, \"explication\": \"Confirme l'investiture de Kévin Pfeffer (RN) pour les élections municipales 2026 dans une autre ville (Forbach).\"},\n        {\"source_index\": 3, \"explication\": \"Renforce la candidature de Kévin Pfeffer comme député RN aux municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Source directe confirmant sa candidature officielle et son appartenance au RN pour les élections municipales 2026\"}\n    ]\n}\n```"
   }
 }

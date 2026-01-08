@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Hauts-de-Seine",
     "commune": "nan",
+    "position": "nan",
     "filename": "thomas-lam.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Législatives : le grand flou des affiches électorales&nbsp;&nbsp;Le Figaro",
       "date": "Mon, 17 Jun 2024 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Résultats élections municipales Asnières-sur-Seine [92600] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEctZFZKUld6bFdXZ3oxSmJ3VGhWSmxEZUNTNHRYMTFHbzhkWXFjeXJXeVlJakREN3l6aXNFQnhIT2d5SDdaODhZVm8xbEVqQTA2WWxSRC15LVRMNE1vTGNQaUpjTzI5YlhBcnFlNWdycmVmTWdfUnpxWE40X0g4OVVoT2RwSkJiNjZLRG1sYnE1dw?oc=5",
+      "snippet": "Résultats élections municipales Asnières-sur-Seine [92600] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Législatives dans les Hauts-de-Seine: un accord entre LR et Renaissance pour des candidats communs, dont Gabriel Attal - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUEVqWUZtSUl6V2k3a0JFNjUteDdvWlUyRE5BTlZ6VURkdTZfSkJYUUY1NzAzbVpWcWE4ZjExamx2UkJpelVzSERWTUJscGk1M0pxVVBlc1FBWWh4LUhVVWtCVlJGV3FtbWhsRnl0R3hqbTB6WGJuOEFLZ1FtWl9zeWJuZkItQjd2NWExTWhYd1BJRFZ4eE9UQ0lOQUJzODlBeTR5MVJCNDBtMm9LQ2ZoOGw2WkdTdE5OV2FWT2VCc1dUTXJ0bWZxSm4yVXZQYnZJNXZjblB3VndNWG94aDZWZE5KVkd2TUFrM1laSmlOV0d5eXhHODVTbg?oc=5",
+      "snippet": "Législatives dans les Hauts-de-Seine: un accord entre LR et Renaissance pour des candidats communs, dont Gabriel Attal&nbsp;&nbsp;BFM",
+      "date": "Fri, 14 Jun 2024 07:00:00 GMT",
+      "source": "BFM"
     }
   ],
   "analysis": {

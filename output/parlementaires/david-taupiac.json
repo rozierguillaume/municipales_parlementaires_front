@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Gers",
     "commune": "nan",
+    "position": "nan",
     "filename": "david-taupiac.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Législatives : David Taupiac se dévoile&nbsp;&nbsp;Le journal du Gers",
       "date": "Wed, 11 May 2022 07:00:00 GMT",
       "source": "Le journal du Gers"
+    },
+    {
+      "title": "Saint-Clar. La liste de David Taupiac, maire sortant - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ283aDF4eThkM0w2MXE1bFJwNjB2dDh4VmpBRlZCRXRSSDc1N0IzMkxOc2xIZTMzRWVqRkRMUmJWcDhoYklGQlZjNGtGVVowcjFjc24wRVZ6dUJfNGRHY3dYQlBEMVZFY3ZtZURhWUN1WU44MGVVSXVDTkZhUk1YbmZxUUFoVWtvNGQ1VVBESWJuVThnMkptY2Q1dEVYYmhtbEdwb1o0VU5Cb2M?oc=5",
+      "snippet": "Saint-Clar. La liste de David Taupiac, maire sortant&nbsp;&nbsp;ladepeche.fr",
+      "date": "Thu, 06 Feb 2014 08:00:00 GMT",
+      "source": "ladepeche.fr"
+    },
+    {
+      "title": "Teddy Riner désigné parrain de la santé mentale, reconnue grande cause nationale - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNV1BNS0lRaTc4RVg2T2lvWTBnZnBLRDR1aWR5WTdldGxTcWg2YUR4YTQ4clVfTUpKeGtTckdzZHBBTVBOcjdtMUJETktKNGxHNVNEU3hWcF9yNWJ0OGhHSzMxaUY2dTN5dlhrelUzWFk0YVFYU0pVZ0ZtSWJoMVRIQkhQYzcydl9jSWEyeWg3Z2FjT2NmMzNlR0VHVmZ6anczUU5BdjFUWC1sZ2JtQi1qb0VsN0E5RTZUbjN0RUpqUFRabjN6dXJ6OFhTZ0ptMzU0RkJOSFlrWTVERFNzZTVhbGtzeHFIYU1xQ0hJOVJKQVJyQndjamhObXJlbw?oc=5",
+      "snippet": "Teddy Riner désigné parrain de la santé mentale, reconnue grande cause nationale&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 02 Jun 2025 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

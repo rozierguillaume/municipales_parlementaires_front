@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-de-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "guillaume-gouffier-valente.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 dans le Val-de-Marne : Guillaume Gouffier-Valente réélu dans la 6e circonscription&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 08 Jul 2024 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Législatives : la candidature d’un proche de David Lisnard dans la 6e circonscription agace chez LR - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcjg1YWdmRXdsamN1T3FLTnJUdmJFRjZJY0pKd0REdVNldERIdlc3LWllS2JteFNfNG8tTkJVTHY5RjJ5U0NmSkVMd2RIRWltX1h0X0pMRzNRLVk3cDNVYndCd09fVWJXeE4wS2tneXdQeHpvNmhkMVBlTGRQUzFmc3RzZW5qOUFBWUs3Z2dyNjVnZGFpVVpNT0VTQWEtUHhpWmt6c19oa25sRnYyNGljVlJZWXo5MkhLTzEwR3Bvb0pPeUJ2TE02dTV2N2tHdFVlNi1iU2NvaDVJM2g5TS1KZ3ZOUnNPWGswdy1ZWE1GTFdSUlROSmVNMXBPaGlGSk5oMHlnYnlnUG1NS3lGY0FVNldfd3Jldw?oc=5",
+      "snippet": "Législatives : la candidature d’un proche de David Lisnard dans la 6e circonscription agace chez LR&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 17 Jun 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {

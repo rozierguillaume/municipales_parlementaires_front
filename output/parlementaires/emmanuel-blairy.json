@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Pas-de-Calais",
     "commune": "nan",
+    "position": "nan",
     "filename": "emmanuel-blairy.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "La relève RN: huit candidats pressentis pour devenir députés&nbsp;&nbsp;Libération",
       "date": "Wed, 15 Jun 2022 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "CARTE. Résultats des législatives 2024 : Marine Le Pen, Olivier Faure, Sébastien Chenu, Clémentine Autain... Découvrez qui sont les candidats élus dès le 1er tour - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXUyLWdGbU45a0NvbVZuMENjY213ZlpaaDhjaFMwcWFTbFFsM2NSM3E4MXlmRDlUWmNucWIxOHRlWUhxTWZtTlBVU1VUX2ZJemxVX1lfeDNkREJQdU85VnF0U0RPRGdFNWdiV0h0LTdQaEFMaWYtRmYzUkNzWTUtYnYwREszVmpYUTd0N0JCRnV1U056dk1pMUdxZTJjUURVX3BScmZ5ZTlQOHJRX2J5b1lRb3lfdjFsaTVWakNVcVdfMlhZSFhTNExpMUY4NUtYSDdvY2hHamZLQ3IxZ2c1eEZJSjdnZXN2c0pWbHVR?oc=5",
+      "snippet": "CARTE. Résultats des législatives 2024 : Marine Le Pen, Olivier Faure, Sébastien Chenu, Clémentine Autain... Découvrez qui sont les candidats élus dès le 1er tour&nbsp;&nbsp;Franceinfo",
+      "date": "Sun, 30 Jun 2024 07:00:00 GMT",
+      "source": "Franceinfo"
     }
   ],
   "analysis": {

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Calvados",
     "commune": "nan",
+    "position": "nan",
     "filename": "elisabeth-borne.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : Rachida Dati, Élisabeth Borne et d’autres personnalités lancent un appel aux candidates&nbsp;&nbsp;ELLE",
       "date": "Sun, 18 May 2025 07:00:00 GMT",
       "source": "ELLE"
+    },
+    {
+      "title": "Municipales 2026 à Caen : Élisabeth Borne est nommée « pilote » pour le parti Renaissance - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdDlvVTg5SnJvTXBkTnpTd1hITkYtcV9RQm5vWXRVeElvb2U3dEZnQURtUjVic3JRZFFFNWFrVDd1a05aX0M5am9yai1jbzlIUzFFblYya2ZjUHN2SXU2WVVmcGFNdGszT0NHaF9wMDNCcDNWb29EaVd1YS1zT0M5V0l2NmRTWi1mcjFUVVpkMldUdUhQWnhXaWJsUlR2XzhNOTkwbm9SOVlBMjVhVnlBQ0g0am9vVlFSRUJ1Sl9fbjJaTEM5eE1tQUxSNGNybkhPcVp4NG1WRTQwYUJIZDFkbWNTd3RDVHhJNTFUTjM2ZEpsUGVoOWk0SnF5bk1kRGtTQUhZRA?oc=5",
+      "snippet": "Municipales 2026 à Caen : Élisabeth Borne est nommée « pilote » pour le parti Renaissance&nbsp;&nbsp;Ouest-France",
+      "date": "Wed, 28 May 2025 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {

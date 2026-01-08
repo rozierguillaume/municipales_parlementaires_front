@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Nord",
     "commune": "Roubaix",
+    "position": "Tête de liste ",
     "filename": "david-guiraud.json"
   },
   "search_results": [
@@ -40,6 +41,13 @@
       "source": "Mediacités"
     },
     {
+      "title": "Contrairement à la ligne de LFI, le député David Guiraud ne veut pas désarmer la police municipale - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaC1oT1M3Ri10a0hyazdmSkxoejZQT0RmS0lnWEl4U2hlckRoM09qMFFkcjFpaURsLU5lWkxRbE1YWFc3azd5Q25PZUN0S0FIOExYeWNmNzNpWmZQS1ZQanEtYVE4aVVQdkh1bERjbEp2TVVKZG16UWNoNzlRNi1IUDJrbmlsdVc3UmtfamcxakhMeVcwdFV0TVFqcFNfZXp0cWFKSGtQUkhROVhEbS1VQkxnOHVHaHhVWEVFV21wNXFXZTFTREFHQWJab2JURkhBRmFaSkM3eW1OV2xpNkJVc043ekVyandEazdyd2VPeHc2LU11cVRz?oc=5",
+      "snippet": "Contrairement à la ligne de LFI, le député David Guiraud ne veut pas désarmer la police municipale&nbsp;&nbsp;Libération",
+      "date": "Tue, 08 Jul 2025 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
       "title": "Municipales 2026 : le controversé David Guiraud veut prendre Roubaix à la droite - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNlBKN3ZxbGh5QkY0MnFsMmVrcXZQeE41WGtySTFOVlFyYjVoMDRwbnZael9oX183Rmg3YmN5WmJNT2JFVnRpdzJfcWNhb0hFTzBxRGpVZk1CN3F4aUw2cnRRRnhNdE1XbkNpdGR0SVhBSVpVMFVFUXVqQ2FwM2F5R293RzBVVVhCQkp0RVhuQlZOSkd6ZDRQa2FhcnZ6SE5SdV9yZGZicEpLQjQwUnAxZVVDd3RTNUk4TFFhSTNyZ3BYNUZFWTMyRWtreWZNdE5HVWlZSk01N1N5RkNPaEZfeHFqSlk?oc=5",
       "snippet": "Municipales 2026 : le controversé David Guiraud veut prendre Roubaix à la droite&nbsp;&nbsp;Le Monde.fr",
@@ -48,17 +56,17 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Le Monde.fr - 26 Feb 2025",
-        "contenu": "Titre : 'Municipales 2026 : le controversé David Guiraud veut prendre Roubaix à la droite' – explicitement mentionne sa candidature aux élections municipales de 2026."
-      },
-      {
-        "source": "Libération - 11 Dec 2025",
-        "contenu": "Contexte autour des élections municipales futures et son positionnement politique en préparation pour les urnes de 2026 (lié à l'après-Delbar, contexte électoral local)."
+        "source_index": 3,
+        "explication": "Source confirmant les dates des élections municipales de 2026 mais sans lien direct avec David Guiraud."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Le Monde.fr - 26 Feb 2025\",\n            \"contenu\": \"Titre : 'Municipales 2026 : le controversé David Guiraud veut prendre Roubaix à la droite' – explicitement mentionne sa candidature aux élections municipales de 2026.\"\n        },\n        {\n            \"source\": \"Libération - 11 Dec 2025\",\n            \"contenu\": \"Contexte autour des élections municipales futures et son positionnement politique en préparation pour les urnes de 2026 (lié à l'après-Delbar, contexte électoral local).\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      3
+    ],
+    "analysis_at": "2026-01-08T10:16:22.700814Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [3],\n    \"justification\": [\n        {\"source_index\": 3, \"explication\": \"Source confirmant les dates des élections municipales de 2026 mais sans lien direct avec David Guiraud.\"}\n    ]\n}\n```"
   }
 }

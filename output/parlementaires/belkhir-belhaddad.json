@@ -5,9 +5,10 @@
     "nom": "BELHADDAD",
     "prenom": "Belkhir",
     "full_name": "Belkhir BELHADDAD",
-    "parti": "nan",
+    "parti": "LR",
     "departement": "Moselle",
-    "commune": "nan",
+    "commune": "Metz",
+    "position": "Pourrait être tête de liste",
     "filename": "belkhir-belhaddad.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "NON",
-    "justification": "Aucun des résultats de recherche fournis ne mentionne explicitement **Belkhir Belhaddad** comme candidat aux élections municipales de 2026. Les sources citées concernent d'autres figures politiques (Di Filippo, Laloux, Édouard Philippe, François Grosdidier) ou des sujets liés à la préparation des Municipales 2026 sans lien avec Belhaddad.",
-    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"justification\": \"Aucun des résultats de recherche fournis ne mentionne explicitement **Belkhir Belhaddad** comme candidat aux élections municipales de 2026. Les sources citées concernent d'autres figures politiques (Di Filippo, Laloux, Édouard Philippe, François Grosdidier) ou des sujets liés à la préparation des Municipales 2026 sans lien avec Belhaddad.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Belkhir BELHADDAD comme candidat aux municipales 2026 dans les résultats fournis"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:20:12.992804Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Belkhir BELHADDAD comme candidat aux municipales 2026 dans les résultats fournis\"}\n    ]\n}\n```"
   }
 }

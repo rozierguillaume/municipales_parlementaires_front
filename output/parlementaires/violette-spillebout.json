@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Nord",
     "commune": "Lille",
+    "position": "Tête de liste ",
     "filename": "violette-spillebout.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "La Provence"
     },
     {
+      "title": "Municipales 2026 : Violette Spillebout à Lille, Jean-Michel Aulas à Lyon, Antoine Armand à Annecy... Renaissance confirme plusieurs investitures - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOY0NtUnRwSlJCQXllMF9hV1BRcV8yNmxQNFpPalFDdFFFczJKcUxZdmY3WXVxUy1lZGRRQWZ6QVQtWi14UGpPRF9hN2syYnpqVUUxS3ItT2tnSXFiODc0Z0lpN3B2YkNUbjdFck1MZHJ6b1ZoWFhMcTBrUVRrckY3ZTRJak1PSjYxQ0pEZWd2UlJCT3J4MVh4M0UwaXBKbEdQT0s1UnRVUWlSLWtQdm81SHA4by1pV2VuNC0tNThqVGNyQnNobDlyTGw0SnROYWNBYTUtcm96bm5tT0RuRU91b21pcVI1TVFwZVJ4eFkwVHR6OTI0cEJia3JHSjZWUm5wcGstMDJJZUZXdw?oc=5",
+      "snippet": "Municipales 2026 : Violette Spillebout à Lille, Jean-Michel Aulas à Lyon, Antoine Armand à Annecy... Renaissance confirme plusieurs investitures&nbsp;&nbsp;Franceinfo",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "source": "Franceinfo"
+    },
+    {
       "title": "Municipales 2026 : à Lille, pléthore de prétendants pour succéder à Martine Aubry - Les Echos",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVjJJOWhQYXVCN0IyS252a3pvQ09JaFdCeDBmU1VLQjNZU2dHWTVWTjRQWWVLUUt4NW9OX1ZqcEEyT2RrRVkzMXZFMXRvdFU1TjM4U3hGcDlyX1U1WGN3ZFpFV3N3WV9HSm5HZmEwWHlROFRhSUdEZDFzTVdqVnRtYVNQcy1oUnpINmRERDdyTWZXU2hyN2hZUGJCRERkbm5leTU4QVJOeXF2MFN0UDJiZDQ2NGNuaTY3a2lpUVQ5QTlXTmJha1k1cTdLSGE?oc=5",
       "snippet": "Municipales 2026 : à Lille, pléthore de prétendants pour succéder à Martine Aubry&nbsp;&nbsp;Les Echos",
@@ -48,29 +56,27 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "OUI",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Le snippet mentionne Édouard Philippe soutenant Franck Proust pour les municipales de **Nîmes en 2026**, mais ne fait pas explicitement référence à Violette Spillebout."
+        "source_index": 2,
+        "explication": "Mention explicite de Violette Spillebout comme candidate aux municipales 2026 dans le contexte de Renaissance."
       },
       {
-        "source": "Source 2",
-        "analyse": "La proposition de Violette Spillebout est évoquée dans le contexte des municipales **2026** (mention explicite du mot « Municipales 2026 »), mais il s'agit d'une critique interne et non d'une confirmation officielle de sa candidature."
+        "source_index": 3,
+        "explication": "Confirme son investiture officielle pour Lille en 2026 via Renaissance."
       },
       {
-        "source": "Source 3",
-        "analyse": "Renaissance confirme plusieurs investitures pour les municipales **2026**, dont Spillebout à Lille, ce qui suggère une intention de se présenter. Cette source est donc pertinente."
-      },
-      {
-        "source": "Source 4",
-        "analyse": "Contexte général sur la course à Lille en 2026 sans mention explicite de Violette Spillebout."
-      },
-      {
-        "source": "Source 5",
-        "analyse": "François Bayrou menace de torpiller sa candidature, ce qui implique une **intention déclarée** (candidature officielle) pour les municipales de 2026."
+        "source_index": 4,
+        "explication": "Renforce la confirmation de sa candidature à Lille pour les municipales 2026"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Le snippet mentionne Édouard Philippe soutenant Franck Proust pour les municipales de **Nîmes en 2026**, mais ne fait pas explicitement référence à Violette Spillebout.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"La proposition de Violette Spillebout est évoquée dans le contexte des municipales **2026** (mention explicite du mot « Municipales 2026 »), mais il s'agit d'une critique interne et non d'une confirmation officielle de sa candidature.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Renaissance confirme plusieurs investitures pour les municipales **2026**, dont Spillebout à Lille, ce qui suggère une intention de se présenter. Cette source est donc pertinente.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Contexte général sur la course à Lille en 2026 sans mention explicite de Violette Spillebout.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"François Bayrou menace de torpiller sa candidature, ce qui implique une **intention déclarée** (candidature officielle) pour les municipales de 2026.\"\n        }\n    ],\n    \"conclusion_globale\": \"Les sources combinées suggèrent que Violette Spillebout est **fortement probable à candidate aux élections municipales de Lille en 2026**, mais aucune ne confirme explicitement sa décision finale. La justification principale repose sur les mentions explicites des municipales 2026 (Sources 2 et 3) et le contexte d'investiture par son parti.\"\n}\n```"
+    "used_sources": [
+      2,
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:12:20.216861Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 3, 4],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Mention explicite de Violette Spillebout comme candidate aux municipales 2026 dans le contexte de Renaissance.\"},\n        {\"source_index\": 3, \"explication\": \"Confirme son investiture officielle pour Lille en 2026 via Renaissance.\"},\n        {\"source_index\": 4, \"explication\": \"Renforce la confirmation de sa candidature à Lille pour les municipales 2026\"}\n    ]\n}\n```"
   }
 }

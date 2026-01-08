@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Polynésie Française",
     "commune": "nan",
+    "position": "nan",
     "filename": "nicole-sanquer.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Sur 577 députés, 52 seront candidats aux élections municipales&nbsp;&nbsp;l'Opinion",
       "date": "Sun, 26 Jan 2020 08:00:00 GMT",
       "source": "l'Opinion"
+    },
+    {
+      "title": "Kahea Vii candidat de la \"transparence\" à Punaauia - Radio1 Tahiti",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeklsbTEwcjA2WEhQMGZPeXVFNWR6S3R1QXJVRE1DQ2NaQVlCTHYzdElPbGxQNUU2bzJReHkxQ19DLUFPQVpCWHFzYnJBSXBETVlWRUNkWGFBTkJkQXMwNmVjU2VxRFZrSDkwUE92Mm9OZWtMUm5xWkMtOFlwaXEtQnU4aWxVaHZVeHJIb09JTTh2clFF0gGaAUFVX3lxTFBkRi1DZmNKZm8wVGZUQ1lCeTBkWDJzVWxtcnN3bG9RT2FaSlE0SkJ6OHFIeVBERHRCR2xXcnRKZ0R3djBBYzBib2RpcU9oNFpfNkpVWTdiTWVkVTNFT2JsWFBnMGh5c0R2VUV6SWs2cDBWbVRiT1RMWEJmOG9xTVVwRUxyMmIxb3ZBdDVSSEt3dF9lSlNUd25BQVE?oc=5",
+      "snippet": "Kahea Vii candidat de la \"transparence\" à Punaauia&nbsp;&nbsp;Radio1 Tahiti",
+      "date": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "source": "Radio1 Tahiti"
     }
   ],
   "analysis": {

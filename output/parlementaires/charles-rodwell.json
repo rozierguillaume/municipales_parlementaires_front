@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Yvelines",
     "commune": "Versailles",
+    "position": "Pourrait être sur une liste",
     "filename": "charles-rodwell.json"
   },
   "search_results": [
@@ -17,6 +18,20 @@
       "snippet": "«Pour sauver la France, nous n’avons pas d’autre choix que de réduire l’immigration» : un député macroniste appelle à un «virage idéologique»&nbsp;&nbsp;Le Figaro",
       "date": "Fri, 05 Dec 2025 08:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Rétention d’étrangers dangereux : le député Renaissance Charles Rodwell remet sur la table l’allongement à 210 jours - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV2N5ZzIxelpISDZTVWtDa0lwbm56ZFNrbGcwc05UZE01QTlmSlB5dXNpeUZMVVhmdWN3N0loZEhXcFJXWlVqZ0hNSWVvc00yektITWJZdlE0X0xxU2FXcDNVWkpuNFpzV2VqR2pWUEY0cDJxbTdwOFNhRmlxWkZKLW5vWEN1Wmo3NWZITzZHaWhQRHhNYnNicHhhZ1BTMl9Da2VTNnhLVDBBdTMxUHFrOWlraWk4XzBjMXg1MlZoTi1oYXRscVlhTjAzdkhTSW9yeWE3OXpTSTRFc0NfczNpOEIwd2JvNTJvTmtWcVd4aW5sdmgxdjN0XzFjZHlfVmE3YV9vN3pyakRjOW1rS0V4N1ZMR2lEakJjU1E?oc=5",
+      "snippet": "Rétention d’étrangers dangereux : le député Renaissance Charles Rodwell remet sur la table l’allongement à 210 jours&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 03 Oct 2025 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Thizy-les-Bourgs : Rémi Berthoux (RN) se parachute loin de Vénissieux pour 2026 - lyonmag.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0hDdmxwR3gyV3lIZjdIUl9DeXhqYldhdDJQRjUtZTNiZ3dkdFh5S2xwLWhRRTlKbXFhd2Z4Y2dYNTJJS0ZDTnZ1VlJlMi02cnpyTkVKYTExOEl3NzhsMzQ1NXE5WTJjbmhIY1NvYTV5bldtRlJkVDFFT0otekI1cFgtbkQycklPNlZUTXdmXzN1RVJJTFVXMkNobklYRk9kTWN5c1FXdTM4eHgyQmlZTW91bE8?oc=5",
+      "snippet": "Thizy-les-Bourgs : Rémi Berthoux (RN) se parachute loin de Vénissieux pour 2026&nbsp;&nbsp;lyonmag.com",
+      "date": "Fri, 15 Aug 2025 07:00:00 GMT",
+      "source": "lyonmag.com"
     },
     {
       "title": "Municipales à Paris : Attal mandate Riester pour choisir le candidat Renaissance - lejdd.fr",
@@ -48,17 +63,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source": "tv78 - Mon, 24 Jun 2024",
-        "texte": "Charles Rodwell est explicitement mentionné comme candidat aux **Législatives 2024** dans la 1ère circonscription des Yvelines (ENS). Bien que cela concerne une élection précédente, il a été identifié comme figure politique active et potentiellement éligible pour les élections municipales de 2026."
-      },
-      {
-        "source": "Inference basée sur les sources",
-        "texte": "Les autres sources ne mentionnent pas explicitement Charles Rodwell dans un contexte électoral récent, mais son implication en tant que candidat aux législatives (2024) et ses positions politiques (liées à Renaissance/Macron) suggèrent une visibilité suffisante pour qu’il puisse se présenter aux municipales de 2026."
+        "source_index": null,
+        "explication": "Aucune information directe sur une candidature aux municipales 2026 pour Charles Rodwell dans les sources fournies. Les articles concernent des propositions politiques générales ou des sujets liés à d'autres élections ou débats récents."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"tv78 - Mon, 24 Jun 2024\",\n            \"texte\": \"Charles Rodwell est explicitement mentionné comme candidat aux **Législatives 2024** dans la 1ère circonscription des Yvelines (ENS). Bien que cela concerne une élection précédente, il a été identifié comme figure politique active et potentiellement éligible pour les élections municipales de 2026.\"\n        },\n        {\n            \"source\": \"Inference basée sur les sources\",\n            \"texte\": \"Les autres sources ne mentionnent pas explicitement Charles Rodwell dans un contexte électoral récent, mais son implication en tant que candidat aux législatives (2024) et ses positions politiques (liées à Renaissance/Macron) suggèrent une visibilité suffisante pour qu’il puisse se présenter aux municipales de 2026.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:12:15.112926Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur une candidature aux municipales 2026 pour Charles Rodwell dans les sources fournies. Les articles concernent des propositions politiques générales ou des sujets liés à d'autres élections ou débats récents.\"}\n    ]\n}\n```"
   }
 }

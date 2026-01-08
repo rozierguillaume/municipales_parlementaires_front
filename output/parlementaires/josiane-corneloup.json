@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Saône-et-Loire",
     "commune": "Saint-Bonnet-de-Joux",
+    "position": "Pourrait être sur une liste",
     "filename": "josiane-corneloup.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026 : le Parlement adopte définitivement la réforme du mode de scrutin à Paris, Lyon et Marseille&nbsp;&nbsp;Le Figaro",
       "date": "Thu, 10 Jul 2025 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Législatives 2024 : découvrez tous les candidats au second tour dans les circonscriptions en Saône-et-Loire - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdFBnWDI0cnctSVF6SDg3Z2tkVGpjc3p2Q2UtbmNZelJHaXZQbWU5MkpKYXg3T3J0enBSZXpNQU1kMnZVa3QtYkJEQjZYV0Qwbk1kbkN4MzJ6WnFTbnJpNVhKRDY5MmlFcmRnaWlodzFIam5fbWpOQVl2SW42aHllc0V4TlRpU29wX2VVbFBQQl85ckJNZGpzeFpPQ1hPeGRDM3hoLUhzOWVaUkNQbl9rT1EyUXhsY0pFdk9XOThEZXNpSE12dkVDcmlxY08ydlRBX1NkampmUUhGM29LUktCSlE5QlREUHRQOFNN?oc=5",
+      "snippet": "Législatives 2024 : découvrez tous les candidats au second tour dans les circonscriptions en Saône-et-Loire&nbsp;&nbsp;francebleu.fr",
+      "date": "Tue, 02 Jul 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
     },
     {
       "title": "Législatives 2024 : qui sont les candidats déclarés dans votre circonscription en Saône-et-Loire ? - France 3 Régions",
@@ -40,6 +48,13 @@
       "source": "L'infoRmateur de Bourgogne"
     },
     {
+      "title": "Législatives en Saône-et-Loire : Ensemble confirme son assise, la seule élue de gauche résiste - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb1lvMEItNUpLY0ZLV3J1b08wRThVUFAySWVYY2tpWUQ1YTlRWUMxM2lSeVh4YXZTdmQ5R0ZvU19NYVVVR1gzNng3QXY1di1ocE40c3h6a1ZGd2xqaDMxc2g1d1d6M3FWSTZSSkphX0k4aGRvRDNvOE1aQUc1Ukk3Q1JNQzk5UU5FaF96cVVVQXY5OWZFV1M2UXo5RXRZOFFtalVKWWRhRzg2YUdHbkxOQXg3VEJkaWR1RTY4VU1pMlFWdHRCLTVjb0JneTJoOFNkQTBGN2N4RUdsTnlV?oc=5",
+      "snippet": "Législatives en Saône-et-Loire : Ensemble confirme son assise, la seule élue de gauche résiste&nbsp;&nbsp;francebleu.fr",
+      "date": "Sun, 19 Jun 2022 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
       "title": "PRÉSENTIELLE : Le comité de soutien Saône-et-Loire à Valérie Pécresse en ordre de bataille - Macon Infos",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVkZWNGV4ZU00cmFYbS11OHdWeXpwVXNjZ0pNQ3l0Yk9ZRll4MlJseWozdjdYUG9SNGxaUklOcFZlZERCbzA3SmxrQ2lJNWJFa3V0Nk85TUMxX1BxMnpTeFp1bm1KbVh1NlRLS25fWWoxZHlpSTZKYUxuMjFUb3J3enFGNmEzclVPYmpyOFRpdzRMeDdkRS1nNHFzTkNWZFNCdUtpYWdoekpvVXpBdGFPa3lYcXpYN1NUT29TZXYxNW1KYlZaV09nZWdiVFRycW0xeEczRUtHT3E1SlYzQVJPQ0xVYw?oc=5",
       "snippet": "PRÉSENTIELLE : Le comité de soutien Saône-et-Loire à Valérie Pécresse en ordre de bataille&nbsp;&nbsp;Macon Infos",
@@ -49,7 +64,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucune source ne mentionne explicitement Josiane Corne loup comme candidate officielle aux **municipales de 2026** dans les résultats fournis. Bien que la Source 1 évoque une réforme du scrutin pour Paris, Lyon et Marseille (qui pourrait concerner d'autres candidats), aucune trace directe de sa candidature n'est détectée.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucune source ne mentionne explicitement Josiane Corne loup comme candidate officielle aux **municipales de 2026** dans les résultats fournis. Bien que la Source 1 évoque une réforme du scrutin pour Paris, Lyon et Marseille (qui pourrait concerner d'autres candidats), aucune trace directe de sa candidature n'est détectée.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune information directe sur Josiane Corneloup comme candidate aux municipales 2026 dans les sources fournies. Les résultats des recherches portent uniquement sur des élections passées ou des réformes de scrutin sans mention explicite de sa candidature."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:08:52.387164Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune information directe sur Josiane Corneloup comme candidate aux municipales 2026 dans les sources fournies. Les résultats des recherches portent uniquement sur des élections passées ou des réformes de scrutin sans mention explicite de sa candidature.\"}\n    ]\n}\n```"
   }
 }

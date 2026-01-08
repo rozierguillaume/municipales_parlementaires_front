@@ -8,6 +8,7 @@
     "parti": "MoDem",
     "departement": "Eure",
     "commune": "Louviers",
+    "position": "Tête de liste",
     "filename": "philippe-brun.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026 : étoile montante du PS, le député Philippe Brun candidat à la mairie de Louviers, dans l’Eure&nbsp;&nbsp;Le Parisien",
       "date": "Wed, 07 Jan 2026 15:40:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Municipales à Louviers. Philippe Brun officialise sa candidature et lance sa campagne - InfoNormandie",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjhnSHFVdkpaaTdReVZYMm11bTFTTVkzUjhMY3FqdDBtdjBiT2dwNGdDWVduY3d3SkVwZkoxYnRZQnRjUG1lN0MtR1d4aXlrTE5lNDBUajRzMkc1cEVfNExuM3RrUkE5MWUzRHVNQmZ2ZF9hNVl3THY1dktmOHk5bXNlM1dQellWcHVTbHVfQXE1ZXVKNEFreXlIOU5WT0pPU0h0N1dVcnduU1ltLXNoMnVEQjdhOVE1NGJsbXpTNmphYmpZ?oc=5",
+      "snippet": "Municipales à Louviers. Philippe Brun officialise sa candidature et lance sa campagne&nbsp;&nbsp;InfoNormandie",
+      "date": "Wed, 07 Jan 2026 13:59:00 GMT",
+      "source": "InfoNormandie"
     },
     {
       "title": "Municipales 2026 : Le député socialiste Philippe Brun annonce sa candidature à Louviers - France 3 Régions",
@@ -50,9 +58,35 @@
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Tous les snippets mentionnent explicitement sa candidature aux **municipales de 2026** pour la mairie de Louviers (Eure), avec des titres et sous-titres comme *‘Municipales 2026 : Philippe Brun candidat à Louviers’* (Sources 1–4).",
-      "La source 5 précise même qu’il est ‘prêt à quitter ses fonctions’ pour devenir maire, en lien direct avec les élections municipales de 2026."
+      {
+        "source_index": 1,
+        "explication": "Tous les titres et snippets confirment explicitement sa candidature aux municipales de Louviers en 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Officialisation et lancement de campagne pour les élections municipales 2026 à Louviers."
+      },
+      {
+        "source_index": 3,
+        "explication": "Annonce directe de sa candidature aux municipales 2026 dans la commune de Louviers."
+      },
+      {
+        "source_index": 4,
+        "explication": "Figure du PS se lançant explicitement aux municipales (sans précision d'année mais contexte implicite 2026)."
+      },
+      {
+        "source_index": 5,
+        "explication": "Annonce claire de sa candidature aux municipales 2026 à Louviers."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Tous les snippets mentionnent explicitement sa candidature aux **municipales de 2026** pour la mairie de Louviers (Eure), avec des titres et sous-titres comme *‘Municipales 2026 : Philippe Brun candidat à Louviers’* (Sources 1–4).\",\n        \"La source 5 précise même qu’il est ‘prêt à quitter ses fonctions’ pour devenir maire, en lien direct avec les élections municipales de 2026.\"\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:19:03.396842Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Tous les titres et snippets confirment explicitement sa candidature aux municipales de Louviers en 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Officialisation et lancement de campagne pour les élections municipales 2026 à Louviers.\"},\n        {\"source_index\": 3, \"explication\": \"Annonce directe de sa candidature aux municipales 2026 dans la commune de Louviers.\"},\n        {\"source_index\": 4, \"explication\": \"Figure du PS se lançant explicitement aux municipales (sans précision d'année mais contexte implicite 2026).\"},\n        {\"source_index\": 5, \"explication\": \"Annonce claire de sa candidature aux municipales 2026 à Louviers.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Morbihan",
     "commune": "nan",
+    "position": "nan",
     "filename": "jean-michel-jacques.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 – Flers-en-Escrebieux : Olivier Michel se présente face au maire sortant&nbsp;&nbsp;L'Observateur",
       "date": "Fri, 10 Oct 2025 07:00:00 GMT",
       "source": "L'Observateur"
+    },
+    {
+      "title": "Lyon. Jean-Michel Aulas reçoit un nouveau soutien de taille, énorme coup dur pour Oliver - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZWxFeXk5ZUVBb2haR0pLNzROMkpaWVY4RGJXT0tZQ1NWc3JETXY0RzQ3cTNwZlRWTEJCRkRPVW1sSFlxNklHM2FtbWppNjh3M3FMLVhWT2Z2QVdGMU1lSWRHS3pVdzlyWnhuSzdMRl9uN0YwTXc3eVI0elFqYkU5RmowZ3ZESGZFcGJxdVE4ZUhDTzI1LVVjdHk2UUpaaF9NZmpQdXVOc25IYlpyQTVpV0U4clFHYnlQcWhyWDJyNjlxSzVGc3dDbXZsd2JCNm9vbXVkYWgydGJaLVVCY3FfSjdn?oc=5",
+      "snippet": "Lyon. Jean-Michel Aulas reçoit un nouveau soutien de taille, énorme coup dur pour Oliver&nbsp;&nbsp;Actu.fr",
+      "date": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

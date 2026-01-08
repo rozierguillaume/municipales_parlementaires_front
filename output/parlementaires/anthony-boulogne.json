@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Meurthe-et-Moselle",
     "commune": "Pont-à-Mousson",
+    "position": "Tête de liste",
     "filename": "anthony-boulogne.json"
   },
   "search_results": [
@@ -40,6 +41,13 @@
       "source": "L'Est Républicain"
     },
     {
+      "title": "Municipales 2026. À six mois des élections en Lorraine, un scrutin et des candidats bousculés par l'instabilité politique - Le Républicain Lorrain",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hyR3g4NjFBNW96SHd6d0dHVlJOaTBqZDlVU0xkWjFadW5oQTQ1b2hxSzhkd3B4N1Y1OGhtRVFUazJSbGRPdHc3V05jWFE4RmhhZ0Q3S1BSekFrTU8taFJVSXZ3NS1iZmdqMmVtY2dkYllGUTVVLURUMnFRUUJfc3EyNFZoZEFDM0lwcno1UXJQSURuMDlQMEhibzhTNk84bzg5MlFLTmdkYlJXbzl3MHpUbmNUZ3lESFE?oc=5",
+      "snippet": "Municipales 2026. À six mois des élections en Lorraine, un scrutin et des candidats bousculés par l'instabilité politique&nbsp;&nbsp;Le Républicain Lorrain",
+      "date": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "source": "Le Républicain Lorrain"
+    },
+    {
       "title": "Chute du gouvernement : \"On peut regretter qu'Emmanuel Macron ne s'en aille pas\" assène le député RN Anthony Boulogne - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMHNSU0J5U0pVOWIyaUUyTU1pUmt1QlgxVUEzQWZRTVRkXzFIczRpdFg1ODhBbzU3SkFvVWo3Rk1JRHpsMG4tQWZacGFaSXplM2kycXFsMEFuay1acU1UZnd4eFBqaHVEeGozbEZEQ2dsNXhfT1VZUmRvaVdLVnMxYkxqV0V4SU93X2VmT0hxZFo4cGQyR05UQzlaQXRwdjJRMTlGbEo4VFZLeHoyR2EyUFEwdTRSYXFLOXdDWlpWX29NV09CSnVfeURicEJEcFlfRW1ZNHV6eUR2b2NoaFNOZlBCTXBKUQ?oc=5",
       "snippet": "Chute du gouvernement : \"On peut regretter qu'Emmanuel Macron ne s'en aille pas\" assène le député RN Anthony Boulogne&nbsp;&nbsp;francebleu.fr",
@@ -51,10 +59,19 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 4 (L'Est Républicain - 1 Oct 2025)",
-        "texte_justificatif": "Anthony Boulogne est mentionné comme étant impliqué dans la préparation des candidatures pour les Municipales 2026 à Pont-à-Mousson, en recrutant des candidats via ses réseaux sociaux. Cela suggère qu'il se positionne activement pour ces élections."
+        "source_index": 1,
+        "explication": "Mention explicite d'Anthony Boulogne comme candidat dans les grandes communes de Lorraine pour les municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Référence directe à Anthony Boulogne (député RN) recrutant des candidats via les réseaux sociaux pour les élections municipales 2026 à Pont-à-Mousson"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (L'Est Républicain - 1 Oct 2025)\",\n            \"texte_justificatif\": \"Anthony Boulogne est mentionné comme étant impliqué dans la préparation des candidatures pour les Municipales 2026 à Pont-à-Mousson, en recrutant des candidats via ses réseaux sociaux. Cela suggère qu'il se positionne activement pour ces élections.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:22:52.354702Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mention explicite d'Anthony Boulogne comme candidat dans les grandes communes de Lorraine pour les municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Référence directe à Anthony Boulogne (député RN) recrutant des candidats via les réseaux sociaux pour les élections municipales 2026 à Pont-à-Mousson\"}\n    ]\n}\n```"
   }
 }

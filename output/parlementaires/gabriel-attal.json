@@ -8,6 +8,7 @@
     "parti": "UDI",
     "departement": "Hauts-de-Seine",
     "commune": "Vanves",
+    "position": "Pourrait être sur une liste",
     "filename": "gabriel-attal.json"
   },
   "search_results": [
@@ -51,18 +52,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 3 (Les Echos)",
-        "analyse": "Seule une référence à sa stratégie après l'échec des Municipales de 2020 est mentionnée, sans confirmation explicite d'une candidature pour les Municipales de 2026."
-      },
-      {
-        "source": "Source 4 (20 Minutes)",
-        "analyse": "Gabriel Attal soutient Pierre-Yves Bournazel pour les Municipales à Paris en 2026, mais cela ne signifie pas qu'il se présente lui-même. Il s'agit d'un soutien à un autre candidat."
-      },
-      {
-        "source": "Source 5 (Ouest-France)",
-        "analyse": "Attal officialise le soutien de Renaissance à Jean-Michel Aulas pour Lyon en 2026, ce qui ne confirme pas sa propre candidature."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Gabriel Attal comme candidat aux municipales 2026 directement. Les articles évoquent son soutien à d'autres candidats (Bournazel, Aulas) ou sa stratégie post-2020 sans confirmation de candidature personnelle."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 3 (Les Echos)\",\n            \"analyse\": \"Seule une référence à sa stratégie après l'échec des Municipales de 2020 est mentionnée, sans confirmation explicite d'une candidature pour les Municipales de 2026.\"\n        },\n        {\n            \"source\": \"Source 4 (20 Minutes)\",\n            \"analyse\": \"Gabriel Attal soutient Pierre-Yves Bournazel pour les Municipales à Paris en 2026, mais cela ne signifie pas qu'il se présente lui-même. Il s'agit d'un soutien à un autre candidat.\"\n        },\n        {\n            \"source\": \"Source 5 (Ouest-France)\",\n            \"analyse\": \"Attal officialise le soutien de Renaissance à Jean-Michel Aulas pour Lyon en 2026, ce qui ne confirme pas sa propre candidature.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:10:05.677572Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Gabriel Attal comme candidat aux municipales 2026 directement. Les articles évoquent son soutien à d'autres candidats (Bournazel, Aulas) ou sa stratégie post-2020 sans confirmation de candidature personnelle.\"}\n    ]\n}\n```"
   }
 }

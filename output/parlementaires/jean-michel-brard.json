@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Loire-Atlantique",
     "commune": "Pornic",
+    "position": "Pourrait être sur une liste",
     "filename": "jean-michel-brard.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Jean-Michel BRARD** comme candidat aux élections municipales de 2026. Les sources citées concernent principalement d'autres figures politiques (comme Claire Hugues, Bastian Maldiney) ou des déclarations générales sur les candidats dans le pays de Retz sans référence directe à Jean-Michel Brard.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Jean-Michel BRARD** comme candidat aux élections municipales de 2026. Les sources citées concernent principalement d'autres figures politiques (comme Claire Hugues, Bastian Maldiney) ou des déclarations générales sur les candidats dans le pays de Retz sans référence directe à Jean-Michel Brard.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Jean-Michel Brard comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:13:57.845505Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Jean-Michel Brard comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

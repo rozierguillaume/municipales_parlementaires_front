@@ -8,9 +8,17 @@
     "parti": "DVD",
     "departement": "Eure-et-Loir",
     "commune": "Tremblay-les-Villages",
+    "position": "Tête de liste",
     "filename": "christelle-minard.json"
   },
   "search_results": [
+    {
+      "title": "Budget de la Sécu : Wauquiez pousse une députée LR «au bord des larmes» - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2k2MlpyMUpoUlpmNmlEUFhJUWd5d1ZGRzJWc0dxMV96bFBwUGd3aG1wOTRCOGRORmNzNzdZNUJTY0ZWX05WWGtleklsZzhkOGttMUhFNjM0Nmg5ZEZabHFPMUk0akhOSWdCVzVNVlIyUmhUZlFLcm1QN0tFNzh1ZXBTN1dJbVlnMVRsbFVoWUxwYjhrX3RzdjhZZXZUUGJ6ZmpDbC1uMWl5TEF5engtNnl1ZjdmaWp1LUlUMjh1TjRoaEVXNGhRSDZtZWw3Y1lOWDEtOElzcw?oc=5",
+      "snippet": "Budget de la Sécu : Wauquiez pousse une députée LR «au bord des larmes»&nbsp;&nbsp;Libération",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "source": "Libération"
+    },
     {
       "title": "Bruno Retailleau en visite deux jours en Eure-et-Loir pour une réunion publique et une séquence agricole - L’Écho Républicain",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdGJ4T1hHdjBOS0c0TVI0Q3dsRmQtX2VSSFJ4QktjYkFSa3NkMHlZem1DR1RfRndsczlPTk85Zko2VWxyamRBemNQNmx0RnBieXN2bUdHaUdqMjhnODlmbWN5WG43ajJXQ25uaDVFVWtpZE5iQ0FZYWc5OWVnTlVob1hZbEhudDQxWWIyRWxkMmlTN1V5MVpPRTJtWWVRRmVnU2Q2UHhteWNaUWdLVXN2LWZnMF9Dd0oybEpqNUdHc25zaU8wMDlWdF9vUEE2MzRTWGpaUkNleGRFbnRGUXRHUnRrSHl2MjdMUkRmY0tPb1EydEllNHhtQi10bkFoSzVO?oc=5",
@@ -41,8 +49,17 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
-    "justification": "Christelle Minard est explicitement mentionnée comme candidate à un nouveau mandat municipal pour **Tremblay-les-Villages** en 2020 (Source 4), et bien qu’aucune information directe sur les élections municipales de 2026 ne soit présente dans les résultats fournis, le contexte local et son engagement récurrent suggèrent une probable continuation de sa candidature pour cette année-là. Le snippet de Source 4 implique une démarche active de renouvellement de mandat.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Christelle Minard est explicitement mentionnée comme candidate à un nouveau mandat municipal pour **Tremblay-les-Villages** en 2020 (Source 4), et bien qu’aucune information directe sur les élections municipales de 2026 ne soit présente dans les résultats fournis, le contexte local et son engagement récurrent suggèrent une probable continuation de sa candidature pour cette année-là. Le snippet de Source 4 implique une démarche active de renouvellement de mandat.\"\n}\n```"
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Mentionne Christelle Minard comme candidate aux municipales de 2020 à Tremblay-les-Villages sans confirmation pour 2026"
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:09:46.829916Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Mentionne Christelle Minard comme candidate aux municipales de 2020 à Tremblay-les-Villages sans confirmation pour 2026\"}\n    ]\n}\n```"
   }
 }

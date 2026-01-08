@@ -7,8 +7,8 @@
     "full_name": "Raphaël ARNAULT",
     "parti": "PS",
     "departement": "Vaucluse",
-    "commune": "Montpellier  ",
-    "position": "Pourrait être sur la liste",
+    "commune": "Avignon",
+    "position": "Pourrait être sur une liste",
     "filename": "raphael-arnault.json"
   },
   "search_results": [
@@ -49,17 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "NON",
     "justification": [
       {
-        "source": "Source 5 - Midi Libre (31 Oct 2025)",
-        "candidature_explicite": "Raphaël Arnaud (probablement une coquille pour Raphaël Arnault) officialise sa candidature aux **municipales 2026** à Sérignan."
-      },
-      {
-        "source": "Sources 1–4",
-        "contexte_électoral": "Bien que les articles mentionnent des tensions internes dans LFI autour de Raphaël Arnault et évoquent un contexte lié aux **municipales 2026** (Avignon), leur focus sur ses méthodes et son exclusion ne remet pas en cause sa visibilité comme figure politique active pour ces élections. Les sources ne contredisent pas une candidature officielle."
+        "source_index": null,
+        "explication": "Aucune mention explicite de candidature officielle aux municipales 2026 pour Raphaël Arnault dans les sources fournies. Les articles concernent des tensions internes ou critiques sur ses méthodes sans confirmation d'une démarche électorale future."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 5 - Midi Libre (31 Oct 2025)\",\n            \"candidature_explicite\": \"Raphaël Arnaud (probablement une coquille pour Raphaël Arnault) officialise sa candidature aux **municipales 2026** à Sérignan.\"\n        },\n        {\n            \"source\": \"Sources 1–4\",\n            \"contexte_électoral\": \"Bien que les articles mentionnent des tensions internes dans LFI autour de Raphaël Arnault et évoquent un contexte lié aux **municipales 2026** (Avignon), leur focus sur ses méthodes et son exclusion ne remet pas en cause sa visibilité comme figure politique active pour ces élections. Les sources ne contredisent pas une candidature officielle.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:15:18.362107Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de candidature officielle aux municipales 2026 pour Raphaël Arnault dans les sources fournies. Les articles concernent des tensions internes ou critiques sur ses méthodes sans confirmation d'une démarche électorale future.\"}\n    ]\n}\n```"
   }
 }

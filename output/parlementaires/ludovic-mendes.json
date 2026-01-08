@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Moselle",
     "commune": "Metz",
+    "position": "Pourrait être tête de liste",
     "filename": "ludovic-mendes.json"
   },
   "search_results": [
@@ -51,14 +52,19 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 2 - Tout-Metz.com (5 Nov 2025)",
-        "texte": "Ludovic Mendes est désigné pilote de la campagne Renaissance pour les Municipales 2026 à Metz."
+        "source_index": 2,
+        "explication": "Ludovic Mendes est explicitement désigné pilote de la campagne Renaissance pour les Municipales 2026 à Metz."
       },
       {
-        "source": "Source 5 - La Semaine (30 Apr 2025)",
-        "texte": "Ludovic Mendes est mentionné comme 'pilote' pour le parti Renaissance dans le contexte des Municipales 2026 à Metz."
+        "source_index": 5,
+        "explication": "Confirme son rôle central dans la préparation des élections municipales 2026 via le parti Renaissance"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 2 - Tout-Metz.com (5 Nov 2025)\",\n            \"texte\": \"Ludovic Mendes est désigné pilote de la campagne Renaissance pour les Municipales 2026 à Metz.\"\n        },\n        {\n            \"source\": \"Source 5 - La Semaine (30 Apr 2025)\",\n            \"texte\": \"Ludovic Mendes est mentionné comme 'pilote' pour le parti Renaissance dans le contexte des Municipales 2026 à Metz.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      2,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:11:50.290013Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 5],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Ludovic Mendes est explicitement désigné pilote de la campagne Renaissance pour les Municipales 2026 à Metz.\"},\n        {\"source_index\": 5, \"explication\": \"Confirme son rôle central dans la préparation des élections municipales 2026 via le parti Renaissance\"}\n    ]\n}\n```"
   }
 }

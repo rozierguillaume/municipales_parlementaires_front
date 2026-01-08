@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Isère",
     "commune": "nan",
+    "position": "nan",
     "filename": "cyrielle-chatelain.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Municipales 2026 à Paris : les Écologistes appellent à se rassembler derrière Yannick Jadot&nbsp;&nbsp;Le Parisien",
       "date": "Tue, 28 Jan 2025 08:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Municipales 2026. On connait les noms des invités du premier meeting du maire de Villeurbanne - Tribune de Lyon",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0VvV0tIZjN0RmlwTWV2U3JhM1JWMUxFbmtDSTNzck5TU245cy1UclRFUFpVY1VSNTc3dnpfNVRkbXVOSjN5dWkxLWxrck4yWDRmZFk5eGhXM2dSQ3FqYTFjTC00NUJHVkVqTUx0SVdERVlmT1EtV25tdTB0MHZHWXZKQnFKX3NmQlM5UFJQeEE?oc=5",
+      "snippet": "Municipales 2026. On connait les noms des invités du premier meeting du maire de Villeurbanne&nbsp;&nbsp;Tribune de Lyon",
+      "date": "Wed, 31 Dec 2025 13:53:31 GMT",
+      "source": "Tribune de Lyon"
+    },
+    {
+      "title": "Attal, Vallaud, Chatelain : une réunion secrète s’est tenue ce vendredi pour tenter de faire «atterrir» le budget - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDhnNnktSU8wZ19yOVdMcU9jUXRJc1hud3pPclhlQ09SOFNHT0RRWlpiUU1ReGJpUkV3NTJDd3JkLV9tS1RaOURMZTRoTkd3UUJIanpKdW1OdWZ3VlF2bXBXcjRDOFlsTDg1emE0ZjNYSmlLaWduekZsWlVIVmtmeDBsS0cxWlFyN2c5Qm1HRDQtOW9fNUpjenVwaXBlLTZ0RmxvYnFOb21BZXkwUC15cEJocGhNTXlDemhPNmRGc3pXcHBLVXNWcTRwNm90LVZkeDBuRmlPQnlaNklORDlLZlJnUTg?oc=5",
+      "snippet": "Attal, Vallaud, Chatelain : une réunion secrète s’est tenue ce vendredi pour tenter de faire «atterrir» le budget&nbsp;&nbsp;Le Figaro",
+      "date": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {

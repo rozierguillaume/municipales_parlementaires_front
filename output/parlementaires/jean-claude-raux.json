@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Loire-Atlantique",
     "commune": "Saffré",
+    "position": "Pourrait être sur une liste",
     "filename": "jean-claude-raux.json"
   },
   "search_results": [
@@ -45,11 +46,25 @@
       "snippet": "Municipales 2026 à Aire-sur-la-Lys : le duel Jean-Claude Dissaux - Didier Rys est-il déjà joué d’avance ?&nbsp;&nbsp;Nord Littoral",
       "date": "Mon, 24 Mar 2025 07:00:00 GMT",
       "source": "Nord Littoral"
+    },
+    {
+      "title": "Législatives : qui est Jean-Claude Raux, nouveau député de la circonscription d'Ancenis et Chateaubriant ? - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekVkcEg3aFF5bmQ0OXNaVHFUc3hIUl85d3lRUEhLNUJFTndWcVZpUHFrdGRQRVpjR3U0R0dmYUhkRnEtM1ZSTjhkaC14c3JiVGJTZWJDUTZUR082bHAxU19jbC11Vms1aU05NGpQN2QyTDZ6WG9RMkZqY1RuM29CREhocGl4Z2FzUFhCSnJRQUMtYVozUGtMVXZkQV9CcW5odlJXN2h1Nmt5TnVxSHM2N3NpMWt0UmlNUThDSFNhR0M4OGJ0clBFTm0xTERYRF9aejBGUTJLWQ?oc=5",
+      "snippet": "Législatives : qui est Jean-Claude Raux, nouveau député de la circonscription d'Ancenis et Chateaubriant ?&nbsp;&nbsp;francebleu.fr",
+      "date": "Sun, 19 Jun 2022 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Jean-Claude RAUX** comme candidat aux élections municipales de 2026. Les sources citées concernent d'autres figures politiques (Maxime Hupel, Viviane Perrin, Jean-Claude Hulot) ou des campagnes locales sans lien direct avec Jean-Claude Raux.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Jean-Claude RAUX** comme candidat aux élections municipales de 2026. Les sources citées concernent d'autres figures politiques (Maxime Hupel, Viviane Perrin, Jean-Claude Hulot) ou des campagnes locales sans lien direct avec Jean-Claude Raux.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Jean-Claude RAUX comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres figures politiques ou des listes sans référence directe à lui."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:12:44.746447Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Jean-Claude RAUX comme candidat aux municipales 2026 dans les sources fournies. Les articles concernent d'autres figures politiques ou des listes sans référence directe à lui.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Haute-Garonne",
     "commune": "Toulouse",
+    "position": "Sur une liste",
     "filename": "jean-francois-portarrieu.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Bien que des articles mentionnent Jean-Luc Moudenc comme tête de liste pour les municipales **2026** à Toulouse (Sources 2–5), **Jean-François Portarrieu** n’apparaît **ni dans aucun snippet ni aucune source consultée**. Aucune information ne confirme sa candidature officielle ou son implication dans la campagne municipale de 2026.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Bien que des articles mentionnent Jean-Luc Moudenc comme tête de liste pour les municipales **2026** à Toulouse (Sources 2–5), **Jean-François Portarrieu** n’apparaît **ni dans aucun snippet ni aucune source consultée**. Aucune information ne confirme sa candidature officielle ou son implication dans la campagne municipale de 2026.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Jean-François Portarrieu comme candidat aux municipales 2026 dans les résultats fournis. Les sources concernent uniquement des listes pour Toulouse (Jean-Luc Moudenc et le RN) sans lien avec Portarrieu."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:14:39.056221Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jean-François Portarrieu comme candidat aux municipales 2026 dans les résultats fournis. Les sources concernent uniquement des listes pour Toulouse (Jean-Luc Moudenc et le RN) sans lien avec Portarrieu.\"}\n    ]\n}\n```"
   }
 }

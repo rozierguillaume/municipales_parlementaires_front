@@ -8,6 +8,7 @@
     "parti": "HOR",
     "departement": "Loiret",
     "commune": "Pithiviers",
+    "position": "Pourrait être sur une liste",
     "filename": "anthony-brosse.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement **Anthony Brosse** comme candidat aux municipales de 2026. Les sources citées concernent d'autres communes (Fleury-les-Aubrais, Pithiviers, Chilleurs-aux-Bois) ou évoquent des figures locales sans lien avec Anthony Brosse.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement **Anthony Brosse** comme candidat aux municipales de 2026. Les sources citées concernent d'autres communes (Fleury-les-Aubrais, Pithiviers, Chilleurs-aux-Bois) ou évoquent des figures locales sans lien avec Anthony Brosse.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite d'Anthony Brosse comme candidat aux municipales 2026 dans les sources fournies."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:10:18.930844Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite d'Anthony Brosse comme candidat aux municipales 2026 dans les sources fournies.\"}\n    ]\n}\n```"
   }
 }

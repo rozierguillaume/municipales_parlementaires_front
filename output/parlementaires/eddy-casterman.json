@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Aisne",
     "commune": "nan",
+    "position": "nan",
     "filename": "eddy-casterman.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Législatives 2024 : après la vague RN du premier tour, Jordan Bardella lance un appel pour la majorité absolue&nbsp;&nbsp;Le Parisien",
       "date": "Sun, 30 Jun 2024 07:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "«Déconnexion», «scandale» : des élus vent debout contre l’obligation de la parité hommes-femmes aux municipales - lejdd.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmVQbnFET2p3RVM5YkZxT3JVT3NXMmRJNWtsRVlUVEdURG01dFdvMnNzOW5mY2dPcDhPRFFwRE5kZWJOd1dzVnVhNjJ1OVpUWktPWlgzaW5MUk5ZbHQwMEhfRkJGcEk5RGozUVZBcGdXUWlxajBlMzFuX0tJdUFaVGU2YUNybFBwZXlvdmlJMmdtcjVNUFlGcGFfTFRwNFd6UnNRU1d4Qkh3azhKOUJ3UERMVllGQW9ubXhSTV9XdlJMSkV3TG5JTnVuQUUyQWJIMlM2NndPeXA?oc=5",
+      "snippet": "«Déconnexion», «scandale» : des élus vent debout contre l’obligation de la parité hommes-femmes aux municipales&nbsp;&nbsp;lejdd.fr",
+      "date": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "source": "lejdd.fr"
     }
   ],
   "analysis": {

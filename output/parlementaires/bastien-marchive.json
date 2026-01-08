@@ -8,6 +8,7 @@
     "parti": "DVC",
     "departement": "Deux-Sèvres",
     "commune": "Niort",
+    "position": "Pourrait être sur une liste",
     "filename": "bastien-marchive.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "MUNICIPALES 2026. À Niort qui pour rivaliser avec Jérôme Baloge ?&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Thu, 20 Mar 2025 07:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Législatives 2024 : découvrez qui sont les 18 candidats dans le département des Deux-Sèvres - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaW4zbG1la2lRZnktVzFRYlJXRVREVGQyejZDY3JOdzRtV0x6YkZBNjdqQlpuQlRFekVIM2ZpM3NtVEtTY1ZaTFZ4TDk3aHRMMmNZdkg1RFNUQjJrYV9HRGJHVy1sNm5PbHltdWdLR25wd3NPdVhUOGw3VG5xVHBXUnRmYTUzTjBWdWxVQVl1bEt3Q0V3SnpMTXg2ZXpCd0FCTTJzekZYNWRaYlVnWi1xaHM5UmQ0WGs0QW1rYjZyNzVUMWdvY1pLSWU2SF9UZ3ll?oc=5",
+      "snippet": "Législatives 2024 : découvrez qui sont les 18 candidats dans le département des Deux-Sèvres&nbsp;&nbsp;francebleu.fr",
+      "date": "Tue, 11 Jun 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
     },
     {
       "title": "Jérôme Baloge : en 2026, le combat pour la mairie de Niort s’annonce disputé - lanouvellerepublique.fr",
@@ -51,26 +59,24 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1",
-        "analyse": "Aucune mention explicite de Bastien Marchive dans ce contexte. Le titre et snippet concernent une campagne contre un budget, sans lien direct avec sa candidature."
+        "source_index": 1,
+        "explication": "Référence à un contexte politique local sans confirmation directe de candidature aux municipales 2026."
       },
       {
-        "source": "Source 2",
-        "analyse": "Mention indirecte des élections municipales de Niort en 2026, mais aucune référence explicite à Bastien Marchive comme candidat. Le texte évoque plutôt une rivalité avec Jérôme Baloge sans le nommer explicitement."
+        "source_index": 2,
+        "explication": "Mention implicite d'une rivalité potentielle avec Baloge pour les municipales 2026 dans Niort."
       },
       {
-        "source": "Source 3",
-        "analyse": "Contexte similaire à la Source 2 : discussion sur les élections municipales de Niort en 2026, mais sans mention explicite de Bastien Marchive."
-      },
-      {
-        "source": "Source 4",
-        "analyse": "Référence aux législatives (2022), pas aux municipales de 2026. Bien que Bastien Marchive soit cité, cela concerne une campagne électorale antérieure et non les élections municipales en cours ou à venir."
-      },
-      {
-        "source": "Source 5",
-        "analyse": "Contexte des municipales passées (2020), où Bastien Marchive était adjoint. Aucune mention de sa candidature pour 2026."
+        "source_index": 4,
+        "explication": "Analyse du contexte de la campagne municipale à venir en 2026 sans confirmation explicite de Bastien Marchive"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1\",\n            \"analyse\": \"Aucune mention explicite de Bastien Marchive dans ce contexte. Le titre et snippet concernent une campagne contre un budget, sans lien direct avec sa candidature.\"\n        },\n        {\n            \"source\": \"Source 2\",\n            \"analyse\": \"Mention indirecte des élections municipales de Niort en 2026, mais aucune référence explicite à Bastien Marchive comme candidat. Le texte évoque plutôt une rivalité avec Jérôme Baloge sans le nommer explicitement.\"\n        },\n        {\n            \"source\": \"Source 3\",\n            \"analyse\": \"Contexte similaire à la Source 2 : discussion sur les élections municipales de Niort en 2026, mais sans mention explicite de Bastien Marchive.\"\n        },\n        {\n            \"source\": \"Source 4\",\n            \"analyse\": \"Référence aux législatives (2022), pas aux municipales de 2026. Bien que Bastien Marchive soit cité, cela concerne une campagne électorale antérieure et non les élections municipales en cours ou à venir.\"\n        },\n        {\n            \"source\": \"Source 5\",\n            \"analyse\": \"Contexte des municipales passées (2020), où Bastien Marchive était adjoint. Aucune mention de sa candidature pour 2026.\"\n        }\n    ],\n    \"conclusion\": \"Aucun élément clair ne confirme ou infirme explicitement sa candidature aux élections municipales de Niort en 2026 dans les sources fournies. Les mentions existantes concernent des contextes antérieurs ou indirects.\"\n}\n```"
+    "used_sources": [
+      1,
+      2,
+      4
+    ],
+    "analysis_at": "2026-01-08T10:11:32.774473Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [1, 2, 4],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Référence à un contexte politique local sans confirmation directe de candidature aux municipales 2026.\"},\n        {\"source_index\": 2, \"explication\": \"Mention implicite d'une rivalité potentielle avec Baloge pour les municipales 2026 dans Niort.\"},\n        {\"source_index\": 4, \"explication\": \"Analyse du contexte de la campagne municipale à venir en 2026 sans confirmation explicite de Bastien Marchive\"}\n    ]\n}\n```"
   }
 }

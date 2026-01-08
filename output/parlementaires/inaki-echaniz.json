@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Pyrénées-Atlantiques",
     "commune": "Oloron-Sainte-Marie",
+    "position": "Pourrait être sur une liste",
     "filename": "inaki-echaniz.json"
   },
   "search_results": [
@@ -49,7 +50,14 @@
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Inaki ECHANIZ comme candidat aux **municipales de 2026**. Les articles cités concernent soit des sujets politiques (logement, encadrement des loyers), soit des campagnes ou déclarations d'autres figures politiques (Jean-Michel Aulas, Jérôme Marbot, François Bayrou). Aucune trace directe ne lie Inaki ECHANIZ à une candidature officielle pour 2026.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Inaki ECHANIZ comme candidat aux **municipales de 2026**. Les articles cités concernent soit des sujets politiques (logement, encadrement des loyers), soit des campagnes ou déclarations d'autres figures politiques (Jean-Michel Aulas, Jérôme Marbot, François Bayrou). Aucune trace directe ne lie Inaki ECHANIZ à une candidature officielle pour 2026.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Inaki Echaniz dans les résultats fournis ne confirme sa candidature aux municipales 2026."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:19:27.993926Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Inaki Echaniz dans les résultats fournis ne confirme sa candidature aux municipales 2026.\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Gers",
     "commune": "Auch",
+    "position": "Pourrait être sur une liste",
     "filename": "jean-rene-cazeneuve.json"
   },
   "search_results": [
@@ -17,6 +18,13 @@
       "snippet": "Municipales 2026 dans le Gers : tour d’horizon des principales villes à trois mois du scrutin&nbsp;&nbsp;ladepeche.fr",
       "date": "Mon, 29 Dec 2025 08:00:00 GMT",
       "source": "ladepeche.fr"
+    },
+    {
+      "title": "Budget 2026 : les députés surtaxent les géants de la tech et les multinationales, le gouvernement vent debout - TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY3VNVFdnX2ZVLTEweVYxeUM2OWJjWEJKYm1QS05MQldYaW1TanQxR1BnYlF3cEUwLTY5Ymt1V2VxdzRnRHlsOWtfdUFwczNKX3dPQTNEbDlFMTQ4VUpJZXdVdG83SmxjU01PZTgxdjgyVmVOd1Z4aXcxTnZYZkNwRUZUQUJmakNKQTRmM3Z5b0JnSzVkelpDRm12TFZfOU9yVGtYeGYwLTBuTWNEdmlNc2w5ZXN2MlhScy1uYXZKTDlUd05IRFVpNUk5NmxuLW9WcHc2UnRNUkZ3bVVnY09jR2NIdmFMUGs?oc=5",
+      "snippet": "Budget 2026 : les députés surtaxent les géants de la tech et les multinationales, le gouvernement vent debout&nbsp;&nbsp;TF1 Info",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "TF1 Info"
     },
     {
       "title": "Budget : à l'Assemblée, l'heure est à la \"mobilisation générale\" pour la bataille budgétaire dans l'hémicycle - LCP",
@@ -40,6 +48,13 @@
       "source": "Le Figaro"
     },
     {
+      "title": "1ère circonscription du Gers : Jean-René Cazeneuve candidat à sa réélection - Le journal du Gers",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaExIREFUT2pBWVZUdFF3MEt1S2tSUXZoaktJLVpVZVpKdmhzb0NwY3JDYUVwNEQ5eGZtaGNZTjdjNGY2WE5KTXFrckstcWFia0RpdHJyWjg4S2RQa2t2a3NyOVJldE9laWN1NEVWY2NoaEtwaW1MQlZrU3JWUnFkNU1BdTZseHVIVVBjVU0tZlNmVE12U2hXSG93VEtwMDB1SGxVZlRLLWlXX3hWcGZ0YkE1N0k?oc=5",
+      "snippet": "1ère circonscription du Gers : Jean-René Cazeneuve candidat à sa réélection&nbsp;&nbsp;Le journal du Gers",
+      "date": "Tue, 11 Jun 2024 06:46:54 GMT",
+      "source": "Le journal du Gers"
+    },
+    {
       "title": "Législatives dans le Gers : Jean-René Cazeneuve d'Ensemble rempile - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmdIQTBjMFFfWEN5Z3lhMTVqNnNiOFFDSGQzRnpSQzhkWVdidGJZTXNvSVdKZkYwOTUwMjVFb3pQS0JHeG9zeFN6S085ellWTVA4cF9ER3JXT0hadHBkTlJ3OGg5VGRWckljRmx0eDM1eEl4MEtqam41S3l2MDg2R1JuRzJYakdDQ0ZxcUFKa1QxdmIzX3FvRGZJWWk5SW50c0RGNnVacHN2VGdBV3BzSGpCbnoyZ05n?oc=5",
       "snippet": "Législatives dans le Gers : Jean-René Cazeneuve d'Ensemble rempile&nbsp;&nbsp;francebleu.fr",
@@ -48,17 +63,19 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 (ladepeche.fr - Municipales 2026 dans le Gers)",
-        "contenu": "Le titre et la date indiquent explicitement un contexte lié aux élections municipales de 2026, avec une mention du Gers comme territoire concerné. Jean-René Cazeneuve est mentionné en lien avec des villes du Gers (Auch), suggérant qu'il pourrait être candidat dans ce cadre."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Jean-René Cazeneuve comme candidat aux municipales 2026 dans les résultats fournis."
       },
       {
-        "source": "Source 5 (francebleu.fr - Législatives dans le Gers : Jean-René Cazeneuve d'Ensemble rempile)",
-        "contenu": "Bien que cette source parle des législatives de 2022, elle montre qu'il était déjà impliqué politiquement au niveau local et régional dans le Gers. Aucune information directe sur les municipales 2026 n'est exclue, mais cela renforce sa visibilité locale."
+        "source_index": null,
+        "explication": "Seuls des articles sur ses prises de position politiques ou son rôle institutionnel (budget, réponses à Mélenchon) sont présents, sans lien direct avec une candidature municipale pour 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 (ladepeche.fr - Municipales 2026 dans le Gers)\",\n            \"contenu\": \"Le titre et la date indiquent explicitement un contexte lié aux élections municipales de 2026, avec une mention du Gers comme territoire concerné. Jean-René Cazeneuve est mentionné en lien avec des villes du Gers (Auch), suggérant qu'il pourrait être candidat dans ce cadre.\"\n        },\n        {\n            \"source\": \"Source 5 (francebleu.fr - Législatives dans le Gers : Jean-René Cazeneuve d'Ensemble rempile)\",\n            \"contenu\": \"Bien que cette source parle des législatives de 2022, elle montre qu'il était déjà impliqué politiquement au niveau local et régional dans le Gers. Aucune information directe sur les municipales 2026 n'est exclue, mais cela renforce sa visibilité locale.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:10:30.501702Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jean-René Cazeneuve comme candidat aux municipales 2026 dans les résultats fournis.\"},\n        {\"source_index\": null, \"explication\": \"Seuls des articles sur ses prises de position politiques ou son rôle institutionnel (budget, réponses à Mélenchon) sont présents, sans lien direct avec une candidature municipale pour 2026.\"}\n    ]\n}\n```"
   }
 }

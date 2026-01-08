@@ -5,9 +5,10 @@
     "nom": "LELOUIS",
     "prenom": "Gisèle",
     "full_name": "Gisèle LELOUIS",
-    "parti": "PS",
+    "parti": "DVD",
     "departement": "Bouches-du-Rhône",
-    "commune": "Marseille",
+    "commune": "Marseille - 7ème secteur",
+    "position": "Pourrait être sur une liste",
     "filename": "gisele-lelouis.json"
   },
   "search_results": [
@@ -33,6 +34,13 @@
       "source": "Le Parisien"
     },
     {
+      "title": "Municipales 2026 : le Parlement adopte définitivement la réforme du mode de scrutin à Paris, Lyon et Marseille - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU05nUFhZeGpGUkRFVU9HajVtekRoUHJTN25SYlk0dExQT3ZfbnZNNkxkUDk1NEh4c2dfSTM3Umw5ZlNMTGlYVzVLb3N1bmtxS3l2aTBvUXg4QlhkNGg0MDRqYUhrN1JtZkNEZURiLTJZbDhHOGZrZUR6V3dSOS1HMkFoWDhkenpQTXdpcWRjVXcweVVKM3REWXc0U3oxSlh2WFBHdXIxeW50ZV9McFpOQzI0VUt0SEE2ckQ5Sy1CQlZVaE50bjRpbjhYVndhbmJlS3pEb0lUN2gzY3ZXZHR6Wnh1aEE?oc=5",
+      "snippet": "Municipales 2026 : le Parlement adopte définitivement la réforme du mode de scrutin à Paris, Lyon et Marseille&nbsp;&nbsp;Le Figaro",
+      "date": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "source": "Le Figaro"
+    },
+    {
       "title": "Franck Allisio (RN) présente une partie de son équipe de campagne pour les municipales 2026 - Marsactu",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcm5nRVVEblI5WUVzM013SWpqWFNBNHZ6M2JuaGk4TjMzUTJ6TFNsNnY3Z2xjRjRTMTIyck1oU0hpRTVCVXZVZnFqQjk2RnZid2JEcmh3N1NDUzN5NTJYZ1ZTVV83QXJtczRUQlV3RXptSUpOVERYbk1wREpGNGFwc2tfWE9SLTNPYTNpcVhRQl8tOHpJcFFrTmpUeDZhSFdSNk15eFBjYXVCVVBEclJteE0xZGk2UQ?oc=5",
       "snippet": "Franck Allisio (RN) présente une partie de son équipe de campagne pour les municipales 2026&nbsp;&nbsp;Marsactu",
@@ -51,26 +59,12 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source": "Source 1 – Libération (Janvier 2026): Discute des maires boudant un label RN dans les Bouches-du-Rhône sans mentionner Gisèle Le Louis.",
-        "analyse": "Aucune référence explicite à Gisèle Le Louis."
-      },
-      {
-        "source": "Source 2 – La Provence (Décembre 2025): Parle d’un candidat RN (Théau Fournet) pour Roquefort-la-Bédoule, sans lien avec Gisèle Le Louis.",
-        "analyse": "Pas de mention de Gisèle Le Louis."
-      },
-      {
-        "source": "Source 3 – Le Parisien (Novembre 2025): Contexte des municipales 2026 à Marseille lié au RN et au meurtre de Mehdi Kessaci, sans nommement Gisèle Le Louis.",
-        "analyse": "Aucune référence directe."
-      },
-      {
-        "source": "Source 4 – Marsactu (Juin 2025): Parle d’une équipe RN pour les municipales 2026, mais pas de Gisèle Le Louis.",
-        "analyse": "Pas de mention explicite de la candidate en question."
-      },
-      {
-        "source": "Source 5 – Actu.fr (Juin 2025): Mentionne un député RN des Bouches-du-Rhône dont la permanence est dégradée, sans nommer Gisèle Le Louis.",
-        "analyse": "Aucune preuve de sa candidature officielle."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Gisèle Le Louis comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent principalement le RN ou des candidats spécifiques sans lien direct avec elle."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1 – Libération (Janvier 2026): Discute des maires boudant un label RN dans les Bouches-du-Rhône sans mentionner Gisèle Le Louis.\",\n            \"analyse\": \"Aucune référence explicite à Gisèle Le Louis.\"\n        },\n        {\n            \"source\": \"Source 2 – La Provence (Décembre 2025): Parle d’un candidat RN (Théau Fournet) pour Roquefort-la-Bédoule, sans lien avec Gisèle Le Louis.\",\n            \"analyse\": \"Pas de mention de Gisèle Le Louis.\"\n        },\n        {\n            \"source\": \"Source 3 – Le Parisien (Novembre 2025): Contexte des municipales 2026 à Marseille lié au RN et au meurtre de Mehdi Kessaci, sans nommement Gisèle Le Louis.\",\n            \"analyse\": \"Aucune référence directe.\"\n        },\n        {\n            \"source\": \"Source 4 – Marsactu (Juin 2025): Parle d’une équipe RN pour les municipales 2026, mais pas de Gisèle Le Louis.\",\n            \"analyse\": \"Pas de mention explicite de la candidate en question.\"\n        },\n        {\n            \"source\": \"Source 5 – Actu.fr (Juin 2025): Mentionne un député RN des Bouches-du-Rhône dont la permanence est dégradée, sans nommer Gisèle Le Louis.\",\n            \"analyse\": \"Aucune preuve de sa candidature officielle.\"\n        }\n    ],\n    \"conclusion\": \"Aucun document fourni ne mentionne explicitement Gisèle Le Louis comme candidate aux municipales 2026. Aucune information claire ne permet d’affirmer son statut.\"\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:23:34.144732Z",
+    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Gisèle Le Louis comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent principalement le RN ou des candidats spécifiques sans lien direct avec elle.\"}\n    ]\n}\n```"
   }
 }

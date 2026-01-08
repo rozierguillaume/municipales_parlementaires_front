@@ -8,6 +8,7 @@
     "parti": "DVD",
     "departement": "Indre",
     "commune": "Châteauroux",
+    "position": "Pourrait être sur une liste",
     "filename": "alix-fruchon.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "La source 1 (echoduberry.fr - 7 Janvier 2026) confirme explicitement que la députée **Alix Fruchon** sera candidate aux élections municipales de 2026 à Argenton-sur-Creuse.",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"La source 1 (echoduberry.fr - 7 Janvier 2026) confirme explicitement que la députée **Alix Fruchon** sera candidate aux élections municipales de 2026 à Argenton-sur-Creuse.\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Source directe confirmant Alix Fruchon comme candidate aux municipales de 2026 pour Argenton-sur-Creuse"
+      }
+    ],
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T10:09:21.094427Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Source directe confirmant Alix Fruchon comme candidate aux municipales de 2026 pour Argenton-sur-Creuse\"}\n    ]\n}\n```"
   }
 }

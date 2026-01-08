@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Doubs",
     "commune": "Montbéliard",
+    "position": "Tête de liste",
     "filename": "matthieu-bloch.json"
   },
   "search_results": [
@@ -49,7 +50,16 @@
   ],
   "analysis": {
     "status": "OUI",
-    "justification": "Les sources mentionnent explicitement Matthieu BLOCH en lien avec le RN et l'UDR pour une liste aux **municipales de 2026** à Montbéliard (Source 5 : *Le Trois*, 8 septembre 2025).",
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": \"Les sources mentionnent explicitement Matthieu BLOCH en lien avec le RN et l'UDR pour une liste aux **municipales de 2026** à Montbéliard (Source 5 : *Le Trois*, 8 septembre 2025).\"\n}\n```"
+    "justification": [
+      {
+        "source_index": 5,
+        "explication": "Source confirme explicitement Matthieu Bloch comme candidat aux municipales 2026 via une alliance avec le RN et l'UDR"
+      }
+    ],
+    "used_sources": [
+      5
+    ],
+    "analysis_at": "2026-01-08T10:25:50.479740Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [5],\n    \"justification\": [\n        {\"source_index\": 5, \"explication\": \"Source confirme explicitement Matthieu Bloch comme candidat aux municipales 2026 via une alliance avec le RN et l'UDR\"}\n    ]\n}\n```"
   }
 }

@@ -8,6 +8,7 @@
     "parti": "SE",
     "departement": "Vienne",
     "commune": "Civray",
+    "position": "Pourrait être sur une liste",
     "filename": "pascal-lecamp.json"
   },
   "search_results": [
@@ -24,6 +25,13 @@
       "snippet": "Chauvigny : Virginie Puchaud-Giraudeau annonce sa candidature aux municipales 2026&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Thu, 13 Nov 2025 08:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Grenoble : Pascal Clouaire croit tou­jours en la « dyna­mique » du Camp de base citoyen… et tacle « les traîtres » - Place Gre'net",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFRNZVV6NF96WXlvU3NLWS13aUZaU2FXckxRTnEwLVMxOGNYQ01hUlBqWWF6Snh1c2JBTTdCZmNJbVFHaFpVX0xpNkx3dGZoVUVyZ0cwR0p4R0JBTkRJSVRfdkdjZF9fWjdERG9GOEIxTEozeHlvVU9DNU9vcHpYRlNmLVJBbm5UUm1qNXh3c1NPcnRJMi1zRmlUTlFSUXFmblMxZzMwWUx6TmZ2RktiYXRXRDhpZFlRTWpCWFl0VnRydk9aQWM5V2pfWldSLUFfZzlnNFRxc25HX1dLWmM4?oc=5",
+      "snippet": "Grenoble : Pascal Clouaire croit tou­jours en la « dyna­mique » du Camp de base citoyen… et tacle « les traîtres »&nbsp;&nbsp;Place Gre'net",
+      "date": "Sat, 01 Nov 2025 07:00:00 GMT",
+      "source": "Place Gre'net"
     },
     {
       "title": "Municipales 2026. Dans l’agglo de Vannes, la moitié des maires ne se représentera pas en mars 2026 - Ouest-France",
@@ -48,8 +56,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Pascal Lecamp comme candidat aux municipales de 2026. Les sources citées concernent d'autres personnalités (Daniel Pilaudeau, Virginie Puchaud-Giraudeau) ou des contextes locaux sans référence directe à Pascal Lecamp.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Pascal Lecamp comme candidat aux municipales de 2026. Les sources citées concernent d'autres personnalités (Daniel Pilaudeau, Virginie Puchaud-Giraudeau) ou des contextes locaux sans référence directe à Pascal Lecamp.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Pascal Lecamp comme candidat aux municipales 2026 dans les sources fournies."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:18:01.455922Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Pascal Lecamp comme candidat aux municipales 2026 dans les sources fournies.\"}\n    ]\n}\n```"
   }
 }

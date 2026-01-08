@@ -8,6 +8,7 @@
     "parti": "RN",
     "departement": "Aisne",
     "commune": "Villers-Cotterêts",
+    "position": "Pourrait être sur une liste",
     "filename": "jocelyn-dessigny.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Jocelyn DESSIGNY comme candidate aux élections municipales de Villers-Cotterêts ou d'autres communes pour 2026. Les sources citées concernent principalement :\n    - Une analyse sur une potentielle candidature de Gaëlle Lefèvre (Source 1, non liée à Jocelyn Dessigny).\n    - Des dynamiques politiques locales dans Château-Thierry (Source 2) et des commentaires sur l’opposition unie à Villers-Cotterêts (Source 3), sans lien avec Jocelyn Dessigny.\n    Aucune mention directe de sa candidature ou de son implication aux élections municipales de 2026.\"\n}\n```",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Jocelyn DESSIGNY comme candidate aux élections municipales de Villers-Cotterêts ou d'autres communes pour 2026. Les sources citées concernent principalement :\n    - Une analyse sur une potentielle candidature de Gaëlle Lefèvre (Source 1, non liée à Jocelyn Dessigny).\n    - Des dynamiques politiques locales dans Château-Thierry (Source 2) et des commentaires sur l’opposition unie à Villers-Cotterêts (Source 3), sans lien avec Jocelyn Dessigny.\n    Aucune mention directe de sa candidature ou de son implication aux élections municipales de 2026.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Jocelyn Dessigny comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des contextes locaux (Villers-Cotterêts, Château-Thierry) et des dynamiques politiques internes sans référence directe à son implication."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:22:23.583052Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Jocelyn Dessigny comme candidate aux municipales 2026 dans les sources fournies. Les articles concernent des contextes locaux (Villers-Cotterêts, Château-Thierry) et des dynamiques politiques internes sans référence directe à son implication.\"}\n    ]\n}\n```"
   }
 }

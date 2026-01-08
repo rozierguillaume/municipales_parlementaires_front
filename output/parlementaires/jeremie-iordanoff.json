@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Isère",
     "commune": "nan",
+    "position": "nan",
     "filename": "jeremie-iordanoff.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "L’écologiste Jérémie Iordanoff élu vice-président de l’Assemblée, sur fond de divisions au sein du «socle commun&nbsp;&nbsp;Libération",
       "date": "Tue, 22 Oct 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Budget de la Sécurité sociale : comment ont voté les députés Isérois ? - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkJHclVTSDNzcEcxdW9oVDdLQXF2X2Y1NURraWktNHBhbzZPbWdyb0RoZUVDNTJsaFRXa1U2UHAwelBvR3NOMURZMDBFNU1ycnZqQ0hyQ1U3UmNkTUIyQ0lKRDN4YzVGVFJmRzZyWnM3bXd6cDVtTlkxTlhmTzNqM0MyWFhaZEI4UHVCZ3Qwbi1mdHN3eTB5b3k3b01rOHhETjdKZURFOTB5aGM3bi1sY1IwRzJZOEVBUEVR?oc=5",
+      "snippet": "Budget de la Sécurité sociale : comment ont voté les députés Isérois ?&nbsp;&nbsp;mesinfos",
+      "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {

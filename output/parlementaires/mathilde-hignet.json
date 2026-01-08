@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Ille-et-Vilaine",
     "commune": "nan",
+    "position": "nan",
     "filename": "mathilde-hignet.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Résultats élections municipales Bain-de-Bretagne [35470] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 30 Jun 2020 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Législatives : une député d'Ille-et-Vilaine souhaite l'union de la gauche - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmRrNUlpdGhJWDhoTUh3NFpiN3VoX1VFS3ZoMExtNDhzcFo1bnRlaVZVUkhKNC1Gbm02LTJWRVkyOVhNNFY4THNFZlY3anlyVVB2OWxhbEd6ZlAzQXh0bUl2MDBRZFBwbWI3LXlUb3JTS1BDaVRydWhNM1RPUDhXV3FfUUVYZm94clVaYWdabTA0MHgyc2dJTVl5TzA2LUVXb2FyODJFZDBaaTUxbEZCa2RzaVVhTzQwSTQ1dmtOVUpMZkpIZ0lXekhNdw?oc=5",
+      "snippet": "Législatives : une député d'Ille-et-Vilaine souhaite l'union de la gauche&nbsp;&nbsp;Actu.fr",
+      "date": "Tue, 11 Jun 2024 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {

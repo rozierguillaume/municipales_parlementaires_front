@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Ain",
     "commune": "nan",
+    "position": "nan",
     "filename": "romain-daubie.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "LÉGISLATIVES. Investi par le Modem, Romain Daubié soutient le programme d’Emmanuel Macron&nbsp;&nbsp;Le Progrès",
       "date": "Wed, 25 May 2022 07:00:00 GMT",
       "source": "Le Progrès"
+    },
+    {
+      "title": "Rien à voir avec Sarkozy : un député Modem propose d’abroger le délit d’association de malfaiteurs - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRGJPSTgxVS1IUElHV1FIZDNqNzhMdnc4M2xJVkJWaGZndThRNUw1S08zY293eGE4c2tmZEZYUjJWZHAxdmVwcVhsOTFrY09kaWNFbjFzWXQ5Wk9QODBOSVI4bjNhMXhYajhOWTJ5VEdCMEpWeEZWeUVRMkVOcXBxM1VjMVh3RHNLbDdhWTlJTGNJS0dTY2huZ0FkR25yRVE4SC14ZTkyVmVmTHlrck9acmxzZmR1a2lIUnB4b3VNRDVjXzhsOXZMYnI0US1YdDV5SHRkamlDWDRwMDRzRzM5RnlSTW5Zb1JRN1NlZTdtS2RLdUZqUEtZUlZMSQ?oc=5",
+      "snippet": "Rien à voir avec Sarkozy : un député Modem propose d’abroger le délit d’association de malfaiteurs&nbsp;&nbsp;Libération",
+      "date": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {

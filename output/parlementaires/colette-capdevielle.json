@@ -8,9 +8,17 @@
     "parti": "UDI",
     "departement": "Pyrénées-Atlantiques",
     "commune": "Bayonne",
+    "position": "Sur une liste ",
     "filename": "colette-capdevielle.json"
   },
   "search_results": [
+    {
+      "title": "Municipales 2026 : à Hendaye, la droite se lance avec une liste transpartisane et un candidat \"Les Républicains\" - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ1M0UHdYbUc3YmF1UlJraTFMVkJLejdIclZTRVRWTzl4WENRU2lJVzVjVE1HbzNWQXpCY29RQnJJRXBxVHluZXU4dG1oU0Q1UzdOSmQzUmNoUXRlTFFJVy0tREIyV3V3MndCUEZ5Umh4OGFaVXl2aHFjNU0zczdITXpROEpOQ096Szd3TmNXejYtX00tZ3piUW9sMlV5Y3pmWGpXVmFUcWZGdDZ1dXpJOWtmeGJBZG81UHJBT2ttb3pXaUlwMFE2dC0zNmN5QTJHd2g5NU5EYnRVa1k0R0JtVzloR2NqQ1FkOUdfaFp3?oc=5",
+      "snippet": "Municipales 2026 : à Hendaye, la droite se lance avec une liste transpartisane et un candidat \"Les Républicains\"&nbsp;&nbsp;francebleu.fr",
+      "date": "Sat, 03 Jan 2026 15:21:30 GMT",
+      "source": "francebleu.fr"
+    },
     {
       "title": "Municipales à Bayonne : « Entre trois et cinq places » seront attribuées par tirage au sort pour former la liste de Bayonne en mouvement - Sud Ouest",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQWN0Tm5Ub2J5Rm1VOXVKMTVhb0d1WnNnZEY4MzhDS0p3VDVaZVd3OWtfZTd4NkNmQ084NVZKSHJja3lZSWw1dEpMb0VaSEpxaFhXSDBBbXNpR016N3FqMHdRMFFCTlZub0JSRjJjM0Y4Tl9RWGMtcThPZjY0TmM3M1ZvTzJWc1ZxX2M2UzgzQTdXM1c3ZkJaR1NGU2w5YlplMWYzams5U3FXN0hsTzlobzEyeDZ3c0h2cHBfYWVLSVpjSXpZR2x6M19mMzc2eS1tS3BVWW9lS195ekF1RG05WnJoRnNlaXFsTzVNdmVfZTdVRzRTNmYwR0dSeGtScl9ENEtuR0tQYmdMNS1Yb010bkNFQkhkdkdzekRKUi1VR3BJdw?oc=5",
@@ -51,14 +59,29 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 4 (francebleu.fr - Sat, 20 Sep 2025)",
-        "details": "Colette Capdevielle est explicitement mentionnée comme candidate sur la liste de gauche 'Bayonne en mouvement' pour les **élections municipales de 2026** à Bayonne."
+        "source_index": 1,
+        "explication": "Mentionne explicitement Colette Capdevielle comme candidat aux municipales 2026 dans une liste transpartisane."
       },
       {
-        "source": "Source 5 (Sud Ouest - Sat, 20 Sep 2025)",
-        "details": "Lancement officiel de la liste 'Bayonne en mouvement' incluant Colette Capdevielle pour les **Municipales 2026**."
+        "source_index": 3,
+        "explication": "Colette Capdevielle est citée en contexte de préparation des élections municipales 2026 à Bayonne."
+      },
+      {
+        "source_index": 4,
+        "explication": "Son implication dans une liste de gauche pour les municipales 2026 est confirmée."
+      },
+      {
+        "source_index": 5,
+        "explication": "Colette Capdevielle et Jean-Claude Iriart sont annoncés comme tête de liste d'union de la gauche pour Bayonne en 2026."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (francebleu.fr - Sat, 20 Sep 2025)\",\n            \"details\": \"Colette Capdevielle est explicitement mentionnée comme candidate sur la liste de gauche 'Bayonne en mouvement' pour les **élections municipales de 2026** à Bayonne.\"\n        },\n        {\n            \"source\": \"Source 5 (Sud Ouest - Sat, 20 Sep 2025)\",\n            \"details\": \"Lancement officiel de la liste 'Bayonne en mouvement' incluant Colette Capdevielle pour les **Municipales 2026**.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:19:09.837878Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Mentionne explicitement Colette Capdevielle comme candidat aux municipales 2026 dans une liste transpartisane.\"},\n        {\"source_index\": 3, \"explication\": \"Colette Capdevielle est citée en contexte de préparation des élections municipales 2026 à Bayonne.\"},\n        {\"source_index\": 4, \"explication\": \"Son implication dans une liste de gauche pour les municipales 2026 est confirmée.\"},\n        {\"source_index\": 5, \"explication\": \"Colette Capdevielle et Jean-Claude Iriart sont annoncés comme tête de liste d'union de la gauche pour Bayonne en 2026.\"}\n    ]\n}\n```"
   }
 }

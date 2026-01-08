@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Seine-et-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "maxime-laisney.json"
   },
   "search_results": [
@@ -44,6 +45,20 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHlsc0ZvOHNiYi05VnFnSUMzaDVjZ3VwelhZQnlOak1IYUVDSkFWRjRoYTVHVUNyeVN3cnNzSmJXZl9pVlJQeGIzTHFDU1NhU2xxMl9ib1ZHMTJqbXBlUXpyUzRSWlVTbzd6UWFjSnI4VS1KS2F5RlUyVFZydGpFbTVEX3YxZjZzSnRMRmR6Vm9oWTlkeVUxcmFYZmYxT0pSUmNLc2FGY2hBNVpBOVgwN09NNHJUWHhHdk9vMF95Q1E3VkNjTENjU0g1X1lodw?oc=5",
       "snippet": "Municipales en Seine-et-Marne : les échos de campagne du 18 décembre&nbsp;&nbsp;Le Parisien",
       "date": "Wed, 18 Dec 2019 08:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Aidez-moi à faire avancer ce combat : POUR UNE ALTERNATIVE POLITIQUE À NOISIEL – MUNICIPALES 2026 - MesOpinions.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3dNdnBSR0sxZ3ZqTEl1MV9nMVlRZ2pfQjhHc0VZSno5ZWhRLXBSYlZjSWE4cnF5Rk1RMjI5Q0J2WDZrRGVZcmRWenRibFRZa09Pb0x3WTljZkNSYTJtUGxGOU1pQktOSnRZdHRaZm9mbDdXemdsYWJ0eVpRTnpoZ1BvVG9nVmdlbF9SczU1MHYtU3dHVlB4SllQMjBjOEFRaDRtUQ?oc=5",
+      "snippet": "Aidez-moi à faire avancer ce combat : POUR UNE ALTERNATIVE POLITIQUE À NOISIEL – MUNICIPALES 2026&nbsp;&nbsp;MesOpinions.com",
+      "date": "Thu, 31 Jul 2025 17:20:30 GMT",
+      "source": "MesOpinions.com"
+    },
+    {
+      "title": "Premier tour des législatives 2024 : en Seine-et-Marne, le RN en tête, NFP en embuscade… - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYVViQ0pMWTRhanNuLXU0UDhlV2g3WUQyUzNzWkhoWXdyQ2ZneGpxaFAwWk5lbElhMlRFNUNMNHZ2SEgtd0w3NWZmRmduYTByME1ZbExWdU16MzlKX201eEFnby1Qak0tem82cWtmVHNDdDc3Z211Zm5Gb3RKWlFORm5OcHRYVUpFRzlTN1dEaGlobzNNZF9OM1V6U1hRR1VOM3Y3Y3FUZWh5QUljWkxuZ3dwTjZ3YkZrWGtfMEZ1Xy1YYXVMVnBPdk00SVU1cnFCazBMRndhbkZUUndFTnlQLVExWW1DTDBFdUMyZGRnaWkweC1YOVJIRGxoaDZRUkw4bXBjdA?oc=5",
+      "snippet": "Premier tour des législatives 2024 : en Seine-et-Marne, le RN en tête, NFP en embuscade…&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
       "source": "Le Parisien"
     }
   ],

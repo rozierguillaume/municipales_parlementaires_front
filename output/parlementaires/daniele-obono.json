@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Paris",
     "commune": "Paris - 18e arrondissement",
+    "position": "Tête de liste ",
     "filename": "daniele-obono.json"
   },
   "search_results": [
@@ -51,14 +52,24 @@
     "status": "OUI",
     "justification": [
       {
-        "source": "Source 4 (Actu.fr)",
-        "details": "Danièle Obono est explicitement citée comme une figure clé de **La France Insoumise (LFI)** pour les municipales 2026 à Paris, confirmant son implication active dans la campagne."
+        "source_index": 1,
+        "explication": "Appel explicite à voter pour les listes de La France insoumise aux municipales 2026."
       },
       {
-        "source": "Source 1 (La France insoumise)",
-        "details": "Le texte appelle explicitement au vote pour les listes de LFI aux élections des **15 et 22 mars 2026**, ce qui implique une participation directe à ces municipales."
+        "source_index": 4,
+        "explication": "Mentionne explicitement Danièle Obono comme candidate pour les municipales 2026 à Paris."
+      },
+      {
+        "source_index": 5,
+        "explication": "Contexte de rivalité électorale dans le 18e arrondissement de Paris pour les municipales 2026"
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        {\n            \"source\": \"Source 4 (Actu.fr)\",\n            \"details\": \"Danièle Obono est explicitement citée comme une figure clé de **La France Insoumise (LFI)** pour les municipales 2026 à Paris, confirmant son implication active dans la campagne.\"\n        },\n        {\n            \"source\": \"Source 1 (La France insoumise)\",\n            \"details\": \"Le texte appelle explicitement au vote pour les listes de LFI aux élections des **15 et 22 mars 2026**, ce qui implique une participation directe à ces municipales.\"\n        }\n    ]\n}\n```"
+    "used_sources": [
+      1,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:17:03.762262Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [1, 4, 5],\n    \"justification\": [\n        {\"source_index\": 1, \"explication\": \"Appel explicite à voter pour les listes de La France insoumise aux municipales 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Mentionne explicitement Danièle Obono comme candidate pour les municipales 2026 à Paris.\"},\n        {\"source_index\": 5, \"explication\": \"Contexte de rivalité électorale dans le 18e arrondissement de Paris pour les municipales 2026\"}\n    ]\n}\n```"
   }
 }

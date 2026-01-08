@@ -7,7 +7,8 @@
     "full_name": "Sandrine RUNEL",
     "parti": "EELV",
     "departement": "Rhône",
-    "commune": "Lyon",
+    "commune": "Lyon - 8ème arrondissement",
+    "position": "Pourrait être sur une liste",
     "filename": "sandrine-runel.json"
   },
   "search_results": [
@@ -45,14 +46,42 @@
       "snippet": "Lyon 2026. Un concurrent surprise face à Sandrine Runel pour la désignation socialiste&nbsp;&nbsp;Tribune de Lyon",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT",
       "source": "Tribune de Lyon"
+    },
+    {
+      "title": "Municipales 2026 : pour tenter l’union à gauche, les écolos vont devoir faire de la place - Rue89 Lyon",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPel8yM2M3ODZqZmZ2UXE3OE1WOGZ2Zkt0cGV5Q1d0UUtvSTBHcVFSaWw3S2lraF8zb2VIYzU2OUFlMjhlNGNIUFpVRV94c0xXaS1sWWlleGxqUzRhaGVCOURBTlF5MHN2eDhPdUhIRXl0MHNKYnhVTGxqTE11aHhSeF9HWEIxWHhTVWRCNFdBc2tJR3M?oc=5",
+      "snippet": "Municipales 2026 : pour tenter l’union à gauche, les écolos vont devoir faire de la place&nbsp;&nbsp;Rue89 Lyon",
+      "date": "Mon, 24 Mar 2025 07:00:00 GMT",
+      "source": "Rue89 Lyon"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
-      "Sandrine Runel est explicitement désignée **cheffe de file des socialistes** pour les Municipales 2026 à Lyon (Sources 2, 3).",
-      "Les articles mentionnent une campagne active en vue des élections municipales de 2026 et évoquent son rôle central dans la dynamique socialiste locale."
+      {
+        "source_index": 2,
+        "explication": "Référence explicite à Sandrine Runel comme cheffe de file socialiste pour les municipales 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Confirme son rôle de candidate officielle du PS dans le cadre des élections municipales de Lyon en 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Contexte d'une rivalité interne pour la désignation socialiste incluant Sandrine Runel comme figure centrale pour les municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Mentionne un concurrent surprise dans le cadre de sa candidature aux municipales 2026 en tant que candidate socialiste."
+      }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"justification\": [\n        \"Sandrine Runel est explicitement désignée **cheffe de file des socialistes** pour les Municipales 2026 à Lyon (Sources 2, 3).\",\n        \"Les articles mentionnent une campagne active en vue des élections municipales de 2026 et évoquent son rôle central dans la dynamique socialiste locale.\"\n    ]\n}\n```"
+    "used_sources": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T10:21:13.571687Z",
+    "raw_output": "```json\n{\n    \"statut\": \"OUI\",\n    \"used_sources\": [2, 3, 4, 5],\n    \"justification\": [\n        {\"source_index\": 2, \"explication\": \"Référence explicite à Sandrine Runel comme cheffe de file socialiste pour les municipales 2026.\"},\n        {\"source_index\": 3, \"explication\": \"Confirme son rôle de candidate officielle du PS dans le cadre des élections municipales de Lyon en 2026.\"},\n        {\"source_index\": 4, \"explication\": \"Contexte d'une rivalité interne pour la désignation socialiste incluant Sandrine Runel comme figure centrale pour les municipales 2026.\"},\n        {\"source_index\": 5, \"explication\": \"Mentionne un concurrent surprise dans le cadre de sa candidature aux municipales 2026 en tant que candidate socialiste.\"}\n    ]\n}\n```"
   }
 }

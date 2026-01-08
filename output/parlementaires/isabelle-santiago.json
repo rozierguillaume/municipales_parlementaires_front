@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Val-de-Marne",
     "commune": "nan",
+    "position": "nan",
     "filename": "isabelle-santiago.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Résultats élections municipales Vitry-sur-Seine [94400] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
       "date": "Sun, 24 Sep 2017 20:06:09 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Législative partielle d’Alfortville – Vitry – Isabelle Santiago en tête, Sandra Regol se maintient - Citoyens.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWprQVZybGhaTWdwRThIQldoMDViV2tCQ01mQUxxLWNmV1BIZFc5dVA0dm5JZ1kxbUZJVldjZ3VmUWo1YTlsbzFtZTVxNzRrbm5tS0RrT1daZE1JNk1ObEpmODhROHVtenVzNVFLQ3pvdkFaNDA4bjJpZ3FiQURoRmZJaUFuSXhMaU56M1dCWENjYUY3Q1RxUkQ0THphc2RQX1lBY2lERGxkN1VMV0Q1czZB?oc=5",
+      "snippet": "Législative partielle d’Alfortville – Vitry – Isabelle Santiago en tête, Sandra Regol se maintient&nbsp;&nbsp;Citoyens.com",
+      "date": "Sun, 20 Sep 2020 07:00:00 GMT",
+      "source": "Citoyens.com"
     }
   ],
   "analysis": {

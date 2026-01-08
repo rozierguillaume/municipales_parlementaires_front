@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Lozère",
     "commune": "nan",
+    "position": "nan",
     "filename": "sophie-pantel.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Sophie Pantel élue en Lozère, seul département de France à basculer à gauche&nbsp;&nbsp;francebleu.fr",
       "date": "Thu, 02 Apr 2015 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Commissions et gouvernance de l’Assemblée nationale : ces députés nouveaux porte-voix des collectivités - Le Courrier des maires",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcDRVaFVla08ybGVvZHJFandteENVanhYNEdyY0NpQ05xZnFnRDJUa2t2VU42a25CM2dBZVdRMi1XdWlwcGE0amZwQzN6VHRxR1RsVDRpR1UwRnhfTVY4RHZJOTRyd1hrWDktUDR5M1lBd1lTMGdkOExEQWZIYU1HbHdsbHIwN0VtOTVZZURrLUE3R0I0U2ZSQ1pCbjc0NG9RMnhhQ21oSkVLM3ZBc1Z2UkcwSjVHMG5yeGNJWmVuQlBzU1pGVVBDRWpTa1JRSzVoekplWnNhZVF2ZmpHT3Ixd25n?oc=5",
+      "snippet": "Commissions et gouvernance de l’Assemblée nationale : ces députés nouveaux porte-voix des collectivités&nbsp;&nbsp;Le Courrier des maires",
+      "date": "Mon, 22 Jul 2024 07:00:00 GMT",
+      "source": "Le Courrier des maires"
     }
   ],
   "analysis": {

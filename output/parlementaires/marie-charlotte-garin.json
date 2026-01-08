@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Rhône",
     "commune": "nan",
+    "position": "nan",
     "filename": "marie-charlotte-garin.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "Municipales 2026 : à Lyon, Jean-Michel Aulas monte à l'assaut d'un bastion écologiste&nbsp;&nbsp;Les Echos",
       "date": "Sat, 04 Oct 2025 07:00:00 GMT",
       "source": "Les Echos"
+    },
+    {
+      "title": "« Une insulte à notre ville » : la gauche s’indigne des déclarations d’Aulas sur l’immigration - Tribune de Lyon",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX29GbkRuMFZMUHdPd3g4dUJhOUV5Z2ZwWHMzZUFXa1dSMzFHV0ZSQ2RLdThWOVV4bldKc1hPTzJSMU82TmRsbW9uaVl6dW5hS25aV1FSbXZ0WFNuTjFXT3ZCaENhZkRySzNIejBOWEhBeHp6YXlIUjRIaHFFb2lBV212RWJqQlFHbTNiOVRCQ05veFh1X2d6MG4wSlRnREJFbkVZZVZUSkFxMk1tZ0ZKUG9IR1dlRmpaZ08zYlBB?oc=5",
+      "snippet": "« Une insulte à notre ville » : la gauche s’indigne des déclarations d’Aulas sur l’immigration&nbsp;&nbsp;Tribune de Lyon",
+      "date": "Wed, 07 Jan 2026 17:18:57 GMT",
+      "source": "Tribune de Lyon"
     }
   ],
   "analysis": {

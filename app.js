@@ -20,6 +20,8 @@ const state = {
   detailsErrors: {},
   summaryRequestId: 0,
   byId: {},
+  summaryEntries: [],
+  matrixFilter: null,
 };
 
 const isMissing = (value) => {
@@ -43,6 +45,12 @@ const escapeHtml = (value) =>
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#39;");
+
+const formatMarkdown = (value) => {
+  const escaped = escapeHtml(value);
+  const withBold = escaped.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+  return withBold.replace(/\*(.+?)\*/g, "<em>$1</em>");
+};
 
 const pickValue = (primary, fallback) => {
   if (!isMissing(primary)) {
@@ -69,6 +77,102 @@ const formatDate = (value) => {
   });
 };
 
+const formatAnalysisTimestamp = (value) => {
+  if (isMissing(value)) {
+    return "Date d'analyse inconnue";
+  }
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) {
+    return String(value);
+  }
+  return parsed.toLocaleString("fr-FR", {
+    dateStyle: "medium",
+    timeStyle: "short",
+  });
+};
+
+const collectIndicesFromValue = (value, indices) => {
+  if (value === null || value === undefined) {
+    return;
+  }
+  if (typeof value === "number") {
+    const index = Math.floor(value);
+    if (index > 0) {
+      indices.add(index);
+    }
+    return;
+  }
+  if (typeof value === "string") {
+    const matches = value.match(/\d+/g);
+    if (matches) {
+      matches.forEach((match) => {
+        const index = Number.parseInt(match, 10);
+        if (index > 0) {
+          indices.add(index);
+        }
+      });
+    }
+    return;
+  }
+  if (Array.isArray(value)) {
+    value.forEach((item) => collectIndicesFromValue(item, indices));
+    return;
+  }
+  if (typeof value === "object") {
+    collectIndicesFromValue(value.source_index || value.source, indices);
+  }
+};
+
+const extractSourceIndicesFromText = (text) => {
+  const indices = new Set();
+  if (isMissing(text)) {
+    return indices;
+  }
+  const regex = /Source\s*(\d+)/gi;
+  let match = regex.exec(text);
+  while (match) {
+    const index = Number.parseInt(match[1], 10);
+    if (index > 0) {
+      indices.add(index);
+    }
+    match = regex.exec(text);
+  }
+  return indices;
+};
+
+const getUsedSourceIndices = (details, totalArticles) => {
+  const indices = new Set();
+  if (!details || !details.analysis) {
+    return [];
+  }
+  const analysis = details.analysis;
+  collectIndicesFromValue(analysis.used_sources, indices);
+
+  const justification = analysis.justification;
+  if (Array.isArray(justification)) {
+    justification.forEach((entry) => {
+      if (entry && typeof entry === "object") {
+        collectIndicesFromValue(entry.source_index || entry.source, indices);
+        if (typeof entry.explication === "string") {
+          extractSourceIndicesFromText(entry.explication).forEach((value) =>
+            indices.add(value)
+          );
+        }
+      } else if (typeof entry === "string") {
+        extractSourceIndicesFromText(entry).forEach((value) => indices.add(value));
+      }
+    });
+  } else if (typeof justification === "string") {
+    extractSourceIndicesFromText(justification).forEach((value) => indices.add(value));
+  }
+
+  let list = Array.from(indices).filter((index) => index > 0);
+  if (typeof totalArticles === "number") {
+    list = list.filter((index) => index <= totalArticles);
+  }
+  return list.sort((a, b) => a - b);
+};
+
 const getStatusInfo = (status) => {
   const normalized = String(status || "").trim().toUpperCase();
   if (normalized === "OUI") {
@@ -91,10 +195,17 @@ const getHumanStatusInfo = (position) => {
     return { label: "Non renseigne", className: "status-empty" };
   }
   const normalized = normalize(position).replace(/\s+/g, " ").trim();
-  if (normalized.includes("pourrait etre sur la liste")) {
+  if (
+    normalized.includes("pourrait etre sur la liste") ||
+    normalized.includes("pourrait etre sur une liste")
+  ) {
     return { label: "INCERTAIN", className: "status-incertain" };
   }
-  if (normalized.includes("tete de liste") || normalized.includes("sur la liste")) {
+  if (
+    normalized.includes("tete de liste") ||
+    normalized.includes("sur la liste") ||
+    normalized.includes("sur une liste")
+  ) {
     return { label: "OUI", className: "status-oui" };
   }
   return { label: "Autre", className: "status-empty" };
@@ -242,6 +353,40 @@ const renderMember = (member, details) => {
 
   const statusInfo = getAiStatusInfo(details);
   const positionStatusInfo = getHumanStatusInfo(position);
+  const analysisTimestamp = formatAnalysisTimestamp(
+    details && details.analysis ? details.analysis.analysis_at : null
+  );
+  const justificationHtml = (() => {
+    const analysis = details && details.analysis ? details.analysis : null;
+    if (!analysis || isMissing(analysis.justification)) {
+      return '<div class="info-hint">Aucune justification disponible.</div>';
+    }
+    const justification = analysis.justification;
+    if (Array.isArray(justification)) {
+      const items = justification
+        .map((entry) => {
+          if (entry && typeof entry === "object") {
+            const source = pickValue(entry.source, "");
+            const explication = pickValue(entry.explication, "");
+            if (!source && !explication) {
+              return `<li class="justification-item">${escapeHtml(
+                JSON.stringify(entry)
+              )}</li>`;
+            }
+            return `
+              <li class="justification-item">
+                ${source ? `<div class="justification-source">${escapeHtml(source)}</div>` : ""}
+                ${explication ? `<div class="justification-text">${formatMarkdown(explication)}</div>` : ""}
+              </li>
+            `;
+          }
+          return `<li class="justification-item">${formatMarkdown(entry)}</li>`;
+        })
+        .join("");
+      return `<ul class="justification-list">${items}</ul>`;
+    }
+    return `<div class="justification-text">${formatMarkdown(justification)}</div>`;
+  })();
 
   const tagLabels = [];
   if (parti) {
@@ -260,14 +405,18 @@ const renderMember = (member, details) => {
   const metaLine = formatMemberMetaLine(departement, commune);
 
   const articles = details && Array.isArray(details.search_results) ? details.search_results : [];
+  const usedSourceIndices = getUsedSourceIndices(details, articles.length);
+  const usedSourceSet = new Set(usedSourceIndices);
   const articlesHtml = articles.length
     ? articles
-        .map((article) => {
+        .map((article, index) => {
           const title = pickValue(article.title, "Sans titre");
           const snippet = pickValue(article.snippet, "");
           const source = pickValue(article.source, "Source inconnue");
           const dateText = formatDate(article.date);
           const link = pickValue(article.link, "");
+          const sourceIndex = index + 1;
+          const isUsed = usedSourceSet.has(sourceIndex);
           const titleHtml = link
             ? `<a class="article-title" href="${escapeHtml(
                 link
@@ -276,13 +425,17 @@ const renderMember = (member, details) => {
           const snippetHtml = snippet
             ? `<div class="article-snippet">${escapeHtml(snippet)}</div>`
             : "";
+          const usedBadge = isUsed
+            ? '<span class="article-badge">Utilise par IA</span>'
+            : "";
           return `
-            <article class="article-card">
+            <article class="article-card${isUsed ? " is-used" : ""}">
               ${titleHtml}
               ${snippetHtml}
-              <div class="article-meta">${escapeHtml(
-                `${source} - ${dateText}`
-              )}</div>
+              <div class="article-meta">
+                ${escapeHtml(`${source} - ${dateText} - Source ${sourceIndex}`)}
+                ${usedBadge}
+              </div>
             </article>
           `;
         })
@@ -308,6 +461,7 @@ const renderMember = (member, details) => {
           statusInfo.label
         )}</div>
         <div class="info-hint">Est-il present sur une liste ?</div>
+        <div class="info-hint">Analyse IA : ${escapeHtml(analysisTimestamp)}</div>
       </div>
       <div class="info-card">
         <div class="info-label">Position (humain)</div>
@@ -315,6 +469,13 @@ const renderMember = (member, details) => {
           positionStatusInfo.label
         )}</div>
         <div class="info-value">${escapeHtml(position)}</div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-title">Justification IA</div>
+      <div class="info-card justification-card">
+        ${justificationHtml}
       </div>
     </section>
 
@@ -420,17 +581,15 @@ const renderSummaryView = (entries) => {
   }
 
   const total = entries.length;
-  const comparable = entries.filter(
-    (entry) =>
-      isComparableLabel(entry.aiStatus.label) &&
-      isComparableLabel(entry.humanStatus.label)
-  ).length;
-  const mismatch = entries.filter(
-    (entry) =>
-      isComparableLabel(entry.aiStatus.label) &&
-      isComparableLabel(entry.humanStatus.label) &&
-      entry.aiStatus.label !== entry.humanStatus.label
-  ).length;
+  const matrixFilter = state.matrixFilter;
+  const tableEntries = matrixFilter
+    ? entries.filter(
+        (entry) =>
+          entry.humanStatus.label === matrixFilter.human &&
+          entry.aiStatus.label === matrixFilter.ai
+      )
+    : entries;
+  const tableCount = tableEntries.length;
 
   const { aiCategories, humanCategories, matrix, humanTotals, aiTotals } =
     buildComparisonMatrix(entries);
@@ -441,7 +600,26 @@ const renderSummaryView = (entries) => {
   const matrixRows = humanCategories
     .map((label) => {
       const cells = aiCategories
-        .map((aiLabel) => `<td>${matrix[label][aiLabel]}</td>`)
+        .map((aiLabel) => {
+          const count = matrix[label][aiLabel];
+          const isActive =
+            matrixFilter &&
+            matrixFilter.human === label &&
+            matrixFilter.ai === aiLabel;
+          return `
+            <td class="matrix-cell">
+              <button
+                type="button"
+                class="matrix-cell-btn${isActive ? " is-active" : ""}"
+                data-human="${label}"
+                data-ai="${aiLabel}"
+                ${count === 0 ? "disabled" : ""}
+              >
+                ${count}
+              </button>
+            </td>
+          `;
+        })
         .join("");
       return `<tr><th>${escapeHtml(label)}</th>${cells}<td class="matrix-total">${humanTotals[label]}</td></tr>`;
     })
@@ -450,7 +628,7 @@ const renderSummaryView = (entries) => {
     .map((aiLabel) => `<td class="matrix-total">${aiTotals[aiLabel]}</td>`)
     .join("")}<td class="matrix-total">${total}</td></tr>`;
 
-  const rowsHtml = entries
+  const rowsHtml = tableEntries
     .map((entry) => {
       const mismatchClass =
         isComparableLabel(entry.aiStatus.label) &&
@@ -485,6 +663,18 @@ const renderSummaryView = (entries) => {
     state.filtered.length === state.all.length
       ? `${total} suivis`
       : `${total} affiches sur ${state.all.length}`;
+  const filterHtml = matrixFilter
+    ? `
+      <div class="summary-filter">
+        <div class="summary-filter-label">Filtre actif: Humain ${escapeHtml(
+          matrixFilter.human
+        )} / IA ${escapeHtml(matrixFilter.ai)} (${tableCount})</div>
+        <button type="button" class="summary-filter-clear" data-clear-filter="true">
+          Tout afficher
+        </button>
+      </div>
+    `
+    : "";
 
   elements.main.innerHTML = `
     <div class="summary-header">
@@ -492,20 +682,7 @@ const renderSummaryView = (entries) => {
         <div class="member-kicker">Recapitulatif</div>
         <h2>Parlementaires suivis</h2>
         <div class="member-sub">${escapeHtml(filteredNote)}</div>
-      </div>
-      <div class="summary-metrics">
-        <div class="summary-card">
-          <div class="summary-card-title">Total</div>
-          <div class="summary-card-value">${total}</div>
-        </div>
-        <div class="summary-card">
-          <div class="summary-card-title">Comparables</div>
-          <div class="summary-card-value">${comparable}</div>
-        </div>
-        <div class="summary-card">
-          <div class="summary-card-title">Divergences</div>
-          <div class="summary-card-value">${mismatch}</div>
-        </div>
+        ${filterHtml}
       </div>
     </div>
 
@@ -595,6 +772,7 @@ const loadSummary = async () => {
     };
   });
 
+  state.summaryEntries = entries;
   renderSummaryView(entries);
 };
 
@@ -731,6 +909,38 @@ if (elements.homeBtn) {
   elements.homeBtn.addEventListener("click", showSummary);
 }
 elements.main.addEventListener("click", (event) => {
+  const filterClear = event.target.closest("[data-clear-filter]");
+  if (filterClear) {
+    state.matrixFilter = null;
+    if (state.summaryEntries.length) {
+      renderSummaryView(state.summaryEntries);
+    } else {
+      loadSummary();
+    }
+    return;
+  }
+  const matrixBtn = event.target.closest(".matrix-cell-btn");
+  if (matrixBtn) {
+    const human = matrixBtn.dataset.human;
+    const ai = matrixBtn.dataset.ai;
+    if (human && ai) {
+      if (
+        state.matrixFilter &&
+        state.matrixFilter.human === human &&
+        state.matrixFilter.ai === ai
+      ) {
+        state.matrixFilter = null;
+      } else {
+        state.matrixFilter = { human, ai };
+      }
+      if (state.summaryEntries.length) {
+        renderSummaryView(state.summaryEntries);
+      } else {
+        loadSummary();
+      }
+    }
+    return;
+  }
   if (state.view !== "summary") {
     return;
   }

@@ -8,6 +8,7 @@
     "parti": "PS",
     "departement": "Réunion",
     "commune": "Saint-Denis",
+    "position": "Pourrait être sur une liste",
     "filename": "philippe-naillet.json"
   },
   "search_results": [
@@ -48,8 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
-    "justification": "Aucun des résultats fournis ne mentionne explicitement Philippe NAILLET comme candidat aux **municipales de 2026**. Les sources citées concernent d'autres figures politiques (Bello, Lebreton, Bourgogne) ou des annonces générales sur les candidatures pour la Réunion ou Saint-Louis. Aucune trace directe de sa candidature n'est détectée dans les snippets.",
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": \"Aucun des résultats fournis ne mentionne explicitement Philippe NAILLET comme candidat aux **municipales de 2026**. Les sources citées concernent d'autres figures politiques (Bello, Lebreton, Bourgogne) ou des annonces générales sur les candidatures pour la Réunion ou Saint-Louis. Aucune trace directe de sa candidature n'est détectée dans les snippets.\"\n}\n```"
+    "status": "NON",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune mention explicite de Philippe NAILLET comme candidat aux municipales 2026 dans les sources fournies"
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:20:34.133308Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Philippe NAILLET comme candidat aux municipales 2026 dans les sources fournies\"}\n    ]\n}\n```"
   }
 }

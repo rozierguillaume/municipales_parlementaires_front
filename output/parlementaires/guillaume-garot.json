@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Mayenne",
     "commune": "nan",
+    "position": "nan",
     "filename": "guillaume-garot.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Elections régionales. Guillaume Garot (PS) présente son équipe en Sarthe&nbsp;&nbsp;Actu.fr",
       "date": "Sat, 08 May 2021 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales à Laval : Bruno Bertier ne sera pas candidat, faute de conditions \"pour un mandat ambitieux et serein\" - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTWlISVFzZXEzbHZVajg1b1pONGhSNklGRnVuNXpLMF9vaUM0a0FVY3BSYXZVdWh6MDlFU181WlV2MlUxRmJpcDZNVEpVR3lXUExaSGwzUDBvTlZscTNqdjJrZE1tcXJRbVBDYlZwdGxleVVvbzFwZFN6aEpKcmphNGpLTG5MdG82NXdUYW1kMFVGdmNFN3RxM1l5M1hGT3U2RDVlRkhXYTN3UEVlOHk1WndMNjV6YXpNekNtbE43WVV5LXhIc2ZpWS1zeDFXemdNdzFlUC1mdE9ta1pYZ3drYkFocktWQ2ZtTlE2WVpHUTA?oc=5",
+      "snippet": "Municipales à Laval : Bruno Bertier ne sera pas candidat, faute de conditions \"pour un mandat ambitieux et serein\"&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 05 Jan 2026 18:22:29 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Environnement, transports, relance... le programme des candidats aux régionales en Pays de la Loire - Mediacités",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzVSRlVQblAzVi1ORkJhVTV5TzRRaDNCMUZwT0ZaUlRkZ21NdDBWSzdYSk9zUUhsQ2R3Sko2YzRwMmhYT1dDX2t1bnlXMUxkYjZLRi1KUVlmUmZCclhvQlVId21fOXd0NXFHVWZuTHNHVVRicTlPYTFmTS1kaU1TOEFFMWpWR2NUaTFwdTJvbzFJN3d3TlEzRVhJaldlMWNJd0V1cXd3Q2dHcFd5X2pSdlU0eU1tTTFpVldiWVRSOFYzU1NOMWtmUk1kNHFGc3B6S1J2dW1KdmJ4ZkZUUXlGX29fSk4?oc=5",
+      "snippet": "Environnement, transports, relance... le programme des candidats aux régionales en Pays de la Loire&nbsp;&nbsp;Mediacités",
+      "date": "Thu, 17 Jun 2021 07:00:00 GMT",
+      "source": "Mediacités"
     }
   ],
   "analysis": {

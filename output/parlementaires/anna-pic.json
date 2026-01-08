@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Manche",
     "commune": "nan",
+    "position": "nan",
     "filename": "anna-pic.json"
   },
   "search_results": [
@@ -45,6 +46,13 @@
       "snippet": "INFO OUEST-FRANCE. Nicolas Conquer prépare les élections municipales de mars 2026 à Cherbourg&nbsp;&nbsp;Ouest-France",
       "date": "Sun, 09 Mar 2025 08:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026 : la Béarnaise Anna Agueb-Porterie esquisse « une réelle démocratie directe au niveau local » - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPempZWENtQXZPR1dCLXprYUtKRGhPNXFCcWVsOUpsZDZJMU5qazNQNUJaWVB6cXhaSzlNTlBUR1pIVHNOdTZ6LWl0b3FWRE1LblNHTUYxY3dLcnljVnJTQlpXVTZRRmtWS3BwUWJ5R2NOSWhUUThBQXpjdXFBQ1hRaDZMNDNrdmwxN0gwWHZydV85UTBzX3ZDZmJ5M1JDUy01d0NwN04wajlKcHFGRE9pVzVxUm9oeGIxa1l0RFQ0SzEwcWVhRmdVOUJlSmRaWUpuX1hGdEVOVU96VU5FaU5yTExFSTAxcWZ4aWVNbmk1SjhhQQ?oc=5",
+      "snippet": "Municipales 2026 : la Béarnaise Anna Agueb-Porterie esquisse « une réelle démocratie directe au niveau local »&nbsp;&nbsp;Sud Ouest",
+      "date": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "source": "Sud Ouest"
     }
   ],
   "analysis": {

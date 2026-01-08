@@ -8,6 +8,7 @@
     "parti": "nan",
     "departement": "Deux-Sèvres",
     "commune": "nan",
+    "position": "nan",
     "filename": "jean-marie-fievet.json"
   },
   "search_results": [
@@ -45,6 +46,20 @@
       "snippet": "Municipales 2026 dans le Cambrésis : de premiers noms apparaissent&nbsp;&nbsp;La Voix du Nord",
       "date": "Thu, 05 Jun 2025 07:00:00 GMT",
       "source": "La Voix du Nord"
+    },
+    {
+      "title": "Résultats élections municipales Bressuire [79300] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV2M2VkZOSkw0V2txcGNvOUFrc0ktdnk3Y2U0S1Jpc1JOT0tya3ZZbTJFTTZ4WldHMzZWTmp5bDU1M0JkZ3gyaTJncklUQks4ZV9fdVNKS2dHS2pCbEtZRldzd3I1UHo5OWRUYk5rNFFiUld5Zml3SUhoRkV4Rzd4QzF3?oc=5",
+      "snippet": "Résultats élections municipales Bressuire [79300] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Législatives dans les Deux-Sèvres : Bastien Marchive élu député, Delphine Batho et Jean-Marie Fiévet réélus - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOEVUdEtyMk1WMExUZmNIdzBBbHlKZjh2aE8yM0kzNm44RFNaeTBHTXpwQUNtdU1rTXVjeU9GUlBsTnBWMlkwWU5ldVN1T1E0d1pDLVhLTVdrQnZpYkFWNnVtQllCREY0b1R2MzFpd1NXMkdhbkk4blRZWW9FeVRUd1lkb2pUdXBDUEpVYmdWTEFMYUJqc1dCUk11TW1iMUxHZU9XZTNtRnpyWXp3akU4N1p2d25JMWNuZUdkYVduaVZlaGR3Y2FpUnowVUhPWXAtME9HMnNPMEtuZ0tnUnZfeGsyOWc?oc=5",
+      "snippet": "Législatives dans les Deux-Sèvres : Bastien Marchive élu député, Delphine Batho et Jean-Marie Fiévet réélus&nbsp;&nbsp;francebleu.fr",
+      "date": "Sun, 19 Jun 2022 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {

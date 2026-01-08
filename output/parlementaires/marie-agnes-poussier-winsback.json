@@ -8,6 +8,7 @@
     "parti": "LR",
     "departement": "Seine-Maritime",
     "commune": "Fécamp",
+    "position": "Pourrait être sur une liste",
     "filename": "marie-agnes-poussier-winsback.json"
   },
   "search_results": [
@@ -48,17 +49,15 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
       {
-        "source": "Source 1–3 : Aucune mention explicite de Marie-Agnès Poussier-Winsback dans les articles sur Fécamp (candidat David Roussel uniquement).",
-        "relevé": "Pas de lien direct avec la candidate."
-      },
-      {
-        "source": "Source 5 : Mentionne sa présence comme députée évoquant des enjeux liés aux municipales 2026, mais sans confirmation explicite de candidature officielle.",
-        "relevé": "Rôle politique élargi (Loi Duplomb), pas de déclaration personnelle sur une candidature municipale."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Marie-Agnès Poussier-Winsback comme candidate aux municipales 2026 dans les sources fournies. Seules des informations sur David Roussel sont présentes."
       }
     ],
-    "raw_output": "```json\n{\n    \"statut\": \"INCERTAIN\",\n    \"justification\": [\n        {\n            \"source\": \"Source 1–3 : Aucune mention explicite de Marie-Agnès Poussier-Winsback dans les articles sur Fécamp (candidat David Roussel uniquement).\",\n            \"relevé\": \"Pas de lien direct avec la candidate.\"\n        },\n        {\n            \"source\": \"Source 5 : Mentionne sa présence comme députée évoquant des enjeux liés aux municipales 2026, mais sans confirmation explicite de candidature officielle.\",\n            \"relevé\": \"Rôle politique élargi (Loi Duplomb), pas de déclaration personnelle sur une candidature municipale.\"\n        }\n    ]\n}\n```"
+    "used_sources": [],
+    "analysis_at": "2026-01-08T10:14:42.992649Z",
+    "raw_output": "```json\n{\n    \"statut\": \"NON\",\n    \"used_sources\": [],\n    \"justification\": [\n        {\"source_index\": null, \"explication\": \"Aucune mention explicite de Marie-Agnès Poussier-Winsback comme candidate aux municipales 2026 dans les sources fournies. Seules des informations sur David Roussel sont présentes.\"}\n    ]\n}\n```"
   }
 }
