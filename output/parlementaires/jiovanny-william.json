@@ -67,12 +67,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement Jiovanny WILLIAM en lien avec une candidature aux municipales 2026 ou un retrait."
+        "explication": "Aucune mention des municipales 2026 ou d'une candidature de Jiovanny WILLIAM dans la source fournie."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T12:00:42.164161Z",
+    "analysis_at": "2026-01-08T12:57:52.652582Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Jiovanny WILLIAM en lien avec une candidature aux municipales 2026 ou un retrait.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention des municipales 2026 ou d'une candidature de Jiovanny WILLIAM dans la source fournie.\"}]}"
   }
 }

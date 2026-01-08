@@ -56,18 +56,22 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source 2 mentionne explicitement 'David Guiraud' comme candidat potentiel pour les élections municipales à Roubaix, sans ambiguïté sur le contexte 2026."
+        "explication": "Mentionne un 'après Delbar' (maire sortant) mais sans lien explicite avec une candidature municipale 2026."
+      },
+      {
+        "source_index": null,
+        "explication": "Aucune autre source ne confirme ou infirme clairement une candidature aux municipales 2026."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T11:54:21.284984Z",
+    "analysis_at": "2026-01-08T12:51:38.273326Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source 2 mentionne explicitement 'David Guiraud' comme candidat potentiel pour les élections municipales à Roubaix, sans ambiguïté sur le contexte 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Mentionne un 'après Delbar' (maire sortant) mais sans lien explicite avec une candidature municipale 2026.\"},{\"source_index\":null,\"explication\":\"Aucune autre source ne confirme ou infirme clairement une candidature aux municipales 2026.\"}]}"
   }
 }

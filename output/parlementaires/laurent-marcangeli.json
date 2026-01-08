@@ -53,12 +53,15 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Laurent MARCANGELI comme candidat ou non-candidat aux élections municipales 2026."
+        "explication": "Sources 1 et 4 sans lien explicite avec Laurent Marcangeli. Source 2 évoque des 'oppositions en ordre de marche' à Ajaccio mais sans mentionner son nom ni sa candidature. Source 3 parle d'une majorité municipale ('Le Mouvement') sans préciser si Marcangeli y est associé ou candidat."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:51:50.568590Z",
+    "used_sources": [
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T12:49:12.280585Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Laurent MARCANGELI comme candidat ou non-candidat aux élections municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[2,3],\"justification\":[{\"source_index\":null,\"explication\":\"Sources 1 et 4 sans lien explicite avec Laurent Marcangeli. Source 2 évoque des 'oppositions en ordre de marche' à Ajaccio mais sans mentionner son nom ni sa candidature. Source 3 parle d'une majorité municipale ('Le Mouvement') sans préciser si Marcangeli y est associé ou candidat.\"}]}"
   }
 }

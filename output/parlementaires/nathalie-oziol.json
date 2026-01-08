@@ -53,19 +53,24 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Mention explicite de Nathalie Oziol comme 'candidate LFI' aux municipales 2026 à Montpellier."
+        "explication": "La candidate LFI Nathalie Oziol est explicitement mentionnée comme candidate aux municipales 2026 à Montpellier."
+      },
+      {
+        "source_index": 3,
+        "explication": "Confirme le lancement de sa campagne pour les municipales 2026 à Montpellier."
       },
       {
         "source_index": 4,
-        "explication": "Précision qu'elle est 'tête de liste LFI' pour les municipales 2026 à Montpellier."
+        "explication": "Désigne Nathalie Oziol comme tête de liste LFI pour les municipales 2026."
       }
     ],
     "used_sources": [
       2,
+      3,
       4
     ],
-    "analysis_at": "2026-01-08T11:54:47.418678Z",
+    "analysis_at": "2026-01-08T12:52:10.397925Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,4],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Mention explicite de Nathalie Oziol comme 'candidate LFI' aux municipales 2026 à Montpellier.\"},\n        {\"source_index\":4,\"explication\":\"Précision qu'elle est 'tête de liste LFI' pour les municipales 2026 à Montpellier.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3,4],\"justification\":[{\"source_index\":2,\"explication\":\"La candidate LFI Nathalie Oziol est explicitement mentionnée comme candidate aux municipales 2026 à Montpellier.\"},{\"source_index\":3,\"explication\":\"Confirme le lancement de sa campagne pour les municipales 2026 à Montpellier.\"},{\"source_index\":4,\"explication\":\"Désigne Nathalie Oziol comme tête de liste LFI pour les municipales 2026.\"}]}"
   }
 }

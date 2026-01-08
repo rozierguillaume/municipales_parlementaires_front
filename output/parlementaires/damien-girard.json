@@ -49,11 +49,38 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mention de soutien à Damien Girard dans un contexte électoral municipal sans mention explicite de candidature mais implicite par le titre et le contexte des municipales 2026.\"},\n        {\"source_index\":2,\"explication\":\"Soutien à \"l’écologiste Damien Girard\" pour les municipales, sans affirmation directe mais dans un cadre électoral local.\"},\n        {\"source_index\":3,\"explication\":\"Alliance avec Damien Girard pour les municipales 2026 (mention explicite des élections locales).\"},\n        {\"source_index\":4,\"explication\":\"Génération.s soutient Damien Girard pour les municipales 2026 à Lorient, implicite par le contexte.\"},\n        {\"source_index\":5,\"explication\":\"Confirmation du soutien de Génération.s à Damien Girard dans un cadre municipal 2026\"}\n    ]\n}\n```",
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:49:10.994556Z",
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 1,
+        "explication": "Mention explicite de 'Municipales 2026' et du soutien autour de Damien Girard."
+      },
+      {
+        "source_index": 2,
+        "explication": "Confirme la candidature municipale 2026 à Lorient avec soutien à Damien Girard."
+      },
+      {
+        "source_index": 3,
+        "explication": "Assemblée des quartiers s’associe explicitement à Damien Girard pour les municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Génération.s soutient Damien Girard pour les Municipales 2026 à Lorient."
+      },
+      {
+        "source_index": 5,
+        "explication": "Soutien explicite de Génération.s à Damien Girard pour les Municipales 2026."
+      }
+    ],
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T12:47:00.919006Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mention de soutien à Damien Girard dans un contexte électoral municipal sans mention explicite de candidature mais implicite par le titre et le contexte des municipales 2026.\"},\n        {\"source_index\":2,\"explication\":\"Soutien à \"l’écologiste Damien Girard\" pour les municipales, sans affirmation directe mais dans un cadre électoral local.\"},\n        {\"source_index\":3,\"explication\":\"Alliance avec Damien Girard pour les municipales 2026 (mention explicite des élections locales).\"},\n        {\"source_index\":4,\"explication\":\"Génération.s soutient Damien Girard pour les municipales 2026 à Lorient, implicite par le contexte.\"},\n        {\"source_index\":5,\"explication\":\"Confirmation du soutien de Génération.s à Damien Girard dans un cadre municipal 2026\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4,5],\"justification\":[{\"source_index\":1,\"explication\":\"Mention explicite de 'Municipales 2026' et du soutien autour de Damien Girard.\"},{\"source_index\":2,\"explication\":\"Confirme la candidature municipale 2026 à Lorient avec soutien à Damien Girard.\"},{\"source_index\":3,\"explication\":\"Assemblée des quartiers s’associe explicitement à Damien Girard pour les municipales 2026.\"},{\"source_index\":4,\"explication\":\"Génération.s soutient Damien Girard pour les Municipales 2026 à Lorient.\"},{\"source_index\":5,\"explication\":\"Soutien explicite de Génération.s à Damien Girard pour les Municipales 2026.\"}]}"
   }
 }

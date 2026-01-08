@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Kévin Pfeffer en lien avec les municipales 2026 ou une candidature à la mairie."
+        "explication": "Aucune source ne mentionne Kévin PFEFFER en lien avec les municipales 2026 ou une candidature municipale."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T12:04:33.556642Z",
+    "analysis_at": "2026-01-08T13:01:40.316770Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Kévin Pfeffer en lien avec les municipales 2026 ou une candidature à la mairie.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Kévin PFEFFER en lien avec les municipales 2026 ou une candidature municipale.\"}]}"
   }
 }

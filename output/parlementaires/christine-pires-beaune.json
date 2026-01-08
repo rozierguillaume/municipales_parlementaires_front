@@ -49,11 +49,23 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,3],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Source 2 : 'Christine Pirès-Beaune se présente à la mairie de Riom' (municipales 2026).\"},\n        {\"source_index\":3,\"explication\":\"Source 3 : 'Tête de liste \"Riom dynamique et solidaire\" pour les municipales 2026.\"}\n    ]\n}\n```",
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:59:59.333877Z",
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 2,
+        "explication": "La députée Christine Pirès-Beaune est explicitement mentionnée comme candidate aux municipales 2026 pour la mairie de Riom."
+      },
+      {
+        "source_index": 3,
+        "explication": "Confirme sa candidature en tant que tête de liste officielle ('Riom dynamique et solidaire') pour les élections municipales 2026."
+      }
+    ],
+    "used_sources": [
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T12:57:08.017894Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,3],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Source 2 : 'Christine Pirès-Beaune se présente à la mairie de Riom' (municipales 2026).\"},\n        {\"source_index\":3,\"explication\":\"Source 3 : 'Tête de liste \"Riom dynamique et solidaire\" pour les municipales 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3],\"justification\":[{\"source_index\":2,\"explication\":\"La députée Christine Pirès-Beaune est explicitement mentionnée comme candidate aux municipales 2026 pour la mairie de Riom.\"},{\"source_index\":3,\"explication\":\"Confirme sa candidature en tant que tête de liste officielle ('Riom dynamique et solidaire') pour les élections municipales 2026.\"}]}"
   }
 }

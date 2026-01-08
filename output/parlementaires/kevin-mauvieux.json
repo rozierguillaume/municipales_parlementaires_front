@@ -53,19 +53,19 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source 1 : « le député RN Kévin Mauvieux se lance » aux municipales 2026 à Pont-Audemer."
+        "explication": "Source explicite : 'le député RN Kévin Mauvieux **se lance** [aux municipales 2026]'."
       },
       {
-        "source_index": 5,
-        "explication": "Source 5 : mention explicite de sa candidature municipale en 2026 (« se présente ») et lien avec la mairie de Pont-Audemer."
+        "source_index": 2,
+        "explication": "Contexte de duel municipal 2026 évoqué ('Municipales 2026 . À Pont-Audemer, vers un duel entre... Kévin Mauvieux ?'), confirmant sa candidature implicite."
       }
     ],
     "used_sources": [
       1,
-      5
+      2
     ],
-    "analysis_at": "2026-01-08T12:03:50.855542Z",
+    "analysis_at": "2026-01-08T13:00:53.345973Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source 1 : « le député RN Kévin Mauvieux se lance » aux municipales 2026 à Pont-Audemer.\"},\n        {\"source_index\":5,\"explication\":\"Source 5 : mention explicite de sa candidature municipale en 2026 (« se présente ») et lien avec la mairie de Pont-Audemer.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":1,\"explication\":\"Source explicite : 'le député RN Kévin Mauvieux **se lance** [aux municipales 2026]'.\"},{\"source_index\":2,\"explication\":\"Contexte de duel municipal 2026 évoqué ('Municipales 2026 . À Pont-Audemer, vers un duel entre... Kévin Mauvieux ?'), confirmant sa candidature implicite.\"}]}"
   }
 }

@@ -67,14 +67,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source 2 indique explicitement que Matthieu Marchio est « le candidat du RN aux municipales 2026 » pour Aniche."
+        "explication": "Source explicite sur sa candidature comme 'candidat du RN aux municipales 2026' pour Aniche."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T12:03:32.048322Z",
+    "analysis_at": "2026-01-08T13:00:34.054270Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source 2 indique explicitement que Matthieu Marchio est « le candidat du RN aux municipales 2026 » pour Aniche.\"}]}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source explicite sur sa candidature comme 'candidat du RN aux municipales 2026' pour Aniche.\"}]}"
   }
 }

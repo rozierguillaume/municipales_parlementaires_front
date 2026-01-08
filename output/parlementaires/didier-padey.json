@@ -39,12 +39,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement une candidature ou un retrait de Didier PADEY pour les municipales 2026."
+        "explication": "Aucune mention des municipales 2026 ou d'une candidature de Didier PADEY dans la source fournie."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:56:38.755098Z",
+    "analysis_at": "2026-01-08T12:53:53.049679Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement une candidature ou un retrait de Didier PADEY pour les municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention des municipales 2026 ou d'une candidature de Didier PADEY dans la source fournie.\"}]}"
   }
 }

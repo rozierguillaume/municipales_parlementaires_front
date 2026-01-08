@@ -49,18 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 5,
-        "explication": "Source 5 indique explicitement que le RN confirme une liste aux municipales 2026 avec Matthieu Bloch à Montbéliard."
+        "explication": "La source mentionne une 'liste aux municipales' avec Matthieu Bloch, mais sans préciser s'il est candidat ou simplement allié (pas de lien explicite à sa candidature personnelle en 2026)."
       }
     ],
     "used_sources": [
       5
     ],
-    "analysis_at": "2026-01-08T12:06:16.932831Z",
+    "analysis_at": "2026-01-08T13:03:25.657326Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[5],\n    \"justification\":[\n        {\"source_index\":5,\"explication\":\"Source 5 indique explicitement que le RN confirme une liste aux municipales 2026 avec Matthieu Bloch à Montbéliard.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"La source mentionne une 'liste aux municipales' avec Matthieu Bloch, mais sans préciser s'il est candidat ou simplement allié (pas de lien explicite à sa candidature personnelle en 2026).\"}]}"
   }
 }

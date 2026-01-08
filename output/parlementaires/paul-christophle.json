@@ -60,27 +60,27 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mentionne explicitement 'candidat Paul Christophle' aux municipales 2026."
+        "explication": "Titre mentionne explicitement 'Municipales 2026' et 'candidat Paul Christophle'."
       },
       {
         "source_index": 2,
-        "explication": "Précise 'candidat à Valence' pour les municipales 2026."
+        "explication": "Titre évoque 'Paul Christophle, candidat à Valence' pour les municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "Indique 'candidat à Valence' pour les municipales 2026."
+        "explication": "Titre confirme sa candidature ('candidat à Valence') malgré une demande de démission."
       },
       {
         "source_index": 4,
-        "explication": "Confirme 'candidat pour les municipales 2026'."
+        "explication": "Titre indique explicitement 'candidat pour les municipales 2026'."
       },
       {
         "source_index": 5,
-        "explication": "Désigne 'tête de liste' pour l'appel aux municipales 2026."
+        "explication": "Titre précise 'tête de liste de l'appel pour Valence 2026' aux municipales."
       },
       {
         "source_index": 6,
-        "explication": "Précise 'désigné candidat' par un collectif pour les municipales 2026"
+        "explication": "Titre confirme sa désignation comme 'candidat' par un collectif pour les municipales 2026."
       }
     ],
     "used_sources": [
@@ -91,8 +91,8 @@
       5,
       6
     ],
-    "analysis_at": "2026-01-08T11:59:52.759960Z",
+    "analysis_at": "2026-01-08T12:57:01.313329Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4,5,6],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mentionne explicitement 'candidat Paul Christophle' aux municipales 2026.\"},\n        {\"source_index\":2,\"explication\":\"Précise 'candidat à Valence' pour les municipales 2026.\"},\n        {\"source_index\":3,\"explication\":\"Indique 'candidat à Valence' pour les municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Confirme 'candidat pour les municipales 2026'.\"},\n        {\"source_index\":5,\"explication\":\"Désigne 'tête de liste' pour l'appel aux municipales 2026.\"},\n        {\"source_index\":6,\"explication\":\"Précise 'désigné candidat' par un collectif pour les municipales 2026\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4,5,6],\"justification\":[{\"source_index\":1,\"explication\":\"Titre mentionne explicitement 'Municipales 2026' et 'candidat Paul Christophle'.\"},{\"source_index\":2,\"explication\":\"Titre évoque 'Paul Christophle, candidat à Valence' pour les municipales 2026.\"},{\"source_index\":3,\"explication\":\"Titre confirme sa candidature ('candidat à Valence') malgré une demande de démission.\"},{\"source_index\":4,\"explication\":\"Titre indique explicitement 'candidat pour les municipales 2026'.\"},{\"source_index\":5,\"explication\":\"Titre précise 'tête de liste de l'appel pour Valence 2026' aux municipales.\"},{\"source_index\":6,\"explication\":\"Titre confirme sa désignation comme 'candidat' par un collectif pour les municipales 2026.\"}]}"
   }
 }

@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Pas de mention explicite de Pascal LECAMP dans les sources fournies, ni pour une candidature ni pour un retrait aux municipales 2026."
+        "explication": "Aucune source ne mentionne Pascal LECAMP en lien avec une candidature ou un retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:56:22.487333Z",
+    "analysis_at": "2026-01-08T12:53:39.079974Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Pas de mention explicite de Pascal LECAMP dans les sources fournies, ni pour une candidature ni pour un retrait aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Pascal LECAMP en lien avec une candidature ou un retrait aux municipales 2026.\"}]}"
   }
 }

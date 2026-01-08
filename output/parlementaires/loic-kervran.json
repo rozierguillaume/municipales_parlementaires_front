@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Loïc KERVRAN en lien avec une candidature aux municipales 2026 ou une fonction municipale."
+        "explication": "Aucune source ne mentionne Loïc Kervran comme candidat ou lié aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:51:40.069695Z",
+    "analysis_at": "2026-01-08T12:49:01.215512Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Loïc KERVRAN en lien avec une candidature aux municipales 2026 ou une fonction municipale.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Loïc Kervran comme candidat ou lié aux municipales 2026.\"}]}"
   }
 }

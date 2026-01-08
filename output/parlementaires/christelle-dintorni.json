@@ -53,12 +53,28 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Christelle D'Intorni comme candidate, tête de liste ou impliquée dans une campagne pour les municipales 2026 à Nice ou ailleurs."
+        "explication": "Aucune source ne mentionne explicitement Christelle D'Intorni comme candidate aux municipales 2026."
+      },
+      {
+        "source_index": 1,
+        "explication": "Source sur une charte de respect entre journalistes et candidats sans nommer Christelle D'Intorni."
+      },
+      {
+        "source_index": 2,
+        "explication": "Équipe de campagne d'Éric Ciotti citée, mais pas Christelle D'Intorni."
+      },
+      {
+        "source_index": 3,
+        "explication": "Focus sur Éric Ciotti uniquement, aucune référence à Christelle D'Intorni."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T12:05:37.669871Z",
+    "used_sources": [
+      1,
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T13:02:49.960517Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Christelle D'Intorni comme candidate, tête de liste ou impliquée dans une campagne pour les municipales 2026 à Nice ou ailleurs.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2,3],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Christelle D'Intorni comme candidate aux municipales 2026.\"},{\"source_index\":1,\"explication\":\"Source sur une charte de respect entre journalistes et candidats sans nommer Christelle D'Intorni.\"},{\"source_index\":2,\"explication\":\"Équipe de campagne d'Éric Ciotti citée, mais pas Christelle D'Intorni.\"},{\"source_index\":3,\"explication\":\"Focus sur Éric Ciotti uniquement, aucune référence à Christelle D'Intorni.\"}]}"
   }
 }

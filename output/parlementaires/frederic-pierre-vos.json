@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Frédéric-Pierre VOS en lien avec une candidature municipale ou un retrait pour les élections de 2026."
+        "explication": "Aucune source ne mentionne explicitement Frédéric-Pierre VOS comme candidat ou retiré aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T12:06:05.634425Z",
+    "analysis_at": "2026-01-08T13:03:14.778920Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Frédéric-Pierre VOS en lien avec une candidature municipale ou un retrait pour les élections de 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Frédéric-Pierre VOS comme candidat ou retiré aux municipales 2026.\"}]}"
   }
 }

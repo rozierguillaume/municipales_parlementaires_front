@@ -53,19 +53,19 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Mention explicite de « tête de liste aux municipales » dans le titre et le contenu."
+        "explication": "Source explicite : 'Yannick Monnet, député communiste de Moulins, tête de liste aux municipales' (lien direct avec 2026)."
       },
       {
-        "source_index": 1,
-        "explication": "Présence parmi les candidats déclarés pour les municipales 2026 à Moulins."
+        "source_index": 3,
+        "explication": "Titre mentionne explicitement sa candidature à la mairie ('course à la mairie') sans ambiguïté."
       }
     ],
     "used_sources": [
-      1,
-      2
+      2,
+      3
     ],
-    "analysis_at": "2026-01-08T11:50:23.019774Z",
+    "analysis_at": "2026-01-08T12:48:00.879549Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Mention explicite de « tête de liste aux municipales » dans le titre et le contenu.\"},\n        {\"source_index\":1,\"explication\":\"Présence parmi les candidats déclarés pour les municipales 2026 à Moulins.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3],\"justification\":[{\"source_index\":2,\"explication\":\"Source explicite : 'Yannick Monnet, député communiste de Moulins, tête de liste aux municipales' (lien direct avec 2026).\"},{\"source_index\":3,\"explication\":\"Titre mentionne explicitement sa candidature à la mairie ('course à la mairie') sans ambiguïté.\"}]}"
   }
 }

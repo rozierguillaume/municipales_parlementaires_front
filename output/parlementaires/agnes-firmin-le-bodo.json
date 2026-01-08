@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources citées ne mentionne explicitement Agnès Firmin Le Bodo en lien avec les municipales 2026 ou une candidature à la mairie."
+        "explication": "Aucune source ne mentionne Agnès Firmin Le Bodo, ni sa candidature ni son retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:51:31.213443Z",
+    "analysis_at": "2026-01-08T12:48:54.700425Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources citées ne mentionne explicitement Agnès Firmin Le Bodo en lien avec les municipales 2026 ou une candidature à la mairie.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Agnès Firmin Le Bodo, ni sa candidature ni son retrait aux municipales 2026.\"}]}"
   }
 }

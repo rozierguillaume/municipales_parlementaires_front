@@ -56,11 +56,23 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Christophe BLANCHET comme candidat aux municipales 2026 ou exclut cette possibilité.\"}]\n```",
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:55:55.279116Z",
+    "status": "OUI",
+    "justification": [
+      {
+        "source_index": 4,
+        "explication": "Le député Christophe Blanchet est explicitement mentionné comme \"numéro 2\" (colistier) pour les municipales 2026 à Merville-Franceville."
+      },
+      {
+        "source_index": 5,
+        "explication": "Confirme sa participation aux municipales 2026 dans la même commune sous forme de binôme."
+      }
+    ],
+    "used_sources": [
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T12:53:15.147366Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Christophe BLANCHET comme candidat aux municipales 2026 ou exclut cette possibilité.\"}]\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[4,5],\"justification\":[{\"source_index\":4,\"explication\":\"Le député Christophe Blanchet est explicitement mentionné comme \\\"numéro 2\\\" (colistier) pour les municipales 2026 à Merville-Franceville.\"},{\"source_index\":5,\"explication\":\"Confirme sa participation aux municipales 2026 dans la même commune sous forme de binôme.\"}]}"
   }
 }

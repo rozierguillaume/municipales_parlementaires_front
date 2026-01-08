@@ -52,15 +52,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Source 5 évoque un divorce politique sans mention explicite d'une candidature municipale 2026 ni de retrait."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature (ou un retrait) de Gabriel AMARD aux municipales 2026. La source 5 évoque uniquement son divorce avec le PS, sans lien avec les élections."
       }
     ],
     "used_sources": [
       5
     ],
-    "analysis_at": "2026-01-08T11:52:44.047650Z",
+    "analysis_at": "2026-01-08T12:50:00.700101Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"Source 5 évoque un divorce politique sans mention explicite d'une candidature municipale 2026 ni de retrait.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature (ou un retrait) de Gabriel AMARD aux municipales 2026. La source 5 évoque uniquement son divorce avec le PS, sans lien avec les élections.\"}]}"
   }
 }

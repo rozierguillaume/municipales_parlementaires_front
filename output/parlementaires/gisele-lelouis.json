@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Gisèle Lelouis en lien avec une candidature municipale ou maire pour les élections de 2026."
+        "explication": "Aucune source ne mentionne Gisèle Lelouis en lien avec les municipales 2026 (candidature, retrait ou rumeur)."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T12:03:22.688272Z",
+    "analysis_at": "2026-01-08T13:00:26.100426Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Gisèle Lelouis en lien avec une candidature municipale ou maire pour les élections de 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Gisèle Lelouis en lien avec les municipales 2026 (candidature, retrait ou rumeur).\"}]}"
   }
 }

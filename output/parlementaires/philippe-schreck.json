@@ -59,13 +59,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne Philippe SCHRECK, ni sa candidature ni son exclusion des élections municipales 2026."
+        "source_index": 1,
+        "explication": "Source mentionne une candidature municipale mais pour un autre candidat (Emmanuel André) et aucune info sur Philippe Schreck."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T12:05:41.903275Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T13:02:53.512899Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Philippe SCHRECK, ni sa candidature ni son exclusion des élections municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne une candidature municipale mais pour un autre candidat (Emmanuel André) et aucune info sur Philippe Schreck.\"}]}"
   }
 }

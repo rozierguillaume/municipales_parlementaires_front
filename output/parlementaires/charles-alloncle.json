@@ -74,14 +74,14 @@
     "justification": [
       {
         "source_index": 5,
-        "explication": "Source 5 : «Je ne serai pas tête de liste dans une des communes de la circonscription» (lien explicite avec municipales 2026 et renoncement)."
+        "explication": "Le député Charles Alloncle annonce explicitement ne pas être tête de liste aux municipales 2026."
       }
     ],
     "used_sources": [
       5
     ],
-    "analysis_at": "2026-01-08T12:06:11.621428Z",
+    "analysis_at": "2026-01-08T13:03:20.145055Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"NON\",\n    \"used_sources\":[5],\n    \"justification\":[\n        {\"source_index\":5,\"explication\":\"Source 5 : «Je ne serai pas tête de liste dans une des communes de la circonscription» (lien explicite avec municipales 2026 et renoncement).\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"Le député Charles Alloncle annonce explicitement ne pas être tête de liste aux municipales 2026.\"}]}"
   }
 }

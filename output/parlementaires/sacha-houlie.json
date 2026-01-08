@@ -63,23 +63,27 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
+        "source_index": null,
+        "explication": "Aucune source ne confirme explicitement une candidature officielle de Sacha Houlié aux municipales 2026 (mentions indirectes comme 'Alain, Sacha' ou 'vers un scrutin tendu en cas de candidature', mais sans preuve formelle)."
+      },
+      {
         "source_index": 5,
-        "explication": "Source BFM évoque explicitement «candidature de Sacha Houlié» aux municipales 2026."
+        "explication": "Évoque une 'candidature possible' de Sacha Houlié ('en cas de'), sans certitude."
       },
       {
         "source_index": 6,
-        "explication": "Source web86.info mentionne «Sacha» parmi les candidats potentiels pour les municipales 2026 à Poitiers."
+        "explication": "Liste des noms incluant Sacha Houlié, mais sans confirmation de candidature explicite aux municipales 2026."
       }
     ],
     "used_sources": [
       5,
       6
     ],
-    "analysis_at": "2026-01-08T12:00:37.505441Z",
+    "analysis_at": "2026-01-08T12:57:49.218102Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[5,6],\n    \"justification\":[\n        {\"source_index\":5,\"explication\":\"Source BFM évoque explicitement «candidature de Sacha Houlié» aux municipales 2026.\"},\n        {\"source_index\":6,\"explication\":\"Source web86.info mentionne «Sacha» parmi les candidats potentiels pour les municipales 2026 à Poitiers.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5,6],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne confirme explicitement une candidature officielle de Sacha Houlié aux municipales 2026 (mentions indirectes comme 'Alain, Sacha' ou 'vers un scrutin tendu en cas de candidature', mais sans preuve formelle).\"},{\"source_index\":5,\"explication\":\"Évoque une 'candidature possible' de Sacha Houlié ('en cas de'), sans certitude.\"},{\"source_index\":6,\"explication\":\"Liste des noms incluant Sacha Houlié, mais sans confirmation de candidature explicite aux municipales 2026.\"}]}"
   }
 }

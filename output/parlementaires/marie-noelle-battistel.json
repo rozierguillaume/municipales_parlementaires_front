@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Marie-Noëlle BATTISTEL en lien avec une candidature aux municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement Marie-Noëlle Battistel comme candidate ou non aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:57:19.896540Z",
+    "analysis_at": "2026-01-08T12:54:35.101715Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Marie-Noëlle BATTISTEL en lien avec une candidature aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Marie-Noëlle Battistel comme candidate ou non aux municipales 2026.\"}]}"
   }
 }

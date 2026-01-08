@@ -66,13 +66,19 @@
     "status": "INCERTAIN",
     "justification": [
       {
+        "source_index": 1,
+        "explication": "Source mentionne les municipales 2026 dans le Gers mais ne cite pas explicitement Jean-René Cazeneuve."
+      },
+      {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Jean-René CAZENEUVE en lien avec une candidature aux municipales 2026 ou la mairie."
+        "explication": "Aucune autre source ne lie Jean-René Cazeneuve à une candidature ou un retrait aux municipales 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:46:27.467149Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T12:44:40.052525Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Jean-René CAZENEUVE en lien avec une candidature aux municipales 2026 ou la mairie.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne les municipales 2026 dans le Gers mais ne cite pas explicitement Jean-René Cazeneuve.\"},{\"source_index\":null,\"explication\":\"Aucune autre source ne lie Jean-René Cazeneuve à une candidature ou un retrait aux municipales 2026.\"}]}"
   }
 }

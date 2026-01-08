@@ -52,25 +52,30 @@
     "status": "OUI",
     "justification": [
       {
+        "source_index": 1,
+        "explication": "Mention explicite d'une candidature municipale 2026 à Bègles."
+      },
+      {
         "source_index": 2,
-        "explication": "«se jette dans la bataille à Bègles pour les municipales 2026»"
+        "explication": "Indique clairement que Loïc Prud'homme 'se jette dans la bataille' pour les municipales 2026."
       },
       {
         "source_index": 4,
-        "explication": "«entre en campagne à Bègles pour les municipales 2026»"
+        "explication": "Précise qu'il 'entre en campagne' pour les municipales 2026 à Bègles."
       },
       {
         "source_index": 5,
-        "explication": "«tête de liste LFI sera Loïc Prud'homme»"
+        "explication": "Confirme explicitement qu'il sera 'la tête de liste LFI' pour les municipales 2026."
       }
     ],
     "used_sources": [
+      1,
       2,
       4,
       5
     ],
-    "analysis_at": "2026-01-08T11:55:39.853474Z",
+    "analysis_at": "2026-01-08T12:53:00.774317Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,4,5],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"«se jette dans la bataille à Bègles pour les municipales 2026»\"},\n        {\"source_index\":4,\"explication\":\"«entre en campagne à Bègles pour les municipales 2026»\"},\n        {\"source_index\":5,\"explication\":\"«tête de liste LFI sera Loïc Prud'homme»\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,4,5],\"justification\":[{\"source_index\":1,\"explication\":\"Mention explicite d'une candidature municipale 2026 à Bègles.\"},{\"source_index\":2,\"explication\":\"Indique clairement que Loïc Prud'homme 'se jette dans la bataille' pour les municipales 2026.\"},{\"source_index\":4,\"explication\":\"Précise qu'il 'entre en campagne' pour les municipales 2026 à Bègles.\"},{\"source_index\":5,\"explication\":\"Confirme explicitement qu'il sera 'la tête de liste LFI' pour les municipales 2026.\"}]}"
   }
 }

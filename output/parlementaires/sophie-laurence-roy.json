@@ -59,13 +59,20 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Sophie-Laurence ROY en lien avec une candidature ou un retrait aux municipales 2026."
+        "source_index": 1,
+        "explication": "Mentionne 'tête de liste RN pour les municipales 2026 à Sens' mais sans lien explicite avec Sophie-Laurence Roy."
+      },
+      {
+        "source_index": 2,
+        "explication": "Évoque des listes RN dans plusieurs communes (dont Sens) en 2026, sans nommer la personne concernée."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T12:04:52.978812Z",
+    "used_sources": [
+      1,
+      2
+    ],
+    "analysis_at": "2026-01-08T13:02:00.262665Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Sophie-Laurence ROY en lien avec une candidature ou un retrait aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":1,\"explication\":\"Mentionne 'tête de liste RN pour les municipales 2026 à Sens' mais sans lien explicite avec Sophie-Laurence Roy.\"},{\"source_index\":2,\"explication\":\"Évoque des listes RN dans plusieurs communes (dont Sens) en 2026, sans nommer la personne concernée.\"}]}"
   }
 }

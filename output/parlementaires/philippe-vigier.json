@@ -53,29 +53,34 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mention explicite de candidature aux municipales 2026 à Châteaudun ('candidat aux élections municipales')"
+        "explication": "Mention explicite de sa candidature aux municipales 2026 à Châteaudun avec des réponses à une consultation citoyenne."
+      },
+      {
+        "source_index": 2,
+        "explication": "Titre indique clairement son intention de briguer la mairie en 2026."
       },
       {
         "source_index": 3,
-        "explication": "Indique clairement que Philippe Vigier est en mission pour 'redresser' la ville via les municipales 2026"
+        "explication": "Précise sa mission pour les municipales 2026 et son rôle comme candidat."
       },
       {
         "source_index": 4,
-        "explication": "Titre explicite : 'Philippe Vigier candidat à Châteudun' sans ambiguïté"
+        "explication": "Titre affirme explicitement sa candidature aux élections municipales 2026 à Châteaudun."
       },
       {
         "source_index": 5,
-        "explication": "Source directe affirmant 'candidat aux élections municipales de 2026'"
+        "explication": "Déclaration directe de candidature aux municipales 2026 avec une formulation sans équivoque ('candidat aux élections municipales')."
       }
     ],
     "used_sources": [
       1,
+      2,
       3,
       4,
       5
     ],
-    "analysis_at": "2026-01-08T11:57:01.147122Z",
+    "analysis_at": "2026-01-08T12:54:17.614969Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mention explicite de candidature aux municipales 2026 à Châteaudun ('candidat aux élections municipales')\"},\n        {\"source_index\":3,\"explication\":\"Indique clairement que Philippe Vigier est en mission pour 'redresser' la ville via les municipales 2026\"},\n        {\"source_index\":4,\"explication\":\"Titre explicite : 'Philippe Vigier candidat à Châteudun' sans ambiguïté\"},\n        {\"source_index\":5,\"explication\":\"Source directe affirmant 'candidat aux élections municipales de 2026'\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4,5],\"justification\":[{\"source_index\":1,\"explication\":\"Mention explicite de sa candidature aux municipales 2026 à Châteaudun avec des réponses à une consultation citoyenne.\"},{\"source_index\":2,\"explication\":\"Titre indique clairement son intention de briguer la mairie en 2026.\"},{\"source_index\":3,\"explication\":\"Précise sa mission pour les municipales 2026 et son rôle comme candidat.\"},{\"source_index\":4,\"explication\":\"Titre affirme explicitement sa candidature aux élections municipales 2026 à Châteaudun.\"},{\"source_index\":5,\"explication\":\"Déclaration directe de candidature aux municipales 2026 avec une formulation sans équivoque ('candidat aux élections municipales').\"}]}"
   }
 }

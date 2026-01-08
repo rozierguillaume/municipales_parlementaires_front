@@ -53,14 +53,14 @@
     "justification": [
       {
         "source_index": 5,
-        "explication": "Source 5 évoque le groupe de Marietta Karamanli mais ne mentionne pas explicitement sa candidature aux municipales 2026."
+        "explication": "Source mentionne uniquement un groupe politique lié à Marietta Karamanli, sans lien explicite avec une candidature municipale 2026."
       }
     ],
     "used_sources": [
       5
     ],
-    "analysis_at": "2026-01-08T11:59:09.780065Z",
+    "analysis_at": "2026-01-08T12:56:17.274030Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[5],\n    \"justification\":[\n        {\"source_index\":5,\"explication\":\"Source 5 évoque le groupe de Marietta Karamanli mais ne mentionne pas explicitement sa candidature aux municipales 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"Source mentionne uniquement un groupe politique lié à Marietta Karamanli, sans lien explicite avec une candidature municipale 2026.\"}]}"
   }
 }

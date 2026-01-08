@@ -67,12 +67,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement Fatiha KELOUA HACHI en lien avec une candidature aux municipales 2026 ou un retrait."
+        "explication": "Aucune source ne mentionne Fatiha Keloua Hachi, ni les municipales 2026 ou un lien explicite avec une candidature municipale."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:59:14.675672Z",
+    "analysis_at": "2026-01-08T12:56:21.446650Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Fatiha KELOUA HACHI en lien avec une candidature aux municipales 2026 ou un retrait.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Fatiha Keloua Hachi, ni les municipales 2026 ou un lien explicite avec une candidature municipale.\"}]}"
   }
 }

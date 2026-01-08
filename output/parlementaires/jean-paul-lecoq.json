@@ -53,14 +53,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source 2 indique explicitement que « Jean-Paul Lecoq serait tête de liste » pour les municipales 2026 au Havre."
+        "explication": "La source indique clairement que Jean-Paul Lecoq 'serait tête de liste' aux municipales 2026 au Havre."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T11:50:16.455483Z",
+    "analysis_at": "2026-01-08T12:47:55.001993Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Source 2 indique explicitement que « Jean-Paul Lecoq serait tête de liste » pour les municipales 2026 au Havre.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"La source indique clairement que Jean-Paul Lecoq 'serait tête de liste' aux municipales 2026 au Havre.\"}]}"
   }
 }

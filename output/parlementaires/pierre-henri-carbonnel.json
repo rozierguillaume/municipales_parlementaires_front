@@ -53,12 +53,18 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement une candidature de Pierre-Henri Carbonnel aux élections municipales françaises de 2026."
+        "explication": "Aucune source ne mentionne explicitement une candidature aux municipales 2026 pour Pierre-Henri Carbonnel, bien que la Source 1 évoque les municipales 2026 de manière générale sans le lier à sa personne."
+      },
+      {
+        "source_index": 1,
+        "explication": "La Source 1 parle des municipales 2026 mais uniquement dans un contexte politique local (guerre des droites) sans mentionner Carbonnel."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T12:05:28.323921Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T13:02:37.627750Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement une candidature de Pierre-Henri Carbonnel aux élections municipales françaises de 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature aux municipales 2026 pour Pierre-Henri Carbonnel, bien que la Source 1 évoque les municipales 2026 de manière générale sans le lier à sa personne.\"},{\"source_index\":1,\"explication\":\"La Source 1 parle des municipales 2026 mais uniquement dans un contexte politique local (guerre des droites) sans mentionner Carbonnel.\"}]}"
   }
 }

@@ -60,14 +60,14 @@
     "justification": [
       {
         "source_index": 3,
-        "explication": "Source 3 pose une question ouverte ('sera-t-il candidat') sans confirmation explicite ni date précise pour 2026."
+        "explication": "La source évoque une potentielle candidature ('sera-t-il candidat') sans certitude explicite."
       }
     ],
     "used_sources": [
       3
     ],
-    "analysis_at": "2026-01-08T11:47:28.822278Z",
+    "analysis_at": "2026-01-08T12:45:41.690773Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[3],\n    \"justification\":[\n        {\"source_index\":3,\"explication\":\"Source 3 pose une question ouverte ('sera-t-il candidat') sans confirmation explicite ni date précise pour 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[3],\"justification\":[{\"source_index\":3,\"explication\":\"La source évoque une potentielle candidature ('sera-t-il candidat') sans certitude explicite.\"}]}"
   }
 }

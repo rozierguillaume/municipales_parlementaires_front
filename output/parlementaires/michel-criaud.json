@@ -67,15 +67,15 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source 1 : « Michel Criaud se présente comme tête de liste » aux municipales 2026 à Muzillac."
+        "explication": "Le député Michel Criaud se présente comme tête de liste pour les municipales 2026 à Muzillac."
       },
       {
         "source_index": 6,
-        "explication": "Source 6 : « Michel Criaud, maire, annonce sa candidature » aux élections municipales en 2026."
+        "explication": "Michel Criaud, maire, annonce explicitement sa candidature aux municipales 2026 à Muzillac."
       },
       {
         "source_index": 7,
-        "explication": "Source 7 : « Le maire de Muzillac officialise sa candidature aux élections municipales en 2026 ». "
+        "explication": "Le maire de Muzillac officialise sa candidature aux élections municipales en 2026."
       }
     ],
     "used_sources": [
@@ -83,8 +83,8 @@
       6,
       7
     ],
-    "analysis_at": "2026-01-08T11:51:26.125157Z",
+    "analysis_at": "2026-01-08T12:48:51.026723Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,6,7],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source 1 : « Michel Criaud se présente comme tête de liste » aux municipales 2026 à Muzillac.\"},\n        {\"source_index\":6,\"explication\":\"Source 6 : « Michel Criaud, maire, annonce sa candidature » aux élections municipales en 2026.\"},\n        {\"source_index\":7,\"explication\":\"Source 7 : « Le maire de Muzillac officialise sa candidature aux élections municipales en 2026 ». \"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,6,7],\"justification\":[{\"source_index\":1,\"explication\":\"Le député Michel Criaud se présente comme tête de liste pour les municipales 2026 à Muzillac.\"},{\"source_index\":6,\"explication\":\"Michel Criaud, maire, annonce explicitement sa candidature aux municipales 2026 à Muzillac.\"},{\"source_index\":7,\"explication\":\"Le maire de Muzillac officialise sa candidature aux élections municipales en 2026.\"}]}"
   }
 }

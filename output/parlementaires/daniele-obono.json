@@ -53,19 +53,19 @@
     "justification": [
       {
         "source_index": 4,
-        "explication": "Source 4 mentionne explicitement Danièle Obono comme cible de LFI pour les municipales 2026 à Paris."
+        "explication": "Source citant explicitement Danièle Obono comme figure majeure de LFI pour les municipales 2026 à Paris."
       },
       {
         "source_index": 5,
-        "explication": "Source 5 indique qu'Aymeric Caron présentera un candidat face à Danièle Obono lors des municipales dans le 18e arrondissement de Paris en 2026."
+        "explication": "Source mentionne sa candidature officielle dans le 18e arrondissement de Paris pour les municipales 2026, malgré un désaccord local."
       }
     ],
     "used_sources": [
       4,
       5
     ],
-    "analysis_at": "2026-01-08T11:55:21.897388Z",
+    "analysis_at": "2026-01-08T12:52:42.473604Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[4,5],\n    \"justification\":[\n        {\"source_index\":4,\"explication\":\"Source 4 mentionne explicitement Danièle Obono comme cible de LFI pour les municipales 2026 à Paris.\"},\n        {\"source_index\":5,\"explication\":\"Source 5 indique qu'Aymeric Caron présentera un candidat face à Danièle Obono lors des municipales dans le 18e arrondissement de Paris en 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[4,5],\"justification\":[{\"source_index\":4,\"explication\":\"Source citant explicitement Danièle Obono comme figure majeure de LFI pour les municipales 2026 à Paris.\"},{\"source_index\":5,\"explication\":\"Source mentionne sa candidature officielle dans le 18e arrondissement de Paris pour les municipales 2026, malgré un désaccord local.\"}]}"
   }
 }

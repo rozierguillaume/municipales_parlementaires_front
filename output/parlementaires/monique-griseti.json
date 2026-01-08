@@ -52,13 +52,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Monique GRISETI en lien avec une candidature, un retrait ou une fonction liée aux municipales 2026."
+        "source_index": 1,
+        "explication": "La source mentionne des maires et les municipales 2026 mais ne cite pas Monique GRISETI ni sa candidature."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T12:03:03.244767Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T13:00:03.741750Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Monique GRISETI en lien avec une candidature, un retrait ou une fonction liée aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source mentionne des maires et les municipales 2026 mais ne cite pas Monique GRISETI ni sa candidature.\"}]}"
   }
 }

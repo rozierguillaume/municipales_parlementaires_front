@@ -60,19 +60,24 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Désignée comme cheffe de file des socialistes pour les municipales 2026 à Lyon."
+        "explication": "Désignée cheffe de file des socialistes pour les municipales 2026 à Lyon."
       },
       {
         "source_index": 3,
-        "explication": "Précise qu’elle est désignée cheffe de file du PS pour les municipales 2026"
+        "explication": "Confirme sa désignation comme cheffe de file du PS pour les élections municipales 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Mentionne explicitement une candidature socialiste en 2026, avec Sandrine Runel comme figure centrale."
       }
     ],
     "used_sources": [
       2,
-      3
+      3,
+      4
     ],
-    "analysis_at": "2026-01-08T12:00:19.101526Z",
+    "analysis_at": "2026-01-08T12:57:28.211665Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n\t\"statut\":\"OUI\",\n\t\"use_sources\":[2,3],\n\t\"justification\":[\n\t\t{\"source_index\":2,\"explication\":\"Désignée comme cheffe de file des socialistes pour les municipales 2026 à Lyon.\"},\n\t\t{\"source_index\":3,\"explication\":\"Précise qu’elle est désignée cheffe de file du PS pour les municipales 2026\"}\n\t]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3,4],\"justification\":[{\"source_index\":2,\"explication\":\"Désignée cheffe de file des socialistes pour les municipales 2026 à Lyon.\"},{\"source_index\":3,\"explication\":\"Confirme sa désignation comme cheffe de file du PS pour les élections municipales 2026.\"},{\"source_index\":4,\"explication\":\"Mentionne explicitement une candidature socialiste en 2026, avec Sandrine Runel comme figure centrale.\"}]}"
   }
 }

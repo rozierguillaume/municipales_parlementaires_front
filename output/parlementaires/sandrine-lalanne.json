@@ -53,14 +53,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source 1 évoque des listes insoumises pour les élections municipales mais ne mentionne pas explicitement Sandrine Lalanne comme candidate ou tête de liste."
+        "explication": "La source mentionne un appel à voter pour des listes insoumises aux municipales 2026, mais ne cite pas explicitement Sandrine LALANNE comme candidate."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T11:44:37.006961Z",
+    "analysis_at": "2026-01-08T12:42:38.689645Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque des listes insoumises pour les élections municipales mais ne mentionne pas explicitement Sandrine Lalanne comme candidate ou tête de liste.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source mentionne un appel à voter pour des listes insoumises aux municipales 2026, mais ne cite pas explicitement Sandrine LALANNE comme candidate.\"}]}"
   }
 }

@@ -52,13 +52,20 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne Florence HEROUIN-LÉAUTEY en lien avec une candidature aux municipales 2026."
+        "source_index": 1,
+        "explication": "Source mentionne uniquement un autre candidat (Grégoire Houdan) pour Rouen 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Source évoque aussi uniquement Grégoire Houdan sans lien avec Florence HEROUIN-LÉAUTEY."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:58:52.328218Z",
+    "used_sources": [
+      1,
+      2
+    ],
+    "analysis_at": "2026-01-08T12:56:03.439610Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne Florence HEROUIN-LÉAUTEY en lien avec une candidature aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne uniquement un autre candidat (Grégoire Houdan) pour Rouen 2026.\"},{\"source_index\":2,\"explication\":\"Source évoque aussi uniquement Grégoire Houdan sans lien avec Florence HEROUIN-LÉAUTEY.\"}]}"
   }
 }

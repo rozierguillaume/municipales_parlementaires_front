@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement une candidature ou un refus de candidature de Guillaume Kasbarian pour les municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement une candidature (ou un retrait) de Guillaume Kasbarian aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:47:00.474017Z",
+    "analysis_at": "2026-01-08T12:45:14.118492Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement une candidature ou un refus de candidature de Guillaume Kasbarian pour les municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature (ou un retrait) de Guillaume Kasbarian aux municipales 2026.\"}]}"
   }
 }

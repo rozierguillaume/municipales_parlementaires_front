@@ -49,18 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 4,
-        "explication": "Source 4 indique que Didier Lemaire est « chef de file » à Altkirch pour les municipales 2026, sans préciser s'il est tête de liste mais en lien direct avec une candidature municipale."
+        "explication": "Mentionne Didier Lemaire comme 'chef de file' à Altkirch mais pas explicitement comme candidat ou tête de liste aux municipales 2026."
       }
     ],
     "used_sources": [
       4
     ],
-    "analysis_at": "2026-01-08T11:51:45.675053Z",
+    "analysis_at": "2026-01-08T12:49:06.004440Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[4],\n    \"justification\":[\n        {\"source_index\":4,\"explication\":\"Source 4 indique que Didier Lemaire est « chef de file » à Altkirch pour les municipales 2026, sans préciser s'il est tête de liste mais en lien direct avec une candidature municipale.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[4],\"justification\":[{\"source_index\":4,\"explication\":\"Mentionne Didier Lemaire comme 'chef de file' à Altkirch mais pas explicitement comme candidat ou tête de liste aux municipales 2026.\"}]}"
   }
 }

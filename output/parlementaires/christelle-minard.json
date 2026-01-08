@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement Christelle MINARD en lien avec une candidature aux élections municipales françaises de 2026."
+        "explication": "Aucune source ne mentionne Christelle Minard, les municipales 2026 ou un lien avec une candidature municipale."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:45:35.688116Z",
+    "analysis_at": "2026-01-08T12:43:36.240939Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Christelle MINARD en lien avec une candidature aux élections municipales françaises de 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Christelle Minard, les municipales 2026 ou un lien avec une candidature municipale.\"}]}"
   }
 }

@@ -52,15 +52,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source 1 évoque les logements sociaux dans le contexte des municipales 2026 à Saint-Maur-des-Fossés sans mention explicite de candidature ou d'implication directe de Sylvain BERRIOS."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Sylvain BERRIOS dans cette source."
       }
     ],
-    "used_sources": [
-      1
-    ],
-    "analysis_at": "2026-01-08T11:51:08.096449Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:48:34.586682Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque les logements sociaux dans le contexte des municipales 2026 à Saint-Maur-des-Fossés sans mention explicite de candidature ou d'implication directe de Sylvain BERRIOS.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention explicite de Sylvain BERRIOS dans cette source.\"}]}"
   }
 }

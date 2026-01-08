@@ -53,12 +53,14 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Frank Giletti comme candidat, tête de liste ou en train de briguer un poste municipal pour les élections de 2026."
+        "explication": "Aucune source ne mentionne explicitement Frank GILETTI comme candidat aux municipales 2026. La Source 1 évoque son statut de maire mais sans lien direct avec sa candidature en 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T12:02:33.257308Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T12:59:35.528793Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Frank Giletti comme candidat, tête de liste ou en train de briguer un poste municipal pour les élections de 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Frank GILETTI comme candidat aux municipales 2026. La Source 1 évoque son statut de maire mais sans lien direct avec sa candidature en 2026.\"}]}"
   }
 }

@@ -60,24 +60,14 @@
     "justification": [
       {
         "source_index": 6,
-        "explication": "Source 6: «Sophia Chikirou officialise sa candidature» aux municipales 2026."
-      },
-      {
-        "source_index": 4,
-        "explication": "Source 4: Mention explicite de sa candidature pour les municipales 2026 malgré une affaire judiciaire."
-      },
-      {
-        "source_index": 5,
-        "explication": "Source 5: «Sophia Chikirou» citée comme candidate dans le contexte des municipales parisiennes 2026."
+        "explication": "La source indique clairement que 'Sophia Chikirou officialise sa candidature' aux municipales 2026 à Paris."
       }
     ],
     "used_sources": [
-      4,
-      5,
       6
     ],
-    "analysis_at": "2026-01-08T11:54:09.401671Z",
+    "analysis_at": "2026-01-08T12:51:26.482024Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[4,5,6],\n    \"justification\":[\n        {\"source_index\":6,\"explication\":\"Source 6: «Sophia Chikirou officialise sa candidature» aux municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Source 4: Mention explicite de sa candidature pour les municipales 2026 malgré une affaire judiciaire.\"},\n        {\"source_index\":5,\"explication\":\"Source 5: «Sophia Chikirou» citée comme candidate dans le contexte des municipales parisiennes 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[6],\"justification\":[{\"source_index\":6,\"explication\":\"La source indique clairement que 'Sophia Chikirou officialise sa candidature' aux municipales 2026 à Paris.\"}]}"
   }
 }

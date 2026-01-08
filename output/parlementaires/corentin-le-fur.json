@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Corentin LE FUR en lien avec une candidature aux municipales 2026 ou une mairie."
+        "explication": "Aucune source ne mentionne explicitement Corentin LE FUR comme candidat ou retiré aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:45:19.696645Z",
+    "analysis_at": "2026-01-08T12:43:19.095817Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Corentin LE FUR en lien avec une candidature aux municipales 2026 ou une mairie.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Corentin LE FUR comme candidat ou retiré aux municipales 2026.\"}]}"
   }
 }

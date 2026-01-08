@@ -52,15 +52,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Source 5 évoque Vincent Jeanbrun comme ministre du logement sans mention explicite de candidature municipale ou de date (2026) ni lien avec les municipales."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait de Vincent JEANBRUN aux municipales 2026."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T11:46:06.521283Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:44:11.108906Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"Source 5 évoque Vincent Jeanbrun comme ministre du logement sans mention explicite de candidature municipale ou de date (2026) ni lien avec les municipales.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait de Vincent JEANBRUN aux municipales 2026.\"}]}"
   }
 }

@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Michèle MARTINEZ en lien avec une candidature aux municipales 2026 ou une fonction municipale."
+        "explication": "Aucune source ne mentionne explicitement Michèle Martinez en lien avec les municipales 2026 (candidature, retrait ou projet municipal)."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T12:03:37.181970Z",
+    "analysis_at": "2026-01-08T13:00:38.942349Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Michèle MARTINEZ en lien avec une candidature aux municipales 2026 ou une fonction municipale.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Michèle Martinez en lien avec les municipales 2026 (candidature, retrait ou projet municipal).\"}]}"
   }
 }

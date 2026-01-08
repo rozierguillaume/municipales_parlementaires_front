@@ -81,29 +81,34 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mentionne « Emmanuel Grégoire » parmi les candidats déclarés aux municipales 2026 à Paris."
+        "explication": "Nommé explicitement comme candidat déclaré aux municipales 2026 à Paris."
       },
       {
         "source_index": 4,
-        "explication": "Indique que Lucie Castets sera sur la liste d’Emmanuel Grégoire pour les municipales 2026."
+        "explication": "Mentionne sa liste pour les municipales 2026 avec un membre (Lucie Castets)."
       },
       {
         "source_index": 5,
-        "explication": "Précise que « L’Après » se rallie à Grégoire pour les municipales de 2026."
+        "explication": "Ralliements explicites en vue des municipales 2026."
       },
       {
         "source_index": 8,
-        "explication": "Titre explicite : « Emmanuel Grégoire, candidat à la mairie de Paris » avec mention des municipales 2026."
+        "explication": "Titre mentionne clairement sa candidature à la mairie de Paris pour 2026."
+      },
+      {
+        "source_index": 9,
+        "explication": "Contexte municipal 2026 évoqué avec ses propositions, sous-entendant une candidature officielle."
       }
     ],
     "used_sources": [
       1,
       4,
       5,
-      8
+      8,
+      9
     ],
-    "analysis_at": "2026-01-08T11:58:37.437408Z",
+    "analysis_at": "2026-01-08T12:55:50.132314Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,4,5,8],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mentionne « Emmanuel Grégoire » parmi les candidats déclarés aux municipales 2026 à Paris.\"},\n        {\"source_index\":4,\"explication\":\"Indique que Lucie Castets sera sur la liste d’Emmanuel Grégoire pour les municipales 2026.\"},\n        {\"source_index\":5,\"explication\":\"Précise que « L’Après » se rallie à Grégoire pour les municipales de 2026.\"},\n        {\"source_index\":8,\"explication\":\"Titre explicite : « Emmanuel Grégoire, candidat à la mairie de Paris » avec mention des municipales 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,4,5,8,9],\"justification\":[{\"source_index\":1,\"explication\":\"Nommé explicitement comme candidat déclaré aux municipales 2026 à Paris.\"},{\"source_index\":4,\"explication\":\"Mentionne sa liste pour les municipales 2026 avec un membre (Lucie Castets).\"},{\"source_index\":5,\"explication\":\"Ralliements explicites en vue des municipales 2026.\"},{\"source_index\":8,\"explication\":\"Titre mentionne clairement sa candidature à la mairie de Paris pour 2026.\"},{\"source_index\":9,\"explication\":\"Contexte municipal 2026 évoqué avec ses propositions, sous-entendant une candidature officielle.\"}]}"
   }
 }

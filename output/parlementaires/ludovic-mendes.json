@@ -53,14 +53,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source 2 indique explicitement que Ludovic Mendes est \"désigné pilote de la campagne Renaissance à Metz\" pour les municipales 2026, impliquant une candidature."
+        "explication": "Désigné comme 'pilote de la campagne Renaissance' pour les municipales 2026 à Metz, ce qui implique une candidature explicite."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T11:47:59.741168Z",
+    "analysis_at": "2026-01-08T12:46:06.853443Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source 2 indique explicitement que Ludovic Mendes est \\\"désigné pilote de la campagne Renaissance à Metz\\\" pour les municipales 2026, impliquant une candidature.\"}]}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Désigné comme 'pilote de la campagne Renaissance' pour les municipales 2026 à Metz, ce qui implique une candidature explicite.\"}]}"
   }
 }

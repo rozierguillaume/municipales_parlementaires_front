@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement Emeline K/BIDI comme candidate, tête de liste ou engagée dans une démarche liée aux municipales 2026."
+        "explication": "Aucune mention explicite de Emeline K/BIDI dans cette source, ni d'indice sur sa candidature aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:50:10.493126Z",
+    "analysis_at": "2026-01-08T12:47:50.936137Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Emeline K/BIDI comme candidate, tête de liste ou engagée dans une démarche liée aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention explicite de Emeline K/BIDI dans cette source, ni d'indice sur sa candidature aux municipales 2026.\"}]}"
   }
 }

@@ -52,15 +52,21 @@
     "status": "INCERTAIN",
     "justification": [
       {
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Hubert BRIGAND (député) comme candidat aux municipales 2026."
+      },
+      {
         "source_index": 3,
-        "explication": "Source 3 mentionne Jérémie Brigand, pas Hubert Brigand, et parle de candidature municipale sans lien explicite avec Hubert."
+        "explication": "Source parle de Jérémie Brigand (pas Hubert), candidat à Châtillon-sur-Seine."
       }
     ],
     "used_sources": [
-      3
+      1,
+      3,
+      4
     ],
-    "analysis_at": "2026-01-08T11:44:41.624112Z",
+    "analysis_at": "2026-01-08T12:42:43.973920Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[3],\"justification\":[{\"source_index\":3,\"explication\":\"Source 3 mentionne Jérémie Brigand, pas Hubert Brigand, et parle de candidature municipale sans lien explicite avec Hubert.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,4],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Hubert BRIGAND (député) comme candidat aux municipales 2026.\"},{\"source_index\":3,\"explication\":\"Source parle de Jérémie Brigand (pas Hubert), candidat à Châtillon-sur-Seine.\"}]}"
   }
 }

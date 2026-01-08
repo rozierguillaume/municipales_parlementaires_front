@@ -52,15 +52,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "La source mentionne uniquement le maire sortant de Nanterre sans lien explicite avec une candidature aux municipales 2026 ni un nom spécifique comme Sabrina Sebaihi."
+        "source_index": null,
+        "explication": "Aucune mention explicite de Sabrina Sebaihi dans la source, ni d'indice sur une candidature municipale 2026."
       }
     ],
-    "used_sources": [
-      1
-    ],
-    "analysis_at": "2026-01-08T11:49:38.731428Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:47:24.046274Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source mentionne uniquement le maire sortant de Nanterre sans lien explicite avec une candidature aux municipales 2026 ni un nom spécifique comme Sabrina Sebaihi.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention explicite de Sabrina Sebaihi dans la source, ni d'indice sur une candidature municipale 2026.\"}]}"
   }
 }

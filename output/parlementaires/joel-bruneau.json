@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources citées ne mentionne explicitement Joël BRUNEAU en lien avec une candidature aux municipales 2026 ou la mairie de Caen."
+        "explication": "Aucune source ne mentionne Joël Bruneaau en lien avec les municipales 2026 ou une candidature à la mairie."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:55:32.649007Z",
+    "analysis_at": "2026-01-08T12:52:51.737123Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[],\n    \"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources citées ne mentionne explicitement Joël BRUNEAU en lien avec une candidature aux municipales 2026 ou la mairie de Caen.\"}]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Joël Bruneaau en lien avec les municipales 2026 ou une candidature à la mairie.\"}]}"
   }
 }

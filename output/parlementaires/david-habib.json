@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement David HABIB en lien avec une candidature municipale ou mairiale pour les élections de 2026."
+        "explication": "Aucune source ne mentionne explicitement David HABIB comme candidat ou retiré aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:55:50.394279Z",
+    "analysis_at": "2026-01-08T12:53:08.957081Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement David HABIB en lien avec une candidature municipale ou mairiale pour les élections de 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement David HABIB comme candidat ou retiré aux municipales 2026.\"}]}"
   }
 }

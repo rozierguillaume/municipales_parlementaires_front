@@ -59,15 +59,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 3,
-        "explication": "Mention de Jean-Claude Hulot (confusion possible avec Jean-Claude Raux), mais sans lien explicite avec les municipales 2026 ni candidature claire."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Jean-Claude Raux en lien avec les municipales 2026 ou une candidature à la mairie."
       }
     ],
-    "used_sources": [
-      3
-    ],
-    "analysis_at": "2026-01-08T11:49:22.733738Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:47:10.911039Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[3],\"justification\":[{\"source_index\":3,\"explication\":\"Mention de Jean-Claude Hulot (confusion possible avec Jean-Claude Raux), mais sans lien explicite avec les municipales 2026 ni candidature claire.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jean-Claude Raux en lien avec les municipales 2026 ou une candidature à la mairie.\"}]}"
   }
 }

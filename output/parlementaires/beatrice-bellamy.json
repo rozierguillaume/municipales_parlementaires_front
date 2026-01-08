@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne Béatrice BELLAMY ou une candidature aux municipales 2026."
+        "explication": "Aucune source ne mentionne Béatrice Bellamy, ni une candidature ni un retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:50:57.450611Z",
+    "analysis_at": "2026-01-08T12:48:25.390439Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Béatrice BELLAMY ou une candidature aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Béatrice Bellamy, ni une candidature ni un retrait aux municipales 2026.\"}]}"
   }
 }

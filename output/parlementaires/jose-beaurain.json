@@ -49,18 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source 1 indique explicitement que le candidat RN de Tergnier 'renonce à la politique' sans mention d'une candidature aux municipales 2026."
+        "source_index": null,
+        "explication": "Aucune source ne confirme explicitement une candidature de José Beauraín aux municipales 2026, mais la source 1 évoque son retrait de la politique (sans préciser les élections). Les sources 2 et 3 parlent du RN à Tergnier sans mentionner sa personne."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T12:00:58.457385Z",
+    "analysis_at": "2026-01-08T12:58:08.490233Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"NON\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 indique explicitement que le candidat RN de Tergnier 'renonce à la politique' sans mention d'une candidature aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne confirme explicitement une candidature de José Beauraín aux municipales 2026, mais la source 1 évoque son retrait de la politique (sans préciser les élections). Les sources 2 et 3 parlent du RN à Tergnier sans mentionner sa personne.\"}]}"
   }
 }

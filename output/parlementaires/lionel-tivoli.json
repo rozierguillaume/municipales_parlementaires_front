@@ -53,14 +53,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source 1 indique explicitement que Lionel Tivoli 'sera sur la liste de Brigitte Vidal à Peymeinade' aux municipales 2026."
+        "explication": "Source explicite mentionnant sa présence sur la liste municipale 2026 à Peymeinade."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T12:06:00.529615Z",
+    "analysis_at": "2026-01-08T13:03:10.018958Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source 1 indique explicitement que Lionel Tivoli 'sera sur la liste de Brigitte Vidal à Peymeinade' aux municipales 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source explicite mentionnant sa présence sur la liste municipale 2026 à Peymeinade.\"}]}"
   }
 }

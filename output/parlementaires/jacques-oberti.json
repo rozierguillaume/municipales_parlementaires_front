@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources citées ne mentionne Jacques OBERTI en lien avec une candidature aux élections municipales de 2026 ou toute autre indication explicite."
+        "explication": "Aucune source ne mentionne Jacques OBERTI, ni sa candidature (ou son retrait) aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:59:33.959551Z",
+    "analysis_at": "2026-01-08T12:56:40.379200Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources citées ne mentionne Jacques OBERTI en lien avec une candidature aux élections municipales de 2026 ou toute autre indication explicite.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Jacques OBERTI, ni sa candidature (ou son retrait) aux municipales 2026.\"}]}"
   }
 }

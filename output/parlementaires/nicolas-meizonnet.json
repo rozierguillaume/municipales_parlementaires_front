@@ -53,23 +53,23 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mention explicite de candidature aux municipales 2026 à Vauvert."
+        "explication": "Candidat aux municipales 2026 à Vauvert explicitement mentionné."
       },
       {
         "source_index": 2,
-        "explication": "Lancement officiel de campagne pour les municipales 2026 à Vauvert."
+        "explication": "Lancement officiel de sa campagne municipale 2026 à Vauvert."
       },
       {
         "source_index": 3,
-        "explication": "Officialisation de la candidature municipale 2026 à Vauvert."
+        "explication": "Candidature officielle pour les municipales 2026 confirmée."
       },
       {
         "source_index": 4,
-        "explication": "Annonce directe de candidature aux municipales 2026 à Vauvert."
+        "explication": "Annonce explicite comme candidat aux élections municipales 2026."
       },
       {
         "source_index": 5,
-        "explication": "Déclarations claires sur sa candidature pour les municipales 2026 à Vauvert."
+        "explication": "Déclaration claire de candidature municipale en 2026 à Vauvert."
       }
     ],
     "used_sources": [
@@ -79,8 +79,8 @@
       4,
       5
     ],
-    "analysis_at": "2026-01-08T12:04:00.045121Z",
+    "analysis_at": "2026-01-08T13:01:04.085700Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n\t\"statut\":\"OUI\",\n\t\"use_sources\":[1,2,3,4,5],\n\t\"justification\":[\n\t\t{\"source_index\":1,\"explication\":\"Mention explicite de candidature aux municipales 2026 à Vauvert.\"},\n\t\t{\"source_index\":2,\"explication\":\"Lancement officiel de campagne pour les municipales 2026 à Vauvert.\"},\n\t\t{\"source_index\":3,\"explication\":\"Officialisation de la candidature municipale 2026 à Vauvert.\"},\n\t\t{\"source_index\":4,\"explication\":\"Annonce directe de candidature aux municipales 2026 à Vauvert.\"},\n\t\t{\"source_index\":5,\"explication\":\"Déclarations claires sur sa candidature pour les municipales 2026 à Vauvert.\"}\n\t]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4,5],\"justification\":[{\"source_index\":1,\"explication\":\"Candidat aux municipales 2026 à Vauvert explicitement mentionné.\"},{\"source_index\":2,\"explication\":\"Lancement officiel de sa campagne municipale 2026 à Vauvert.\"},{\"source_index\":3,\"explication\":\"Candidature officielle pour les municipales 2026 confirmée.\"},{\"source_index\":4,\"explication\":\"Annonce explicite comme candidat aux élections municipales 2026.\"},{\"source_index\":5,\"explication\":\"Déclaration claire de candidature municipale en 2026 à Vauvert.\"}]}"
   }
 }

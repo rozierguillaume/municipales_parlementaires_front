@@ -60,29 +60,39 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mentionne explicitement Thomas Cazenave comme candidat aux municipales 2026 à Bordeaux."
+        "explication": "Mention explicite d'une candidature municipale en 2026 pour Thomas Cazenave à Bordeaux."
       },
       {
         "source_index": 2,
-        "explication": "Indique que Nathalie Delattre retire sa candidature et rejoint Thomas Cazenave pour les Municipales 2026."
+        "explication": "Nathalie Delattre retire sa candidature et rejoint explicitement Thomas Cazenave pour les Municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "Précise que Nathalie Delattre se range derrière Thomas Cazenave pour les Municipales 2026."
+        "explication": "Confirme le soutien de Nathalie Delattre à Thomas Cazenave pour les Municipales 2026."
       },
       {
         "source_index": 4,
-        "explication": "Confirme la candidature de Thomas Cazenave aux Municipales 2026 à Bordeaux."
+        "explication": "Nathalie Delattre se range derrière Thomas Cazenave pour les Municipales 2026, impliquant sa candidature comme tête de liste."
+      },
+      {
+        "source_index": 5,
+        "explication": "Évoque explicitement la guerre des sondages entre candidats aux Municipales 2026, incluant Thomas Cazenave."
+      },
+      {
+        "source_index": 6,
+        "explication": "Confirme que Thomas Cazenave est en position pour briguer les Municipales 2026 à Bordeaux."
       }
     ],
     "used_sources": [
       1,
       2,
       3,
-      4
+      4,
+      5,
+      6
     ],
-    "analysis_at": "2026-01-08T11:46:22.257566Z",
+    "analysis_at": "2026-01-08T12:44:33.012061Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mentionne explicitement Thomas Cazenave comme candidat aux municipales 2026 à Bordeaux.\"},\n        {\"source_index\":2,\"explication\":\"Indique que Nathalie Delattre retire sa candidature et rejoint Thomas Cazenave pour les Municipales 2026.\"},\n        {\"source_index\":3,\"explication\":\"Précise que Nathalie Delattre se range derrière Thomas Cazenave pour les Municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Confirme la candidature de Thomas Cazenave aux Municipales 2026 à Bordeaux.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4,5,6],\"justification\":[{\"source_index\":1,\"explication\":\"Mention explicite d'une candidature municipale en 2026 pour Thomas Cazenave à Bordeaux.\"},{\"source_index\":2,\"explication\":\"Nathalie Delattre retire sa candidature et rejoint explicitement Thomas Cazenave pour les Municipales 2026.\"},{\"source_index\":3,\"explication\":\"Confirme le soutien de Nathalie Delattre à Thomas Cazenave pour les Municipales 2026.\"},{\"source_index\":4,\"explication\":\"Nathalie Delattre se range derrière Thomas Cazenave pour les Municipales 2026, impliquant sa candidature comme tête de liste.\"},{\"source_index\":5,\"explication\":\"Évoque explicitement la guerre des sondages entre candidats aux Municipales 2026, incluant Thomas Cazenave.\"},{\"source_index\":6,\"explication\":\"Confirme que Thomas Cazenave est en position pour briguer les Municipales 2026 à Bordeaux.\"}]}"
   }
 }

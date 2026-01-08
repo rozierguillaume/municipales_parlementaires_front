@@ -53,29 +53,24 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Mention explicite de candidature municipale 2026 et promesse de démission pour devenir maire."
+        "explication": "Pascale Bordes déclare explicitement sa candidature aux municipales 2026 à Bagnols-sur-Cèze."
       },
       {
         "source_index": 3,
-        "explication": "Officialisation de la candidature aux municipales 2026 à Bagnols-sur-Cèze."
+        "explication": "Source confirmant officiellement sa candidature aux élections municipales de 2026."
       },
       {
         "source_index": 4,
-        "explication": "Présentation claire comme candidate aux municipales 2026 avec engagement sur le mandat de maire."
-      },
-      {
-        "source_index": 5,
-        "explication": "Confirmation de sa candidature du RN pour les municipales 2026 à Bagnols-sur-Cèze."
+        "explication": "Mention explicite de son engagement comme candidate aux municipales 2026 et promesse liée à un mandat municipal."
       }
     ],
     "used_sources": [
       2,
       3,
-      4,
-      5
+      4
     ],
-    "analysis_at": "2026-01-08T12:01:19.922313Z",
+    "analysis_at": "2026-01-08T12:58:30.065967Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,3,4,5],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Mention explicite de candidature municipale 2026 et promesse de démission pour devenir maire.\"},\n        {\"source_index\":3,\"explication\":\"Officialisation de la candidature aux municipales 2026 à Bagnols-sur-Cèze.\"},\n        {\"source_index\":4,\"explication\":\"Présentation claire comme candidate aux municipales 2026 avec engagement sur le mandat de maire.\"},\n        {\"source_index\":5,\"explication\":\"Confirmation de sa candidature du RN pour les municipales 2026 à Bagnols-sur-Cèze.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3,4],\"justification\":[{\"source_index\":2,\"explication\":\"Pascale Bordes déclare explicitement sa candidature aux municipales 2026 à Bagnols-sur-Cèze.\"},{\"source_index\":3,\"explication\":\"Source confirmant officiellement sa candidature aux élections municipales de 2026.\"},{\"source_index\":4,\"explication\":\"Mention explicite de son engagement comme candidate aux municipales 2026 et promesse liée à un mandat municipal.\"}]}"
   }
 }

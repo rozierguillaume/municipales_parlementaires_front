@@ -60,14 +60,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source 1 indique explicitement que Pierre Cazeneuve « quitte Saint-Cloud pour Rueil avec la volonté d’être adoubé par Patrick Ollier » dans un contexte de municipales 2026."
+        "explication": "La source mentionne explicitement 'Pierre Cazeneuve [...] avec la volonté d’être adoubé par Patrick Ollier', sous-entendant une candidature municipale en 2026 à Rueil."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T11:46:34.172904Z",
+    "analysis_at": "2026-01-08T12:44:45.924895Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n\t\"statut\":\"OUI\",\n\t\"used_sources\":[1],\n\t\"justification\":[\n\t\t{\"source_index\":1,\"explication\":\"Source 1 indique explicitement que Pierre Cazeneuve « quitte Saint-Cloud pour Rueil avec la volonté d’être adoubé par Patrick Ollier » dans un contexte de municipales 2026.\"}\n\t]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source mentionne explicitement 'Pierre Cazeneuve [...] avec la volonté d’être adoubé par Patrick Ollier', sous-entendant une candidature municipale en 2026 à Rueil.\"}]}"
   }
 }

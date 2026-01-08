@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Guillaume FLORQUIN en lien avec une candidature aux municipales 2026 ou un retrait."
+        "explication": "Aucune source ne mentionne explicitement Guillaume FLORQUIN comme candidat ou retiré aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T12:02:14.558058Z",
+    "analysis_at": "2026-01-08T12:59:18.131471Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Guillaume FLORQUIN en lien avec une candidature aux municipales 2026 ou un retrait.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Guillaume FLORQUIN comme candidat ou retiré aux municipales 2026.\"}]}"
   }
 }

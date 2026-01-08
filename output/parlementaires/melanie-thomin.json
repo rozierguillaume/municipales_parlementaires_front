@@ -60,14 +60,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source 1 évoque uniquement François Cuillandre et sa septième élection municipale à Brest sans mention de Mélanie Thomin, ni de candidature aux municipales 2026."
+        "explication": "Source mentionne uniquement une réélection municipale en 2025 (Brest) sans lien avec Mélanie Thomin ou les municipales de 2026."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T12:00:30.654542Z",
+    "analysis_at": "2026-01-08T12:57:38.898776Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque uniquement François Cuillandre et sa septième élection municipale à Brest sans mention de Mélanie Thomin, ni de candidature aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne uniquement une réélection municipale en 2025 (Brest) sans lien avec Mélanie Thomin ou les municipales de 2026.\"}]}"
   }
 }

@@ -60,23 +60,23 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "« officialise sa candidature à la mairie de Chamonix »"
+        "explication": "Candidature officielle aux municipales 2026 pour la mairie de Chamonix."
       },
       {
         "source_index": 3,
-        "explication": "« candidat à Chamonix »"
+        "explication": "Confirme sa candidature municipale à Chamonix en 2026."
       },
       {
         "source_index": 4,
-        "explication": "« brigue la mairie de Chamonix »"
+        "explication": "Indique explicitement qu'il brigue la mairie de Chamonix aux municipales 2026."
       },
       {
         "source_index": 5,
-        "explication": "« candidat aux municipales 2026 »"
+        "explication": "Précise sa candidature aux municipales 2026 à Chamonix."
       },
       {
         "source_index": 6,
-        "explication": "« annonce sa candidature à la mairie de Chamonix »"
+        "explication": "Annonce claire de sa candidature pour la mairie de Chamonix en 2026."
       }
     ],
     "used_sources": [
@@ -86,8 +86,8 @@
       5,
       6
     ],
-    "analysis_at": "2026-01-08T11:53:20.596969Z",
+    "analysis_at": "2026-01-08T12:50:44.899564Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,3,4,5,6],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"« officialise sa candidature à la mairie de Chamonix »\"},\n        {\"source_index\":3,\"explication\":\"« candidat à Chamonix »\"},\n        {\"source_index\":4,\"explication\":\"« brigue la mairie de Chamonix »\"},\n        {\"source_index\":5,\"explication\":\"« candidat aux municipales 2026 »\"},\n        {\"source_index\":6,\"explication\":\"« annonce sa candidature à la mairie de Chamonix »\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3,4,5,6],\"justification\":[{\"source_index\":2,\"explication\":\"Candidature officielle aux municipales 2026 pour la mairie de Chamonix.\"},{\"source_index\":3,\"explication\":\"Confirme sa candidature municipale à Chamonix en 2026.\"},{\"source_index\":4,\"explication\":\"Indique explicitement qu'il brigue la mairie de Chamonix aux municipales 2026.\"},{\"source_index\":5,\"explication\":\"Précise sa candidature aux municipales 2026 à Chamonix.\"},{\"source_index\":6,\"explication\":\"Annonce claire de sa candidature pour la mairie de Chamonix en 2026.\"}]}"
   }
 }

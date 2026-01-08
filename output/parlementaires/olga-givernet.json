@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement Olga GIVERNET en lien avec une candidature, un retrait ou une fonction liée aux municipales 2026."
+        "explication": "Aucune mention explicite de municipales 2026, maire, candidature ou liste dans la source fournie."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:48:47.883197Z",
+    "analysis_at": "2026-01-08T12:46:42.773846Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Olga GIVERNET en lien avec une candidature, un retrait ou une fonction liée aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention explicite de municipales 2026, maire, candidature ou liste dans la source fournie.\"}]}"
   }
 }

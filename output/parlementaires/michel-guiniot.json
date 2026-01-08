@@ -53,14 +53,19 @@
     "justification": [
       {
         "source_index": 5,
-        "explication": "Source explicite : « Je suis en train de constituer la liste » à Noyon pour les municipales 2026."
+        "explication": "Le député RN Michel Guiniot confirme explicitement 'sa présence aux municipales' en septembre 2025."
+      },
+      {
+        "source_index": 1,
+        "explication": "Source récente (janvier 2026) évoquant les échos des municipales à Noyon, impliquant implicitement sa candidature (contexte local et période électorale)."
       }
     ],
     "used_sources": [
+      1,
       5
     ],
-    "analysis_at": "2026-01-08T12:03:08.564187Z",
+    "analysis_at": "2026-01-08T13:00:10.787133Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[5],\n    \"justification\":[\n        {\n            \"source_index\":5,\n            \"explication\":\"Source explicite : « Je suis en train de constituer la liste » à Noyon pour les municipales 2026.\"\n        }\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,5],\"justification\":[{\"source_index\":5,\"explication\":\"Le député RN Michel Guiniot confirme explicitement 'sa présence aux municipales' en septembre 2025.\"},{\"source_index\":1,\"explication\":\"Source récente (janvier 2026) évoquant les échos des municipales à Noyon, impliquant implicitement sa candidature (contexte local et période électorale).\"}]}"
   }
 }

@@ -53,14 +53,14 @@
     "justification": [
       {
         "source_index": 4,
-        "explication": "Source mentionne 'candidat à Cahors' mais formule ambiguë ('je n'ai toujours pas pris de décision') sans confirmation explicite pour 2026."
+        "explication": "La source mentionne explicitement une rumeur ('Aurélien Pradié candidat à Cahors ?') mais indique clairement qu'il 'n'a toujours pas pris de décision' (pas de confirmation ni de retrait)."
       }
     ],
     "used_sources": [
       4
     ],
-    "analysis_at": "2026-01-08T11:58:12.637048Z",
+    "analysis_at": "2026-01-08T12:55:25.212091Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n\t\"statut\":\"INCERTAIN\",\n\t\"use_sources\":[4],\n\t\"justification\":[\n\t\t{\"source_index\":4,\"explication\":\"Source mentionne 'candidat à Cahors' mais formule ambiguë ('je n'ai toujours pas pris de décision') sans confirmation explicite pour 2026.\"}\n\t]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[4],\"justification\":[{\"source_index\":4,\"explication\":\"La source mentionne explicitement une rumeur ('Aurélien Pradié candidat à Cahors ?') mais indique clairement qu'il 'n'a toujours pas pris de décision' (pas de confirmation ni de retrait).\"}]}"
   }
 }

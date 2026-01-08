@@ -60,19 +60,19 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source mentionne explicitement « Bryan Masson [...] rejoint pour les élections municipales à Cagnes-sur-Mer »."
+        "explication": "Source explicite : « rejoint Bryan Masson pour les élections municipales »"
       },
       {
         "source_index": 3,
-        "explication": "Source indique un « ralliement de Jean-Pierre Woignier au candidat RN Bryan Masson » aux municipales 2026."
+        "explication": "« Municipales 2026 à Cagnes-sur-Mer [...] ralliement de Jean-Pierre Woignier au candidat RN Bryan Masson »"
       },
       {
         "source_index": 4,
-        "explication": "Article sur son « plan pour relancer Cagnes-sur-Mer » dans le contexte des municipales 2026."
+        "explication": "Titre mentionne explicitement « Municipales 2026. [...] Bryan Masson » avec un plan pour la mairie"
       },
       {
         "source_index": 5,
-        "explication": "« Le RN veut faire basculer la mairie de Cagnes-sur-Mer » avec Bryan Masson comme candidat aux municipales 2026."
+        "explication": "« Municipales 2026 : [...] le RN veut faire basculer la mairie de Cagnes-sur-Mer [avec] Bryan Masson »"
       }
     ],
     "used_sources": [
@@ -81,8 +81,8 @@
       4,
       5
     ],
-    "analysis_at": "2026-01-08T12:05:12.850533Z",
+    "analysis_at": "2026-01-08T13:02:20.516128Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Source mentionne explicitement « Bryan Masson [...] rejoint pour les élections municipales à Cagnes-sur-Mer ».\"},\n        {\"source_index\":3,\"explication\":\"Source indique un « ralliement de Jean-Pierre Woignier au candidat RN Bryan Masson » aux municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Article sur son « plan pour relancer Cagnes-sur-Mer » dans le contexte des municipales 2026.\"},\n        {\"source_index\":5,\"explication\":\"« Le RN veut faire basculer la mairie de Cagnes-sur-Mer » avec Bryan Masson comme candidat aux municipales 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,3,4,5],\"justification\":[{\"source_index\":1,\"explication\":\"Source explicite : « rejoint Bryan Masson pour les élections municipales »\"},{\"source_index\":3,\"explication\":\"« Municipales 2026 à Cagnes-sur-Mer [...] ralliement de Jean-Pierre Woignier au candidat RN Bryan Masson »\"},{\"source_index\":4,\"explication\":\"Titre mentionne explicitement « Municipales 2026. [...] Bryan Masson » avec un plan pour la mairie\"},{\"source_index\":5,\"explication\":\"« Municipales 2026 : [...] le RN veut faire basculer la mairie de Cagnes-sur-Mer [avec] Bryan Masson »\"}]}\n\t\t"
   }
 }

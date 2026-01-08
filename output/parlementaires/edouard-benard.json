@@ -52,13 +52,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne Édouard BÉNARD en lien avec une candidature ou un retrait aux municipales 2026."
+        "source_index": 1,
+        "explication": "La source évoque uniquement une union de la gauche pour les municipales 2026 sans mention explicite d’Édouard Bénard."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:49:49.600729Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T12:47:31.383325Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne Édouard BÉNARD en lien avec une candidature ou un retrait aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source évoque uniquement une union de la gauche pour les municipales 2026 sans mention explicite d’Édouard Bénard.\"}]}"
   }
 }

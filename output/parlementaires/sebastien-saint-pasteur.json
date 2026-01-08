@@ -53,19 +53,19 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source 2 : « Sébastien Saint-Pasteur candidat adoubé par le PC et les écolos » pour les municipales 2026."
+        "explication": "Sébastien Saint-Pasteur est explicitement désigné comme 'candidat' aux municipales 2026 à Pessac."
       },
       {
         "source_index": 3,
-        "explication": "Source 3 : « Sébastien Saint-Pasteur officiellement candidat pour l’union de la gauche et des écologistes » aux municipales 2026."
+        "explication": "Source confirmant sa candidature officielle pour les municipales 2026 dans la même ville."
       }
     ],
     "used_sources": [
       2,
       3
     ],
-    "analysis_at": "2026-01-08T12:00:26.047328Z",
+    "analysis_at": "2026-01-08T12:57:34.855075Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2,3],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Source 2 : « Sébastien Saint-Pasteur candidat adoubé par le PC et les écolos » pour les municipales 2026.\"},\n        {\"source_index\":3,\"explication\":\"Source 3 : « Sébastien Saint-Pasteur officiellement candidat pour l’union de la gauche et des écologistes » aux municipales 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3],\"justification\":[{\"source_index\":2,\"explication\":\"Sébastien Saint-Pasteur est explicitement désigné comme 'candidat' aux municipales 2026 à Pessac.\"},{\"source_index\":3,\"explication\":\"Source confirmant sa candidature officielle pour les municipales 2026 dans la même ville.\"}]}"
   }
 }

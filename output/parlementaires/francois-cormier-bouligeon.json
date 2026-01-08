@@ -49,18 +49,18 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source 1 évoque un soutien à Philippe Mercier sans mention explicite de candidature directe ou de tête de liste pour François Cormier-Bouligeon."
+        "explication": "La source indique clairement que François Cormier-Bouligeon ne mènera pas de liste aux municipales 2026 à Bourges."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T11:46:44.797698Z",
+    "analysis_at": "2026-01-08T12:44:55.070847Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque un soutien à Philippe Mercier sans mention explicite de candidature directe ou de tête de liste pour François Cormier-Bouligeon.\"}]}\n```"
+    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source indique clairement que François Cormier-Bouligeon ne mènera pas de liste aux municipales 2026 à Bourges.\"}]}"
   }
 }

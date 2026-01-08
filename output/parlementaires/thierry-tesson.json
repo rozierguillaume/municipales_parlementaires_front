@@ -60,19 +60,19 @@
     "justification": [
       {
         "source_index": 4,
-        "explication": "« Le député Thierry Tesson, tête de liste RN-UDR, brigue le beffroi de Douai »"
+        "explication": "Le député Thierry Tesson est explicitement décrit comme 'brigue[ant] le beffroi de Douai' (mairie) aux prochaines municipales."
       },
       {
         "source_index": 5,
-        "explication": "« Thierry Tesson sera le candidat du RN et de l’UDR aux prochaines municipales 2026 »"
+        "explication": "Il est désigné comme 'candidat du RN et de l’UDR aux prochaines municipales' à Douai."
       }
     ],
     "used_sources": [
       4,
       5
     ],
-    "analysis_at": "2026-01-08T12:05:55.313966Z",
+    "analysis_at": "2026-01-08T13:03:06.167325Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[4,5],\n    \"justification\":[\n        {\"source_index\":4,\"explication\":\"« Le député Thierry Tesson, tête de liste RN-UDR, brigue le beffroi de Douai »\"},\n        {\"source_index\":5,\"explication\":\"« Thierry Tesson sera le candidat du RN et de l’UDR aux prochaines municipales 2026 »\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[4,5],\"justification\":[{\"source_index\":4,\"explication\":\"Le député Thierry Tesson est explicitement décrit comme 'brigue[ant] le beffroi de Douai' (mairie) aux prochaines municipales.\"},{\"source_index\":5,\"explication\":\"Il est désigné comme 'candidat du RN et de l’UDR aux prochaines municipales' à Douai.\"}]}"
   }
 }

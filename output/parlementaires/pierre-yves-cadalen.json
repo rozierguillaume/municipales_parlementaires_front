@@ -60,14 +60,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source 2 indique explicitement que Pierre-Yves Cadalen 'sera sur la liste des Insoumis' pour les municipales 2026 à Brest."
+        "explication": "La source indique clairement que Pierre-Yves Cadalen sera sur la liste des Insoumis pour les municipales 2026 à Brest."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T11:53:13.185576Z",
+    "analysis_at": "2026-01-08T12:50:34.298719Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source 2 indique explicitement que Pierre-Yves Cadalen 'sera sur la liste des Insoumis' pour les municipales 2026 à Brest.\"}]}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"La source indique clairement que Pierre-Yves Cadalen sera sur la liste des Insoumis pour les municipales 2026 à Brest.\"}]}"
   }
 }

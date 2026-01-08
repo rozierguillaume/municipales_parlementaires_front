@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Martine FROGER en lien avec une candidature aux municipales 2026 ou un retrait."
+        "explication": "Aucune source ne mentionne Martine FROGER, ni sa candidature ni son retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:58:22.766484Z",
+    "analysis_at": "2026-01-08T12:55:34.173953Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Martine FROGER en lien avec une candidature aux municipales 2026 ou un retrait.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Martine FROGER, ni sa candidature ni son retrait aux municipales 2026.\"}]}"
   }
 }

@@ -56,11 +56,19 @@
     }
   ],
   "analysis": {
-    "status": "ERREUR JSON",
-    "justification": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Stéphanie RIST en lien avec une candidature aux municipales 2026 ou la mairie.\"}]\n```",
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:51:02.908720Z",
+    "status": "INCERTAIN",
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Sources 1-3 évoquent uniquement des législatives partielles sans lien avec les municipales 2026. Sources 4 et 5 mentionnent des municipales 2026 mais parlent d'autres personnes (Yann Chaillou, Grégory Meyer) sans aucun lien explicite avec Stéphanie RIST."
+      }
+    ],
+    "used_sources": [
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-08T12:48:31.855812Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Stéphanie RIST en lien avec une candidature aux municipales 2026 ou la mairie.\"}]\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[4,5],\"justification\":[{\"source_index\":null,\"explication\":\"Sources 1-3 évoquent uniquement des législatives partielles sans lien avec les municipales 2026. Sources 4 et 5 mentionnent des municipales 2026 mais parlent d'autres personnes (Yann Chaillou, Grégory Meyer) sans aucun lien explicite avec Stéphanie RIST.\"}]}"
   }
 }

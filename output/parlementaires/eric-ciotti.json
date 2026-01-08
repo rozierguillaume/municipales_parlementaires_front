@@ -67,23 +67,27 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mention d'un meeting de campagne pour les élections municipales 2026 à Nice."
+        "explication": "Meeting de campagne explicite aux municipales 2026 à Nice."
       },
       {
         "source_index": 2,
-        "explanation": "Présentation d'une liste et colistier dans un contexte électoral municipal en 2026."
+        "explication": "Présentation d’une liste et d’un colistier pour les municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "Promesses électorales liées à la mairie de Nice pour les municipales 2026."
+        "explication": "Promesses électorales liées aux municipales 2026 à Nice."
       },
       {
         "source_index": 4,
-        "explication": "Annonce de mesures municipales si élu, explicitement lié aux élections de 2026."
+        "explication": "Annonce de mesures électorales conditionnelles à une élection municipale 2026."
       },
       {
         "source_index": 5,
-        "explication": "Duel électoral entre Ciotti et Estrosi pour la mairie de Nice en 2026"
+        "explication": "Duel électoral mentionné pour les municipales 2026 à Nice."
+      },
+      {
+        "source_index": 7,
+        "explication": "Proposition de changement politique dans le cadre des municipales 2026."
       }
     ],
     "used_sources": [
@@ -91,10 +95,11 @@
       2,
       3,
       4,
-      5
+      5,
+      7
     ],
-    "analysis_at": "2026-01-08T12:06:26.761922Z",
+    "analysis_at": "2026-01-08T13:03:38.952490Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[1,2,3,4,5],\n    \"justification\":[\n        {\"source_index\":1,\"explication\":\"Mention d'un meeting de campagne pour les élections municipales 2026 à Nice.\"},\n        {\"source_index\":2,\"explanation\":\"Présentation d'une liste et colistier dans un contexte électoral municipal en 2026.\"},\n        {\"source_index\":3,\"explication\":\"Promesses électorales liées à la mairie de Nice pour les municipales 2026.\"},\n        {\"source_index\":4,\"explication\":\"Annonce de mesures municipales si élu, explicitement lié aux élections de 2026.\"},\n        {\"source_index\":5,\"explication\":\"Duel électoral entre Ciotti et Estrosi pour la mairie de Nice en 2026\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4,5,7],\"justification\":[{\"source_index\":1,\"explication\":\"Meeting de campagne explicite aux municipales 2026 à Nice.\"},{\"source_index\":2,\"explication\":\"Présentation d’une liste et d’un colistier pour les municipales 2026.\"},{\"source_index\":3,\"explication\":\"Promesses électorales liées aux municipales 2026 à Nice.\"},{\"source_index\":4,\"explication\":\"Annonce de mesures électorales conditionnelles à une élection municipale 2026.\"},{\"source_index\":5,\"explication\":\"Duel électoral mentionné pour les municipales 2026 à Nice.\"},{\"source_index\":7,\"explication\":\"Proposition de changement politique dans le cadre des municipales 2026.\"}]}"
   }
 }

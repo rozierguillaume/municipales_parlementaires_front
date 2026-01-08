@@ -63,18 +63,18 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 5,
-        "explication": "Source 5 mentionne explicitement Manon Bouquin comme candidate aux municipales 2026 ('Joël Armentier, aux côtés de la députée RN Manon Bouquin')"
+        "explication": "Mentionne Manon Bouquin dans un contexte municipal 2026 (Mèze), mais sans préciser si elle est candidate ou simplement soutenante."
       }
     ],
     "used_sources": [
       5
     ],
-    "analysis_at": "2026-01-08T12:02:46.024445Z",
+    "analysis_at": "2026-01-08T12:59:47.094524Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[5],\n    \"justification\":[\n        {\n            \"source_index\":5,\n            \"explication\":\"Source 5 mentionne explicitement Manon Bouquin comme candidate aux municipales 2026 ('Joël Armentier, aux côtés de la députée RN Manon Bouquin')\"\n        }\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"Mentionne Manon Bouquin dans un contexte municipal 2026 (Mèze), mais sans préciser si elle est candidate ou simplement soutenante.\"}]}"
   }
 }

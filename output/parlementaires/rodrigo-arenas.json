@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Rodrigo ARENAS en lien avec une candidature aux municipales 2026 ou la mairie de Paris."
+        "explication": "Aucune source ne mentionne explicitement Rodrigo Arenas comme candidat ou retiré pour les municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:53:34.727277Z",
+    "analysis_at": "2026-01-08T12:50:57.125810Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Rodrigo ARENAS en lien avec une candidature aux municipales 2026 ou la mairie de Paris.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Rodrigo Arenas comme candidat ou retiré pour les municipales 2026.\"}]}"
   }
 }

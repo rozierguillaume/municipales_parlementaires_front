@@ -52,25 +52,31 @@
     "status": "INCERTAIN",
     "justification": [
       {
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature de Gabriel Attal aux municipales 2026."
+      },
+      {
         "source_index": 3,
-        "explication": "Source 3 évoque une \"stratégie prudente\" de Gabriel Attal sans mention explicite d'une candidature aux municipales 2026."
+        "explication": "Parle d'une 'stratégie prudente' post-2020 sans évoquer une candidature en 2026."
       },
       {
         "source_index": 4,
-        "explication": "Source 4 indique un soutien à Pierre-Yves Bournazel pour Paris, mais ne mentionne pas une candidature personnelle de Gabriel Attal."
+        "explication": "Évoque un soutien à Bournazel, pas une candidature personnelle."
       },
       {
         "source_index": 5,
-        "explication": "Source 5 précise un soutien à Jean-Michel Aulas à Lyon sans lien avec une candidature d'Attal."
+        "explication": "Mentionne un soutien à Aulas à Lyon, sans lien avec sa propre candidature."
       }
     ],
     "used_sources": [
+      1,
+      2,
       3,
       4,
       5
     ],
-    "analysis_at": "2026-01-08T11:46:01.108651Z",
+    "analysis_at": "2026-01-08T12:44:05.741913Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n\t\"statut\":\"INCERTAIN\",\n\t\"use_sources\":[],\n\t\"justification\":[\n\t\t{\"source_index\":3,\"explication\":\"Source 3 évoque une \\\"stratégie prudente\\\" de Gabriel Attal sans mention explicite d'une candidature aux municipales 2026.\"},\n\t\t{\"source_index\":4,\"explication\":\"Source 4 indique un soutien à Pierre-Yves Bournazel pour Paris, mais ne mentionne pas une candidature personnelle de Gabriel Attal.\"},\n\t\t{\"source_index\":5,\"explication\":\"Source 5 précise un soutien à Jean-Michel Aulas à Lyon sans lien avec une candidature d'Attal.\"}\n\t]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2,3,4,5],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature de Gabriel Attal aux municipales 2026.\"},{\"source_index\":3,\"explication\":\"Parle d'une 'stratégie prudente' post-2020 sans évoquer une candidature en 2026.\"},{\"source_index\":4,\"explication\":\"Évoque un soutien à Bournazel, pas une candidature personnelle.\"},{\"source_index\":5,\"explication\":\"Mentionne un soutien à Aulas à Lyon, sans lien avec sa propre candidature.\"}]}"
   }
 }

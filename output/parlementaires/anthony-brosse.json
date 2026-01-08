@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement Anthony BROSSE en lien avec une candidature ou un retrait aux municipales 2026."
+        "explication": "Aucune source mentionne Anthony BROSSE dans un contexte explicite lié aux municipales 2026 (candidature, retrait ou tête de liste)."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:46:11.833611Z",
+    "analysis_at": "2026-01-08T12:44:16.381075Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Anthony BROSSE en lien avec une candidature ou un retrait aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source mentionne Anthony BROSSE dans un contexte explicite lié aux municipales 2026 (candidature, retrait ou tête de liste).\"}]}"
   }
 }

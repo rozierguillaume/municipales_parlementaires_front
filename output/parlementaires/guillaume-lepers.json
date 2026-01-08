@@ -67,24 +67,26 @@
     "justification": [
       {
         "source_index": 5,
-        "explication": "« sera bien candidat pour redevenir maire de Villeneuve-sur-Lot »"
+        "explication": "'le député Guillaume Lepers sera bien candidat pour redevenir maire de Villeneuve-sur-Lot'"
       },
       {
         "source_index": 6,
-        "explication": "« Je suis candidat à la mairie »"
+        "explication": "'Je suis candidat à la mairie : Guillaume Lepers brigue officiellement un second mandat'"
       },
       {
         "source_index": 7,
-        "explication": "« sera bien candidat pour redevenir maire de Villeneuve-sur-Lot »"
+        "explication": "'le député Guillaume Lepers sera bien candidat pour redevenir maire de Villeneuve-sur-Lot'"
       }
     ],
     "used_sources": [
+      3,
+      4,
       5,
       6,
       7
     ],
-    "analysis_at": "2026-01-08T11:45:26.614945Z",
+    "analysis_at": "2026-01-08T12:43:28.857451Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[5,6,7],\n    \"justification\":[\n        {\"source_index\":5,\"explication\":\"« sera bien candidat pour redevenir maire de Villeneuve-sur-Lot »\"},\n        {\"source_index\":6,\"explication\":\"« Je suis candidat à la mairie »\"},\n        {\"source_index\":7,\"explication\":\"« sera bien candidat pour redevenir maire de Villeneuve-sur-Lot »\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[3,4,5,6,7],\"justification\":[{\"source_index\":5,\"explication\":\"'le député Guillaume Lepers sera bien candidat pour redevenir maire de Villeneuve-sur-Lot'\"},{\"source_index\":6,\"explication\":\"'Je suis candidat à la mairie : Guillaume Lepers brigue officiellement un second mandat'\"},{\"source_index\":7,\"explication\":\"'le député Guillaume Lepers sera bien candidat pour redevenir maire de Villeneuve-sur-Lot'\"}]}"
   }
 }

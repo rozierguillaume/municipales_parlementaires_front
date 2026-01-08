@@ -67,12 +67,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement Constance LE GRIP comme candidate ou non-candidate aux municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement Constance LE GRIP comme candidate ou exclue aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:47:17.824403Z",
+    "analysis_at": "2026-01-08T12:45:33.010405Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Constance LE GRIP comme candidate ou non-candidate aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Constance LE GRIP comme candidate ou exclue aux municipales 2026.\"}]}"
   }
 }

@@ -59,15 +59,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 2,
-        "explication": "Source mentionne une proposition de loi liée aux élections locales mais sans lien explicite avec une candidature personnelle aux municipales 2026."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait de Céline Hervieu pour les municipales 2026. La source 1 évoque une liste municipale mais sans lien avec elle, et la source 2 traite d'une proposition de loi sans référence aux élections."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T11:58:56.824548Z",
+    "analysis_at": "2026-01-08T12:56:08.621117Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source mentionne une proposition de loi liée aux élections locales mais sans lien explicite avec une candidature personnelle aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait de Céline Hervieu pour les municipales 2026. La source 1 évoque une liste municipale mais sans lien avec elle, et la source 2 traite d'une proposition de loi sans référence aux élections.\"}]}"
   }
 }

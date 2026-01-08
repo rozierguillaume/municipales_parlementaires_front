@@ -53,12 +53,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Anne-Cécile Violland comme candidate ou non-candidate aux municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement Anne-Cécile Violland comme candidate ou retirée pour les municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:52:30.223326Z",
+    "analysis_at": "2026-01-08T12:49:47.459242Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Anne-Cécile Violland comme candidate ou non-candidate aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Anne-Cécile Violland comme candidate ou retirée pour les municipales 2026.\"}]}"
   }
 }

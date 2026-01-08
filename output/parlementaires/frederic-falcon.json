@@ -53,12 +53,20 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Frédéric FALCON comme candidat, tête de liste ou en lien avec les municipales 2026."
+        "explication": "Sources 1 et 2 évoquent une recherche de candidats par le RN pour les municipales 2026 à Narbonne, mais sans mention explicite de Frédéric FALCON comme candidat ou retrait."
+      },
+      {
+        "source_index": 3,
+        "explication": "Source 3 ne traite pas des municipales ni d'une candidature spécifique en 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T12:03:17.995292Z",
+    "used_sources": [
+      1,
+      2,
+      3
+    ],
+    "analysis_at": "2026-01-08T13:00:21.744980Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Frédéric FALCON comme candidat, tête de liste ou en lien avec les municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":null,\"explication\":\"Sources 1 et 2 évoquent une recherche de candidats par le RN pour les municipales 2026 à Narbonne, mais sans mention explicite de Frédéric FALCON comme candidat ou retrait.\"},{\"source_index\":3,\"explication\":\"Source 3 ne traite pas des municipales ni d'une candidature spécifique en 2026.\"}]}"
   }
 }

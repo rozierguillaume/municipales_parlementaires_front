@@ -67,19 +67,19 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Mention d'une discussion sur les élections locales mais sans mention explicite de candidature municipale 2026 pour Tristan Lahais."
+        "explication": "Discussions politiques générales sans mention explicite d'une candidature municipale 2026 pour Tristan Lahaïs."
       },
       {
         "source_index": 2,
-        "explication": "Évocation d'une unité politique à Rennes pour les municipales 2026 sans nommer explicitement Tristan Lahais comme candidat."
+        "explication": "Évoque une unité de la gauche/écologistes à Rennes mais ne cite pas Tristan Lahaïs ni sa candidature aux municipales 2026."
       }
     ],
     "used_sources": [
       1,
       2
     ],
-    "analysis_at": "2026-01-08T11:49:17.126555Z",
+    "analysis_at": "2026-01-08T12:47:06.860699Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":1,\"explication\":\"Mention d'une discussion sur les élections locales mais sans mention explicite de candidature municipale 2026 pour Tristan Lahais.\"},{\"source_index\":2,\"explication\":\"Évocation d'une unité politique à Rennes pour les municipales 2026 sans nommer explicitement Tristan Lahais comme candidat.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":1,\"explication\":\"Discussions politiques générales sans mention explicite d'une candidature municipale 2026 pour Tristan Lahaïs.\"},{\"source_index\":2,\"explication\":\"Évoque une unité de la gauche/écologistes à Rennes mais ne cite pas Tristan Lahaïs ni sa candidature aux municipales 2026.\"}]}"
   }
 }

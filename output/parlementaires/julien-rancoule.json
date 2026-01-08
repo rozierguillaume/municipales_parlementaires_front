@@ -52,30 +52,19 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Mention d'une liste multi-droite avancée sans nommer explicitement Julien Rancoule comme candidat ou tête de liste."
-      },
-      {
-        "source_index": 2,
-        "explication": "Julien Rancoule est cité en tant que député RN mais aucune mention explicite de sa candidature municipale 2026."
-      },
-      {
-        "source_index": 3,
-        "explication": "Contexte juridique lié à la distribution de prospectus sans lien direct avec une candidature officielle aux municipales 2026."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature de Julien Rancoule aux municipales 2026 (seulement des actions juridiques ou stratégies politiques sans lien direct avec sa candidature)."
       },
       {
         "source_index": 4,
-        "explication": "Article sur l'offensive du RN dans l'Aude sans mention spécifique de Julien Rancoule comme candidat municipal 2026."
+        "explication": "Parle d'une 'offensive ciblée du RN' sur des villes emblématiques, mais sans confirmer sa candidature personnelle."
       }
     ],
     "used_sources": [
-      1,
-      2,
-      3,
       4
     ],
-    "analysis_at": "2026-01-08T12:04:48.156985Z",
+    "analysis_at": "2026-01-08T13:01:53.345417Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n\t\"statut\":\"INCERTAIN\",\n\t\"use_sources\":[],\n\t\"justification\":[\n\t\t{\"source_index\":1,\"explication\":\"Mention d'une liste multi-droite avancée sans nommer explicitement Julien Rancoule comme candidat ou tête de liste.\"},\n\t\t{\"source_index\":2,\"explication\":\"Julien Rancoule est cité en tant que député RN mais aucune mention explicite de sa candidature municipale 2026.\"},\n\t\t{\"source_index\":3,\"explication\":\"Contexte juridique lié à la distribution de prospectus sans lien direct avec une candidature officielle aux municipales 2026.\"},\n\t\t{\"source_index\":4,\"explication\":\"Article sur l'offensive du RN dans l'Aude sans mention spécifique de Julien Rancoule comme candidat municipal 2026.\"}\n\t]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[4],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature de Julien Rancoule aux municipales 2026 (seulement des actions juridiques ou stratégies politiques sans lien direct avec sa candidature).\"},{\"source_index\":4,\"explication\":\"Parle d'une 'offensive ciblée du RN' sur des villes emblématiques, mais sans confirmer sa candidature personnelle.\"}]}"
   }
 }

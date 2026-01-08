@@ -53,14 +53,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source 2 indique explicitement que Marc de Fleurian (RN) officialise sa candidature aux municipales 2026 à Calais."
+        "explication": "La source mentionne explicitement 'Marc de Fleurian (RN) officialise sa candidature' aux municipales 2026."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T12:01:40.846049Z",
+    "analysis_at": "2026-01-08T12:58:49.208190Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[2],\n    \"justification\":[\n        {\"source_index\":2,\"explication\":\"Source 2 indique explicitement que Marc de Fleurian (RN) officialise sa candidature aux municipales 2026 à Calais.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"La source mentionne explicitement 'Marc de Fleurian (RN) officialise sa candidature' aux municipales 2026.\"}]}"
   }
 }

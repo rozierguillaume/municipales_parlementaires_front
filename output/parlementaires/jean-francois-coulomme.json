@@ -52,13 +52,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune des sources fournies ne mentionne explicitement Jean-François Coulomme en lien avec une candidature, un retrait ou une fonction liée aux municipales 2026."
+        "source_index": 1,
+        "explication": "La source évoque une campagne pour les municipales, mais ne mentionne pas explicitement Jean-François Coulomme comme candidat ou tête de liste pour 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T11:53:29.518497Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-08T12:50:52.637110Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources fournies ne mentionne explicitement Jean-François Coulomme en lien avec une candidature, un retrait ou une fonction liée aux municipales 2026.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source évoque une campagne pour les municipales, mais ne mentionne pas explicitement Jean-François Coulomme comme candidat ou tête de liste pour 2026.\"}]}"
   }
 }

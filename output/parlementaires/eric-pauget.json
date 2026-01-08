@@ -53,14 +53,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source 2 indique explicitement qu'Éric Pauget « préfère attendre avant de se lancer » aux municipales, sans mention d'une candidature confirmée."
+        "explication": "Éric Pauget déclare explicitement 'préfère attendre avant de se lancer' pour les municipales 2026."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T11:45:40.662167Z",
+    "analysis_at": "2026-01-08T12:43:40.139531Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n\t\"statut\":\"NON\",\n\t\"used_sources\":[2],\n\t\"justification\":[\n\t\t{\"source_index\":2,\"explication\":\"Source 2 indique explicitement qu'Éric Pauget « préfère attendre avant de se lancer » aux municipales, sans mention d'une candidature confirmée.\"}\n\t]\n}\n```"
+    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Éric Pauget déclare explicitement 'préfère attendre avant de se lancer' pour les municipales 2026.\"}]}"
   }
 }

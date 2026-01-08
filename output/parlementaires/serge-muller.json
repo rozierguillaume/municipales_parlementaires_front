@@ -60,14 +60,14 @@
     "justification": [
       {
         "source_index": 6,
-        "explication": "Source 6 indique explicitement que Serge Muller sera sur la liste du RN pour les municipales de Bergerac en 2026."
+        "explication": "Le député RN Serge Muller est explicitement mentionné comme étant sur la liste du RN pour les municipales 2026 à Bergerac."
       }
     ],
     "used_sources": [
       6
     ],
-    "analysis_at": "2026-01-08T12:05:18.224082Z",
+    "analysis_at": "2026-01-08T13:02:25.104914Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"OUI\",\n    \"used_sources\":[6],\n    \"justification\":[\n        {\"source_index\":6,\"explication\":\"Source 6 indique explicitement que Serge Muller sera sur la liste du RN pour les municipales de Bergerac en 2026.\"}\n    ]\n}\n```"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[6],\"justification\":[{\"source_index\":6,\"explication\":\"Le député RN Serge Muller est explicitement mentionné comme étant sur la liste du RN pour les municipales 2026 à Bergerac.\"}]}"
   }
 }

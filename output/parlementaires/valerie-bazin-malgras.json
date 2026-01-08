@@ -52,15 +52,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 2,
-        "explication": "Source 2 évoque un \"futur candidat\" du RN à la mairie de Troyes sans mention explicite des municipales 2026 ni confirmation directe pour Valérie Bazin-Malgras."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature (ou un retrait) de Valérie Bazin-Malgras aux municipales 2026."
       }
     ],
-    "used_sources": [
-      2
-    ],
-    "analysis_at": "2026-01-08T11:44:16.732839Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-08T12:42:20.767128Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source 2 évoque un \\\"futur candidat\\\" du RN à la mairie de Troyes sans mention explicite des municipales 2026 ni confirmation directe pour Valérie Bazin-Malgras.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature (ou un retrait) de Valérie Bazin-Malgras aux municipales 2026.\"}]}"
   }
 }

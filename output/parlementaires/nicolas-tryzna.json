@@ -46,14 +46,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source 1 évoque des lancements de candidatures pour les municipales 2026 dans trois communes (Vitry-sur-Seine, Arcueil, Chevilly-Larue) sans mention explicite du nom 'Nicolas TRYZNA' ni d'une candidature confirmée."
+        "explication": "La source mentionne des lancements de candidatures municipales en 2026 dans plusieurs villes du Val-de-Marne, mais **aucune référence explicite à Nicolas Tryzna** ni à sa candidature."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T11:45:46.187318Z",
+    "analysis_at": "2026-01-08T12:43:44.699848Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source 1 évoque des lancements de candidatures pour les municipales 2026 dans trois communes (Vitry-sur-Seine, Arcueil, Chevilly-Larue) sans mention explicite du nom 'Nicolas TRYZNA' ni d'une candidature confirmée.\"}]}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source mentionne des lancements de candidatures municipales en 2026 dans plusieurs villes du Val-de-Marne, mais **aucune référence explicite à Nicolas Tryzna** ni à sa candidature.\"}]}"
   }
 }

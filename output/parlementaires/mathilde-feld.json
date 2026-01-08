@@ -60,12 +60,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune des sources ne mentionne explicitement Mathilde FELD en lien avec une candidature aux municipales 2026 ou un retrait."
+        "explication": "Aucune source ne mentionne Mathilde Feld, ni sa candidature ni son retrait aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T11:53:55.575752Z",
+    "analysis_at": "2026-01-08T12:51:17.561367Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "```json\n{\n    \"statut\":\"INCERTAIN\",\n    \"used_sources\":[],\n    \"justification\":[{\"source_index\":null,\"explication\":\"Aucune des sources ne mentionne explicitement Mathilde FELD en lien avec une candidature aux municipales 2026 ou un retrait.\"}]\n}\n```"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Mathilde Feld, ni sa candidature ni son retrait aux municipales 2026.\"}]}"
   }
 }
