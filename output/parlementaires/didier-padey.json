@@ -32,6 +32,13 @@
       "snippet": "Aix-les-Bains : Renaud Beretti souhaite « la réussite » de Marina Ferrari, nommée au gouvernement&nbsp;&nbsp;L'Essor Savoyard",
       "date": "Fri, 09 Feb 2024 08:00:00 GMT",
       "source": "L'Essor Savoyard"
+    },
+    {
+      "title": "Jongieux. Didier Padey, comment ce maire d’une toute petite commune est devenu député - Le Dauphiné Libéré",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0VKMmh6QkYwanN4ZGF4WFg1aWhsLWt3enFmLU9oTE9SSjJ3SnBpbVk3Q0hIYW5HMDR4clV1b25CUjY5X1JzNmVnaGp3d01qYnNtQ1N2U0x6Z0JEczNaSWVVcjB5WmF3QU5NM2Nacnpza25fbF9JaVdKdFR5UEpqakJxblZZMGsxNjJnWDZwU2cyeG56eS14bDlaal9XNVJsWXlvaVAtd1pTbU1wZThhd2tkVFk5a3JPUjZFSUI2VQ?oc=5",
+      "snippet": "Jongieux. Didier Padey, comment ce maire d’une toute petite commune est devenu député&nbsp;&nbsp;Le Dauphiné Libéré",
+      "date": "Mon, 12 Feb 2024 08:00:00 GMT",
+      "source": "Le Dauphiné Libéré"
     }
   ],
   "analysis": {
@@ -39,12 +46,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune mention des municipales 2026 ou d'une candidature de Didier PADEY dans la source fournie."
+        "explication": "Aucune mention explicite des municipales 2026 ou d'une candidature à Jongieux dans la source fournie."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T12:53:53.049679Z",
+    "analysis_at": "2026-01-08T13:42:01.215603Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention des municipales 2026 ou d'une candidature de Didier PADEY dans la source fournie.\"}]}"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention explicite des municipales 2026 ou d'une candidature à Jongieux dans la source fournie.\"}]}"
   }
 }

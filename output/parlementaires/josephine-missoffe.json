@@ -18,12 +18,26 @@
       "snippet": "Joséphine Missoffe, une Wendel derrière Griveaux&nbsp;&nbsp;Le Monde.fr",
       "date": "Sun, 15 Dec 2019 08:00:00 GMT",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "Accord franco-algérien de 1968 : que change l'adoption du texte du RN le dénonçant ? - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVR0REItNlFvQ1AwSUpoQU5YLXJKTzkyVW5MeDE4OFRXT21TTThQa0NVb3cwRHAyV0xkLUJ4RHNtM29INVNycGlfZ0RObjE1VkI1T3JmNWd6N0pUNksyT0NVU1JkWVNEVnVvR254ZXZRdHEwVFdxSFRKWVdoRWl0Z3RmVVVrdmszVmc4d1hKVEtMeTNWbXRJM0F0c01mZV9FaW1ucFc2REtLVG9JanNGQ19B?oc=5",
+      "snippet": "Accord franco-algérien de 1968 : que change l'adoption du texte du RN le dénonçant ?&nbsp;&nbsp;mesinfos",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
-    "justification": "Pas de resultats de recherche apres aout 2025.",
-    "analysis_at": "2026-01-08T12:46:10.573241Z",
-    "analysis_version": "v3-date-cutoff-2025-08"
+    "justification": [
+      {
+        "source_index": null,
+        "explication": "Aucune source ne mentionne clairement une candidature (ou un retrait) aux municipales 2026 pour Joséphine Missoffe."
+      }
+    ],
+    "used_sources": [],
+    "analysis_at": "2026-01-08T13:27:02.159048Z",
+    "analysis_version": "v3-date-cutoff-2025-08",
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne clairement une candidature (ou un retrait) aux municipales 2026 pour Joséphine Missoffe.\"}]}"
   }
 }

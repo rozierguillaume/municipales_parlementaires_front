@@ -53,6 +53,34 @@
       "snippet": "La députée Anaïs Belouassa-Cherifi à l’assaut des municipales à Lyon&nbsp;&nbsp;Rue89 Lyon",
       "date": "Wed, 09 Jul 2025 07:00:00 GMT",
       "source": "Rue89 Lyon"
+    },
+    {
+      "title": "Municipales : Anaïs Belouassa-Cherifi (LFI) veut que la cérémonie d'ouverture des JO 2030 se déroule à Lyon - lyonmag.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZm91RC1jNFhaakdKdWItWG1Gd2htd3dfNGtlUXJuTjNHTFB0RzRyQk9XNFBJV055Qmw4RjdDSkRkcXphMzlFOVNXZUFmc1J4d3c3dUtWYVdhQmFvdmd1NUV1ZjdPTlNTdU5kNnhvZGxSNl9WWVhQazJPVnM5TTc3NGRIYmdpSmwzcWJWcVJwNi1JTDhFRkhtcEEtdHM2WklxNWJwa2xnWlRIbms0N1Y1NEpwa0ZrbWRDQkF5SnhjaG94RmdZS1ZrQjQ1eWdNZ0lhR0E2ZUlkeEdYUQ?oc=5",
+      "snippet": "Municipales : Anaïs Belouassa-Cherifi (LFI) veut que la cérémonie d'ouverture des JO 2030 se déroule à Lyon&nbsp;&nbsp;lyonmag.com",
+      "date": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "source": "lyonmag.com"
+    },
+    {
+      "title": "Municipales à Lyon: Anaïs Belouassa-Cherif veut réquisitionner les logements vacants - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbjRWR0s4dzhuOU9HaWlJQmczUi1PYXJTNEZUQW9EOWpZOUtaZUpaYlJvbVpydy02UHVtNXRQVndma21Ga0dUN1V1c2ttSEhJbUZmSVVtd19VdGNmTnJ4a2Fac2pZZE1OeHV3M0h0V01jSnhBVUZkU2IwNFcyTHJmOW9yZVhiZzB4ODRhV182SVFLUG9oNFdNRldLVldlRGp4cWZQWFg4c1E0aXNTQ045N2dfb2JCZG1laFg3ankwWUZNY2o4ZHdxOU11VTlXZW4wX1hPSVYzMC1HRXJFWS1QdWc1ZWVaS0UtMEl5aWRnS1dSZFlIbDUyZC16S2Z2TFk?oc=5",
+      "snippet": "Municipales à Lyon: Anaïs Belouassa-Cherif veut réquisitionner les logements vacants&nbsp;&nbsp;BFM",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "source": "BFM"
+    },
+    {
+      "title": "Municipales : Idir Boumertit (LFI) officialise sa candidature à Vénissieux - Lyon Capitale",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHh4Wkd2VmdfOHNJXzZvSUtXdWNWV1ExaVc4S2c2M2gwTUR4RERWNEdRZ3RORGI5b2JuS2tOdUVybE9xS0x1d291VVBhTTJ2RmpzajViLWUyeTJ6TEhfRmJPaE13bktNMjVQZmp2WEN5RlRKQnhHVFk2WC1TVGcxWjJmRG1JRnRJSXgxVmJpcjVpc0R1SGM2ODVNY3o5NG53THJubjR3MHU0cTRx?oc=5",
+      "snippet": "Municipales : Idir Boumertit (LFI) officialise sa candidature à Vénissieux&nbsp;&nbsp;Lyon Capitale",
+      "date": "Sat, 22 Nov 2025 08:00:00 GMT",
+      "source": "Lyon Capitale"
+    },
+    {
+      "title": "Rhône. Législatives 2024 : triangulaire avec le RN dans la 1ère circonscription, LFI favorite - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUnN5cHV1S0ltcDd0aDNXaTZVTVhqQURmME9yYmh4WnVEQUh6eUUxRGxJVFF4anFSajFQQU5nNjJtNXJtdzIzQlVnZ3JkYnBqM0pjUjE3bHRRRmxRck51dWlwMi1CNVA3UE1kQVM3UkRZU0dpMnhncjdtTXVNNVJpSFdLU1pPQWowZjAwNnNzUUM0Rzhtcl9xczYtd2RzSWVnM2tMeW1kZVpvNldtWU01QUdUSmI3cXh2VWVhOGNjb1luNG1pZ25kY29uRnhTUlE5am5sbzlYNjlncUhoTGQxY3FrbVRIdw?oc=5",
+      "snippet": "Rhône. Législatives 2024 : triangulaire avec le RN dans la 1ère circonscription, LFI favorite&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
@@ -60,29 +88,39 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Campagne officielle pour les municipales de Lyon 2026 mentionnée explicitement."
-      },
-      {
-        "source_index": 3,
-        "explication": "Lancement de campagne pour les municipales de Lyon 2026 confirmé."
+        "explication": "Mention explicite de 'Municipales' et d'une action liée aux élections 2026 (cérémonie JO 2030 à Lyon)."
       },
       {
         "source_index": 4,
-        "explication": "Meeting organisé dans le cadre des municipales 2026 précisé."
+        "explication": "Titre mentionne explicitement 'campagne pour les municipales de Lyon'."
       },
       {
         "source_index": 5,
-        "explication": "Candidature revendiquée par LFI pour les municipales 2026 à Lyon."
+        "explication": "BFM annonce clairement sa candidature aux municipales de Lyon en 2026."
+      },
+      {
+        "source_index": 6,
+        "explication": "Lyon Capitale confirme une campagne officielle pour les municipales 2026 avec un meeting annoncé."
+      },
+      {
+        "source_index": 7,
+        "explication": "Projet politique lié explicitement aux 'municipales à Lyon' et à sa candidature."
+      },
+      {
+        "source_index": 8,
+        "explication": "Titre évoque clairement la 'candidature d'Anaïs Belouassa-Cherifi' pour les municipales."
       }
     ],
     "used_sources": [
       2,
-      3,
       4,
-      5
+      5,
+      6,
+      7,
+      8
     ],
-    "analysis_at": "2026-01-08T12:51:05.584625Z",
+    "analysis_at": "2026-01-08T13:36:25.967808Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3,4,5],\"justification\":[{\"source_index\":2,\"explication\":\"Campagne officielle pour les municipales de Lyon 2026 mentionnée explicitement.\"},{\"source_index\":3,\"explication\":\"Lancement de campagne pour les municipales de Lyon 2026 confirmé.\"},{\"source_index\":4,\"explication\":\"Meeting organisé dans le cadre des municipales 2026 précisé.\"},{\"source_index\":5,\"explication\":\"Candidature revendiquée par LFI pour les municipales 2026 à Lyon.\"}]}"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,4,5,6,7,8],\"justification\":[{\"source_index\":2,\"explication\":\"Mention explicite de 'Municipales' et d'une action liée aux élections 2026 (cérémonie JO 2030 à Lyon).\"},{\"source_index\":4,\"explication\":\"Titre mentionne explicitement 'campagne pour les municipales de Lyon'.\"},{\"source_index\":5,\"explication\":\"BFM annonce clairement sa candidature aux municipales de Lyon en 2026.\"},{\"source_index\":6,\"explication\":\"Lyon Capitale confirme une campagne officielle pour les municipales 2026 avec un meeting annoncé.\"},{\"source_index\":7,\"explication\":\"Projet politique lié explicitement aux 'municipales à Lyon' et à sa candidature.\"},{\"source_index\":8,\"explication\":\"Titre évoque clairement la 'candidature d'Anaïs Belouassa-Cherifi' pour les municipales.\"}]}"
   }
 }

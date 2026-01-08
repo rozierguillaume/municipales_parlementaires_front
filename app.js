@@ -77,6 +77,33 @@ const formatDate = (value) => {
   });
 };
 
+const getRouteId = () => {
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get("id");
+  return id ? id.trim() : null;
+};
+
+const updateUrl = (id, replace = false) => {
+  const currentId = getRouteId();
+  const normalizedId = id || null;
+  if (!replace && currentId === normalizedId) {
+    return;
+  }
+  const url = new URL(window.location.href);
+  if (normalizedId) {
+    url.searchParams.set("id", normalizedId);
+  } else {
+    url.searchParams.delete("id");
+  }
+  const nextUrl = `${url.pathname}${url.search}${url.hash}`;
+  const stateData = { id: normalizedId };
+  if (replace) {
+    history.replaceState(stateData, "", nextUrl);
+  } else {
+    history.pushState(stateData, "", nextUrl);
+  }
+};
+
 const formatAnalysisTimestamp = (value) => {
   if (isMissing(value)) {
     return "Date d'analyse inconnue";
@@ -405,17 +432,28 @@ const renderMember = (member, details) => {
   const metaLine = formatMemberMetaLine(departement, commune);
 
   const articles = details && Array.isArray(details.search_results) ? details.search_results : [];
+  const articlesWithIndex = articles.map((article, index) => ({
+    ...article,
+    sourceIndex: index + 1,
+  }));
+  const sortedArticles = [...articlesWithIndex].sort((a, b) => {
+    const dateA = new Date(a.date || "");
+    const dateB = new Date(b.date || "");
+    const timeA = Number.isNaN(dateA.getTime()) ? 0 : dateA.getTime();
+    const timeB = Number.isNaN(dateB.getTime()) ? 0 : dateB.getTime();
+    return timeB - timeA;
+  });
   const usedSourceIndices = getUsedSourceIndices(details, articles.length);
   const usedSourceSet = new Set(usedSourceIndices);
-  const articlesHtml = articles.length
-    ? articles
-        .map((article, index) => {
+  const articlesHtml = sortedArticles.length
+    ? sortedArticles
+        .map((article) => {
           const title = pickValue(article.title, "Sans titre");
           const snippet = pickValue(article.snippet, "");
           const source = pickValue(article.source, "Source inconnue");
           const dateText = formatDate(article.date);
           const link = pickValue(article.link, "");
-          const sourceIndex = index + 1;
+          const sourceIndex = article.sourceIndex;
           const isUsed = usedSourceSet.has(sourceIndex);
           const titleHtml = link
             ? `<a class="article-title" href="${escapeHtml(
@@ -776,11 +814,26 @@ const loadSummary = async () => {
   renderSummaryView(entries);
 };
 
-const showSummary = () => {
+const showSummary = (options = {}) => {
   state.view = "summary";
   state.activeId = null;
   renderList();
   loadSummary();
+  if (!options.silent) {
+    updateUrl(null, options.replace);
+  }
+};
+
+const applyRouteFromUrl = () => {
+  const id = getRouteId();
+  if (id && state.byId[id]) {
+    selectMember(state.byId[id], { silent: true });
+    return;
+  }
+  showSummary({ silent: true });
+  if (id) {
+    updateUrl(null, true);
+  }
 };
 
 const parseJsonSafe = (text) => {
@@ -814,7 +867,7 @@ const fetchJson = async (url) => {
   throw new Error(`JSON parse error: ${parsedSanitized.error.message}`);
 };
 
-const selectMember = (member) => {
+const selectMember = (member, options = {}) => {
   if (!member) {
     return;
   }
@@ -823,6 +876,9 @@ const selectMember = (member) => {
   state.activeId = member.id;
   renderList();
   loadMember(member);
+  if (!options.silent) {
+    updateUrl(member.id, options.replace);
+  }
 };
 
 const applyFilter = () => {
@@ -876,7 +932,7 @@ const loadList = async () => {
     }, {});
     state.filtered = [...state.all];
     updateSidebarMeta();
-    showSummary();
+    applyRouteFromUrl();
   } catch (error) {
     console.error("List load failed", error, listUrl);
     if (window.location.protocol === "file:") {
@@ -901,7 +957,7 @@ elements.clearBtn.addEventListener("click", () => {
   elements.filterInput.focus();
 });
 if (elements.homeBtn) {
-  elements.homeBtn.addEventListener("click", showSummary);
+  elements.homeBtn.addEventListener("click", () => showSummary());
 }
 elements.main.addEventListener("click", (event) => {
   const filterClear = event.target.closest("[data-clear-filter]");
@@ -947,6 +1003,13 @@ elements.main.addEventListener("click", (event) => {
   if (member) {
     selectMember(member);
   }
+});
+
+window.addEventListener("popstate", () => {
+  if (!state.all.length) {
+    return;
+  }
+  applyRouteFromUrl();
 });
 
 loadList();
