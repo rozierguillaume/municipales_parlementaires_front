@@ -109,6 +109,34 @@
       "snippet": "Nelson Chaudon, nouveau maire RN de Beaucaire&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 29 Jul 2024 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Payan, Vassal, Delogu… Qui se déclarera candidat en premier à la mairie de Marseille ? - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMU1jOC1YWDl1dFl1YW5lU09uUTdWUnJ5NmJvOTA0cmdRS2ZTVXFJTmVSSi1Sd2xXd3kzVUxQOGZuemdneGd6Z0J3amZzeGJSLUMtM1hVZlFUZ2M2MUtfaWcyV3Fjc2hnMEhQb3BCOXZCSUVOYXRrOWNHdjQyLWgyTTZCUV9yWnJCVUg5NXV1TlR6Q1BlcFpDb1NHZC1ieGhBZFppQUlfZVp0TllmWExlX2Fmd1BUNDhvYnBqbU9ab0RibWw2cTBjYUJXejYtbG85RlpNUWpKNGxzZw?oc=5",
+      "snippet": "Payan, Vassal, Delogu… Qui se déclarera candidat en premier à la mairie de Marseille ?&nbsp;&nbsp;20 Minutes",
+      "date": "Sat, 15 Mar 2025 07:00:00 GMT",
+      "source": "20 Minutes"
+    },
+    {
+      "title": "Législatives : pourquoi les candidats du Rassemblement national se font-ils discrets ? - - Gomet'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QWVJDaHRNc2ZORXJYMXF6bVBQVmlWRXcwWnhlUW8zLXdrWGdvdTFIcDFBeEQ2clQ0NjZQQWpfQmdnSkdRdXR4S0ZsS2pLZTdKcV94VmZPYWs3UFRrR0F1MjZPdWdDSUo4THgyLW9iSWk?oc=5",
+      "snippet": "Législatives : pourquoi les candidats du Rassemblement national se font-ils discrets ?&nbsp;&nbsp;- Gomet'",
+      "date": "Thu, 04 Jul 2024 07:00:00 GMT",
+      "source": "- Gomet'"
+    },
+    {
+      "title": "\"Nik le RN\", \"Fachos\" : la permanence parlementaire partagée par deux députés Rassemblement national cible de tags et de dégradations - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQOXp3eDNsaDZfbVlNT0xNWERRN29hUHJJVUdqLUdCMzU5S0VwMU9aQ3NIOW5MTkpTTFlJU3pwODdZRXAySTJ2eGR0YUlwN3MtMlRsOWJ4M1RBY2RJTzRzWDNVWjVTeGNXN2NtTTQySDVmT3FQSGRKdHExazFZZFctaWF3aGMyamlwMXZBZ1VvTkFwSmxRQjNJUERqMDF3QnFxSDh4dFVOUTljMzJvUWhxTW12dmNiYzg0Rm8tdGlldDhDemxScXlGYU8wMXF0R0taRFlCVFhZZUY0U3hMeTRkbXYxSmpKTW5jSzF6V3Z2TmxVWGxZbThPbUVNbFNHMEFCekQtSC1ybEJNd080MjZYTFo4TVJ2NkY4eW9lUW1ILUNxM3QtTUtMelpOZWxYNUxhQm0tcE9VMDFxR1BKTktVbnhfZw?oc=5",
+      "snippet": "\"Nik le RN\", \"Fachos\" : la permanence parlementaire partagée par deux députés Rassemblement national cible de tags et de dégradations&nbsp;&nbsp;France 3 Régions",
+      "date": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "source": "France 3 Régions"
+    },
+    {
+      "title": "Municipales 2026 à Marseille : les hésitations de Franck Allisio (RN) - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONThKRlBMLUJqeC1qUVkzeHFFZC1FSzJLNXJuRzlFdnM0TXlVWF9XRWVTYWZwVDBoeWdBQ1Q5VDlqa0gwNHJpQmNXM0VZSnNYeER2VVJmazhnXzc0X09NaXctWUxoNURBQlhmUkZWckhGS3VxQWlWeGYzdmJrSTVvcUJYM0hMRXY0V0NZalIzb0FtYkNrVGJFSWRfb1ZuQTdtRUpGM0otYVNxRXVYb2piLXBVNnFRY0hBTjY4SlJfdnpYV2M?oc=5",
+      "snippet": "Municipales 2026 à Marseille : les hésitations de Franck Allisio (RN)&nbsp;&nbsp;La Provence",
+      "date": "Mon, 03 Mar 2025 08:00:00 GMT",
+      "source": "La Provence"
     }
   ],
   "analysis": {
@@ -116,12 +144,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Gisèle Lelouis (DVD) comme candidate ou retirée pour les municipales 2026 à Marseille."
+        "explication": "Aucune source ne mentionne explicitement Gisèle Lelouis comme candidate aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:52:02.275763Z",
+    "analysis_at": "2026-01-09T14:33:34.404626Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Gisèle Lelouis (DVD) comme candidate ou retirée pour les municipales 2026 à Marseille.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Gisèle Lelouis comme candidate aux municipales 2026.\"}\n]}"
   }
 }

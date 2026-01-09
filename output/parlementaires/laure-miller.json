@@ -17,7 +17,8 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWXVLTlZCQmlWZnNkc25WUHdwUDRoWEZmOXVUTWxnZEZnOWhncXlLU0ZZMk5UejNHakNtd3F3Zi1qWGNwSlJfTHlWX1JhM0JVU2Jxa3hZTllsZlY2Q2NZVE9FOGZHN2FKMlhJSDUwTWt2NDRKZHh5T2JZa3l3SVUtbkJOSXhsQXJ5ZEg3Y0c5R0I0ZDVVWVV0TlpybkxzQ3VnMGp0X1FreWJDbWx5TU9QRUdRVU15ajlhLVE1V1Nvc1JXWjdXRl9ucEhtOWhuaDlpcXV6RnNGYzZfdlN5bUNpLWJwNk1XdFJlbE1rcURMb0hxeDVuUGNN?oc=5",
       "snippet": "Municipales 2026 dans les Yvelines : ils attirent l’attention des candidats à la surexposition aux écrans&nbsp;&nbsp;Actu.fr",
       "date": "Sun, 14 Dec 2025 08:00:00 GMT",
-      "source": "Actu.fr"
+      "source": "Actu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Emmanuel Macron le 2 décembre à Clermont-Ferrand face aux lecteurs de La Montagne - Le Berry Républicain",
@@ -31,21 +32,24 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaXVxNXRfWkZQOFFSOW5UMzhXZzdpMXlrN0NCNGRXOWxRLVU0TjBwQ2dhMWZQQ1lha1gxdWZ6N2VDYUVlNUxnWDEzcFpuVG82UHpJZDBYcVh5bVdUaDhuWnd5Tm1EN1VraVdjdFVXWE0yNlpyZDJYemkyclVPZ2Q1OUhVWEM2OHJldFlwVVFxcFJIZWNHOXJDMmhVbW5ES0xqblJYZUFsVVlBTnJPQWk4aXJfSkp5a1QzaHdzeHpudXNOV3kzTjlr?oc=5",
       "snippet": "Marne - Politique - La députée Laure Miller appelle à « construire une coalition » sur les sujets urgents&nbsp;&nbsp;L'Hebdo du Vendredi",
       "date": "Tue, 09 Sep 2025 07:00:00 GMT",
-      "source": "L'Hebdo du Vendredi"
+      "source": "L'Hebdo du Vendredi",
+      "snippet_source": "rss"
     },
     {
       "title": "Municipales 2026 à Reims : la députée européenne Anne-Sophie Frigout candidate pour le Rassemblement national - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObHNVRWhCMUFubzhVQjF2STNFVkk4UWZZYjY3RFMyUUotd1A0dzIyeEVobTc4T0VLaUFhckVYbUlkYTRhYlBZMnFjTlpCZjBPRUdEQzhfb1BTcklNMWNCUTVtajZMTTJzR19CZDVNTlRyR0hUelh1YTloT3hxaEhvSmNsTjk5Z2JadEUtQXRHWEdPWTNPRGIyZ1N3d0FkeTViTDc4WU4tTjA4N2VpUVctMFRCOVVVWExrVVpIaFI0ckNaLTZKdWNWSlJGd3NDQkRsSFNTa1R3aEVPU1VtazZIeXJ3WWJCejlfaE5qUEd3?oc=5",
       "snippet": "Municipales 2026 à Reims : la députée européenne Anne-Sophie Frigout candidate pour le Rassemblement national&nbsp;&nbsp;francebleu.fr",
       "date": "Wed, 28 May 2025 07:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Reims - Numérique - Laure Miller, la députée de la Marne en croisade contre TikTok - L'Hebdo du Vendredi",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN05ERFB0aVlEMnpybmsxSE5LcjhxQ1lJWjVjQlRPbklBS1NLQ01HY3Y2eTRNZXJOY1FTRGhsOEF0VDVySk5wc1NlTmF0cDlGdVRmZTNEeWd3Vms1SndRY0ZMWVhNbm91Rkk3WEVrUXV1b3RNWS04cEZLS25TZkE1RHhWS3J6ZHhqcEVsODlHUkJFRWtoUzVpNENNUURBaFdvQ3VMVzUxZkVwZGxj?oc=5",
       "snippet": "Reims - Numérique - Laure Miller, la députée de la Marne en croisade contre TikTok&nbsp;&nbsp;L'Hebdo du Vendredi",
       "date": "Fri, 16 May 2025 07:00:00 GMT",
-      "source": "L'Hebdo du Vendredi"
+      "source": "L'Hebdo du Vendredi",
+      "snippet_source": "rss"
     },
     {
       "title": "Laure Miller, députée : «Nous pouvons décider d’une restriction d’accès aux réseaux sociaux pour les plus jeunes - Libération",
@@ -59,56 +63,64 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWZtNXprclZGa0xXSEF5cnlNdHlKNndvQXQ3aHBBTmZacGJzTE9ndVRwRXhnSlEwcG5BWmpNYnlld2lRTmRkUWo3a3lBQmhFblh6OVVaNUJwZ2dsSThYdzBRdU14TGZXVUZTSHJMNk1nbFlNWGg2WWRSU2J0TGtJb09nbXpueERMYlVmZkZpV3Q1Y0VOSGh3S0NWckZvNXdPTHUwOFdITTBsV1NYdHhVS3JvQkM3MlF4aUhmZDFqd1E4QXMwODNjUA?oc=5",
       "snippet": "Municipales 2026 : Anne-Sophie Frigout candidate du Rassemblement national pour la mairie de Reims&nbsp;&nbsp;L'Union",
       "date": "Wed, 28 May 2025 07:00:00 GMT",
-      "source": "L'Union"
+      "source": "L'Union",
+      "snippet_source": "rss"
     },
     {
       "title": "Une députée macroniste demande une commission d’enquête sur TikTok - Le Parisien",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkhHT0tyT29KUEJCSVlzd3g4bVFldVRqMzFPcWthU2JNSG92VWh1WWpJOENqX1NGcWptOFg3Rnh5akVrMTcwZEFEUW51OGFVZWRJYkl4N2hnUWJleDA3YXNqdklFWnF5UEJwQzFlQ3hxZFhJMDM3UVlUZWhOZm5vRlZyeVVJc0JOX2ZhRVM5NHVFSmFITUlvaldhaHR5bkJpeW9UVkhmWmtzeFFKZ3Y0RklUQUxkSjFuaWFiWnJYZ05zbXZlSTFBaFljNXpYZDd2UEQ0eDAtaFp0ZWc?oc=5",
       "snippet": "Une députée macroniste demande une commission d’enquête sur TikTok&nbsp;&nbsp;Le Parisien",
       "date": "Fri, 31 Jan 2025 08:00:00 GMT",
-      "source": "Le Parisien"
+      "source": "Le Parisien",
+      "snippet_source": "rss"
     },
     {
       "title": "Encadrement des réseaux sociaux pour les mineurs : \"L'interdiction est la seule solution\" pour les moins de 15 ans, selon la députée Laure Miller - Franceinfo",
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMjRfSFAzMEdWN2tjN045OVZleVlpWFFTdTVaM0FqaXhtMnJWTlJ2ekpGa1RMd1N5NVh2U3AxWmstOWxieFQwOUE4bXdwNEpkbnkzYmQ0Y2g5eC0tY3ZzcXRuck9tZklQbzY1LVgwLUlqM1FpZ2E0WEpnZG9vdzZBajB0aWFaQ3ZHNE40N29QM3MtY0pEalR3RDE0TWhkTHViVzd3eXRIaC1kQ1JyYjE1ajJScXd1YVNLWDhMNHl6U0xEOFhyS0dzRkdIaWFKc1hheDVhX0ZyTE43NXdpRkFtVnlfem9SVEVzRkE2d1pQT0lFT0txMmQ2dW51QzYwbUVOaVIxUm56cEMzUXJGcjFQV2h0SXA3MUJEcF9uSUZhMkZaSkphTWozR2RwOTA?oc=5",
       "snippet": "Encadrement des réseaux sociaux pour les mineurs : \"L'interdiction est la seule solution\" pour les moins de 15 ans, selon la députée Laure Miller&nbsp;&nbsp;Franceinfo",
       "date": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "source": "Franceinfo"
+      "source": "Franceinfo",
+      "snippet_source": "rss"
     },
     {
       "title": "Laure Miller, députée de Reims, répond aux accusations de racisme après ses propos sur le « sentiment de submersion migratoire » - L'Union",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0wxSFZod0FRcFpUMmRScTBDQ18yQV9wWnItbm43OTUzYU4tSm1BOHhFX0hyRXJPRU4xcXEyY01vbjJqQW5aNFZseUpFNnBDYzhlTno1Q05hODY0bGJxSm13QklWNUtISFpyWUwwYnJwbC1IT2hnckxRSFNFWVhXQ21QcDlTS25kdmVHc3hYc2V5Qm9LSTI0NlpZbmZoQmFXd3ZMeFRPbVpReXFoSTdUU0FkbWJnc3UxNVFzdEpSTzV5dlZUU1NGXw?oc=5",
       "snippet": "Laure Miller, députée de Reims, répond aux accusations de racisme après ses propos sur le « sentiment de submersion migratoire »&nbsp;&nbsp;L'Union",
       "date": "Wed, 29 Jan 2025 08:00:00 GMT",
-      "source": "L'Union"
+      "source": "L'Union",
+      "snippet_source": "rss"
     },
     {
       "title": "Déjeuners, réunions, la députée marnaise Laure Miller lance un tirage au sort pour aller à la rencontre des citoyens - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSGsxcE9TNVlabDE2dnlmbS1EdnJTZ3JfY1dXMk15MFFrZ1lONXZoS3llVTNVOE1vX2dZRGZjTUY0VGdKMFUzUUlwRHBBWUVKTUl1cUdaZnBkMEV2UGJDeHNOdDZhV3kxVjU1OGUtVnJxT0I4aUZES2hETWg1REtwTDJyLVBtU1JKYU92Wm5tMEZHVHZTR2pyM0d5bXVnN09LN2l1Vm4zSEZpdkZiczc1Vlh4N0lxbGF5UTBNTE55S3VxWjROeUtqZmdHQWxGQ2lSTUthX05UN2ZmenJQeGx2VXRrVmtReV9mWVh1VWJmdV93WXdING9N?oc=5",
       "snippet": "Déjeuners, réunions, la députée marnaise Laure Miller lance un tirage au sort pour aller à la rencontre des citoyens&nbsp;&nbsp;francebleu.fr",
       "date": "Thu, 19 Sep 2024 07:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Encadrement des réseaux sociaux pour les mineurs : la France va pouvoir \"légiférer en droit interne\", assure la députée Laure Miller - Franceinfo",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUzh6WkZxUlVZTEVFOTY5RVVIcXdpQkMtdE45RGtXQ3V0WTU1NUpKOGtvVHRfRWw3b2xUVFhzRi1ieXY4bndNcGtJeDc4aUxvWmJCM2RZNHhPUEVrbkI0ckRiNzU5LWVMV00yV01iNkhUem1uOE1VWTVQMWZ0OTBlYUduZktIU1ZzZFFiM0NPMHJhR0JwMjJjRUI5aDlRUXRnLXBtdEw3RlRVRk95SkdQbGFqalJfRzhmeUtQTzlTbmg3dDNEODM2ZTJ1SmNpSElNZERpQk5XVTg2R2Q1WFJkRUFSRW5GektMV3dGdU9WSFdncXVxY1IzREZ2TFdRb2pDcTVGZGlTd3l0YXBsbmQ1V2hmVGxtSFhUcU1R?oc=5",
       "snippet": "Encadrement des réseaux sociaux pour les mineurs : la France va pouvoir \"légiférer en droit interne\", assure la députée Laure Miller&nbsp;&nbsp;Franceinfo",
       "date": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "source": "Franceinfo"
+      "source": "Franceinfo",
+      "snippet_source": "rss"
     },
     {
       "title": "Laure Miller - Anne-Sophie Frigout, troisième manche dans la 2e circonscription de la Marne - L'Hebdo du Vendredi",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQano5T0pSTUFmV0VadzlaWGxIaDR6UDBTazc0LVZHTUdIRl9mMjlwSjlMc1Z4NGdiX01leWlSNTVUWUZCLTlLUk9HMzFsVEhfcjRnMjZEaGs5aU1QQ3MyaElaaVVsdWNoTWVOTnI3dTh2elM5UWFTbUh4Q0JnZnlyZTlZRXZKOEV6SUtVQVUzRE1LWERMa3lMdTNiQktneGlzWmtKYk83bnJhcUpWQnVOX0JObS1tS0N2TzdaRGxrcmlrbXYtdjRqMElUOGtXWFVU?oc=5",
       "snippet": "Laure Miller - Anne-Sophie Frigout, troisième manche dans la 2e circonscription de la Marne&nbsp;&nbsp;L'Hebdo du Vendredi",
       "date": "Thu, 04 Jul 2024 07:00:00 GMT",
-      "source": "L'Hebdo du Vendredi"
+      "source": "L'Hebdo du Vendredi",
+      "snippet_source": "rss"
     },
     {
       "title": "Interdiction des réseaux sociaux aux mineurs : \"Cet été, nous avons réussi à faire bouger la Commission européenne, qui nous a autorisé à légiférer en interne\", souligne Laure Miller, élue Renaissance - Franceinfo",
       "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTEpXRDBKUFRmbC1Hck9EN0hPbllfQnFVcUJaMDNKYzBfS3AwSTBoS3Z6anFIU0pBdWlCdG5mRld5b1VmQy04amxJak00a2VNNWU0TVp4V1BpV3E5RjhBbnlROW1ua1J4LXFfN0hLR1BSZE41bjNVcmE2WjRLNExZZHc4RXRkS3Vyd2I4N3o4VTRLWU1JcXQwQ0tVNzBabThnS3lOdmNKd2RLa1pVd0h0OG1jMngyRF9EdUJwc0h4cWpobXVpVGdaZzRSUlcwUXQyY3JabVlDVW1DNkpPclJPWjZrb19NSTdYdWdHekJqakp4S2MtdUh4dV9NZllSOG5EcU4xZ0tTdlFHLW1mbUVUNmpSajJzYUZmbllSRHJENl85c2YxbjVVMHowek5CUHAxN3VEU0dqVExobzJjbW5LMmhfX3hVUGJyZkZ1NXRuVERvTTA4MHpEc1BTdG5adFNrZUNTQjFaMWNZMkJlNFVMUXBTRWx0VUJOTmhv?oc=5",
       "snippet": "Interdiction des réseaux sociaux aux mineurs : \"Cet été, nous avons réussi à faire bouger la Commission européenne, qui nous a autorisé à légiférer en interne\", souligne Laure Miller, élue Renaissance&nbsp;&nbsp;Franceinfo",
       "date": "Thu, 04 Dec 2025 08:00:00 GMT",
-      "source": "Franceinfo"
+      "source": "Franceinfo",
+      "snippet_source": "rss"
     },
     {
       "title": "\"Une moitié des jeunes favorable à l'interdiction\" de TikTok, dit la rapporteure de la commission sur le réseau social - francebleu.fr",
@@ -122,55 +134,121 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVi14d3h4RVJWSFFpS1h2TF96VHlpcEdzR2cxYXBDdktBV0dGS2xnWmVZam5GOGFvTDN5clVpYXY2NXo5S0ZRYlg0RVhqcDl2VENvS21nRVBXaXdlT2I4dnNOS0gydXpkYjhxRnJURnlMNzBBRS1peGtqbFNrLXNTaUowRXc5dDF1dWh6eldzZGtuZw?oc=5",
       "snippet": "Reims - Politique - Laure Miller lance son « Collectif du débat »&nbsp;&nbsp;L'Hebdo du Vendredi",
       "date": "Wed, 05 Apr 2023 07:00:00 GMT",
-      "source": "L'Hebdo du Vendredi"
+      "source": "L'Hebdo du Vendredi",
+      "snippet_source": "rss"
     },
     {
       "title": "Contre la hausse des impôts une trentaine d'élus Ensemble cosigne une tribune, dont la députée de la Marne Laure Miller - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTkZsb1VvbnhfZ0ZOYWNGWlEtbzh1S0QzV3FoTXFMbDJnaHI1NURQOFJLblU1elBGMFpIeUozNWlMdDhyOXRBSnVucVd2TnA4Z1RIOGl0eXRjRVBqU0IwVVlYR0N0Nlg2LTA4S3BBaUQwNnhleWJzdXA2bFp4UmYxbzl0VjlCZHNqSU5RclY1MHg4aHZ3RnVTRThyWlRQbDYxZjRkdng1amItQXJDT1EyM0UxYlFtOVVTYmx2YUhkWmgyRXRVVVpnVFo3YkxIVE5BS1ZFYlZINEV5NXJvQWdUNHZSNFkxYm1LWnptMDhPYlV6VXJldzNhTg?oc=5",
       "snippet": "Contre la hausse des impôts une trentaine d'élus Ensemble cosigne une tribune, dont la députée de la Marne Laure Miller&nbsp;&nbsp;francebleu.fr",
       "date": "Sun, 29 Sep 2024 07:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "TikTok : bientôt un vote à l'Assemblée nationale pour la création d'une commission d'enquête - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNDgxSVdhT3FCLXNXYVlydnhUd2dyYnJnSkpndnZWZmVJM2N5OGtmbEpRcDBGRG5GNGl6aGxqZHp1UGxMbnkwZTdhNEZxUXVucWdfcU00amVNeDJGZ1V0VUkxZnVhYU8yVDZqMGtFYTdYWkFFVHRQaVlQd2xZdFIxWXFCTk5JcWxIaWFNR042bVg3a0N4OGYzOTNqc3JtUmRMSVI4Tm1nSExibUtGODdObVdWdERkMXNyclFBTWJ5VFRyNjYyeFZCVVE4LXNneEtmQjVTck1B?oc=5",
       "snippet": "TikTok : bientôt un vote à l'Assemblée nationale pour la création d'une commission d'enquête&nbsp;&nbsp;francebleu.fr",
       "date": "Tue, 11 Feb 2025 08:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Anne-Sophie Frigout veut « prendre sa revanche » face à Laure Miller dans la 2e circonscription de la Marne - L'Hebdo du Vendredi",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQWN4cUVMVVNzZVJmb3NNOG1lbnF6Sk5KbVBCS1VoSjdlVXVXQ1U2ODA4cl9KaVIzMkd6VWtxWHY2eFNuQ21kNkVqaTdDYTZrREgxbk4yRzdVbGtScjEybkFWZmZuYklJckdoZlRFZGg3UnlSbjg0RG1JS18yS1dTOEZ6TXhFRjhyRkRLMnd3dFgtdEhXSTF1WGdmMkh6YWpGMU9YbWNRZ1FVamJCT2JSeDVhR2xscm51eGVhSGktSEJUODhOR1JnZFB4bnk3MjRET3d3VDdfY01feld6WUNmRzV3WUg?oc=5",
       "snippet": "Anne-Sophie Frigout veut « prendre sa revanche » face à Laure Miller dans la 2e circonscription de la Marne&nbsp;&nbsp;L'Hebdo du Vendredi",
       "date": "Mon, 10 Jun 2024 07:00:00 GMT",
-      "source": "L'Hebdo du Vendredi"
+      "source": "L'Hebdo du Vendredi",
+      "snippet_source": "rss"
     },
     {
       "title": "Reims - Législatives - Laure Miller élue députée de la 2e circonscription de la Marne - L'Hebdo du Vendredi",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTNfZlk2cFN3U04tTmpiSVZhaWY5ejJZdG1sZ2txakNmcGhHYmJZUUkwWUUwRVV1MldXa3NGVUJ4bjdTMXVOQm1Ga0MtWnVfX21saFFubTBzTmlqbFFnQjJnR2Zqczc0WlF1U193ZXJWQ2N4S3NtNWFyNko4czJDUmEwYkMyZ2Ewa3o5elRKX0NTZGppX1BrdnNJY2k4a19Qek5rNzNpLUw0a0RJdnc?oc=5",
       "snippet": "Reims - Législatives - Laure Miller élue députée de la 2e circonscription de la Marne&nbsp;&nbsp;L'Hebdo du Vendredi",
       "date": "Mon, 30 Jan 2023 08:00:00 GMT",
-      "source": "L'Hebdo du Vendredi"
+      "source": "L'Hebdo du Vendredi",
+      "snippet_source": "rss"
     },
     {
       "title": "Les ambitions locales tous azimuts de la députée européenne Anne-Sophie Frigout (RN) - L'Union",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHJzQWU0SENCOHVHQXQ5S1dfVTZ3dmVucmdJYkU4Y1hiZFpVaVhhOTU5dlBnOVdHLUJkR2xRd3BfN3BZM1JSODhmRFJZRXI0LTM4ZkR2SlZ0a2lUYTJXN2pkbHh3YWR2SW5hSkZrNkpWanM4ZHc1ejV6eVFUS3ZucXZFVUdnRmxPMm5vNEpKZHQ2U1RIbnFOSVJzMXdsWWVLSnhlRmVveG95SkgtNjMtOHhleHNIbE4yVzQ2d3QtWXpWbkc1eHZkUw?oc=5",
       "snippet": "Les ambitions locales tous azimuts de la députée européenne Anne-Sophie Frigout (RN)&nbsp;&nbsp;L'Union",
       "date": "Wed, 30 Oct 2024 07:00:00 GMT",
-      "source": "L'Union"
+      "source": "L'Union",
+      "snippet_source": "rss"
+    },
+    {
+      "title": "Une députée demande au Festival de Cannes de rompre son partenariat avec TikTok - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdmxLVUVLSzVBVHZCM3NRdXdSUWloVWxDVHB0Z3U1bWZPV1hveDk1WkJwWkhwYVFwMEotMjlrUWVWQUJ2enp6S1UwbS1yYVRSTWRHLWdhb2pOZEtRT0hVdjZVTG1xUU1UMlBMcTV6ckFHOElrZ25YamZoME9aNDRxcnBaVVdVaGRVR0taTEJSUE5vVDlfUVk5TnNyOEMwOVQ2TUkxU3ZuTzBVMGxuNUFMYWd6WF8zRXowR2dkSDc4cjVHVjVzN3dtLWRoZjRNY2N6dGxBNmZlWWRoYmxtbHg2dVF6ZkZlNGxCT3BmZlpR?oc=5",
+      "snippet": "Une députée demande au Festival de Cannes de rompre son partenariat avec TikTok&nbsp;&nbsp;Le Parisien",
+      "snippet_source": "rss",
+      "date": "Wed, 21 May 2025 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Laure Miller confortablement reconduite face à Anne-Sophie Frigout dans la 2e circonscription - L'Hebdo du Vendredi",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFJVSkhySHB5MHNkMTlJQjlJd0JKY2xKNlYwRXBNZzNGYUxOZ0VVTUVGQkZPWFZTbzE1X2RiQzF3UUdJeVQ2Z2tJVHV0R012cEluSFN4TkRQMGFzbGdyZ3VVVVo2WThkVUdEYkJCdnZLOXVXWnZlZU9ScWdDV0pVdUhfSVNLdG5oaTNKVDVmVFFES3EtZ2RTNUxEeUc5QXpjdUR0bE9FVXh4Sk41dy1mNWg5TjZnSnZCLXp2eWUxVUEtMXVlTm1mV1BlWHRVN2dObkJrU1dnVQ?oc=5",
+      "snippet": "Laure Miller confortablement reconduite face à Anne-Sophie Frigout dans la 2e circonscription&nbsp;&nbsp;L'Hebdo du Vendredi",
+      "snippet_source": "rss",
+      "date": "Sun, 07 Jul 2024 07:00:00 GMT",
+      "source": "L'Hebdo du Vendredi"
+    },
+    {
+      "title": "Reims - Législatives 2022 - Marne - Laure Miller bien investie « Ensemble » dans la 2e circonscription - L'Hebdo du Vendredi",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUVMN3lzRkJWeDJJN3M5TFNZWUM5WWNiZF9BMkNmNUpyQ2Y2UWt4bXI3ekRMaHZjTmNSaHBOdC0xdEItdnkwVXRTRVF5MjNrUVhBa241aTZ4WGtKN1EwcWtkbjNMMzdlS1N0VFBEbGpKc2pOYjJoT3N0U05IYzRiZ2N0cEJKLWc4UDJCM3RPYjhkOUY2T2x0emZ3RWNlc1gyMjRTSlNrRlpLLUhFTUE?oc=5",
+      "snippet": "Reims - Législatives 2022 - Marne - Laure Miller bien investie « Ensemble » dans la 2e circonscription&nbsp;&nbsp;L'Hebdo du Vendredi",
+      "date": "Mon, 09 May 2022 09:14:54 GMT",
+      "source": "L'Hebdo du Vendredi"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature (ou un retrait) aux municipales 2026 à Reims ou ailleurs."
+        "source_index": 1,
+        "explication": "Évoque des candidats aux municipales 2026 dans les Yvelines, mais ne mentionne pas Laure Miller."
+      },
+      {
+        "source_index": 2,
+        "explication": "Parle de Laure Miller sans lien avec une candidature municipale 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Cite Laure Miller comme élue Renaissance, mais aucune mention de candidature municipale 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Aucun lien avec Laure Miller ou les municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Parle de Laure Miller sans référence à une candidature municipale 2026."
+      },
+      {
+        "source_index": 6,
+        "explication": "Cite Laure Miller comme députée, mais aucune mention de candidature municipale 2026."
+      },
+      {
+        "source_index": 7,
+        "explication": "Parle d'une rapporteure (Laure Miller) sans lien avec les municipales 2026."
+      },
+      {
+        "source_index": 8,
+        "explication": "Évoque Laure Miller dans la Marne mais sans mention de candidature municipale 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:26:58.514976Z",
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "analysis_at": "2026-01-09T14:03:21.606511Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature (ou un retrait) aux municipales 2026 à Reims ou ailleurs.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Évoque des candidats aux municipales 2026 dans les Yvelines, mais ne mentionne pas Laure Miller.\"},\n    {\"source_index\": 2, \"explication\": \"Parle de Laure Miller sans lien avec une candidature municipale 2026.\"},\n    {\"source_index\": 3, \"explication\": \"Cite Laure Miller comme élue Renaissance, mais aucune mention de candidature municipale 2026.\"},\n    {\"source_index\": 4, \"explication\": \"Aucun lien avec Laure Miller ou les municipales 2026.\"},\n    {\"source_index\": 5, \"explication\": \"Parle de Laure Miller sans référence à une candidature municipale 2026.\"},\n    {\"source_index\": 6, \"explication\": \"Cite Laure Miller comme députée, mais aucune mention de candidature municipale 2026.\"},\n    {\"source_index\": 7, \"explication\": \"Parle d'une rapporteure (Laure Miller) sans lien avec les municipales 2026.\"},\n    {\"source_index\": 8, \"explication\": \"Évoque Laure Miller dans la Marne mais sans mention de candidature municipale 2026.\"}\n]}"
   }
 }

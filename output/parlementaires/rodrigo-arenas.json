@@ -151,6 +151,27 @@
       "snippet": "Municipales 2026. Emmanuel Grégoire remporte la primaire socialiste de Paris&nbsp;&nbsp;Ouest-France",
       "date": "Mon, 30 Jun 2025 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026 : à Paris, la course pour succéder à Anne Hidalgo est lancée - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc013dDVlN3JIQnUwSUFYdXlGQ09rdzMzdXhjQm1WQWdrOUlIQWlObnh1Wks2QUp0aTY3X0xHZW44bTg5NHJGdm12b1F4VnpFNGNMd1NhTUN1ZDRPQUtNNTNJTFR3eDZpYVQ4MWVuelVNWTh5c3Y3YjhQWEtPZmgtVmNIeU9IenBwSVRUS3FIRlQ2UnNTbUJnWU9tUjhYWlhGUDdtd3dGTEYtQ3dEdE5kcEZtUUVucUdRMTFtMUpQZjNaZVd1VzZyYi0yNmhyMkNYVEhFQ3FUY3NMbUE0akZhdXg3U01JeEVrTUdhZ09FTHhHYk0?oc=5",
+      "snippet": "Municipales 2026 : à Paris, la course pour succéder à Anne Hidalgo est lancée&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 11 Feb 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026 : la gauche en ordre dispersé après Villeneuve-Saint-Georges ? - lejdd.fr",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1dmTGJuaEcyN3daU01hZ2F1T3h3a1BERHhOMzhsRG9WVmViUVNxdEtyUXpwb09XRXduandQdFp2cGFpUWlmT3NHMExkYXRLanc3OXp4MmE1dmZhV3JkekVSMnZva1d2dDR2ZTAtYWFwaURpSlRsOVpudjJ6MWZrZE5mUG1pRHBtRXFvTWwwcTN4TWQ4Q1NGemVkYkJmbkNkVDcyN3RIbXFMWmFBa3pna055bw?oc=5",
+      "snippet": "Municipales 2026 : la gauche en ordre dispersé après Villeneuve-Saint-Georges ?&nbsp;&nbsp;lejdd.fr",
+      "date": "Tue, 04 Feb 2025 08:00:00 GMT",
+      "source": "lejdd.fr"
+    },
+    {
+      "title": "Municipales 2026 : Chikirou vise la mairie de Paris - Sud Radio",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXFyaUFxRndmNDI1WGdRek1LTDBIdkh6b2UteERSRGx4NUd3QjBvNUxwTGxhQ3VvQmFzZk80US0xQWg0MkI4aW9fNVg3MFBfR1ZYd2s1MVZ5c0RQdGI5NzhhNFBYY0JRaDdFYzh6QzF2aHdWcHdIeFc5U2dYekFBeTVTeEREdG9malpNVUVlcXF1TDJvcjN3ZVRueWhQUUcxQ3RRd2R3?oc=5",
+      "snippet": "Municipales 2026 : Chikirou vise la mairie de Paris&nbsp;&nbsp;Sud Radio",
+      "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "source": "Sud Radio"
     }
   ],
   "analysis": {
@@ -158,18 +179,16 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Rodrigo Arenas comme candidat aux municipales 2026 dans le 14e arrondissement de Paris."
+        "explication": "Aucune source ne mentionne explicitement Rodrigo Arenas comme candidat aux municipales 2026."
       },
       {
-        "source_index": 4,
-        "explication": "Source évoquant des \"gros noms\" de LFI (Bruno Gaccio, Danièle Obono) mais sans citer Arenas ni confirmer sa candidature."
+        "source_index": null,
+        "explication": "Toutes les sources liées à des candidatures concernent d'autres personnalités (Chikirou, Gaccio, Obono)."
       }
     ],
-    "used_sources": [
-      4
-    ],
-    "analysis_at": "2026-01-08T13:36:11.558088Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:14:17.105178Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[4],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Rodrigo Arenas comme candidat aux municipales 2026 dans le 14e arrondissement de Paris.\"},{\"source_index\":4,\"explication\":\"Source évoquant des \\\"gros noms\\\" de LFI (Bruno Gaccio, Danièle Obono) mais sans citer Arenas ni confirmer sa candidature.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Rodrigo Arenas comme candidat aux municipales 2026.\"},\n    {\"source_index\": null, \"explication\": \"Toutes les sources liées à des candidatures concernent d'autres personnalités (Chikirou, Gaccio, Obono).\"}\n]}"
   }
 }

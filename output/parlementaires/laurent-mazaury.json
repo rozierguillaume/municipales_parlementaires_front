@@ -116,19 +116,33 @@
       "snippet": "Motion de censure : comment vont voter les députés des Yvelines ?&nbsp;&nbsp;tv78",
       "date": "Tue, 03 Dec 2024 11:20:39 GMT",
       "source": "tv78"
+    },
+    {
+      "title": "Législatives dans les Yvelines : ministres, ouvriers, ingénieurs, profs… quels sont les 94 candidats - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQnJlR0lSVWdUdU1qZ3J1NVdGU0l4SWYyT1M3TDgxVERNOWpVMV9KYjhGTlZ5RkM5YlRackJ4amZUMDhsdE1oaERBdnl4eElvQUtOMXZRaG0zRzc2UzJPMldwbTBTTm9yMFdTZ096UFFuZ2s3ZXE3RUJCVmlzZktSSTR1dmFBNHQ4cDFTNkJkSDdvNHA2bGx3WXVQLUh4MTllZ0RDMDdKMUV3dmlHbm9GVkFKMmVfUU9CY3ZDNTRUVHVvQkpJWVk0clc3aTY4a2hTbmh4X1dCbW53d29TeHFxeDBYemVLdjNETGUzdThnSkNTTWlxajVzVUV1cVlQSUhwWTZtNUN1ZDZaaFAzUkRCU1Z0RQ?oc=5",
+      "snippet": "Législatives dans les Yvelines : ministres, ouvriers, ingénieurs, profs… quels sont les 94 candidats&nbsp;&nbsp;Le Parisien",
+      "date": "Sun, 23 Jun 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne Laurent Mazaury, les municipales 2026 ou une candidature/retrait explicite."
+        "source_index": 1,
+        "explication": "Aucune mention de Laurent Mazaury ou des municipales 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Aucune mention de Laurent Mazaury ou des municipales 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:40:35.385246Z",
+    "used_sources": [
+      1,
+      2
+    ],
+    "analysis_at": "2026-01-09T14:19:21.332393Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Laurent Mazaury, les municipales 2026 ou une candidature/retrait explicite.\"}]}"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[\n    {\"source_index\":1,\"explication\":\"Aucune mention de Laurent Mazaury ou des municipales 2026.\"},\n    {\"source_index\":2,\"explication\":\"Aucune mention de Laurent Mazaury ou des municipales 2026.\"}\n]}"
   }
 }

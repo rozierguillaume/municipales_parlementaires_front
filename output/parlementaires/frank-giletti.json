@@ -16,7 +16,7 @@
       "title": "Municipales 2026 : le maire de Brignoles, la commune de George Clooney dans le Var, soutenu par le RN - Le Parisien",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNFA1bTIxUWttdUFtTDFFMmY1UDlVUDBZNWFIdndtX21xRThyOUU3aVJXZ0NYbVpyUzYwUFkyUlZIbDlreHRiR2REakFDei11U21ENjhBV1R5WGlWYVBhdmFpYVdzY3ZoMlZrVUFzUWdCdXIyMTFxZ0U1MUZhNVdySXF5d1Fud25zZEw1eV9qRnU0LU5EVURRVmtWZnc0SHBRcGxGamZCcG9UZ2t4Qmt4aV9hNUVRUnNlSVBHemNRX0xHY3dLbmE2Tk5zNzlHX2NyclVucjhmUGRKZ3NfY0VGRDBPeHJkd05aNVRXN2NQRnJWenY3RmV4cXFOOVdVV3pqSWtncmlGZThSd1NVZFFwc3NYYm1EZw?oc=5",
       "snippet": "Municipales 2026 : le maire de Brignoles, la commune de George Clooney dans le Var, soutenu par le RN&nbsp;&nbsp;Le Parisien",
-      "date": "Wed, 31 Dec 2025 16:14:00 GMT",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT",
       "source": "Le Parisien"
     },
     {
@@ -137,6 +137,13 @@
       "snippet": "A La Garde, Nicolas Salsou (RN) lance sa campagne municipale&nbsp;&nbsp;Nice-Matin",
       "date": "Fri, 13 Jun 2025 07:00:00 GMT",
       "source": "Nice-Matin"
+    },
+    {
+      "title": "Harcèlement sexuel : Avec le RN à l'Assemblée nationale, la bourse ou le vote - Le Canard enchaîné",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42TDcxbG95U25OMkJrRlhqT29ELVk2QTNZV0xUMGV6NDhqcG5mQkQxUlZrQUJRRmJFS2JiSkFLOU1USFBNR3ZRaXEzNGxSRkN2Z1dtZ2FlUldZLWVYRkpQWERfVlY3R3VhcHdMbUFrZWNFUG4x?oc=5",
+      "snippet": "Harcèlement sexuel : Avec le RN à l'Assemblée nationale, la bourse ou le vote&nbsp;&nbsp;Le Canard enchaîné",
+      "date": "Wed, 24 Jul 2024 07:00:00 GMT",
+      "source": "Le Canard enchaîné"
     }
   ],
   "analysis": {
@@ -144,12 +151,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Frank Giletti comme candidat aux municipales 2026 à Puget-sur-Argens ou ailleurs."
+        "explication": "Aucune source ne mentionne explicitement Frank GILETTI comme candidat aux municipales 2026 à Puget-sur-Argens."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:50:54.730223Z",
+    "analysis_at": "2026-01-09T14:32:10.974214Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Frank Giletti comme candidat aux municipales 2026 à Puget-sur-Argens ou ailleurs.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Frank GILETTI comme candidat aux municipales 2026 à Puget-sur-Argens.\"}\n]}"
   }
 }

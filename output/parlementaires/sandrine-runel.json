@@ -154,33 +154,24 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 11,
-        "explication": "Désignée cheffe de file des socialistes pour les municipales 2026 à Lyon."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature municipale 2026 **pour Sandrine Runel** dans le 8ème arrondissement de Lyon."
       },
       {
-        "source_index": 12,
-        "explication": "Désignée cheffe de file du PS pour les élections municipales à Lyon en 2026."
+        "source_index": null,
+        "explication": "Les sources 1 à 14 évoquent soit Grégory Doucet (candidat PS pour Lyon), soit la désignation de Sandrine Runel comme cheffe de file **du PS** sans préciser son rôle territorial ou sa candidature."
       },
       {
-        "source_index": 13,
-        "explication": "Désignée cheffe de file des socialistes pour les élections municipales à Lyon (2026)."
-      },
-      {
-        "source_index": 14,
-        "explication": "Désignée cheffe de file du PS pour les municipales 2026."
+        "source_index": null,
+        "explication": "Les sources 15-16 concernent une rivalité interne au PS (El Bouni vs. Runel) pour la désignation, mais ne confirment pas une candidature municipale en 2026."
       }
     ],
-    "used_sources": [
-      11,
-      12,
-      13,
-      14
-    ],
-    "analysis_at": "2026-01-08T13:47:51.926380Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:28:13.702017Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[11,12,13,14],\"justification\":[{\"source_index\":11,\"explication\":\"Désignée cheffe de file des socialistes pour les municipales 2026 à Lyon.\"},{\"source_index\":12,\"explication\":\"Désignée cheffe de file du PS pour les élections municipales à Lyon en 2026.\"},{\"source_index\":13,\"explication\":\"Désignée cheffe de file des socialistes pour les élections municipales à Lyon (2026).\"},{\"source_index\":14,\"explication\":\"Désignée cheffe de file du PS pour les municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature municipale 2026 **pour Sandrine Runel** dans le 8ème arrondissement de Lyon.\"},\n    {\"source_index\": null, \"explication\": \"Les sources 1 à 14 évoquent soit Grégory Doucet (candidat PS pour Lyon), soit la désignation de Sandrine Runel comme cheffe de file **du PS** sans préciser son rôle territorial ou sa candidature.\"},\n    {\"source_index\": null, \"explication\": \"Les sources 15-16 concernent une rivalité interne au PS (El Bouni vs. Runel) pour la désignation, mais ne confirment pas une candidature municipale en 2026.\"}\n]}"
   }
 }

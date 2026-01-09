@@ -151,46 +151,53 @@
       "snippet": "Municipales à Sainte-Suzanne : Gironcel passe le relais à Maillot&nbsp;&nbsp;Le Quotidien de La Réunion",
       "date": "Tue, 16 Dec 2025 08:00:00 GMT",
       "source": "Le Quotidien de La Réunion"
+    },
+    {
+      "title": "Élections municipales : A Sainte-Suzanne, René Sotaca rallie la liste d’Eddy Balbine - Le Quotidien de La Réunion",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVlZDdEhYTFdGZHJSM2NBUUozbks5QXFKcUEwdmpKaEdHT0VzY2VsNVhIMVJGZFBkS0hLWjlvelcwckxvSDZfZE5vZmJ0NzA2cC1MSG5KOFhFRG9nZHBPMFpydXNrUVpVVkJmdEMtRUwyM29kSExHNmszTkNGcEVvdmpPcHM0b1F2Qk1lRURPX2NlbFRPRGJtLWZGaTVpSDZqUVotVm8yM1h4SncxSXg0aEtSdTBoMnMzRkFTX0FNbzlfS1QtVzZzNTFkczhpV0RIU0E?oc=5",
+      "snippet": "Élections municipales : A Sainte-Suzanne, René Sotaca rallie la liste d’Eddy Balbine&nbsp;&nbsp;Le Quotidien de La Réunion",
+      "date": "Fri, 09 Jan 2026 10:55:13 GMT",
+      "source": "Le Quotidien de La Réunion"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 3,
-        "explication": "'Maillot officialise sa candidature à Sainte-Suzanne' (municipales 2026 implicite par contexte)"
-      },
-      {
         "source_index": 4,
-        "explication": "'Frédéric Maillot officialise sa candidature à Sainte-Suzanne' pour les municipales 2026"
+        "explication": "Source affirme explicitement sa candidature aux municipales 2026."
       },
       {
         "source_index": 5,
-        "explication": "'Frédéric Maillot candidat à la mairie de Sainte-Suzanne' (municipales 2026)"
+        "explication": "Source confirme officiellement sa candidature pour les municipales 2026."
       },
       {
         "source_index": 6,
-        "explication": "'Frédéric Maillot confirme sa candidature pour la mairie de Sainte-Suzanne' (municipales 2026)"
+        "explication": "Source indique clairement sa candidature à la mairie de Sainte-Suzanne en 2026."
       },
       {
         "source_index": 7,
-        "explication": "'Frédéric Maillot annonce sans surprise sa candidature à Sainte-Suzanne' (municipales 2026)"
+        "explication": "Source précise qu’il confirme sa candidature pour la mairie en 2026."
       },
       {
         "source_index": 8,
-        "explication": "'Frédéric Maillot officialise sa candidature à la mairie de Sainte-Suzanne'"
+        "explication": "Source annonce sans équivoque sa candidature aux municipales 2026."
+      },
+      {
+        "source_index": 9,
+        "explication": "Source officialise sa candidature à la mairie de Sainte-Suzanne pour 2026."
       }
     ],
     "used_sources": [
-      3,
       4,
       5,
       6,
       7,
-      8
+      8,
+      9
     ],
-    "analysis_at": "2026-01-08T13:30:23.810878Z",
+    "analysis_at": "2026-01-09T14:07:34.011060Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[3,4,5,6,7,8],\"justification\":[{\"source_index\":3,\"explication\":\"'Maillot officialise sa candidature à Sainte-Suzanne' (municipales 2026 implicite par contexte)\"},{\"source_index\":4,\"explication\":\"'Frédéric Maillot officialise sa candidature à Sainte-Suzanne' pour les municipales 2026\"},{\"source_index\":5,\"explication\":\"'Frédéric Maillot candidat à la mairie de Sainte-Suzanne' (municipales 2026)\"},{\"source_index\":6,\"explication\":\"'Frédéric Maillot confirme sa candidature pour la mairie de Sainte-Suzanne' (municipales 2026)\"},{\"source_index\":7,\"explication\":\"'Frédéric Maillot annonce sans surprise sa candidature à Sainte-Suzanne' (municipales 2026)\"},{\"source_index\":8,\"explication\":\"'Frédéric Maillot officialise sa candidature à la mairie de Sainte-Suzanne'\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [4,5,6,7,8,9], \"justification\": [\n    {\"source_index\": 4, \"explication\": \"Source affirme explicitement sa candidature aux municipales 2026.\"},\n    {\"source_index\": 5, \"explication\": \"Source confirme officiellement sa candidature pour les municipales 2026.\"},\n    {\"source_index\": 6, \"explication\": \"Source indique clairement sa candidature à la mairie de Sainte-Suzanne en 2026.\"},\n    {\"source_index\": 7, \"explication\": \"Source précise qu’il confirme sa candidature pour la mairie en 2026.\"},\n    {\"source_index\": 8, \"explication\": \"Source annonce sans équivoque sa candidature aux municipales 2026.\"},\n    {\"source_index\": 9, \"explication\": \"Source officialise sa candidature à la mairie de Sainte-Suzanne pour 2026.\"}\n]}"
   }
 }

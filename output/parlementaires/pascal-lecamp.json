@@ -151,6 +151,20 @@
       "snippet": "Une novice en politique avec Pascal Lecamp&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Mon, 16 May 2022 07:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "\"Je vous remets la clé de mon bureau\" : l'éviction du 1er adjoint à Tarbes sèchement actée en conseil municipal - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMzJxc1dBdUdMNFRjQmhhd2UwVmRRYm9ENk8zbGo3MlFFa1Q3eHRXM21MeXppVGNvVUo3RkZUZTBxSDZ3SVJzaE9MZTN6bzA3V2I2OXgzei01WmJPTG1QUGNBeTdhVjNNbVBoNmpGdi02eEVrdG1GS3NPRlFqTHlQUVBsUUt4TnBVSlVrdXF4Vnc4QnB4VUx4THVOcGlqdWVZeVNKWG1qM2NOWG5wNXJBSFNTanFlZGhMampHM2lyTUl3UGw2UmxOS0R3eTkxOWNhZU1tSWljUVFySi1ZWkpTR3pTZEIxSS1LU05ZcUxZYmI?oc=5",
+      "snippet": "\"Je vous remets la clé de mon bureau\" : l'éviction du 1er adjoint à Tarbes sèchement actée en conseil municipal&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 23 Jun 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Castres. \"S'inscrire dans les pas de Pascal Bugis\", Arnaud Bousquet annonce être candidat aux municipales 2026 - 100% Radio",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlVwVVN4VnltNi1wMmZvLWVQNWtBbVRmZ1lnTk1YTmVtRk0wSDhhdkh0cnUtSkt6elFoSlE5R2QzX29wRkkybEgyeGNoNHRsWlFhd0xPLUQ3YXBPNkJOS0c4bjVXMG5rNEpMd183T1l5NFdtc1RuX3JZSlk3MDVza1JlNnVwR0kxb2RCRDhHREZTcXlBYmJJQXBZYnI1amJhSlRmV0JRU1R4R0RmT1dYWk15WmNmWDRUTE9uZV9IT1M0VGFNRkNPd2s0TThZWGU1?oc=5",
+      "snippet": "Castres. \"S'inscrire dans les pas de Pascal Bugis\", Arnaud Bousquet annonce être candidat aux municipales 2026&nbsp;&nbsp;100% Radio",
+      "date": "Tue, 29 Aug 2023 07:00:00 GMT",
+      "source": "100% Radio"
     }
   ],
   "analysis": {
@@ -158,14 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Pascal Lecamp (SE) comme candidat aux municipales 2026 à Civray. La source 8 évoque le maire sortant de Civray, mais sans lien avec Lecamp ni candidature."
+        "explication": "Aucune source ne mentionne explicitement Pascal LECAMP (SE) comme candidat aux municipales 2026 à Civray."
       }
     ],
-    "used_sources": [
-      8
-    ],
-    "analysis_at": "2026-01-08T13:41:42.800333Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:20:35.276229Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[8],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Pascal Lecamp (SE) comme candidat aux municipales 2026 à Civray. La source 8 évoque le maire sortant de Civray, mais sans lien avec Lecamp ni candidature.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Pascal LECAMP (SE) comme candidat aux municipales 2026 à Civray.\"}\n]}"
   }
 }

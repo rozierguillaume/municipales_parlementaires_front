@@ -151,35 +151,85 @@
       "snippet": "L'INTERVIEW : Yoann Gillet, député et porte-parole du RN : \"On a franchi la barre des 3 500 adhérents dans le Gard\"&nbsp;&nbsp;Objectif Gard",
       "date": "Mon, 23 Jun 2025 07:00:00 GMT",
       "source": "Objectif Gard"
+    },
+    {
+      "title": "Municipales 2026 à Tours : Bertrand Rouzier (PRG) se déclare candidat - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSTVlS3E4XzhCX3RXQk13STZHa2dnbDYzeXZ2NkRhZHFRa19nb1F2V1RFVVd4c191NzRBLTA1NXhManh5OExpNFFiZTlCNVF5WXN4ZVE1eERhNlJDYUhQTlRhTHNyeXhRcFZLZ1V5TzVKOE1fdlJ5NGpZb0tSVHdfUlY0YUVSUFF1MFlJRFRFT2YzeU5oYnZfTXMxbUhwV0sxWkRWVFk5em11RkJjcGJHMGs4UDhiWmJJdUE?oc=5",
+      "snippet": "Municipales 2026 à Tours : Bertrand Rouzier (PRG) se déclare candidat&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Thu, 08 Jan 2026 15:23:36 GMT",
+      "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Élections municipales 2026 à Nîmes : tour d’horizon des forces en présence - Le réveil de midi",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb3FFZkdsUzVNS01oeUotTnpZNlVLOWdLR1cwSVVQWTlCTFpBSTQ3ZWtISWM2VkV5T3FfT3BlZ19uV2w1ZDRYcEpvLWNMbjFGcVhsMThYbXVfc04zcUYyeTA4THpVUGNWQm9idmVRckkxelhwREloRDZ6MmZTTjJ0TkVBMnlTQzcwUFh1aWw4X3U4VTFzVGlxZzNUc19UUUlfTG10OEl4amx4cVdJX1FCOVVPRzhlcE5Dd2FPWTN6ZjJqRW1ReV9tRERmUkk?oc=5",
+      "snippet": "Élections municipales 2026 à Nîmes : tour d’horizon des forces en présence&nbsp;&nbsp;Le réveil de midi",
+      "date": "Mon, 02 Oct 2023 07:00:00 GMT",
+      "source": "Le réveil de midi"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait aux municipales 2026 pour Yoann Gillet. Les sources évoquent des stratégies politiques générales (sondages, rivalités RN/communistes) sans lien direct avec sa propre candidature."
+        "source_index": 1,
+        "explication": "Source hors contexte territorial (Tours) et sans mention de Yoann Gillet"
+      },
+      {
+        "source_index": 2,
+        "explication": "Évoque le RN à Nîmes mais pas la candidature de Yoann Gillet"
+      },
+      {
+        "source_index": 3,
+        "explication": "Généralités sur le RN, aucune référence à une candidature municipale 2026 pour Gillet"
+      },
+      {
+        "source_index": 4,
+        "explication": "Candidature hors contexte (Bagnols-sur-Cèze) et personne différente"
       },
       {
         "source_index": 5,
-        "explication": "Réaction à un sondage sur la mairie de Nîmes, mais pas d'annonce de candidature"
+        "explication": "Candidature hors contexte (Bagnols) et personne différente"
+      },
+      {
+        "source_index": 6,
+        "explication": "Réaction à un sondage, pas de déclaration explicite de candidature pour 2026"
+      },
+      {
+        "source_index": 7,
+        "explication": "Liste RN à Comps, hors contexte territorial (Nîmes) et personne différente"
       },
       {
         "source_index": 8,
-        "explication": "Évoque le 'match des municipales' sans préciser si Yoann Gillet est candidat"
+        "explication": "Investiture hors contexte (Comps) et personne différente"
       },
       {
         "source_index": 9,
-        "explication": "Affirmation générale sur les dynamiques politiques à Nîmes, sans confirmation de sa candidature"
+        "explication": "Stratégie générale des municipales mais pas de candidature explicite pour Gillet"
+      },
+      {
+        "source_index": 10,
+        "explication": "Déclaration politique sans mention d'une candidature officielle en 2026"
+      },
+      {
+        "source_index": 11,
+        "explication": "Hors sujet (thème migratoire), pas de lien avec les municipales"
       }
     ],
     "used_sources": [
+      1,
+      2,
+      3,
+      4,
       5,
+      6,
+      7,
       8,
-      9
+      9,
+      10,
+      11
     ],
-    "analysis_at": "2026-01-08T13:51:07.667006Z",
+    "analysis_at": "2026-01-09T14:32:34.689043Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5,8,9],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait aux municipales 2026 pour Yoann Gillet. Les sources évoquent des stratégies politiques générales (sondages, rivalités RN/communistes) sans lien direct avec sa propre candidature.\"},{\"source_index\":5,\"explication\":\"Réaction à un sondage sur la mairie de Nîmes, mais pas d'annonce de candidature\"},{\"source_index\":8,\"explication\":\"Évoque le 'match des municipales' sans préciser si Yoann Gillet est candidat\"},{\"source_index\":9,\"explication\":\"Affirmation générale sur les dynamiques politiques à Nîmes, sans confirmation de sa candidature\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Source hors contexte territorial (Tours) et sans mention de Yoann Gillet\"},\n    {\"source_index\": 2, \"explication\": \"Évoque le RN à Nîmes mais pas la candidature de Yoann Gillet\"},\n    {\"source_index\": 3, \"explication\": \"Généralités sur le RN, aucune référence à une candidature municipale 2026 pour Gillet\"},\n    {\"source_index\": 4, \"explication\": \"Candidature hors contexte (Bagnols-sur-Cèze) et personne différente\"},\n    {\"source_index\": 5, \"explication\": \"Candidature hors contexte (Bagnols) et personne différente\"},\n    {\"source_index\": 6, \"explication\": \"Réaction à un sondage, pas de déclaration explicite de candidature pour 2026\"},\n    {\"source_index\": 7, \"explication\": \"Liste RN à Comps, hors contexte territorial (Nîmes) et personne différente\"},\n    {\"source_index\": 8, \"explication\": \"Investiture hors contexte (Comps) et personne différente\"},\n    {\"source_index\": 9, \"explication\": \"Stratégie générale des municipales mais pas de candidature explicite pour Gillet\"},\n    {\"source_index\": 10, \"explication\": \"Déclaration politique sans mention d'une candidature officielle en 2026\"},\n    {\"source_index\": 11, \"explication\": \"Hors sujet (thème migratoire), pas de lien avec les municipales\"}\n]}"
   }
 }

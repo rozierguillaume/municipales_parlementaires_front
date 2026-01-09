@@ -158,25 +158,33 @@
       "snippet": "Municipales 2026 à Avignon : le député LFI Raphaël Arnault se réjouit \"du renouvellement politique\" à venir&nbsp;&nbsp;La Provence",
       "date": "Tue, 04 Feb 2025 08:00:00 GMT",
       "source": "La Provence"
+    },
+    {
+      "title": "Municipales 2026 : Sarah Knafo officiellement candidate à la mairie de Paris - frontieresmedia.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnpRSVVtN2YzNlZSWlQyOFhFMk1aTHZldWtDTEl2MnNLZ3IxZTYxZzZaYzF4a01kNDdYUEhHSjdHNVNaQkVGNkhJLXVOMDd5SUdFeWNmcHpLdnJGUHdyUDlGamhNeWhjSTZidXdIWEtLX0VtZnBPYUxHQ3Z0Z3FRcWJzcXhzdjRqYkRhNHhqTklhNl9ULTJiekxnNXg0WjNuMkZuQ1dxcWkyOWpCbS10cm9UcnhJY01VTFdCLUVLRFA?oc=5",
+      "snippet": "Municipales 2026 : Sarah Knafo officiellement candidate à la mairie de Paris&nbsp;&nbsp;frontieresmedia.fr",
+      "date": "Wed, 07 Jan 2026 19:01:00 GMT",
+      "source": "frontieresmedia.fr"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 14,
-        "explication": "Source mentionne une candidature municipale en 2026 mais pour une autre personne (Raphaël Arnaud, homonyme différent) et dans une autre commune (Sérignan). Aucune référence explicite à Raphaël Arnault (LFI, Avignon)."
+        "source_index": 15,
+        "explication": "Source mentionne un homonyme (Raphaël Arnaud) et non Raphaël Arnault."
       },
       {
-        "source_index": null,
-        "explication": "Aucune source ne lie clairement Raphaël Arnault (PS/LFI) à une candidature ou un retrait pour les municipales 2026 d'Avignon."
+        "source_index": 20,
+        "explication": "Formulation ambiguë ('le choix de Raphaël Arnault est fait') sans confirmation explicite de candidature en 2026."
       }
     ],
     "used_sources": [
-      14
+      15,
+      20
     ],
-    "analysis_at": "2026-01-08T13:34:51.851691Z",
+    "analysis_at": "2026-01-09T14:12:51.317908Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[14],\"justification\":[{\"source_index\":14,\"explication\":\"Source mentionne une candidature municipale en 2026 mais pour une autre personne (Raphaël Arnaud, homonyme différent) et dans une autre commune (Sérignan). Aucune référence explicite à Raphaël Arnault (LFI, Avignon).\"},{\"source_index\":null,\"explication\":\"Aucune source ne lie clairement Raphaël Arnault (PS/LFI) à une candidature ou un retrait pour les municipales 2026 d'Avignon.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 15, \"explication\": \"Source mentionne un homonyme (Raphaël Arnaud) et non Raphaël Arnault.\"},\n    {\"source_index\": 20, \"explication\": \"Formulation ambiguë ('le choix de Raphaël Arnault est fait') sans confirmation explicite de candidature en 2026.\"}\n]}"
   }
 }

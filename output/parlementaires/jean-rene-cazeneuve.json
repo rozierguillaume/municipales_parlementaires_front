@@ -17,7 +17,8 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYzQ4WXNBWVFMZ1A0b0dLc3FWcTNsaTZXbmxXel9EZDg3YXR6cFpBVC1OQmRfbnliZEZ5LTF0cE9mQmstX01lbzAzSE1pVmVNXy1ja3FsYmpGel9oNUpmck5VblFXdTJlUzg0WXpNS1JBVXIySDFHLUFmaDJOUUtUUk1uR2dlX3dabVZiS0lwaWNSZU9xOXNYb2JySVFITnNfZGRnVzNPZlZNbUhZWG1fUjRuMDQ1LWV0TFNINEZjcjVaUWNKRkRxQVBQTGRKWVlEUDVKMTdn?oc=5",
       "snippet": "Municipales 2026 dans le Gers : tour d’horizon des principales villes à trois mois du scrutin&nbsp;&nbsp;ladepeche.fr",
       "date": "Mon, 29 Dec 2025 08:00:00 GMT",
-      "source": "ladepeche.fr"
+      "source": "ladepeche.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Budget 2026 : les députés surtaxent les géants de la tech et les multinationales, le gouvernement vent debout - TF1 Info",
@@ -45,7 +46,8 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYlZVeWhFWEw2ZmlyVXVTOFkzbGNnQTRNdk15SEhOdXcwSDRKN0lmOUVqeG5hMGhjcnZlbkcyNHhRTnQ0YVk5NUdMUThSaUk3LWlrUFpCMlFTVzRKUkxLWmppcndvMkpMLXJxc1dUWEFkczJydUp6OEU0QXQxVTd5Y2tORG1MSHBFZlQ3VXNnaGEyZ0FwWEZCSGlSdnp2bG9UZTlRU0tPdl8zRXFvNHBvSmxNS1RxUnF6VG53M3RaaXNFUldwMlJ0ZHdjMWxhOXU3OUVpMmhlZ0VMbUduTGtaLWFRUkRfZEhIdTJCLTJfX0tBRE5NT0cyVkwtZw?oc=5",
       "snippet": "«Pas de ministres LFI, pas de programme LFI, plus de LFI à l’Assemblée» : la réponse du macroniste Jean-René Cazeneuve à Mélenchon&nbsp;&nbsp;Le Figaro",
       "date": "Sun, 25 Aug 2024 07:00:00 GMT",
-      "source": "Le Figaro"
+      "source": "Le Figaro",
+      "snippet_source": "rss"
     },
     {
       "title": "1ère circonscription du Gers : Jean-René Cazeneuve candidat à sa réélection - Le journal du Gers",
@@ -66,42 +68,48 @@
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORWlxU1FBXzRvOHlQVEEzOXFjbklJRDZaUHFtVnlySnJYV2xQN0k5ZEJhV0NVcmxmdmNIZUJBRk94Z0JLZ2NxVWhsc3Z1NGlmX1p4TllGTVNsQlV0dHQ1VEF1NHduS3ZaSG0xMEJFNFZ2bXpwX2xzWFppTFI1bGhYX01QdkJic0pnSFY3Rk45M2FJNG56alM0dTlQX0tGeW9tUnMydzQ2UzFBM0oxd0dJbEsxQl9hTF9sMWZob0toOHJaRDZ5Ukx3MnZ2QmVET2ZnaDJwQzZUeExMUG9lV1hlSHJIaE85TXBCeE9yRGQyaVdNWE5MdV8yV2ptcnRnNU5JQVpJ?oc=5",
       "snippet": "Budget : \"Il va falloir que les socialistes arrêtent d'en demander toujours plus\", estime le député EPR Jean-René Cazeneuve&nbsp;&nbsp;Franceinfo",
       "date": "Fri, 31 Oct 2025 07:00:00 GMT",
-      "source": "Franceinfo"
+      "source": "Franceinfo",
+      "snippet_source": "rss"
     },
     {
       "title": "Ces députés macronistes qui s’opposeront à la suspension de la réforme des retraites pourtant proposée par leur gouvernement - Libération",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUUNKcTE4aHNnNjBHUllWZWkxaWdMc3YtdWY0U1V2dDdTNXNiYUNZT0laMElxWUNobmJidFB1R2NsT3FSR0M1b1ZJNklLODJiT0pFT2hZb3JxM1FsVHAzYUhHVXdaY0RGSnRfZy1MV2g1NjJCMEtXMGJaeVlkZUtCU2NUQVE2SW1lMnBfYVZKLVhIRzFkajh4Mkxhb2pCMzVtNkhiQ2g1VE94ZlBRMGFrTUdYSHUtbGZpNl9ITjZJNkFXeXRmaklsekFVWjNBaFlueXgxMGxydlk4ZmJkak1jUktVQ3RZWlg4R3hITnZyUDNOdC14c1h0MHM0RGdTX1JTaVo5ZnZIelBzVmFhTnFYRnR6bWtfU2RQYVowMXBCNGdvQQ?oc=5",
       "snippet": "Ces députés macronistes qui s’opposeront à la suspension de la réforme des retraites pourtant proposée par leur gouvernement&nbsp;&nbsp;Libération",
       "date": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "\"Il faut écouter les grévistes\" affirme Jean-René Cazeneuve, député Renaissance du Gers - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGc4N25Yel8yMVZSODBWWmZnTkFkWmYzQ0lzT3dQLVRnVGlkSnFYSk1mOGU3eUpqYWEtOTRBU24xZXY1NWNlWE5jSnM0bXRBVE9XRFFUUklVeDc4Mm9neWo5a3lNSVliZnBkakFIeFlYSzdNVmpjOUViZVEwekt2MndReGF2alRkRXNuQlBVSmRrZlotVFZUUGxNVXhBYjBPcVdSbVdwTlVtdDZMbXZHRjNVbFVuakw5U2c?oc=5",
       "snippet": "\"Il faut écouter les grévistes\" affirme Jean-René Cazeneuve, député Renaissance du Gers&nbsp;&nbsp;francebleu.fr",
       "date": "Tue, 09 Sep 2025 07:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Les indiscrets - Courson-Coquerel : comment la macronie veut leur faire la peau - Le Point",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNERfdXpuOW1vUDViVmg2NE41a1l3ekhQMTVGcGxLX1o2dWw2elFjM01OY3RzczR1NXpzUDV3WC04dmQ0M3FmSlBWOHk0Ujg1LTByYUkzeTR1Y2dGLU9IcEQxLW9zVUxyRmdDbmppSUZEVFZqVHhSNVlaTVVRY1NSSUgyT0FvN09qRUJJU2NXUk9qeFpxVXFjeUotU2FGWUJVQndLa2dHVTRsQXNlNXRZS2p0TFRxX3pNNEFIYXNwYWZuRUFtQVVfU3NWWl9rUzQ?oc=5",
       "snippet": "Les indiscrets - Courson-Coquerel : comment la macronie veut leur faire la peau&nbsp;&nbsp;Le Point",
       "date": "Thu, 25 Sep 2025 07:00:00 GMT",
-      "source": "Le Point"
+      "source": "Le Point",
+      "snippet_source": "rss"
     },
     {
       "title": "Budget 2026 : les députés votent un amendement du gouvernement augmentant la surtaxe sur les entreprises - Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHVIQ0lKU3ZscUp6dEhHUDNoR0o1N1ljS2lmb0pVajdyMlRUQ3Q1WEZ1LTktWVNsd2RrWWZTM09XOV9jTmZsMEZfYkhPOFRoWmJWN0c4Q29LdF9FZnlrLS1OalViZ1NtWDFsbXFzelg2OTF6bEFYZ0FyTXlsTmdET083MkhaUHdlaTFHNjN0RWRQTUZBSFhDWktCcWt1ak53RjM4QUp4U1BaamxBajFvTkNKVC0ybXR5WGsybmpzSQ?oc=5",
       "snippet": "Budget 2026 : les députés votent un amendement du gouvernement augmentant la surtaxe sur les entreprises&nbsp;&nbsp;Le Figaro",
       "date": "Tue, 28 Oct 2025 07:00:00 GMT",
-      "source": "Le Figaro"
+      "source": "Le Figaro",
+      "snippet_source": "rss"
     },
     {
       "title": "57 maires et élus du Gers appellent à voter Jean-René Cazeneuve le 30 juin - Le journal du Gers",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYnotT3ZpVlpYZ2ZySUgxWkZMMHFZWlp6bGZVNjNOVkFmenlQSDdRVUpjMVotUXZNbVVERTRmSGNtSU9nUktQZ2pNVEZiUUdfYTdfVE9jZW03cndJZHpUbVpVc1FwYVZLdDhGM1EyU2Q2a3pzMDNkNzFMM0VKcTk0eTRqcTVha3owUVB5RXhYdkEwM3l3b3hySjF6V01LcGxkSm1Tb29yTXBjbWxFZUc2VzZiMGdXZw?oc=5",
       "snippet": "57 maires et élus du Gers appellent à voter Jean-René Cazeneuve le 30 juin&nbsp;&nbsp;Le journal du Gers",
       "date": "Thu, 27 Jun 2024 07:00:00 GMT",
-      "source": "Le journal du Gers"
+      "source": "Le journal du Gers",
+      "snippet_source": "rss"
     },
     {
       "title": "Budget 2025 : La suppression de la taxe d'habitation maintenue au bout du goulot - Le Canard enchaîné",
@@ -115,42 +123,48 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVzNSZjV0QmE1VUVNYWc5SWpsRWJxU3VUcGFITFQ2ZWtETjhLMnp1ZXNfVGlXNDlVSlA3RDR0aTI3ZmVJREhzRG1kOERnU3hDSFBQa0o0Vm9KV0ZLdlVfRUoyZmlIZGxlMVhaTEE2MDRsY0c4c2RxS0FaYkJ0Ym9yaEloRTZhS2oxdmg5QWE5QTFsc2JVSXFtclQwRHJuWERyWm1qc0xjVVJENHVwY0JVbVRJbERUWU9oOTdKWGxPamVVRTU1R3NDR2RYRk4yTHg5LXlDSXk1SkdPelFUV3Qta0pyQU54dw?oc=5",
       "snippet": "« Ça va être assez dur de tenir les délais » : la bataille du budget est lancée&nbsp;&nbsp;Le Parisien",
       "date": "Mon, 20 Oct 2025 07:00:00 GMT",
-      "source": "Le Parisien"
+      "source": "Le Parisien",
+      "snippet_source": "rss"
     },
     {
       "title": "« Plus elles reçoivent, plus elles dépensent » : Pourquoi les dépenses des collectivités locales dérapent - Challenges",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd0w4cENPdk1uVURzcHFVSXUwaXFaSTJIRVJnMEtUTDR4aW1tamV6UmdVSDQ5aXpmX1pIWXlEZ3VyS011ajZvbWFnWE1pTHdmbHRSQ25zX3dxZlVTZlduTVZkTFRWSF9UbFZSNklNVnFubWJSc2lTWndUR0t4c3NjSjJ6c1czV1NqZXgxUTlPY3gyd3NqUEFLQlI3Q2tKV0VOQ2xEclFyaTdqUmgwWHAzeTI2NVptNTJBdTNXZFplMl9aNnctb1NROUl5ZDVmSy1FMTRheFRMNGY?oc=5",
       "snippet": "« Plus elles reçoivent, plus elles dépensent » : Pourquoi les dépenses des collectivités locales dérapent&nbsp;&nbsp;Challenges",
       "date": "Tue, 03 Sep 2024 07:00:00 GMT",
-      "source": "Challenges"
+      "source": "Challenges",
+      "snippet_source": "rss"
     },
     {
       "title": "« Je suis impliqué à Bordeaux depuis plusieurs années, je reste impliqué », Thomas Cazenave, ministre en campagne - Sud Ouest",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPU3pXQVVvdVdwU1MzWGlnTk9HUExmQnR3TUM2el9sdVhwV0hwVnZPMU1fSXJGMGhCYnhqamNRd3FkUTZBODBxUjdIV3Z4Z2k1SVVMcjkteV9QZ2ozX0kwOUpzZW4zSEJGcDBzOXBLd1c5TmtXZ3pjdXlVc1ZIVHd1cFBUZGZkR2dsZkdIQ21IQTlJVjBTUGtKSTVUWTJlS0xudzRVaHpVajkybGptVGJTZmhLZmdhR1pBcjVfeXEtVENRUGdyV2xuNmZhMEd0bkFtNk1VYzRwckdHZ1IycmhqVl96SlcwNlNnbExfWVZ2cW41SjZyLUtQNFRMdWhyQQ?oc=5",
       "snippet": "« Je suis impliqué à Bordeaux depuis plusieurs années, je reste impliqué », Thomas Cazenave, ministre en campagne&nbsp;&nbsp;Sud Ouest",
       "date": "Tue, 02 Jan 2024 08:00:00 GMT",
-      "source": "Sud Ouest"
+      "source": "Sud Ouest",
+      "snippet_source": "rss"
     },
     {
       "title": "Bruno Retailleau dénonce les violences d’extrême droite mais détourne l’attention sur «l’ultragauche - Libération",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWGZfZjh0Mmc3UlQ0UXhDNGlCSFRaVkE4elYxMmhXUkhQeG9nSE1kLUp2bUUyZ2UySW5tTVFLb29GdFpIcTRxbWNOTUh6QmwxRmp3cWpzQ29oczY2ZXVXdkt5WGwwdXJZQmJvRVNyZGdTMVUwN2xqU19lVENlbkNfVFB5N2FBWUdPalZOZjBkUzlyb3BUVmE4ek81TE9Zam5icXF0YkhsV2dBUVRUaWhBRVExUmlqVkhWWmZ2bHdza05ZSnZYdVNIUnRqT3dMM2FVUndWRGVpSFlHaFgxQVZURFBBZ3ZXUUZhMEZaU09CMWVwXzhpSnJRYkZxVjB6UQ?oc=5",
       "snippet": "Bruno Retailleau dénonce les violences d’extrême droite mais détourne l’attention sur «l’ultragauche&nbsp;&nbsp;Libération",
       "date": "Wed, 19 Feb 2025 08:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "Taxe Gafam : \"Il n'est pas question d'ouvrir une nouvelle guerre commerciale\" avec les Etats-Unis, assure le député Jean-René Cazeneuve - Franceinfo",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOZmJ2Zm85SHk5dXZ0cHhzd3A1UWllRWpQejltUUtTWEVDOENIQjVSX3N6djVhYTlGYkhaQURoVnZiS0Q2LXBhcm40S1h2bEJiTXBKbDhidkVjdkFZZ1E0YjMtRWI2WXFxQnVtbmFaRWwwWWR5Rk5xclhSWjJSdm5idzV5R3lNYjRNaU9hY2Z6NFBWTWNLTVdvVU92ZTFpdUU1Sm4zQkN3UG9WSXJVUjlzLVdnYlhZSE4tMlRVSE9mMmh5Y0U3OUtoS19WQkZkUnpCdDNEaU54SWpPSW9SWmliMHVjTzl1amNJbmF6NV9NODRiVUhTUWVqR21CZzN3S2dPUzJFV1VpMFhfay12Vngyd1RGSVkxNGkxaWRyVGJfbEhWZEUxSUxSZm5ack9xeF85NTA1QUZ0T0R5Vk0?oc=5",
       "snippet": "Taxe Gafam : \"Il n'est pas question d'ouvrir une nouvelle guerre commerciale\" avec les Etats-Unis, assure le député Jean-René Cazeneuve&nbsp;&nbsp;Franceinfo",
       "date": "Wed, 29 Oct 2025 07:00:00 GMT",
-      "source": "Franceinfo"
+      "source": "Franceinfo",
+      "snippet_source": "rss"
     },
     {
       "title": "La macronie n’arrive pas à dire que l’extrême droite est d’extrême droite - Libération",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSWhpSmN6WVZ3X01RbG1yNFhlYTRlVEFOc25rX1pFYXp6UmhrX3h5bW9PWkJ1cExKZnZwRGlVYTJ1VTNVekhXSUh1MjdsMzREazljUVBMeUI0WVRnakxCR2IxQ1E3Z0ZRYm9EUVlGcWVSMXBXX2JDWDZlVTB4cUNLOHllUTZlaGlUdkRyaG13VTRFUm5YamFyWXNab0RWdnBpeFdJREVXNHg0WjY0aG8zTG1hVlNqbFN0QmN2dkNSVVpjaEJDZUJ0VWlIYTJqRUhvZmI1OF9HZGxZajQ?oc=5",
       "snippet": "La macronie n’arrive pas à dire que l’extrême droite est d’extrême droite&nbsp;&nbsp;Libération",
       "date": "Thu, 13 Jul 2023 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "Budget 2026 : l’Assemblée multiplie par deux la taxe Gafam qui vise les géants de la tech - Libération",
@@ -164,7 +178,8 @@
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVl9TZGRTdnVMa0hpRC1vdVNIQlY3THRaQXhkRUhHVzhXaXkxRXVuaUlBUTRFQTFsMmRveEFtWm9XdjZqRnhlbGxDTmZLSDVzSTAxTWNhVEUwNnRIWUVoZTUyQ3Q0T2JmQURZMTRYbjdsNDVyNWptS1IxS3dETnBOWHB4ZWVYWXNiNEExdC1sVkp5MUNmN24tS0lwVkotVW5vbXlrX0ZJRWxMTHE0TU53endfMXFQQjlYWjB2eW5JbnpreHE5cnFJUVE3R0xiVUljdENqdTRVa2dPbXg2NHJVNDJwcS03MFNKYVM1VHNHZjRqdEJFTWZCcC1zZkNvLXB6akVUaXZDY04yQ0VzNC0tRQ?oc=5",
       "snippet": "«Tu seras tondue à la Libération» : le bureau de l’Assemblée se saisit de l’insulte du macroniste Jean-René Cazeneuve contre l’écolo Cyrielle Chatelain&nbsp;&nbsp;Libération",
       "date": "Wed, 13 Dec 2023 08:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "«Nous sommes dépassés sur notre extrême gauche» : le relèvement de la taxe Gafam, porté par les macronistes, voté en commission - Libération",
@@ -178,7 +193,8 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYTlvR0RtbVl3LU5PYU5abE1oaV9PUGJyUDNZVGM3ZHAtdTYwNmFfd2Fzcy1QdnNzLVQyWE5NSEVfeUNLclMxTTZ3RWNzMTJBam5IbE5nVklJQm9iNVZzd1lTd2tzR1BJZV91MXRvUGVFblE2MU5FNmxaODRyWHY2WGNwT0t6OE03V0hDWi1tZFl3NzZTT0NfNE9yQXVIVnJHRVZ1VUtIUmFaWURDanNLcS1pZkVTbS1hRExSbGdPTkFaREo2TGtxcw?oc=5",
       "snippet": "Les Etats-Unis ont les Kennedy, la France a les Cazeneuve&nbsp;&nbsp;Libération",
       "date": "Fri, 21 Jul 2023 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "Les Cazeneuve, une famille macroniste en or - Libération",
@@ -186,30 +202,64 @@
       "snippet": "Les Cazeneuve, une famille macroniste en or&nbsp;&nbsp;Libération",
       "date": "Wed, 18 May 2022 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Budget 2026 : surtaxe d'IS, taxe holding… Les députés raidissent leurs positions en attendant le 49.3 - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObUZfLVJPR2p5YkU3VmprV0dEUmdBdlVKWnhuVlpmRmtQbVYyLUN3ZHNmY2x5ZkFCS2NMZVlpNzdqakdSSkRTV29WRjlxeUpfYXNfVDhGU1IxRE56TWdydTh2MzlqRnJzT0pwZkxrQmZkc1c1VlpvUnJXWlFOOFFpR184Z1BQQmFiTFE0UDgwTThEeDZuLXExUUFqaVVsZlcyTFpmTGtBeTVmakJDTWNIekc2bHNBcWRVMEN5ZmhUOUw5NU9YOWR0T2dzNHhMYUhpZTFOVW00VGtVc1VvRFM3VVFJRHV0OUdDdHl5Mjh5TGFmQQ?oc=5",
+      "snippet": "Budget 2026 : surtaxe d'IS, taxe holding… Les députés raidissent leurs positions en attendant le 49.3&nbsp;&nbsp;Les Echos",
+      "snippet_source": "rss",
+      "date": "Thu, 08 Jan 2026 16:57:16 GMT",
+      "source": "Les Echos"
+    },
+    {
+      "title": "« C’est une question de justice » : les députés approuvent un amendement en commission pour taxer les Gafam de 3 à 15 % - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQ3dsYU03aVIyakV0UU8tbnZNMVhNZGF3MkdBRFVobWJKcG1HM1J3RTBtaHZpd1VTT2toZHZBUk5zVEZzdGllc2hJVWdwZzJYU1Y0ZnRBTkVsQmR0SkdneGtmcjhuUjBxRkJNS25RWXZTLXVIUmY5N28wS2JxaHliNEUxMnFwOUdiMTllRGdHelZaVnpVcWRnSHRFZXlwamlFRUQ0VlQ5ZXRPSW5vdTlXbjNPcjdSZTJocFp3ZlRMUmNJeE1ydVdvcjloOGZneDJNdlRLNmFjVG5qcWo0M2ZiZENCVnJfWVRMaks2QThZYmlkTlNCQUFFOEhfZS10eklvY2tjMDFTc2FKWUVFRHozMFJYQkxsV0k?oc=5",
+      "snippet": "« C’est une question de justice » : les députés approuvent un amendement en commission pour taxer les Gafam de 3 à 15 %&nbsp;&nbsp;Le Parisien",
+      "snippet_source": "rss",
+      "date": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Le «piège» tendu par Macron à Wauquiez pendant le remaniement... Les indiscrets du Figaro - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFRrM1d6UTNDdzIyQ3poLTAxV0hldUY3MHczdzQ4Ri1nWG1fUk1kTFFyNVhVanRCLTctbXdGRXdkbURMSi1aalRTM1Z0RTB5SUlpTFYteEZCRUN2X1RkT3NkQVFKemk5alM3SVBPWWRhTWRlNXdNZTRtakpCYzdTekg3YVJvRUhCcHVXT19JbTlBTTVnNXJLYzdKREtEczBIb2lTaDlSbC11LVNVMkU1TERFTm52YkJ4bDRkZ2ZOOFAwdkFSQ1E?oc=5",
+      "snippet": "Le «piège» tendu par Macron à Wauquiez pendant le remaniement... Les indiscrets du Figaro&nbsp;&nbsp;Le Figaro",
+      "snippet_source": "rss",
+      "date": "Fri, 17 Oct 2025 07:00:00 GMT",
+      "source": "Le Figaro"
+    },
+    {
+      "title": "Ça vous regarde - Budget 2026 : que nous concocte François Bayrou ? - LCP",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOekJpOTgtUnZ2U1dJUXB4Q0otSzdEdFVxNG5acWJlVTY0S2ZrVlhBbE9zMjR5VlMzaEQ5a0RKdWdENlRvRnZJek9pWXRvaHdNblVpYnFWX2pfSmgxTkpZY01EcXU0YVF4V2F5TXlQMkpVRjFfZmh5WXY3c2Y5MWY5YThpNExvc00zSEQ3ZFJobTZOOVpwWlZaMnl3?oc=5",
+      "snippet": "Ça vous regarde - Budget 2026 : que nous concocte François Bayrou ?&nbsp;&nbsp;LCP",
+      "snippet_source": "rss",
+      "date": "Thu, 10 Jul 2025 07:00:00 GMT",
+      "source": "LCP"
+    },
+    {
+      "title": "Vote du budget de la Sécu : le député macroniste Jean-René Cazeneuve \"très inquiet\" pour le déficit, mais salue \"une étape importante\" - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOd1JkaWU0QVV5SnZldEczazRJR3NjSkpqMmZNVWJPVWlfOHg0TGFBRzJvY3BjclhiR0ducmVOeXJGcFRaekk3ZDY4anBvXzdZWFpwY1RveUxwdTFyR3R3MFhwTC1NdFFtbHFET0pTeDI2MVlPQXVBaHAwWFMtVEpLWE9MMDg5d1JaSmRVVEVWRjNqbWRibEg0ZlZhalI4VXdsdjFna0tBTzBBTjhPTno1ZnRvcGRrbjJidU9yLTE4NnZOZ09kVUp5bzNMWk9BNUNJNnVaRE1CQ1dMRy1Wdk1nQVBnZUNEc29obVlHbng2dk5lVVlnVF9uckhUak9Oa0hoQVVFME5XSjl6Ny1FRDZ2Z0R5emNfQzRqOUhKX2FLQ0VDZWdw?oc=5",
+      "snippet": "Vote du budget de la Sécu : le député macroniste Jean-René Cazeneuve \"très inquiet\" pour le déficit, mais salue \"une étape importante\"&nbsp;&nbsp;Franceinfo",
+      "date": "Sun, 09 Nov 2025 08:00:00 GMT",
+      "source": "Franceinfo"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
+        "source_index": 2,
+        "explication": "Mentionne les municipales 2026 dans le Gers mais ne cite pas explicitement Jean-René Cazeneuve comme candidat."
+      },
+      {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature (ou un retrait) de Jean-René Cazeneuve aux municipales 2026."
-      },
-      {
-        "source_index": 1,
-        "explication": "Source sur les municipales 2026 dans le Gers mais sans nommer Cazeneuve"
-      },
-      {
-        "source_index": 12,
-        "explication": "Mentionne son rôle actuel comme maire d'Auch, mais sans lien avec une candidature en 2026"
+        "explication": "Aucune source ne lie explicitement Jean-René Cazeneuve à une candidature municipale en 2026."
       }
     ],
     "used_sources": [
-      1,
-      12
+      2
     ],
-    "analysis_at": "2026-01-08T13:24:39.966720Z",
+    "analysis_at": "2026-01-09T14:00:00.047274Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,12],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature (ou un retrait) de Jean-René Cazeneuve aux municipales 2026.\"},{\"source_index\":1,\"explication\":\"Source sur les municipales 2026 dans le Gers mais sans nommer Cazeneuve\"},{\"source_index\":12,\"explication\":\"Mentionne son rôle actuel comme maire d'Auch, mais sans lien avec une candidature en 2026\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 2, \"explication\": \"Mentionne les municipales 2026 dans le Gers mais ne cite pas explicitement Jean-René Cazeneuve comme candidat.\"},\n    {\"source_index\": null, \"explication\": \"Aucune source ne lie explicitement Jean-René Cazeneuve à une candidature municipale en 2026.\"}\n]}"
   }
 }

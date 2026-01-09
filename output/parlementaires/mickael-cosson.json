@@ -165,6 +165,34 @@
       "snippet": "Législatives à Saint-Brieuc : Mickaël Cosson est candidat mais veut rester avant tout un élu local&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 09 May 2022 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Maires avec grues, maires élus ! La nouvelle campagne de la FFB pour les municipales 2026. - Construction Cayola",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSHd2ZGUtTkxEclFzaGI3XzNCWUVqNUg0ZFNwRnc0SS1rNW1Ebk1YNUlTMUR6ZEhmVG9pYmVWREhnMmtzSTRxUHFiTlN4X2VwbGNSMVJCbUotNTZuRG42YlRxVHR1SndQa25Tc0VldjI3aFlvWklUMmF5QUlPbkZVNjF2QzFscHZQbVM2X0otLVo5Q21QRUV2elB5UUpEdDU4dERIcFVJUUNvWFZvN3UtU2ZOLXpwWVRaMzFnV284RWY3SFNvRTNkcTh1UXdjd2p3cEEzYjNEc1VERTBLckJvdA?oc=5",
+      "snippet": "Maires avec grues, maires élus ! La nouvelle campagne de la FFB pour les municipales 2026.&nbsp;&nbsp;Construction Cayola",
+      "date": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "source": "Construction Cayola"
+    },
+    {
+      "title": "Conduisant alcoolisé, le député breton Mickaël Cosson perd son permis - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcngySXVIOHJBX3RpWDFxVnZtSi1kQjVodWVydG5lcHc4cDZoVjAwdGppanVlYm5iRmYwVnJxaWI5WDEzT1EzVkZNM3FEOGlNMUtRaHRLaXpxeFNrVUMzeHN6TnBkcnlyeUtUWFRjUlZQcTRrelNIOHZMNjY1M25jY3ZtZEs3NGFrUkVDWkpnTHZxdXZGalQySUhvRGZ5N2RBeEZyOGdxYldhWGxubXFjSXJiVTVpOHlOWlFwNWRB?oc=5",
+      "snippet": "Conduisant alcoolisé, le député breton Mickaël Cosson perd son permis&nbsp;&nbsp;20 Minutes",
+      "date": "Wed, 17 Jan 2024 08:00:00 GMT",
+      "source": "20 Minutes"
+    },
+    {
+      "title": "Législatives 2022. Qui sont les nouveaux élus bretons à l'Assemblée nationale ? - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSUxPRXZyc05qRVZDNFFRQ1RQRTJGU2VocnMxdDMtak04czJSbjd0ZTlEVldkTXMtN2cycVJ2eFNxRjdPQTh5R1huWFVvRGtOS2ZjSmhNaEtlUjhvckR0a2VFc2VHM050NGRwOGZ2XzdWZU9RUldXNGotVEhiQjFXbG11a3BFd3ZiOVdnUFkxRnc4ZmcxSjhCVkxra3oyQzVKWXY2SVVCQ2FqZnZkRVJqUGJBendmc3pXc1JXYjgwS1pfTHZwTGtFbXZEYUF3WThwbWZwZFhPRjUzOHdKVXZWcmQwbDFycm8?oc=5",
+      "snippet": "Législatives 2022. Qui sont les nouveaux élus bretons à l'Assemblée nationale ?&nbsp;&nbsp;France 3 Régions",
+      "date": "Mon, 20 Jun 2022 07:00:00 GMT",
+      "source": "France 3 Régions"
+    },
+    {
+      "title": "Résultats élections municipales Trégueux [22950] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY1EwSXNmQVZzdjNxX19FYS1yOXdPS1p2QXJiNlBjMnRHc085cmczbDdneUxBa0tmTDVfMEJ1c3A1LTVMdzJRZEVJc09vajdqZmhOVnNQcW5TM0d2aXZtSmlqSXhHNlVyZTNLUWt2VmdKU0hQYVRNbUs5T2lfaXpGeWk5TQ?oc=5",
+      "snippet": "Résultats élections municipales Trégueux [22950] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Tue, 30 Jun 2020 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
@@ -172,12 +200,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Mickaël Cosson ou la commune de Hillion en lien avec une candidature aux municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement Mickaël Cosson (SE) comme candidat aux municipales 2026 à Hillion."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:40:57.711272Z",
+    "analysis_at": "2026-01-09T14:19:47.512961Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Mickaël Cosson ou la commune de Hillion en lien avec une candidature aux municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Mickaël Cosson (SE) comme candidat aux municipales 2026 à Hillion.\"}\n]}"
   }
 }

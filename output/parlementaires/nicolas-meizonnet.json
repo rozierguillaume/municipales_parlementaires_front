@@ -151,51 +151,40 @@
       "snippet": "GRAU-DU-ROI Bernard Luciani entre en piste pour les municipales&nbsp;&nbsp;Objectif Gard",
       "date": "Fri, 19 Sep 2025 07:00:00 GMT",
       "source": "Objectif Gard"
+    },
+    {
+      "title": "Municipales 2026 : les candidatures se bousculent à Poulx - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmtGcFR4N093NXZtRTZySU13aWhhTHI2QXh4S2VSSURDQklUOExjdnZvUVNtSDdRZDdZckNqU1lyUFIwbHRoUHVyMTlaeWR3bFRRMXhxc2ZUdkl0VW40dmJISHRpQjZUZXdtUVRjS01lX2xneTBBZDRrMEt6eUd5dEE4XzBLQ3pENzlvbHpJTEdaQUlYR0k3ZE5XY1pUbDlhc2xjdzIxbWk?oc=5",
+      "snippet": "Municipales 2026 : les candidatures se bousculent à Poulx&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 24 Mar 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Nicolas Meizonnet, le député RN du Gard souhaite organiser les \"assises des manadiers\" - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN2xoWWZGb3VyazR3ZTZHYzRlbjgtbjI0a1RwdnpXQWJkYmRsX2w4cWFfaWNvYzJHRjJxM01HTjRfcHJJMDllYldDTVhSaVpfbTRidWowUUhTeWw5Z016Zi1DaHBncmpQZ0V3S19tZXYtNENyZndyLU1NeDBKYjFVRUJTTklfdjNTWjNfSFozN0Y1azZ1c3V3bmtHWkxDRHNjV1k4aTdSaVc1b0ZXbWRZSTE5c2tCYURWdHpZWlc0elg0WDdDeml0RlJrWWdBdnJTd0t1WVh6VW4?oc=5",
+      "snippet": "Nicolas Meizonnet, le député RN du Gard souhaite organiser les \"assises des manadiers\"&nbsp;&nbsp;francebleu.fr",
+      "date": "Thu, 27 Feb 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "LE GRAU-DU-ROI Sophie Pellegrin-Ponsole est candidate aux Municipales - Objectif Gard",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE13UjM1Mkw4SDVFaXRkTU9sLVR1ZXZtdnBDOThfXzZFWGNmaElUcGZzSWp4MWxoN2prRWZGZWpmVy1BN1Y1UFJYYzN2bUNfTmtmMFk5RnY3M2lwMlRGOEVVb1dCLURZOE1YOUlwTVJQWW55cFFKdXlBVjdoV2QtdGRvUldDYTVpQzNJYVBtX0E1OHU3cUhPV2tDdzRjZVBTOXZYQlBOdzAzdlVmcXg4Skk2UkJEUmVtcWFzVQ?oc=5",
+      "snippet": "LE GRAU-DU-ROI Sophie Pellegrin-Ponsole est candidate aux Municipales&nbsp;&nbsp;Objectif Gard",
+      "date": "Wed, 26 Feb 2025 08:00:00 GMT",
+      "source": "Objectif Gard"
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "NON",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source mentionne explicitement sa candidature aux municipales 2026 à Vauvert."
-      },
-      {
-        "source_index": 2,
-        "explication": "Campagne officielle lancée pour les municipales 2026 à Vauvert."
-      },
-      {
-        "source_index": 3,
-        "explication": "Candidature officialisée pour les municipales 2026 à Vauvert."
-      },
-      {
-        "source_index": 4,
-        "explication": "Confirme sa candidature aux élections municipales de Vauvert en 2026."
-      },
-      {
-        "source_index": 5,
-        "explication": "Annonce explicite de sa candidature aux municipales 2026."
-      },
-      {
-        "source_index": 6,
-        "explication": "Source confirme qu'il sera bien candidat à Vauvert pour les municipales 2026."
-      },
-      {
-        "source_index": 7,
-        "explication": "Officialisation de la candidature pour les municipales 2026 à Vauvert."
+        "source_index": null,
+        "explication": "Toutes les sources mentionnent Nicolas MEIZONNET (RN), non affilié au PS."
       }
     ],
-    "used_sources": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
-    ],
-    "analysis_at": "2026-01-08T13:52:58.392908Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:34:19.646194Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4,5,6,7],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne explicitement sa candidature aux municipales 2026 à Vauvert.\"},{\"source_index\":2,\"explication\":\"Campagne officielle lancée pour les municipales 2026 à Vauvert.\"},{\"source_index\":3,\"explication\":\"Candidature officialisée pour les municipales 2026 à Vauvert.\"},{\"source_index\":4,\"explication\":\"Confirme sa candidature aux élections municipales de Vauvert en 2026.\"},{\"source_index\":5,\"explication\":\"Annonce explicite de sa candidature aux municipales 2026.\"},{\"source_index\":6,\"explication\":\"Source confirme qu'il sera bien candidat à Vauvert pour les municipales 2026.\"},{\"source_index\":7,\"explication\":\"Officialisation de la candidature pour les municipales 2026 à Vauvert.\"}]}"
+    "raw_output": "{\"statut\": \"NON\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Toutes les sources mentionnent Nicolas MEIZONNET (RN), non affilié au PS.\"}\n]}\n\t\t"
   }
 }

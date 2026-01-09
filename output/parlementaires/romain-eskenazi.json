@@ -151,19 +151,28 @@
       "snippet": "Législatives. La gauche en tête dans la 7e circonscription du Val-d'Oise&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 13 Jun 2022 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "« Il faudra des mots-clés pour que l’on ne censure pas » : ce qu’attendent les socialistes du discours de Lecornu - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNenN1TEEteXl3QmExVl9MZGdKQTBnQVg2bzRSZ0VKaUk3aTJPd0xGNlVVYmdiYllmNkxkNkxqOUtNNUhPSm5veElFSmNQOVA0QVdia3hSSmNMZkR4ZFVTWGhzNkloQkVWM2Nxdm00cll6OWtUYjBYUEtaTElLRXVJLU83bHpOZFZFNy00UGtpdkk2dVdqNUNfLU9fRC0yRGcwNXJMVG5kRTl1RWNEZFNRRzZ3NzIxOHBHVWhRdmY2MVlWR2g1WW0yNHNQbkdyVDRScGtCc0U4OURpZXc3NFMwMHFxR3JwbW0tUllfa2FraEROS2haWGhtZ2RmR3gzU2dZSE9PSEtEWEpiV044MWJZUnV3?oc=5",
+      "snippet": "« Il faudra des mots-clés pour que l’on ne censure pas » : ce qu’attendent les socialistes du discours de Lecornu&nbsp;&nbsp;Le Parisien",
+      "date": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Romain Eskenazi comme candidat ou non aux municipales 2026 à Montmorency."
+        "source_index": 11,
+        "explication": "Source mentionne uniquement Romain Eskenazi comme député, sans lien avec les municipales 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:44:37.978049Z",
+    "used_sources": [
+      11
+    ],
+    "analysis_at": "2026-01-09T14:24:05.217227Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Romain Eskenazi comme candidat ou non aux municipales 2026 à Montmorency.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 11, \"explication\": \"Source mentionne uniquement Romain Eskenazi comme député, sans lien avec les municipales 2026.\"}\n]}"
   }
 }

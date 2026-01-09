@@ -151,6 +151,27 @@
       "snippet": "« Redonner de l’élan à Vauvert » : Nicolas Meizonnet officialise sa candidature pour les municipales&nbsp;&nbsp;Le réveil de midi",
       "date": "Fri, 12 Dec 2025 08:00:00 GMT",
       "source": "Le réveil de midi"
+    },
+    {
+      "title": "Municipales 2026 : le match a commencé à Bagnols-sur-Cèze, mobilisation tous azimuts dans les états-majors - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdGpKTWxWcFhrMXdYSmkycHVIVHEzSzVTVHV1SGxBRHVuR2wtWjhUUlNkNXJzUTFabUQ0c1VWSE4yaGtCa0JVUGxTWTZmQnF3Q3BfZml5bHZGOTJzaEtMdzBwUVItOVFjQzA2ajkyNnN0LVFRbk5Na1psZXJNX1Znb3ZlbWdTa1dIQkxxaHlsMFhCT0FOYklIYzBJTWtQakdOV05OWTJGYV9TNFpsTmJKZXRZWnhjQVAxSVVpcWdqWUs1Y2pjTFQtNHl3bWk4NVMwYnRneU5LRFNrMzhHemRRbWdicHJlblE?oc=5",
+      "snippet": "Municipales 2026 : le match a commencé à Bagnols-sur-Cèze, mobilisation tous azimuts dans les états-majors&nbsp;&nbsp;Midi Libre",
+      "date": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "source": "Midi Libre"
+    },
+    {
+      "title": "L'invitée de 7h45 : Pascale Bordes, candidate RN sur la 3e circonscription du Gard - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVE55R1Vwd0VyUm9uQUpaSG84Yko0ZWREQVFJRnNjQXNkbnZjRk4xVExrV1IxUWlyUUpjNVhkclRWMjhCNDFSS0tUMXlod0huTE1CVmU3RXNtd0ZvSmlpb1EzQlBOcG1vRHRpRDhab0dUUnFxS0YzY3k3UU5BdW5qRlBfdldpTUZyQ0g1azd5Y2RuMXFLcHBuX3NEZHpYZXU0cmNCTUpmc3pwRTN1R0ZZS1dIaDcwY1RraWhDQU5ETnNSSW1aWDFiMFh5MWk0RzMzeFctUkpQQWxtVV80c0xWemZTSnBDMW1wY3NCNWNfbDMzTmdJeVhiN19YSQ?oc=5",
+      "snippet": "L'invitée de 7h45 : Pascale Bordes, candidate RN sur la 3e circonscription du Gard&nbsp;&nbsp;francebleu.fr",
+      "date": "Wed, 19 Jun 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "FAIT DU JOUR Le Rassemblement national reçu 6/6 dans le Gard - Objectif Gard",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3B2UFpRZk9zRGZtWEktNTh5M1lwenlSWTRZUmQ1VUZIWExPbHBDSmtNTVJJNm1mU0FvRFBORkJ3a3NHZFlWSkVoU2s2VkZNZ09hU0lRX1J4YnNsbVVNRy1Id3pPRkJvRDVuTGEwRnJNa2hlenVqNXk0Q2RhQXJyQzF5TnZQZVJBUXZOYk45TDhKWkpOYjRxTHZtR1dqVi1MU2xwd3ZWWC1XZjdXdEE?oc=5",
+      "snippet": "FAIT DU JOUR Le Rassemblement national reçu 6/6 dans le Gard&nbsp;&nbsp;Objectif Gard",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "Objectif Gard"
     }
   ],
   "analysis": {
@@ -158,19 +179,19 @@
     "justification": [
       {
         "source_index": 6,
-        "explication": "Pascale Bordes mentionne explicitement sa candidature aux municipales 2026 à Bagnols-sur-Cèze."
+        "explication": "Candidature explicite de Pascale Bordes aux municipales 2026 à Bagnols-sur-Cèze."
       },
       {
         "source_index": 7,
-        "explication": "Titre officiel confirmant sa candidature pour les municipales 2026."
+        "explication": "Officialisation de sa candidature pour les municipales 2026."
       },
       {
         "source_index": 8,
-        "explication": "Source citant son lancement officiel en tant que candidate municipale 2026."
+        "explication": "Lancement officiel de sa candidature aux élections municipales 2026."
       },
       {
         "source_index": 9,
-        "explication": "Désigne Pascale Bordes comme candidate du RN aux municipales 2026 à Bagnols-sur-Cèze."
+        "explication": "Confirmation de sa candidature au RN pour les municipales 2026 à Bagnols-sur-Cèze."
       }
     ],
     "used_sources": [
@@ -179,8 +200,8 @@
       8,
       9
     ],
-    "analysis_at": "2026-01-08T13:49:12.736196Z",
+    "analysis_at": "2026-01-09T14:29:58.875175Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[6,7,8,9],\"justification\":[{\"source_index\":6,\"explication\":\"Pascale Bordes mentionne explicitement sa candidature aux municipales 2026 à Bagnols-sur-Cèze.\"},{\"source_index\":7,\"explication\":\"Titre officiel confirmant sa candidature pour les municipales 2026.\"},{\"source_index\":8,\"explication\":\"Source citant son lancement officiel en tant que candidate municipale 2026.\"},{\"source_index\":9,\"explication\":\"Désigne Pascale Bordes comme candidate du RN aux municipales 2026 à Bagnols-sur-Cèze.\"}]}"
+    "raw_output": "{\n  \"statut\": \"OUI\",\n  \"used_sources\": [\n    6,\n    7,\n    8,\n    9\n  ],\n  \"justification\": [\n    {\n      \"source_index\": 6,\n      \"explication\": \"Candidature explicite de Pascale Bordes aux municipales 2026 à Bagnols-sur-Cèze.\"\n    },\n    {\n      \"source_index\": 7,\n      \"explication\": \"Officialisation de sa candidature pour les municipales 2026.\"\n    },\n    {\n      \"source_index\": 8,\n      \"explication\": \"Lancement officiel de sa candidature aux élections municipales 2026.\"\n    },\n    {\n      \"source_index\": 9,\n      \"explication\": \"Confirmation de sa candidature au RN pour les municipales 2026 à Bagnols-sur-Cèze.\"\n    }\n  ]\n}"
   }
 }

@@ -27,11 +27,11 @@
       "source": "L'Alsace"
     },
     {
-      "title": "Alsace. Du nucléaire, des oripeaux et une campagne ultra-plaisante : les chuchotements de la semaine - DNA - Les Dernières Nouvelles d'Alsace",
+      "title": "Alsace. Du nucléaire, des oripeaux et une campagne ultra-plaisante : les chuchotements de la semaine - DNA.fr",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUxVQ1oxLXN3VFhGV01wSi14TngySGJ0UF9vNWNxUWxIRXNkclBPNUFVLXpVbmgydXp3MThoVktpWjBTZGJtWTZ3MHBPQ0hOb0ZEQW9jU2FJU2ZHdVZzUnZKdUhYbXVnUEFMa0NBNTRFVnhOUkVjUmJicVRwNEhzU01lZVVuRnFTQlNsWklNX2ExY280OVJpTlpXLV9zQQ?oc=5",
-      "snippet": "Alsace. Du nucléaire, des oripeaux et une campagne ultra-plaisante : les chuchotements de la semaine&nbsp;&nbsp;DNA - Les Dernières Nouvelles d'Alsace",
+      "snippet": "Alsace. Du nucléaire, des oripeaux et une campagne ultra-plaisante : les chuchotements de la semaine&nbsp;&nbsp;DNA.fr",
       "date": "Sun, 14 Dec 2025 08:00:00 GMT",
-      "source": "DNA - Les Dernières Nouvelles d'Alsace"
+      "source": "DNA.fr"
     },
     {
       "title": "Municipales 2026. Didier Lemaire, « chef de file » à Altkirch, pas tête de liste ! - L'Alsace",
@@ -158,26 +158,39 @@
       "snippet": "Sundgau. Didier Lemaire, député ancré sur ses terres&nbsp;&nbsp;L'Alsace",
       "date": "Wed, 28 Sep 2022 07:00:00 GMT",
       "source": "L'Alsace"
+    },
+    {
+      "title": "Démission du proviseur du lycée Maurice-Ravel : \"une défaite pour l’école et la République\" selon Didier Lemaire, ancien professeur de philosophie - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdmJZcUxELWdfbGhCQ3JoTDk5YnB5VENkUlk5UG11cVI0SlB1NXA5SVp0Q1BDbWQzUFBoTk9pbDFBbnBPcE9YbktZUjdzY0ZaelE1OTJtM29qclRIbkJmMzR0b0dhT2taSlVzRVc3QmtZMndjckZWZ0kyRVVBdzFpMm5OdXR0N05kUU9mejExSHA0a2JheFZ6YTRTbmhFMDJneWs4cVVIMVlWUEk5STZqLWpOV2RfWW9ZS3FpU2g0RlBoNzkxU09FZng4cXFvS0IzZlZMUFNMVm5kb19FRWU4QTJTb1Flb2paWnRKcm9RZ05NVi1qVjJnczJNNlUzWWEwMUVRWlRLSWMtazNEeGpBVEtUYU5RZ1JzemtoTkZ4WGw5LVJC?oc=5",
+      "snippet": "Démission du proviseur du lycée Maurice-Ravel : \"une défaite pour l’école et la République\" selon Didier Lemaire, ancien professeur de philosophie&nbsp;&nbsp;Franceinfo",
+      "date": "Wed, 27 Mar 2024 07:00:00 GMT",
+      "source": "Franceinfo"
+    },
+    {
+      "title": "Politique. Altkirch: le député Didier Lemaire a inauguré sa permanence - L'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1kOUh5OXpsb2I0N3FJeVlkaHp1MUNiS1ozU0djUFFyLTU4NkVZUWUzMTlsV3BaUzdGZjVteklxenZPblgwOFpyaHdMTFNTR05kdmEzV0QyQW1mZFozeFBhenpQaUVlZGhBYm5CdHBVS1hLd0ZDLWlKWkpHLUJCbGZFMjJYSlRqZ2d2aF9yeWVnZ1hPQXJ1aGhDS1lyRjRLT0pyMw?oc=5",
+      "snippet": "Politique. Altkirch: le député Didier Lemaire a inauguré sa permanence&nbsp;&nbsp;L'Alsace",
+      "date": "Mon, 03 Oct 2022 07:00:00 GMT",
+      "source": "L'Alsace"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 6,
-        "explication": "Mentionne des candidats se présentant à Altkirch sans préciser si Didier Lemaire est concerné."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature de **Didier LEMAIRE** aux municipales 2026 à Altkirch."
       },
       {
         "source_index": 7,
-        "explication": "Précise que Didier Lemaire est 'chef de file' mais pas tête de liste, sans confirmer une candidature explicite aux municipales 2026."
+        "explication": "Source évoquant Didier Lemaire comme 'chef de file' mais sans confirmation de candidature explicite pour 2026."
       }
     ],
     "used_sources": [
-      6,
       7
     ],
-    "analysis_at": "2026-01-08T13:32:43.506291Z",
+    "analysis_at": "2026-01-09T14:10:17.444125Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[6,7],\"justification\":[{\"source_index\":6,\"explication\":\"Mentionne des candidats se présentant à Altkirch sans préciser si Didier Lemaire est concerné.\"},{\"source_index\":7,\"explication\":\"Précise que Didier Lemaire est 'chef de file' mais pas tête de liste, sans confirmer une candidature explicite aux municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature de **Didier LEMAIRE** aux municipales 2026 à Altkirch.\"},\n    {\"source_index\": 7, \"explication\": \"Source évoquant Didier Lemaire comme 'chef de file' mais sans confirmation de candidature explicite pour 2026.\"}\n]}"
   }
 }

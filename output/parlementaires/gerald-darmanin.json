@@ -158,39 +158,47 @@
     "justification": [
       {
         "source_index": 7,
-        "explication": "Darmanin annonce explicitement ne pas être candidat à Tourcoing en 2026."
+        "explication": "Darmanin 'ne sera pas candidat à Tourcoing' (municipales 2026)"
       },
       {
         "source_index": 8,
-        "explication": "Déclaration claire : 'Je ne serai pas maire de Tourcoing en 2026'."
+        "explication": "'Je ne serai pas maire de Tourcoing en 2026'"
       },
       {
         "source_index": 9,
-        "explication": "Confirme son retrait comme tête de liste aux municipales 2026 à Tourcoing."
+        "explication": "Darmanin 'ne sera pas tête de liste aux municipales dans sa ville'"
       },
       {
         "source_index": 10,
-        "explication": "Renonce explicitement à la mairie de Tourcoing pour 2026."
+        "explication": "Renonce à la mairie de Tourcoing pour 2026"
       },
       {
         "source_index": 11,
-        "explication": "Annoncé clairement : 'Je ne serai pas maire de Tourcoing en 2026'."
+        "explication": "'Je ne serai pas maire de Tourcoing en 2026'"
       },
       {
         "source_index": 12,
-        "explication": "Précise qu’il ne sera pas tête de liste à Tourcoing pour les municipales 2026."
+        "explication": "Darmanin 'ne sera pas tête de liste à Tourcoing' (municipales 2026)"
       },
       {
         "source_index": 13,
-        "explication": "Indique explicitement son retrait comme candidat à la mairie en 2026."
+        "explication": "'Ne sera pas candidat à la mairie de Tourcoing'"
       },
       {
         "source_index": 14,
-        "explication": "Confirme sa renonciation à se présenter à la mairie de Tourcoing."
+        "explication": "Renonce à se présenter à la mairie de Tourcoing"
       },
       {
         "source_index": 15,
-        "explication": "Déclaration explicite : 'ne briguera pas la mairie de Tourcoing en 2026'."
+        "explication": "'Ne briguera pas la mairie de Tourcoing en 2026'"
+      },
+      {
+        "source_index": 16,
+        "explication": "Darmanin 'ne sera pas tête de liste aux municipales à Tourcoing'"
+      },
+      {
+        "source_index": 17,
+        "explication": "'Ne sera pas maire de Tourcoing en 2026'"
       }
     ],
     "used_sources": [
@@ -202,10 +210,12 @@
       12,
       13,
       14,
-      15
+      15,
+      16,
+      17
     ],
-    "analysis_at": "2026-01-08T13:30:06.140130Z",
+    "analysis_at": "2026-01-09T14:07:14.101272Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[7,8,9,10,11,12,13,14,15],\"justification\":[{\"source_index\":7,\"explication\":\"Darmanin annonce explicitement ne pas être candidat à Tourcoing en 2026.\"},{\"source_index\":8,\"explication\":\"Déclaration claire : 'Je ne serai pas maire de Tourcoing en 2026'.\"},{\"source_index\":9,\"explication\":\"Confirme son retrait comme tête de liste aux municipales 2026 à Tourcoing.\"},{\"source_index\":10,\"explication\":\"Renonce explicitement à la mairie de Tourcoing pour 2026.\"},{\"source_index\":11,\"explication\":\"Annoncé clairement : 'Je ne serai pas maire de Tourcoing en 2026'.\"},{\"source_index\":12,\"explication\":\"Précise qu’il ne sera pas tête de liste à Tourcoing pour les municipales 2026.\"},{\"source_index\":13,\"explication\":\"Indique explicitement son retrait comme candidat à la mairie en 2026.\"},{\"source_index\":14,\"explication\":\"Confirme sa renonciation à se présenter à la mairie de Tourcoing.\"},{\"source_index\":15,\"explication\":\"Déclaration explicite : 'ne briguera pas la mairie de Tourcoing en 2026'.\"}]}"
+    "raw_output": "{\"statut\": \"NON\", \"used_sources\": [7,8,9,10,11,12,13,14,15,16,17], \"justification\": [\n    \t{\"source_index\": 7, \"explication\": \"Darmanin 'ne sera pas candidat à Tourcoing' (municipales 2026)\"},\n    {\"source_index\": 8, \"explication\": \"'Je ne serai pas maire de Tourcoing en 2026'\"},\n    {\"source_index\": 9, \"explication\": \"Darmanin 'ne sera pas tête de liste aux municipales dans sa ville'\"},\n    {\"source_index\": 10, \"explication\": \"Renonce à la mairie de Tourcoing pour 2026\"},\n    {\"source_index\": 11, \"explication\": \"'Je ne serai pas maire de Tourcoing en 2026'\"},\n    {\"source_index\": 12, \"explication\": \"Darmanin 'ne sera pas tête de liste à Tourcoing' (municipales 2026)\"},\n    {\"source_index\": 13, \"explication\": \"'Ne sera pas candidat à la mairie de Tourcoing'\"},\n    {\"source_index\": 14, \"explication\": \"Renonce à se présenter à la mairie de Tourcoing\"},\n    {\"source_index\": 15, \"explication\": \"'Ne briguera pas la mairie de Tourcoing en 2026'\"},\n    {\"source_index\": 16, \"explication\": \"Darmanin 'ne sera pas tête de liste aux municipales à Tourcoing'\"},\n    {\"source_index\": 17, \"explication\": \"'Ne sera pas maire de Tourcoing en 2026'\"}\n]}"
   }
 }

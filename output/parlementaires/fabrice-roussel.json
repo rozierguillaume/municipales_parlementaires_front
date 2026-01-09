@@ -165,6 +165,34 @@
       "snippet": "Municipales 2026 à Nantes. Julien Bainvel tente d’imposer sa candidature à droite&nbsp;&nbsp;Ouest-France",
       "date": "Wed, 23 Apr 2025 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Vœux des politiques pour 2026 : les municipales en ligne de mire - Maville Nantes",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdnQ4ekNBX0otbTZIMXZPR3F5ajZ0YUF4YV9qS1JvSUR6SFhlSk00SFlHN1RkeTkxcFRXTWkzaDlMVDlhR0xoMGxHMEV6TF94eFV5Wnc0Sm5Pa01Ldms2ZXRneDJsV0tsVUZIQk5VY3RDTTVXODRpMXdSRF9DZDNfSk5rUlBJMUJJby1xV0RxVnZ1UHZvbmNSMnJid2tvYzc3YUJhTlBJS2t0TU1MaW16QUlCeGVpVmtVdUJ1eGM5cjVBQQ?oc=5",
+      "snippet": "Vœux des politiques pour 2026 : les municipales en ligne de mire&nbsp;&nbsp;Maville Nantes",
+      "date": "Thu, 01 Jan 2026 17:32:00 GMT",
+      "source": "Maville Nantes"
+    },
+    {
+      "title": "Législatives 2024 : La Chapelle-sur-Erdre a un nouveau maire - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTWl5T2xreGNVbWw4dE1WdVY0aTlObXhmc01vNHpkeUxXYVdpOWdnWUZvTnItOVdUcjNTdXdJUGtRVm5aZnJzZHlrVVI2WnFDNFBEaC1kUkFBTHpjWkZEUjJwQ2dHWFA2VWZlcVRoZUI1alZXMW94bUx3ekhXVEFNaC1GZ2kzV3ZVakRsYVY4dWRzVTlOOHI0dFIwYmk5MFBrMmlJMHFTWEpSeXJzMHNOTlFmMk1aOUQ0aTk4aXU3S0w3MFRLZG5RenpiZlRIQQ?oc=5",
+      "snippet": "Législatives 2024 : La Chapelle-sur-Erdre a un nouveau maire&nbsp;&nbsp;Actu.fr",
+      "date": "Sat, 13 Jul 2024 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "INFO OUEST-FRANCE. Anthony Descloziers, maire de Sainte-Luce, est candidat à sa succession en 2026 - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQTVBMNjZaSUhRdFBmRWxNZzhlZlZMUThWUi1IOGpKaW13ZE04MkwxbnpBN1IwNDR5VXFHYms3UUtNVzhwN1hxLUMzM2tVb2gzWjdlS0R1amJtaHAtcUtSbHpoa2swT0F2WmVyRG9yUkp2TjBtMGxQQndxaFo4Y3VySkJCNFZJZTl3VXY0T0h3NkxpSDAwY1N2QlZPSklhNzBiYzJMdUJpdDR5VVU2R3dPLUVRZDJlTnZ3X09KMnZuNi00azlrNnh2d0VHWXFsOUFQbDBaUjdqblJMWUYtcTJrZUpFbWJNX0w1TU9KNk1rcHE1MmFzR3dOeFNjM3NQN0dqUmhHVjREZHA5c29DRFJKbkpZLU5tM19DOXRyQXFicEhvMG1iQm1YempuUjBTUQ?oc=5",
+      "snippet": "INFO OUEST-FRANCE. Anthony Descloziers, maire de Sainte-Luce, est candidat à sa succession en 2026&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 03 Oct 2024 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Les Municipales 2026 à Nantes et sa métropole - Mediacités",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXb2QtRDhfMWs3X3R0cGpiRXZwMGx2bno3WkZjTTZnQ0RJcmpsNktabFBic29sTWFqZUt6ZmhDQVY2WE1rOE9aaWlZR1JJRUdwWkRKT3ROZW9tM0VGeTRsei1LNm9pb0owSVR3Xw?oc=5",
+      "snippet": "Les Municipales 2026 à Nantes et sa métropole&nbsp;&nbsp;Mediacités",
+      "date": "Wed, 29 Jan 2025 19:55:42 GMT",
+      "source": "Mediacités"
     }
   ],
   "analysis": {
@@ -172,12 +200,16 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Fabrice ROUSSEL (PS) comme candidat aux municipales 2026 à La Chapelle-sur-Erdre ou ailleurs."
+        "explication": "Aucune source ne mentionne explicitement Fabrice ROUSSEL comme candidat aux municipales 2026 à La Chapelle-sur-Erdre."
+      },
+      {
+        "source_index": null,
+        "explication": "Les titres et contenus des sources évoquent des candidatures dans d'autres communes (Carquefou, agglo nantaise) ou des vœux politiques généraux, sans lien avec la personne ciblée."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:47:38.952586Z",
+    "analysis_at": "2026-01-09T14:27:57.323599Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Fabrice ROUSSEL (PS) comme candidat aux municipales 2026 à La Chapelle-sur-Erdre ou ailleurs.\"}]}"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[\n    {\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Fabrice ROUSSEL comme candidat aux municipales 2026 à La Chapelle-sur-Erdre.\"},\n    {\"source_index\":null,\"explication\":\"Les titres et contenus des sources évoquent des candidatures dans d'autres communes (Carquefou, agglo nantaise) ou des vœux politiques généraux, sans lien avec la personne ciblée.\"}\n]}"
   }
 }

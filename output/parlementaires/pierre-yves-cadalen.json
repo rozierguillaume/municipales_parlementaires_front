@@ -158,6 +158,13 @@
       "snippet": "Pour le député de Brest Pierre-Yves Cadalen, « la dissolution ne résoudrait rien »&nbsp;&nbsp;Le Télégramme",
       "date": "Fri, 05 Sep 2025 07:00:00 GMT",
       "source": "Le Télégramme"
+    },
+    {
+      "title": "Le député Pierre-Yves Cadalen dénonce une nouvelle \"agression fasciste\" à Brest - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObXNzUEIxaXU4TjUyVWtwNzBxNXpJclJabE5XQU5Zd2hjMDU3NWliaF9qbWIxb2N6d0N5N2NDT0kzQXowOWxxcHllYTgybS04UWprU2NOdmQwcXhOVTRiSFlqc0hRb0RneVJMNUxyZmNnNTV4aEFyT3k0VVlfaFlkV1QyVm9GZXkxd0V1THpURWRPbXpPOGlqNy01Q3JuUWpnQkthb2RsUVhkTjBLYTRSRVViVVB3dkx5M09oQ3Jnb3JFVWp2ak5SelpudEZZYXBZbDFLNg?oc=5",
+      "snippet": "Le député Pierre-Yves Cadalen dénonce une nouvelle \"agression fasciste\" à Brest&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 08 Sep 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
@@ -165,19 +172,19 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source explicite : 'Le député Pierre-Yves Cadalen sera sur la liste des Insoumis' pour les municipales 2026."
+        "explication": "Source affirme explicitement que Pierre-Yves Cadalen sera sur la liste des Insoumis pour les municipales 2026 à Brest."
       },
       {
         "source_index": 3,
-        "explication": "Liste officielle des Insoumis incluant Cadalen pour les municipales 2026 à Brest."
+        "explication": "Source confirme sa présence dans la liste de 12 noms dévoilée par Brest Insoumise pour les municipales 2026."
       }
     ],
     "used_sources": [
       2,
       3
     ],
-    "analysis_at": "2026-01-08T13:35:24.268300Z",
+    "analysis_at": "2026-01-09T14:13:23.092905Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3],\"justification\":[{\"source_index\":2,\"explication\":\"Source explicite : 'Le député Pierre-Yves Cadalen sera sur la liste des Insoumis' pour les municipales 2026.\"},{\"source_index\":3,\"explication\":\"Liste officielle des Insoumis incluant Cadalen pour les municipales 2026 à Brest.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [2, 3], \"justification\": [\n    {\"source_index\": 2, \"explication\": \"Source affirme explicitement que Pierre-Yves Cadalen sera sur la liste des Insoumis pour les municipales 2026 à Brest.\"},\n    {\"source_index\": 3, \"explication\": \"Source confirme sa présence dans la liste de 12 noms dévoilée par Brest Insoumise pour les municipales 2026.\"}\n]}"
   }
 }

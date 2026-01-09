@@ -17,7 +17,8 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHVkaUFWdk05U3NQXzZpVXlUdVIyMVByck9vUXZieE5oSHdpUHlEUS1yNll3Yi02bnBQZXQxLWdpOW9vTkE5czFqelV1Y1QtdlQyUEhCZ2pQNTVrN2d4MGlCdlNfZGlkbkN5RGFGOVVsZUhiLWl2NXR1UFRBVERJR1hRZ2lfQ0U?oc=5",
       "snippet": "Municipales à Orléans : la raison gagne le Centre !&nbsp;&nbsp;Mag'Centre",
       "date": "Fri, 05 Dec 2025 08:00:00 GMT",
-      "source": "Mag'Centre"
+      "source": "Mag'Centre",
+      "snippet_source": "rss"
     },
     {
       "title": "Primaire socialiste à Paris : les candidats pour les élections municipales 2026 face à face - FranceTvPro.fr",
@@ -31,14 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ29FOTJCMFhqeC1VU1NSQ1FHUzZqanFuWHA2V0lUalY4THB5RDR4VDJXclRTTkpDOGlsSmtjZDFZQkxiTFlPUVl3eGl3cHlDVWFweXdqVlZIQ0VvQWxUSVFsZGUyOHRoM3pKeGpVUlhnNm12LUNKQmdiSDJOaHJQNnNLcDgxWVZxVm12WWdiN3hNRDUzclM2MmRpZWpkNVRDSG81WnY4Q0FRZkt4QkxzU2pZYVlDYVVLdThSNkt3dlpjRE5kOUFUamJfN3VQUVZ5dC1QbGZObVd6dw?oc=5",
       "snippet": "Municipales 2026 à Orléans : un collectif de citoyens lance un appel pour l'union de la gauche&nbsp;&nbsp;francebleu.fr",
       "date": "Thu, 12 Jun 2025 07:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Municipales 2026 : la gauche (presque) en ordre de marche pour conquérir la mairie d'Orléans - La République du Centre",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDhRcENSTUhpbnNjaXV5ZzlSQWV6UVc4SDVFNkY5bEFUaFlXRTRhU005dW9TdmRjMmxLQXBvV0pERl9GUDlGOF9lcW1UUWdMdzNjT2hBUkRuSjIxa29OYUV4R3p1Znh5cU9lM1RjUTI4VFUxbTliMnp3ejd4WmptTWZvYU1JTkdFS3dsOEZRT1UwTUNsNGlUdzZJU0hjSzl6SWhtTXhRNUF4QXpadnFDUG12NTZxSkZzSW1KZ05uNU9wUzNLUzZSaUY3VUpCSHZMYTRKZUN2WjdWa1Nm?oc=5",
       "snippet": "Municipales 2026 : la gauche (presque) en ordre de marche pour conquérir la mairie d'Orléans&nbsp;&nbsp;La République du Centre",
       "date": "Fri, 29 Nov 2024 08:00:00 GMT",
-      "source": "La République du Centre"
+      "source": "La République du Centre",
+      "snippet_source": "rss"
     },
     {
       "title": "Législatives 2024 : chercheur au CNRS, travailleuse sociale, militant antifasciste…. Ces nouveaux députés de gauche - Libération",
@@ -52,42 +55,48 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2hjNEJLdmgyR1RGZzJEZ2hiZHdOSUlVV0M3TmsxYWxSSUp6Q19kQmtqUmFHdmF4cEpOYmZVcHBQNklocmFjWF9RcXlidWJyQ2hDWktHVF91SGR0RE1zVWd0ck9aQ1k5TzJRSXhhY1NEdld4cEhvTHcyUUp0UllZMTZFQTh4RVQxX092V3lSODVFRlc0YzkyTUZuT0tiVFdycWxGbDc4dWgtUi1JU2N0ZVNuQjlDUXpsdzRrcEtTRTdDdDVSTlNraVhyNlZiODNCU2hpbmJBQnRGZEE4N0NmWXFLMDE2SE0?oc=5",
       "snippet": "Municipales 2026 : pas d'union à gauche au premier tour, OSE et Maintenant Orléans ! auront chacun leur liste&nbsp;&nbsp;francebleu.fr",
       "date": "Mon, 05 Jan 2026 05:00:02 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Pour faire des économies, la vente d’alcool à la buvette de l’Assemblée nationale pourrait être interdite - Libération",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRTk4cGNzcHdBQ09aZW5uYnNoakpyRlNqNWR4aXc5bFNqMnJUa0JubUVjUUJNR3M0YVIycHNycWd3QUloQ0dtYUxLM09rdC1pY0hfdzEtNzZCRFZ1R01KMmZFekFReXY3ZVBVbFgzclk2TEVheS13X3pVNGFhZmZyQ3g3dDNScXI2dWwwSXV2aHIzQTMyaWdyRS1mTVZlejJSRmVtQkc2WEU2cDJ3MnVDQnNzWDBCejVIXzJMVnF2YS1ZWENVd3QzSmRJQ1dsNjBvRjNaWXRDV3lHLVJkZEdPMWw4OFBOdUVkdmJmYTBEdDBrdEtlMEFnQzd2dVpoXzE1T01YVkZn?oc=5",
       "snippet": "Pour faire des économies, la vente d’alcool à la buvette de l’Assemblée nationale pourrait être interdite&nbsp;&nbsp;Libération",
       "date": "Tue, 04 Nov 2025 08:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "«Vous êtes dépourvu d’humanité» : Éric Ciotti répond à un député qui lui reproche l’hospitalisation de sa mère tétraplégique - Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSllvMUVqdW9XRmFhNHZYMXNrMXhlVUhzbGg0aUVjUnlBUFJ4VkJVaWV6MS1SQUhGVExFdnF3QXlISUJIalNZeW1HcERoM3JRZHJlak5WR0cySFdWdjJ2S2E0WS1INTJ4ZFVRVHBrSXgwTHBaVUZVT2pxeEp6UFJobE9UTVRIYTJpbG1nb1M1bHBSbGJJSDV6ajk2cmhseU5OSlFaWGIxQ1lURC10WTB4Zy1TdmRXSlhpQlh0YjFyM3cyLUlwbVlfa01wR01oQk9zV2pXel9UV3RwR3d4Zk5ueDRWcV8xLVZoci1UdjluUGFlZ2ZpM1E?oc=5",
       "snippet": "«Vous êtes dépourvu d’humanité» : Éric Ciotti répond à un député qui lui reproche l’hospitalisation de sa mère tétraplégique&nbsp;&nbsp;Le Figaro",
       "date": "Thu, 26 Jun 2025 07:00:00 GMT",
-      "source": "Le Figaro"
+      "source": "Le Figaro",
+      "snippet_source": "rss"
     },
     {
       "title": "Municipales 2026 : la gauche orléanaise entend des voix - Mag'Centre",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHZ1YlowTTBhNkNsby1WNzQ1eWdfUmc5MGt3TTFMNlAyQUhMSWw1UXA5QkFhRnlNYlJsWS0tV1NFT0JZNUd3dmRSb25JM1gtN0gtamxSdmdYY1VmZVNsakVrSHVZTG96d2ZseTFvSl9ZbEZIZHNhQzhsTElVbm5keGlEbGQ3TFFpS2ZkSHhIVQ?oc=5",
       "snippet": "Municipales 2026 : la gauche orléanaise entend des voix&nbsp;&nbsp;Mag'Centre",
       "date": "Tue, 29 Apr 2025 07:00:00 GMT",
-      "source": "Mag'Centre"
+      "source": "Mag'Centre",
+      "snippet_source": "rss"
     },
     {
       "title": "Union de la gauche : trois mouvements appellent à l'unité urgente pour l'après Bayrou, et se retrouvent à Châteaudun - France 3 Régions",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPLVZxcjlkX0Rxb1F0REtrSzRzdFd1cVkxWjh2QXlSY2lLTzV6MXJwN0U4OTF1cTdYdDUtZTJxZzdYQXF0XzhlUGgxbF9HVDNUa05GYXZNT3FISGhlaTlmcDdGV1gxWWxRQ0k5SXFkYkd1d0l2ZzQ5M3VtdENicC1LTGgtVTVYWlExcXFYZWl4Q3BVdVMxSU5HZHNlb3ZBU3hyM0J0c3lXTWZBUlRVZlNmSURkTFo3MjJrLUVKOWNyVS0zYlJxalJPTlNKeUJRUUNjTEYtMG43ZlUwal9PRmg1ajlwTXJlaEpXZlkweUN3UmZJMndieW1jT3hvZ0Z5Z3dfd0c3Y0IwMEFtbTVxVVFHU2Jpcmtybm9pUkc5ODUya0VVLTg?oc=5",
       "snippet": "Union de la gauche : trois mouvements appellent à l'unité urgente pour l'après Bayrou, et se retrouvent à Châteaudun&nbsp;&nbsp;France 3 Régions",
       "date": "Fri, 29 Aug 2025 07:00:00 GMT",
-      "source": "France 3 Régions"
+      "source": "France 3 Régions",
+      "snippet_source": "rss"
     },
     {
       "title": "Quand le député du Loiret, Emmanuel Duplessy, excerce son droit de visite au centre pénitentiaire de Saran - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPclpzQ2x6Q2ZKcTdrR3h4RVh5Tm0yckFVdDZ3VHhHdTFjNmJjVUtXbkFfcy1MRVJnTnBTaWZWVjhQbVQ1U3c2cVkyRjVUYS1maVkydU8zU09Edll3ZTN6QkFVemRyaXBkUlkwLVBVMTdOOFVDaDNJUVpMdk5HTGVZVzQyT2ZqQkthMVV4eXZpOEZxY1BYbXBTRXQ2eUxRWTVUZ0FsTm9ZekdxZkNoN1NUT1BrTWJKNXFDbTRrNDhtU3lvVDR1Wldqby03aUlvWmZJNTRQY2RlQm5HNDdKTWVvOTBsUUxnME11OS1pdE12WWlVUk05ZGlYazVIVFBKOUw0MThn?oc=5",
       "snippet": "Quand le député du Loiret, Emmanuel Duplessy, excerce son droit de visite au centre pénitentiaire de Saran&nbsp;&nbsp;francebleu.fr",
       "date": "Wed, 27 Aug 2025 07:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "L’Elysée prévoit une hausse de 31,5 % du montant des déplacements nationaux de Macron - Libération",
@@ -108,63 +117,95 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLVhlOFVGYjBheXV1U2trRlpRUnNKYWJ2QUxQbE5hREw0a09ZZ3VzSUEtLVpIRjNVdTVaeVlOR0tLTDNIM01lTEhFeEFlM1ZKaEllbWpGZnBFU3R4bUF2ZEltZ2xZNlFFS0RYVFZEWVFBWXM2TWVzRExmc1g3SHZQZXBfMk15cTYwamloSExFMFpGbnBYNExsWG1yNFJuNk5aY3lpWVJ5S2JCN1NZeTVxTmNNb3ZOeUU5QUVQYjhYZnM5bVY0UjNtZHAwX0FVQ1RDLVZZ?oc=5",
       "snippet": "Un député saisit la HATVP sur le communicant officieux de Bayrou&nbsp;&nbsp;Libération",
       "date": "Wed, 07 May 2025 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "Démission de Sébastien Lecornu : et maintenant, on fait quoi ? Les députés du Loiret réagissent - La République du Centre",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTzUzUzh5aGQyYVRkd1ltUWRZNk1yVUtRc2pvMThacE9BbVhHbWY4cVFfbnFaTlhIeUw4VUZIRFZOVUFFLVlnMXkzT3NfdDZXMkV2a3dDMk5DUEdVWVJZNHc5aDllendQN2ZGY0ZBZS1nWEtBRGdHRjFfVTRXSS1ETUw5YWlzVUVtcUlvb0kzSmV4QVpMNTUtSEp1SkNVdUZyN0p4WVFIbG9zS2s0aXhrR21sa3Uwem9ZY0F4NWkzZTdYaWYwcWFYX1VTcGIxb2dNS3VoZ2YzUUU5M2lTS3lQY09lbGo?oc=5",
       "snippet": "Démission de Sébastien Lecornu : et maintenant, on fait quoi ? Les députés du Loiret réagissent&nbsp;&nbsp;La République du Centre",
       "date": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "source": "La République du Centre"
+      "source": "La République du Centre",
+      "snippet_source": "rss"
     },
     {
       "title": "Emmanuel Duplessy, député du Loiret : « L'alliance à gauche a créé une dynamique qu’il faut poursuivre - Mag'Centre",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEdyd3ctM1FPUXpfdy11UFJ3ZElndlpoc3JXNjc5a0NockFKVHY5QW1XZ0ZhYzJST1pONjRDb3gwOTBxUHNCWlBmQWU3ZlpMeTM2cUdxRU5rV3VMQzBsVXJ5RlZhNmdvRDU5X2dQR1FjZE5FTWxvMDdZVFR6NEw4VXRLUFJhaVRIVy1xZFNsNTZYVFU1aEM2MnVwVFNxbU5kaGRSOF9pcl9ocjVLYWU4VkpwSWV1QVN3OUl5b1B2VkVIc0xIWEJN?oc=5",
       "snippet": "Emmanuel Duplessy, député du Loiret : « L'alliance à gauche a créé une dynamique qu’il faut poursuivre&nbsp;&nbsp;Mag'Centre",
       "date": "Wed, 11 Sep 2024 07:00:00 GMT",
-      "source": "Mag'Centre"
+      "source": "Mag'Centre",
+      "snippet_source": "rss"
     },
     {
       "title": "Municipales 2026 à Orléans : entre tensions et ambitions, l'union de la gauche aura-t-elle finalement lieu - La République du Centre",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGY2VmxfU3k5MTFoeWE2TjhFUlp0dHVCaTRrUUo4U1lFa3RmZFBtU1o4ME5yOGRFMFJoSU1LNFNaWnhkWnllYlg1Ym9lMXZlaUhHNjRmWjRhUkJ1UExzLUhtbGt3aHRuZ2tYSVdURTdhVU5GVjN2MmkxaTduR0ZMcU9MUHhvVF9MbVplUmdaSF80SkFxeldNUUt2UlgyNzFsdXhHc1h6aTZGTlhMZE5Rb2hydmxqWnFqanlUbDdiLW1nSC03RUpHeXF4ZHJoV0JNcWs2MEw1dzVxaVA1ZnNBTFpQejZEOWRuLWNCVWpGbUU?oc=5",
       "snippet": "Municipales 2026 à Orléans : entre tensions et ambitions, l'union de la gauche aura-t-elle finalement lieu&nbsp;&nbsp;La République du Centre",
       "date": "Tue, 10 Dec 2024 08:00:00 GMT",
-      "source": "La République du Centre"
+      "source": "La République du Centre",
+      "snippet_source": "rss"
     },
     {
       "title": "Municipales 2026 : \"Maintenant Orléans !\" a collecté 2.000 réponses lors de sa consultation citoyenne - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUTQzTlNHdkVnc21BVHhqb09xazkzNHlzdjlfWkxETGE1LUwtQzRnRE9kV3NxTzVCWGlHMkdNci1jWEhnMEgtb2FCd3dkMlNieWpzT2pYTUx3RWx2Rkloall1QmkybjR6YWVBYmM2Nklva2c5a1lpSWd4a2NWM0JROGI3cUhUMWNSRWF5TDdRWlduZjRpTjNsNmhFNXNDSnZDcC1IVFdwemh3bHBRblNNZmU4R0QwUEU5NzNrVmo0cHprYnRXekZWX3NhbTNyc1kzRzJfY0dKb2dYZ25HM1E?oc=5",
       "snippet": "Municipales 2026 : \"Maintenant Orléans !\" a collecté 2.000 réponses lors de sa consultation citoyenne&nbsp;&nbsp;francebleu.fr",
       "date": "Tue, 29 Apr 2025 07:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "« Maintenant Orléans ! » : la gauche unie lance sa campagne municipale - Mag'Centre",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOVhzdnNYT0ZqdnhIejNISzNxR0trQ2JnbUd5TWdGZk5sQlhZWlpwbWpOOFQwLU9FbTRfS1hYT0dRZW8ydXZ4b05MTTRaZk8wYXZjbmtRZEh4dUdvZHA0c1I5T2pfeFh3WFFsLXBha1VvWGxfTlFuMjZVckp0NGRRUFp2bFNBZlYtQldIcVpFdlphRnA3ZU5HeEFWUQ?oc=5",
       "snippet": "« Maintenant Orléans ! » : la gauche unie lance sa campagne municipale&nbsp;&nbsp;Mag'Centre",
       "date": "Fri, 29 Nov 2024 08:00:00 GMT",
-      "source": "Mag'Centre"
+      "source": "Mag'Centre",
+      "snippet_source": "rss"
     },
     {
       "title": "Municipales 2026 : vers une liste Nouveau front populaire à Orléans ? - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSzl6OU42a2Z1M0xBRzI0VXZ2NTNiWmU2M1Z5dW9lbUVyM1R2ZnVLRFpubnpPNHowcnlwTkU4M1V3aXVFMUJWZlNsM1N1c2hOVjVoR2VlZ01Rdmx0MFZReHlOdGp2V19ScUZXYUFYSDBCeVdBNm8tSnA3akZmbWlqZ0U0WnI0WTNsR0NaZHRpLXNGdVRnRzl5akJKLWFQaW1JZjhBOExYOGdlM29HMFhUMDhMYzQwUQ?oc=5",
       "snippet": "Municipales 2026 : vers une liste Nouveau front populaire à Orléans ?&nbsp;&nbsp;francebleu.fr",
       "date": "Fri, 29 Nov 2024 08:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Emmanuel Duplessy, député NFP du Loiret - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlJJem53SGV6N2JRSzk5WUFrLVZOS3k5NVBQdUxrc0RkSFRKQWMtU3NxM2RaSEl3VGt5Sk5wQ1FuR0J3U3RHSTV2VGRnU0c0NmhKQ2hnam91VjlVVXJ2dExEUmlsNWx0SHJVQ0RJamF3dGFFbXZiaktmRk9pSE45Z2NDSGFNQWNSUHRWbjM2dVFlWXR3VmlxRU93OFBQUkRZZXhUOUpaUGEyeVJuSVluSUdB?oc=5",
       "snippet": "Emmanuel Duplessy, député NFP du Loiret&nbsp;&nbsp;francebleu.fr",
       "date": "Wed, 15 Jan 2025 08:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Gouvernement Lecornu : le député écologiste du Loiret Emmanuel Duplessy votera la censure - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRmlJQzU3OFJnU3hPUlVvMWM2Umo5ektkdl9OUlhORXFiaDloeGhkYUZWY0wyU0Z5azNGQ3BmcGV0eWZUQmtJRHFOdjlfQ0R5bEdNZExDd3h4TDZ3b1BmcWNhWVVWeGplSjNUY19qN0xHRktpSVdtVHZtR2s2OGFROHExSHBKTHNwaWRFQmt3eS1PYkh4QWNKbzVveTUycDdGSWdwVWJKbnJMUTBpa2xBYzV4d0dvU0UwYW90LWNCN05xdDNvQVJKeXhYVEE0eWpvVFRB?oc=5",
       "snippet": "Gouvernement Lecornu : le député écologiste du Loiret Emmanuel Duplessy votera la censure&nbsp;&nbsp;francebleu.fr",
       "date": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
+    },
+    {
+      "title": "À 100 jours des municipales, l’Assemblée adopte la création d’un statut de l’élu local - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOGNDUW1GNEpwSW5jUlUzQks4bno5eFVBRmJyNUlDYnU5cXNiMnN6N0RCQUpsQ2lBV25LNkh6UlBOdEFpd1AtX1draHlxcHlXcXRBLVpKM01yZG93bnBFTzV1MEh5aDFIZjhCX2JOU3VRd2hFd0RMOTNrU0ZodUluVFo3dW1VMUxWbzItWEg3VmlvRDJ6aEpXb1BRNUdRMXgzNDBVMVpNYkdpTkM5aTh6UVp2VnQwWDVWX3NyaE9LSDlUT0htNlBXYmMwWEJQRGJyX3JSQTM1a3dhMTBMb3NlMzlDV05MNEZMVUFGRU9YY1VXZw?oc=5",
+      "snippet": "À 100 jours des municipales, l’Assemblée adopte la création d’un statut de l’élu local&nbsp;&nbsp;Le Parisien",
+      "snippet_source": "rss",
+      "date": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Législatives 2024 : Qui sont les deux nouveaux députés du Loiret Constance de Pélichy et Emmanuel Duplessy ? - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMXBHWFVPT19nSHc2Q2ktSW4yZWRlbk01N1QxYTBLY2oySjlfV2ZULS1jRmg0RDh0aDJYZnpBQXVnSTJJVG90bWd0NEEtSzhiN2VDdXdvdHl4R1I1ZV9CczRIYXlwTVZITmFSVkdER09NZHlieXR0U05keUdZcEJoSi04ZXE2R0FGSnhGYU5RdEJUWmFkcmF3YnJfWVJ3aDZMNHQyQkJhM0JUUG4zVUNNV1JKanh4akJ4aUdQVVVRUmdkenhpU0YxcTRvaUtBR196bEV4bTVjYVotYnM1TEItQjJaRS1KMmtGZ0E?oc=5",
+      "snippet": "Législatives 2024 : Qui sont les deux nouveaux députés du Loiret Constance de Pélichy et Emmanuel Duplessy ?&nbsp;&nbsp;francebleu.fr",
+      "snippet_source": "rss",
+      "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Statut de l'élu : la loi définitivement adoptée par le Parlement à trois mois des municipales 2026 - Le Courrier des maires",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQlZJelE5aXp6VmlxalR2c2tJcXhBSTRnNVFDLTVteXBSSkFycFpxaG5TS3RIM3hzQ3M3TTNsVmhUWl9mOWdleGZ4a1dfajgxeldwb3E1dFdIT3oxQWNwbzdPMjN2VW5Sc0d1V0UxNkkxWGU0b0UwRW1CS3RnVEM2WHYxSmRpZG53T2x0Q20tSXEtV0ZqdDF0Z1ktQWJvdEhmSEhaQ1BxWWprUGFoT0daVDBSVEt4dzBJTm5vWExQZ1dTb2kzRHN5Zl9JMFRZU3F4ckxnbEZSckdZM1k?oc=5",
+      "snippet": "Statut de l'élu : la loi définitivement adoptée par le Parlement à trois mois des municipales 2026&nbsp;&nbsp;Le Courrier des maires",
+      "date": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "Le Courrier des maires"
     }
   ],
   "analysis": {
@@ -172,23 +213,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait d'Emmanuel Duplessy aux municipales 2026."
-      },
-      {
-        "source_index": 1,
-        "explication": "Source évoquant des listes (OSE et Maintenant Orléans !) mais sans lien avec Duplessy."
-      },
-      {
-        "source_index": 2,
-        "explication": "Titre mentionnant les municipales à Orléans, mais sans référence à sa candidature ou son retrait."
+        "explication": "Aucune source ne mentionne explicitement une candidature municipale d'Emmanuel Duplessy pour 2026."
       }
     ],
-    "used_sources": [
-      1,
-      2
-    ],
-    "analysis_at": "2026-01-08T13:28:21.891185Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:04:59.476980Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait d'Emmanuel Duplessy aux municipales 2026.\"},{\"source_index\":1,\"explication\":\"Source évoquant des listes (OSE et Maintenant Orléans !) mais sans lien avec Duplessy.\"},{\"source_index\":2,\"explication\":\"Titre mentionnant les municipales à Orléans, mais sans référence à sa candidature ou son retrait.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature municipale d'Emmanuel Duplessy pour 2026.\"}\n]}"
   }
 }

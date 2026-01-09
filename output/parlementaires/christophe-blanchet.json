@@ -151,6 +151,13 @@
       "snippet": "Municipales 2026 : quand l’ex-maire Christophe Chabot fait son retour dans l’arène politique, à Brétignolles-sur-Mer&nbsp;&nbsp;Ouest-France",
       "date": "Mon, 08 Dec 2025 08:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026. Le député Christophe Blanchet, «numéro 2» de Déborah Pawlik à Merville-Franceville - maville Caen",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbzZlV043YW9rU0c2dXZNMWQ2bHl4TFdQcHZQUXJHMllUSXBTTmNUc3J3WmNHVEZ0a3EtSDhLeDYyYlY2X1JEeDRJMnRISEluWWk1d2NTQnUwcHo4NDRUWUNtZWxMX3dDX1BBUHZRMjJtQl94N0Z3UU9OT0JNUS1nV2VVTkMxeWJUalZMZjJjS3hUbXJrajBXd2ozenpfTlRlWFFWTzBKa044RFBOVWxwNF8wbDVPc0RoU1d4Q01QREczTjBGUVZDOVhETVowUzBrampNOVhJUHNSNnI0MzNhOW5BUkJ2Z3BJbUsw?oc=5",
+      "snippet": "Municipales 2026. Le député Christophe Blanchet, «numéro 2» de Déborah Pawlik à Merville-Franceville&nbsp;&nbsp;maville Caen",
+      "date": "Sun, 28 Sep 2025 07:00:00 GMT",
+      "source": "maville Caen"
     }
   ],
   "analysis": {
@@ -158,19 +165,24 @@
     "justification": [
       {
         "source_index": 10,
-        "explication": "Source mentionne explicitement Christophe Blanchet comme «numéro 2» de la liste municipale à Merville-Franceville en 2026."
+        "explication": "Source mentionne explicitement Christophe Blanchet comme « numéro 2 » de la liste municipale 2026 à Merville-Franceville."
       },
       {
         "source_index": 11,
-        "explication": "Évoque un binôme pour les municipales 2026 à Merville-Franceville-Plage, impliquant directement Blanchet dans le processus électoral local."
+        "explication": "Source confirme sa position dans le binôme municipal 2026 pour Merville-Franceville-Plage."
+      },
+      {
+        "source_index": 12,
+        "explication": "Source identifie Christophe Blanchet comme candidat (numéro 2) aux municipales 2026 à Merville-Franceville."
       }
     ],
     "used_sources": [
       10,
-      11
+      11,
+      12
     ],
-    "analysis_at": "2026-01-08T13:40:51.862384Z",
+    "analysis_at": "2026-01-09T14:19:41.428733Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[10,11],\"justification\":[{\"source_index\":10,\"explication\":\"Source mentionne explicitement Christophe Blanchet comme «numéro 2» de la liste municipale à Merville-Franceville en 2026.\"},{\"source_index\":11,\"explication\":\"Évoque un binôme pour les municipales 2026 à Merville-Franceville-Plage, impliquant directement Blanchet dans le processus électoral local.\"}]}"
+    "raw_output": "{\n  \"statut\": \"OUI\",\n  \"used_sources\": [\n    10,\n    11,\n    12\n  ],\n  \"justification\": [\n    {\n      \"source_index\": 10,\n      \"explication\": \"Source mentionne explicitement Christophe Blanchet comme « numéro 2 » de la liste municipale 2026 à Merville-Franceville.\"\n    },\n    {\n      \"source_index\": 11,\n      \"explication\": \"Source confirme sa position dans le binôme municipal 2026 pour Merville-Franceville-Plage.\"\n    },\n    {\n      \"source_index\": 12,\n      \"explication\": \"Source identifie Christophe Blanchet comme candidat (numéro 2) aux municipales 2026 à Merville-Franceville.\"\n    }\n  ]\n}"
   }
 }

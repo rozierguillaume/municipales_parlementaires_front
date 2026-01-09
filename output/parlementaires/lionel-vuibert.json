@@ -158,6 +158,34 @@
       "snippet": "Législatives: les enjeux dans la 1ère circonscription des Ardennes&nbsp;&nbsp;L'Union",
       "date": "Wed, 08 Jun 2022 07:00:00 GMT",
       "source": "L'Union"
+    },
+    {
+      "title": "Législative dans la 1ère circonscription des Ardennes : la censure du gouvernement a-t-elle desservi le candidat RN ? - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNekR5b1dmSUxBa2ZmdDdwVnZuU0JEamk5VGRFSmlla3lJcEY1eHZCUWFpakNnUjR2VEFySTdRUFdCMW5IOGRyUjBKTm01NmVWYW9yVVdCVVBGMTRmeC00N3pmdU14S1ZQV2x3TVcwbmdsSkN0WlZoTWc0X0EtRE40azliVEM3WW1IU1BsRXZjQ2VZaUJwVHUwV3RlUHdzcGRyZnl0R2dnU2JuY0tpT2J2VXctcFVJei1OTjBUV3hwb1F2MTM1emRqMFlJX1ljSkszNi0wclFWMTRESkNhUTR2V0Zvc0pWWHhtU1FFejRTS3gwUU84bUF3?oc=5",
+      "snippet": "Législative dans la 1ère circonscription des Ardennes : la censure du gouvernement a-t-elle desservi le candidat RN ?&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 09 Dec 2024 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Isère. Législative partielle : le candidat NFP largement battu par la candidate macroniste - Le Bien Public",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnBWTmxBYXhsaWxfejFEbU1ySTRTNzNSUUM4bmEzNFJxWEg3UmUyR0VhSWJFS3FVTmoweDZBUmpSdjFPWkxmR0k3ZmRfajF3M3F3N0QwTkxMYTFQZ1Vzb3R4WVJyakcwaHlJWUt5cHA2b2JTU1ZkYUZQa1pyYXp4TlljSnZrRDhlcWxlLXZYQXQwSEpDbzl4VTJOOTc5ZDdZTFRkY3NUd2lwQm0zT0hPcFlrYnpkUHNVc3ljdlI0RWhtQ2Nmay03Q1lFeUUzcFR5QW1N?oc=5",
+      "snippet": "Isère. Législative partielle : le candidat NFP largement battu par la candidate macroniste&nbsp;&nbsp;Le Bien Public",
+      "date": "Sun, 19 Jan 2025 08:00:00 GMT",
+      "source": "Le Bien Public"
+    },
+    {
+      "title": "Après les tirs dans le quartier de la Ronde-Couture à Charleville-Mézières, les promesses du ministre de l'Intérieur - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUVg4dmZSby1Dblp3UkJiWDJIcXBHZU5lZ1ZDRndPTjk0YWNhbzNFQ1MyaDljeUtjX2RVallwMktYR0F0ZDdpb0VjY2hJSmFVY0dFR3Rhd3ZOeG9yVXRpUHc1VWp3OGtFTXhYM2RmSG55ZXM0Z25FUmxDcENhQUVrQzUzWnJDN2E3U0JYUHpydWNLRUFlNXZDM0RlUWNCWXVuUkZ3NkdyVDl6aHl5el8wOWcxTkt1TkZkRlNxZDBnSmZoNHZkOHRzZVJSN2I1MThCVmNSY0F2MXVQTlBYcGxzVHZXZFNLeExGVW9lQ3dYTDlyS3B4QWJuVTFLMHpKb3FVOW12Z3B2Zw?oc=5",
+      "snippet": "Après les tirs dans le quartier de la Ronde-Couture à Charleville-Mézières, les promesses du ministre de l'Intérieur&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Le député RN des Ardennes Flavien Termet annonce sa démission - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRnWFRidnR0SnFJMHYwbHp0dE84WF9WRndNUjdlMHNEQ3JpbUw3WElEcTZaSWdfYW5jMEpGSUtSWWRVaHpkV0RLVl9QV2hvMVFSNnI3ZDA1N3Q4blNvODBldG8wQWpBa2lDdDVsUHQyMUUtOHZCSy1ZVVhyeUpwYkY0UzJ4bVFzV19GOXc2blp2SURTZlBNa1R5Yjg5dW0wUUpQcm9RMHNGOTNf?oc=5",
+      "snippet": "Le député RN des Ardennes Flavien Termet annonce sa démission&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 30 Sep 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
@@ -165,12 +193,16 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Lionel VUIBERT (SE) ou Faissault en lien avec une candidature, un retrait ou les municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement Lionel VUIBERT comme candidat aux municipales 2026."
+      },
+      {
+        "source_index": null,
+        "explication": "Aucun lien entre la personne et une candidature municipale pour Faissault ou autre commune en 2026 n'est établi."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:43:02.846600Z",
+    "analysis_at": "2026-01-09T14:22:03.332867Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Lionel VUIBERT (SE) ou Faissault en lien avec une candidature, un retrait ou les municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Lionel VUIBERT comme candidat aux municipales 2026.\"},\n    {\"source_index\": null, \"explication\": \"Aucun lien entre la personne et une candidature municipale pour Faissault ou autre commune en 2026 n'est établi.\"}\n]}"
   }
 }

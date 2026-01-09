@@ -151,6 +151,20 @@
       "snippet": "Des anciens enfants placés s’unissent dans un «comité de vigilance» : «On veut que nos paroles soient suivies de conséquences politiques»&nbsp;&nbsp;Libération",
       "date": "Wed, 20 Mar 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "« L’impression de devoir choisir entre mes enfants et mon mandat » : les députés épuisés par la séquence du budget - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObkpqYTBPQk5aT0VuMmlwU1hWdkRzZ3hJdG9zMjZhUVZPSWpBRllJdTc5MENORWZWVkk3a2ZaZjZGVUotMnZteXppMjZBVlR3S3QxeHp6LWN6b3NzaW56d2ZscVdCYThFUld0dG5iQ2VxdU0yWVFreDQwYmNFamxacHpfckVEV1FmbkF1UERKeDZaQm1UdVlUVWg0dmMzWFRTMTRLNkJQMmdEUGVRQ1BKU0cyVEpNMHlTa1FRRi1UMmZ2ZGhmWjluWHFXRzgxUGtXQ0RXVVJTQllBelhOSTl0ZW5jVjFhV29UVG1JRG5LR3VUNVdRa3NaQWpqdEJKY1g5VkwzMzlKWjZiTWdocG4zTDhfcw?oc=5",
+      "snippet": "« L’impression de devoir choisir entre mes enfants et mon mandat » : les députés épuisés par la séquence du budget&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Droit des enfants, climat, vie chère… Quels sont les textes présentés par les socialistes à l’Assemblée ce jeudi ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOVU1tTi1icTdZcWZCZ2VrRjAxX2tGUlU5Q2E3TXA3MEljTURYWWkyMVVvNk9VS1otUlVRemJ1c3lFRTRwY3ZLTGgzOU9CVUlMT1JxeDRvYUE2ZVF0MGRaVVMxck1PNU1xS1ZGeFVZNjUtS01hMkJhaHZWdzhUaXZqNGpPQUJCYVE0TFlyUkt5dml6cy1VSHJGVW5pZ2ZzXy1iVUtUa0pxaXFiLVJRSUQ2TDdROFBaQUZsMENpcEVza1BIOXFxamJsTGlYX3pQYWxoaFlvTFpoaENEa1dIZC1RbmZjMDZBVlZMSkxKenU4amI1enFnblN6R0laYUN3TWJCTDV5TlhZNGJjTVcxWHpaM3YyMFVlNEEwODdSbWxjaXkxempTUjRJ?oc=5",
+      "snippet": "Droit des enfants, climat, vie chère… Quels sont les textes présentés par les socialistes à l’Assemblée ce jeudi ?&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
@@ -158,12 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait d'Ayda Hadizadeh aux municipales 2026 à Saint-Ouen-l'Aumône."
+        "explication": "Aucune source ne mentionne explicitement Ayda Hadizadeh comme candidate aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:45:35.023636Z",
+    "analysis_at": "2026-01-09T14:25:28.504072Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait d'Ayda Hadizadeh aux municipales 2026 à Saint-Ouen-l'Aumône.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Ayda Hadizadeh comme candidate aux municipales 2026.\"}\n]}"
   }
 }

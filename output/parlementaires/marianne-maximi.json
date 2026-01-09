@@ -151,6 +151,13 @@
       "snippet": "Municipales : Clermont, Riom, Issoire... Quels sont les enjeux et candidats dans les grandes villes du Puy-de-Dôme&nbsp;&nbsp;La Montagne",
       "date": "Sat, 05 Apr 2025 07:00:00 GMT",
       "source": "La Montagne"
+    },
+    {
+      "title": "Election municipale à Clermont-Ferrand : le RN a choisi son candidat - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzUxUVhpaVNibC03blRXTHVHZWZ4dHBiMEZCSVJkSkxEQVEwQzdLdU1GeXVsWDJkczVYSDA0bVMxUXFkbnJ4T2s3LUZReXcwMnB0dHlJY3g1VzgxZ1RvMUJ4YjFDVXpUTEtPQVpuUXBSeVgwQnBiSloxb2RUNGs3QjR3c1NfdDVSZ1B4UE5lWHo0OWlhVXh0XzBTTEhXZ3QtLTNabEJPalFtQVJBVTVndUNZS21Xbmc?oc=5",
+      "snippet": "Election municipale à Clermont-Ferrand : le RN a choisi son candidat&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
@@ -158,27 +165,23 @@
     "justification": [
       {
         "source_index": 6,
-        "explication": "Désignée tête de liste LFI pour les municipales 2026 à Clermont-Ferrand."
+        "explication": "Désignée tête de liste LFI pour Clermont-Ferrand en 2026"
       },
       {
         "source_index": 7,
-        "explication": "Candidate LFI pour les municipales 2026 avec un programme officiel."
+        "explication": "Candidate LFI pour les municipales 2026 à Clermont-Ferrand"
       },
       {
         "source_index": 8,
-        "explication": "Se lance en tête de liste pour les municipales clermontoises en 2026."
+        "explication": "Se lance en tête de liste LFI pour les municipales clermontoises en 2026"
       },
       {
         "source_index": 9,
-        "explication": "Désignée candidate officielle de la France Insoumise pour les municipales 2026."
-      },
-      {
-        "source_index": 10,
-        "explication": "Présente comme candidate LFI pour les élections municipales 2026 à Clermont-Ferrand."
+        "explication": "Désignée candidate officielle de la France Insoumise pour Clermont-Ferrand en 2026"
       },
       {
         "source_index": 11,
-        "explication": "Députée LFI confirmée comme candidate municipale en 2026."
+        "explication": "Déclarée candidate LFI pour les municipales 2026 à Clermont-Ferrand"
       }
     ],
     "used_sources": [
@@ -186,11 +189,10 @@
       7,
       8,
       9,
-      10,
       11
     ],
-    "analysis_at": "2026-01-08T13:38:20.569491Z",
+    "analysis_at": "2026-01-09T14:16:40.056170Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[6,7,8,9,10,11],\"justification\":[{\"source_index\":6,\"explication\":\"Désignée tête de liste LFI pour les municipales 2026 à Clermont-Ferrand.\"},{\"source_index\":7,\"explication\":\"Candidate LFI pour les municipales 2026 avec un programme officiel.\"},{\"source_index\":8,\"explication\":\"Se lance en tête de liste pour les municipales clermontoises en 2026.\"},{\"source_index\":9,\"explication\":\"Désignée candidate officielle de la France Insoumise pour les municipales 2026.\"},{\"source_index\":10,\"explication\":\"Présente comme candidate LFI pour les élections municipales 2026 à Clermont-Ferrand.\"},{\"source_index\":11,\"explication\":\"Députée LFI confirmée comme candidate municipale en 2026.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [6, 7, 8, 9, 11], \"justification\": [\n    {\"source_index\": 6, \"explication\": \"Désignée tête de liste LFI pour Clermont-Ferrand en 2026\"},\n    {\"source_index\": 7, \"explication\": \"Candidate LFI pour les municipales 2026 à Clermont-Ferrand\"},\n    {\"source_index\": 8, \"explication\": \"Se lance en tête de liste LFI pour les municipales clermontoises en 2026\"},\n    {\"source_index\": 9, \"explication\": \"Désignée candidate officielle de la France Insoumise pour Clermont-Ferrand en 2026\"},\n    {\"source_index\": 11, \"explication\": \"Déclarée candidate LFI pour les municipales 2026 à Clermont-Ferrand\"}\n]}"
   }
 }

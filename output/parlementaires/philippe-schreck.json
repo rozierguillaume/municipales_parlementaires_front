@@ -158,6 +158,13 @@
       "snippet": "Craintes de fermeture du centre de la Sécurité sociale à Draguignan: le député Philippe Schreck alerte le gouvernement, l’Assurance maladie rassure&nbsp;&nbsp;Nice-Matin",
       "date": "Thu, 10 Aug 2023 07:00:00 GMT",
       "source": "Nice-Matin"
+    },
+    {
+      "title": "Résultats définitifs des Municipales à Draguignan : Richard Strambio réélu dans le Var - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOGRObExfRng1NlRrVmRDUnU1OGVHT2NKSFBYRGdHVl9zX2ViN21mT3NZMjhkQ2cySFUtcFQwcm1KSnc5ZF96YTUxUF9qT0pJZzNxMFFVbGVzUmdPQ29IbFNPNTA2RzBaUm13dGdJWHVJNEl0ZHBoWVp0RDMtRWQ4RXlfeWd1RnNDRk1rWmNXSmk1UnhGMktfeVVaN1p4V1lRMUFmaEpQM3lWLUV3ZlVuVTk5XzAwTFNwa2xFcE5PczgzWmlvNnQ4UVdoeXhTTS03SU82RGtVbGUwNWZHenpmN1g4VXo3N0dvT2lrTzdsUWttWHY0WmEyWDM5NE1zZHdIb1E?oc=5",
+      "snippet": "Résultats définitifs des Municipales à Draguignan : Richard Strambio réélu dans le Var&nbsp;&nbsp;France 3 Régions",
+      "date": "Sun, 15 Mar 2020 07:00:00 GMT",
+      "source": "France 3 Régions"
     }
   ],
   "analysis": {
@@ -165,12 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Philippe SCHRECK (DVD) ou Draguignan dans le contexte des municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement Philippe SCHRECK (DVD) comme candidat aux municipales 2026 à Draguignan."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:55:40.185445Z",
+    "analysis_at": "2026-01-09T14:37:53.685016Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Philippe SCHRECK (DVD) ou Draguignan dans le contexte des municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Philippe SCHRECK (DVD) comme candidat aux municipales 2026 à Draguignan.\"}\n]}"
   }
 }

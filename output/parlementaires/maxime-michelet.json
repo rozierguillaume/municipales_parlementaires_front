@@ -151,6 +151,20 @@
       "snippet": "Municipales 2026 : à Épernay, Christine Mazy espère bénéficier de la prime au sortant&nbsp;&nbsp;L'Union",
       "date": "Sat, 15 Mar 2025 07:00:00 GMT",
       "source": "L'Union"
+    },
+    {
+      "title": "Maxime Michelet en tête face à Éric Girardin dans la 3e circonscription de la Marne - L'Hebdo du Vendredi",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNExnajhLRE5oN1FvVGtYQ3pPU0FsWGNLczVHY1gxSU1hUm9CU0JIdDdpbm9HNzB6aWlfa3BEUmxXMU8ySXh2TGpsQzliaUhaNkQzYVVxNnVzbTRsU2JNMlE4SExxTlF3bFBrOEthU0RQckFod3lhQnppNlFJbXZQZXNxWm9seklrQXZJZFpfLVpyOExrdVFPZFZGMk1CcDlFdWsxZHAxY1VIVk9vemVVTzJ3TVhWdmNiZXpic01KTXZqUVNTbXlRUmhB?oc=5",
+      "snippet": "Maxime Michelet en tête face à Éric Girardin dans la 3e circonscription de la Marne&nbsp;&nbsp;L'Hebdo du Vendredi",
+      "date": "Sun, 30 Jun 2024 07:00:00 GMT",
+      "source": "L'Hebdo du Vendredi"
+    },
+    {
+      "title": "Législatives 2024 : Maxime Michelet joue la carte Marion Maréchal, Éric Girardin privilégie la proximité - L'Union",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkd3ZXg5UlNoWWVWVkxiLWdTQS1VQUFPVlVfSmpBc1FGSVRDWGxVdmpIa1hZblNhMkxYTWlzYWhWMnUtRm9sU3hyd2M0S1BiZk12Wi1WS2JrZ2V4WmtYZk5mYXhSTWRCcElrSkxUQ2NTajZuc1FheTZmeFc5cFFiZzVHYVNUYm9iYWt1eGh5RE1QbEMtYUFPNzU0ZGl5eV9ZX2YtVlJYRjVjZGpSNTNQWUoxdnVWeTJ2M1dHSU5EUzYzWjBvREE?oc=5",
+      "snippet": "Législatives 2024 : Maxime Michelet joue la carte Marion Maréchal, Éric Girardin privilégie la proximité&nbsp;&nbsp;L'Union",
+      "date": "Thu, 04 Jul 2024 07:00:00 GMT",
+      "source": "L'Union"
     }
   ],
   "analysis": {
@@ -158,12 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Maxime Michelet comme candidat (ou non) aux municipales 2026 d'Épernay."
+        "explication": "Aucune source ne mentionne explicitement Maxime MICHELET comme candidat aux municipales 2026 à Épernay."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:56:58.613715Z",
+    "analysis_at": "2026-01-09T14:39:23.568503Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Maxime Michelet comme candidat (ou non) aux municipales 2026 d'Épernay.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Maxime MICHELET comme candidat aux municipales 2026 à Épernay.\"}\n]}"
   }
 }

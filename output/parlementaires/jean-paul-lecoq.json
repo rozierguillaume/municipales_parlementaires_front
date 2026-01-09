@@ -151,6 +151,13 @@
       "snippet": "Municipales 2026. Au Havre, La France insoumise fera-t-elle cavalier seul ?&nbsp;&nbsp;Paris Normandie",
       "date": "Thu, 12 Jun 2025 07:00:00 GMT",
       "source": "Paris Normandie"
+    },
+    {
+      "title": "Municipales 2020 au Havre : une gauche rassemblée autour de Jean-Paul Lecoq pour le second tour - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV2hGOFdVSjN2UkFNZWE4VERReDNuOTk5X0xBTXlGeVplZzVTb2VZQmtwVTBtcVpMWUpraVp2eXFDQVllZzZBYXhDUGRPWHY4SmxpdjdQTUUwOVJ2SnJPUEdpamhBOUhSMzRNMElEUzNBV2VvU1F4Q1BEWkZLbnZURF90VFpmWlFpNER5bGFhUlJBR1lpOTdaeFFxSkVna3VWc05WckwwcVJNNTNUUm9IVVFCWFE1NGIwbGQ5Tmd5MlpMSjhBWUVic2VlS0ZSQTh5LVVGaWl3bFdtMmh5WElNTzVwZldNbllIVXBTRzMtczdUdw?oc=5",
+      "snippet": "Municipales 2020 au Havre : une gauche rassemblée autour de Jean-Paul Lecoq pour le second tour&nbsp;&nbsp;France 3 Régions",
+      "date": "Thu, 18 Jun 2020 07:00:00 GMT",
+      "source": "France 3 Régions"
     }
   ],
   "analysis": {
@@ -158,14 +165,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "La source indique clairement que Jean-Paul Lecoq 'serait tête de liste' aux municipales 2026 au Havre."
+        "explication": "Source 2 (Paris Normandie, 4 déc. 2025) affirme EXPLICITEMENT que Jean-Paul Lecoq serait tête de liste aux municipales 2026 au Havre."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T13:30:43.788289Z",
+    "analysis_at": "2026-01-09T14:07:47.722495Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"La source indique clairement que Jean-Paul Lecoq 'serait tête de liste' aux municipales 2026 au Havre.\"}]}"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[],\"justification\":[\n    {\"source_index\":2,\"explication\":\"Source 2 (Paris Normandie, 4 déc. 2025) affirme EXPLICITEMENT que Jean-Paul Lecoq serait tête de liste aux municipales 2026 au Havre.\"}\n]}\n\t\t"
   }
 }

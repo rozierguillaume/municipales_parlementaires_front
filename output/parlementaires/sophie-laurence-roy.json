@@ -151,19 +151,55 @@
       "snippet": "Législatives 2024 : \"je peux combler mon retard\" explique André Villiers dans la 2e circonscription de l'Yonne&nbsp;&nbsp;francebleu.fr",
       "date": "Fri, 05 Jul 2024 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Malgré la tempête, ils se présentent sous la bannière LR/RN aux législatives : \"les électeurs sont d'accord avec nous\" - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRTE0NFdmSmpmUXFpcUM2dDRUYzBWVEx5WTdaWHB6S0xvVkxSUndLRlZibFhOME1td1U5TnVtRm1NZVVWZGZGM3B3Zm5meTJDWUp1cXlVVU8xZUYyRnZKMlhmMlE2d3JfcHFVRXBsR3NFYUpkcnZXWXNYX3NQUEdIQkhXT1h4Rm5aNEtzTDdmXzk1NTQtYU5kOVNiRF9uZHpmb01QYmJBZGtHRzdZQjV1d0prMUVjUk5pcjRQZDhjbVRWNjVXX1ctcTYyOF83OEhBZFdYam9DUS1FWGdqdmVJaWs2Y2lzTGdxY19XWE5uNVN4dVYySTlyUkU0ZUE5NFlkX0p2TmYyVVE5VHpwLVhwNUR3Tl9OLTd4MWtqak1ld0NaS1ZY?oc=5",
+      "snippet": "Malgré la tempête, ils se présentent sous la bannière LR/RN aux législatives : \"les électeurs sont d'accord avec nous\"&nbsp;&nbsp;France 3 Régions",
+      "date": "Wed, 19 Jun 2024 07:00:00 GMT",
+      "source": "France 3 Régions"
+    },
+    {
+      "title": "Législatives 2024 : Philippe Veyssière renonce, il n'y aura pas de triangulaire dans la 2e circonscription de l'Yonne - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV1ZKak1GRFNDLWpqdWlQV1dsUllqend4YXlobm1OeHFzUkIyT2JxOWRBem9OV0ZqdHZZMUJvX2dGdklxeHN6NEI4VVRBV2J4blFJQnJtQy1LMS1lVkN3bTc1WUt1Y2lkQmh4OTFmZE5EM2ljUHMxSml4T0hobVhwc0l4ZDIwWVF4bzlzbGlwb21paVB6dmMxOE9HMGdGZjNORXNJRHJucV9qTmRhSHJvWm9HUll0NkRNSFZ0QUtNWDVmVnM3T1ZXRHFhby0zdmJlc2diMDFfN05ackQ4dkxIMlJWbmhQbDV6LWJpRDZGOGJPRlEzVjJF?oc=5",
+      "snippet": "Législatives 2024 : Philippe Veyssière renonce, il n'y aura pas de triangulaire dans la 2e circonscription de l'Yonne&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Sophie-Laurence ROY (SE) ou Flogny-la-Chapelle en lien avec les municipales 2026."
+        "source_index": 1,
+        "explication": "Aucune mention de Sophie-Laurence ROY ou Flogny-la-Chapelle."
+      },
+      {
+        "source_index": 2,
+        "explication": "Absence totale de lien avec la personne ou la commune concernée."
+      },
+      {
+        "source_index": 3,
+        "explication": "Cible des communes RN en Yonne (Auxerre, Sens, Joigny) mais pas Flogny-la-Chapelle ni Sophie-Laurence ROY."
+      },
+      {
+        "source_index": 4,
+        "explication": "Aucune référence à une candidature municipale ou à la personne."
+      },
+      {
+        "source_index": 5,
+        "explication": "Contexte politique RN en Yonne sans mention de la personne ou de Flogny-la-Chapelle."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:54:19.332240Z",
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "analysis_at": "2026-01-09T14:36:14.908892Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Sophie-Laurence ROY (SE) ou Flogny-la-Chapelle en lien avec les municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention de Sophie-Laurence ROY ou Flogny-la-Chapelle.\"},\n    {\"source_index\": 2, \"explication\": \"Absence totale de lien avec la personne ou la commune concernée.\"},\n    {\"source_index\": 3, \"explication\": \"Cible des communes RN en Yonne (Auxerre, Sens, Joigny) mais pas Flogny-la-Chapelle ni Sophie-Laurence ROY.\"},\n    {\"source_index\": 4, \"explication\": \"Aucune référence à une candidature municipale ou à la personne.\"},\n    {\"source_index\": 5, \"explication\": \"Contexte politique RN en Yonne sans mention de la personne ou de Flogny-la-Chapelle.\"}\n]}"
   }
 }

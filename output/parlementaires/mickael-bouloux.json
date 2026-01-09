@@ -158,6 +158,27 @@
       "snippet": "Législatives 2022. À Rennes, la gauche unie espère faire tomber le macroniste Florian Bachelier&nbsp;&nbsp;Ouest-France",
       "date": "Wed, 08 Jun 2022 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Premier ministre : les électeurs de droite et de gauche divisés - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFBTTzBzZDZfR2FDVVpUaWVnTnJPS2FNUDlyUFNaZTN5NE1wb3R0aFRfZnA3QWE5Y2NKSVFZa3F3ZVN2NTIyU2FlZF8tZUNjTkpTYXZqYXN4bkw0T0pmVEhYRjNJRVJCejZaYVpwMDg3QUV0Y21PTHlua1BxUWVPU1VIeDlBdzMyVUM3dzd2UHYtcU5WU3AyRC04N0dmaUl1ZnIyMlNScHMtRXB0TzBraS1JZVhvRkJOVDRENTZSNE1EdFhtUmlnbWdjOE9za21jSlc3MUpyNEFpM3d2?oc=5",
+      "snippet": "Premier ministre : les électeurs de droite et de gauche divisés&nbsp;&nbsp;Franceinfo",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT",
+      "source": "Franceinfo"
+    },
+    {
+      "title": "Budget 2026 : les députés rejettent la taxe Zucman en commission - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcFVZVlgyVEhpTGdmNzF5VDBQNFZFQy1JRUhNWF9Gc1J2LVJtTU9CTVphZjhSdG5vT29rVHlHWE9jRm0tdnI4ZWZYbXZMM2FsNVkyNTRBS0JQVG9qdllxRkNkUW5LRzNKanNmZ2RMTzNMSGdaUW9CdkJMTlRCTG9rR25JbENNbHlhb01oX2ZYeDh5RDlIeUJIQ1NrM1F5NWZmMndjSmZYOUd0TGxvM0xzZWkxSElpWVJkaUI4a3JGdEVzN1ZXRXBKODRDeW1Xbm9LQ3FoVXFKNklucmdjbGJWc1Fod3BLSDNZb2UwV1pB?oc=5",
+      "snippet": "Budget 2026 : les députés rejettent la taxe Zucman en commission&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Résultats élections municipales Le Rheu [35650] : en direct score des listes, taux abstention - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWV9mLVhzUDNUb3RNQ0xTdGFUR1NHTmVlOHlqVHQxRzVjRkFLNzlVTlA4NUU1cU5FdEpFUnZBX1FicXFSbWwtVVl0T3g5NFlvaWFqQ0lvNUpnVWVKTnJBNXAyTEtLd2VfRGdmMmFuRlpxTFpPdjNYS25JaHQ5SlpHRTlBSWM?oc=5",
+      "snippet": "Résultats élections municipales Le Rheu [35650] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 21 Sep 2017 19:51:27 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
@@ -168,21 +189,21 @@
         "explication": "La maire sortante (PS) ne se représente pas aux municipales 2026."
       },
       {
-        "source_index": 5,
-        "explication": "Bruno Lesné (non PS) conduit la liste municipale 2026 au Rheu, confirmant un changement de tête de liste."
+        "source_index": 7,
+        "explication": "Bruno Lesné (adjoint) conduit la liste municipale 2026 pour Le Rheu, sans mention de Mickaël Bouloux."
       },
       {
-        "source_index": 7,
-        "explication": "La maire actuelle annonce explicitement son retrait pour 2026."
+        "source_index": 9,
+        "explication": "Confirme explicitement que la maire sortante ne se représente pas en 2026."
       }
     ],
     "used_sources": [
       1,
-      5,
-      7
+      7,
+      9
     ],
-    "analysis_at": "2026-01-08T13:43:23.344303Z",
+    "analysis_at": "2026-01-09T14:22:25.437609Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[1,5,7],\"justification\":[{\"source_index\":1,\"explication\":\"La maire sortante (PS) ne se représente pas aux municipales 2026.\"},{\"source_index\":5,\"explication\":\"Bruno Lesné (non PS) conduit la liste municipale 2026 au Rheu, confirmant un changement de tête de liste.\"},{\"source_index\":7,\"explication\":\"La maire actuelle annonce explicitement son retrait pour 2026.\"}]}"
+    "raw_output": "{\"statut\": \"NON\", \"used_sources\": [1, 7, 9], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"La maire sortante (PS) ne se représente pas aux municipales 2026.\"},\n    {\"source_index\": 7, \"explication\": \"Bruno Lesné (adjoint) conduit la liste municipale 2026 pour Le Rheu, sans mention de Mickaël Bouloux.\"},\n    {\"source_index\": 9, \"explication\": \"Confirme explicitement que la maire sortante ne se représente pas en 2026.\"}\n]}"
   }
 }

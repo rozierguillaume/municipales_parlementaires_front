@@ -151,36 +151,38 @@
       "snippet": "Gérard Caudron à Villeneuve-d’Ascq : « Face à la catastrophe suprême Bernalicis, je suis prêt à tout&nbsp;&nbsp;La Voix du Nord",
       "date": "Fri, 12 Sep 2025 07:00:00 GMT",
       "source": "La Voix du Nord"
+    },
+    {
+      "title": "Municipales 2026 : à Lille, l'ancien commissaire Matthieu Valet (RN) fait de la sécurité sa priorité - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUdwckIwUmRfLWpQNU1HNmplSDZxQzlxQVNMQzVIUFhTTUZrVVVFT1N3YllhQzN1YWhsR0NNRmo4U1ZHYnJzUC1yUjQ1cEwyMFU2SzhUZjVvMUszVzg5NGlhX0FuX1JxT2htQndUb3BVNEVHeWJWN1g0b0J2WS04QWhlZ0ZFb2IxbEZ6aHU3SW50ZEx6MklyT1Z6bzZZZ2Y2ZTdtN2RSdk9hU2JpNWNFR0tuYnBzeS1XN3g1MHIxWDEzeGEzVTBOVUltN2lWUXRCRHlQa0sycHAzSzJYMEE?oc=5",
+      "snippet": "Municipales 2026 : à Lille, l'ancien commissaire Matthieu Valet (RN) fait de la sécurité sa priorité&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 7,
-        "explication": "Ugo Bernalicis est explicitement désigné comme « candidat à la mairie de Villeneuve d'Ascq »"
-      },
-      {
-        "source_index": 9,
-        "explication": "« l’insoumis Ugo Bernalicis se lance dans la bataille [municipale] à Villeneuve d’Ascq »"
+        "source_index": 8,
+        "explication": "France Bleu (15/09/2025) : 'Ugo Bernalicis [...] candidat à la mairie de Villeneuve d'Ascq'"
       },
       {
         "source_index": 10,
-        "explication": "« le député LFI Ugo Bernalicis est candidat à la mairie de Villeneuve-d’Ascq »"
+        "explication": "Mediacités (10/09/2025) : 'l’insoumis Ugo Bernalicis se lance dans la bataille à Villeneuve d’Ascq'"
       },
       {
-        "source_index": 4,
-        "explication": "Bien que centrée sur Gérard Caudron, cette source confirme implicitement une dynamique électorale municipale 2026 incluant Bernalicis (contexte local)"
+        "source_index": 11,
+        "explication": "La Voix du Nord (10/09/2025) : 'le député LFI Ugo Bernalicis est candidat à la mairie de Villeneuve-d’Ascq'"
       }
     ],
     "used_sources": [
-      4,
-      7,
-      9,
-      10
+      8,
+      10,
+      11
     ],
-    "analysis_at": "2026-01-08T13:36:39.845003Z",
+    "analysis_at": "2026-01-09T14:14:49.069365Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[4,7,9,10],\"justification\":[{\"source_index\":7,\"explication\":\"Ugo Bernalicis est explicitement désigné comme « candidat à la mairie de Villeneuve d'Ascq »\"},{\"source_index\":9,\"explication\":\"« l’insoumis Ugo Bernalicis se lance dans la bataille [municipale] à Villeneuve d’Ascq »\"},{\"source_index\":10,\"explication\":\"« le député LFI Ugo Bernalicis est candidat à la mairie de Villeneuve-d’Ascq »\"},{\"source_index\":4,\"explication\":\"Bien que centrée sur Gérard Caudron, cette source confirme implicitement une dynamique électorale municipale 2026 incluant Bernalicis (contexte local)\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [8, 10, 11], \"justification\": [\n    {\"source_index\": 8, \"explication\": \"France Bleu (15/09/2025) : 'Ugo Bernalicis [...] candidat à la mairie de Villeneuve d'Ascq'\"},\n    {\"source_index\": 10, \"explication\": \"Mediacités (10/09/2025) : 'l’insoumis Ugo Bernalicis se lance dans la bataille à Villeneuve d’Ascq'\"},\n    {\"source_index\": 11, \"explication\": \"La Voix du Nord (10/09/2025) : 'le député LFI Ugo Bernalicis est candidat à la mairie de Villeneuve-d’Ascq'\"}\n]}"
   }
 }

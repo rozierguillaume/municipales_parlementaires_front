@@ -158,6 +158,13 @@
       "snippet": "Cagnes-sur-Mer ou Saint-Laurent-du-Var? Le député RN Bryan Masson est prêt à briguer une mairie aux élections municipales de 2026&nbsp;&nbsp;Nice-Matin",
       "date": "Mon, 07 Oct 2024 07:00:00 GMT",
       "source": "Nice-Matin"
+    },
+    {
+      "title": "Le député RN de la 6e circonscription Bryan Masson vise-t-il la mairie de Cagnes-sur-Mer? - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ2FRWVRhLXJCZmxMcnZ0eVBzblI4VjYxNHNybzJUd3pWcWNQUkRLMGdMcjY4ajRRaE5MeW1PU0ExelQ0MW5mbVhlVEhzUkxlVldWX2xuR0VQcFVuQjNrUW1zTE0wZDZiM2thd2VpY0RoeEx2c0xsTDN1TzNRUThsZm5ka3ZQenpIX3Q0blF6bkpxTFRjbnpmeWJrZ1dHdXJJcExITGFKaVhqRW03c3RrOUMzUlJjQTc2UHl3NERBMHpqR1pBY1o4aGdQRkV6UWJGOHdYUnB3?oc=5",
+      "snippet": "Le député RN de la 6e circonscription Bryan Masson vise-t-il la mairie de Cagnes-sur-Mer?&nbsp;&nbsp;Nice-Matin",
+      "date": "Tue, 02 Jul 2024 07:00:00 GMT",
+      "source": "Nice-Matin"
     }
   ],
   "analysis": {
@@ -165,54 +172,54 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source mentionne explicitement que Bryan Masson se présente aux municipales 2026 à Cagnes-sur-Mer."
+        "explication": "Source affirme explicitement que Bryan Masson est candidat aux municipales 2026 à Cagnes-sur-Mer."
       },
       {
-        "source_index": 5,
-        "explication": "Confirme son ralliement comme candidat RN pour les municipales 2026."
+        "source_index": 6,
+        "explication": "Source cite Bryan Masson comme «candidat RN» aux municipales 2026 à Cagnes-sur-Mer."
       },
       {
         "source_index": 7,
-        "explication": "Désigne Bryan Masson comme «candidat à la mairie» aux municipales 2026."
+        "explication": "Source qualifie explicitement Bryan Masson de «député et candidat à la mairie» pour les municipales 2026."
       },
       {
         "source_index": 8,
-        "explication": "Évoque ses projets pour les municipales 2026 à Cagnes-sur-Mer."
+        "explication": "Source mentionne son projet municipal pour 2026, confirmant sa candidature."
       },
       {
         "source_index": 9,
-        "explication": "Parle de son alliance et candidature dans le cadre des municipales 2026."
-      },
-      {
-        "source_index": 10,
-        "explication": "Présente explicitement son plan pour les municipales 2026."
+        "explication": "Source évoque explicitement Bryan Masson comme candidat aux municipales 2026."
       },
       {
         "source_index": 12,
-        "explication": "Indique que Bryan Masson «veut faire basculer la mairie» aux municipales 2026."
+        "explication": "Source affirme que le RN veut faire basculer la mairie avec «le jeune député Bryan Masson» candidat en 2026."
       },
       {
         "source_index": 13,
-        "explication": "Confirme sa candidature comme «jeune candidat du RN» pour les municipales 2026."
+        "explication": "Source qualifie explicitement Bryan Masson de «jeune candidat du RN» aux municipales 2026."
       },
       {
         "source_index": 15,
-        "explication": "Source récente (sept. 2025) le désigne explicitement comme candidat à la mairie aux municipales 2026."
+        "explication": "Source affirme que Bryan Masson se lance dans la course à la mairie pour les municipales 2026."
+      },
+      {
+        "source_index": 16,
+        "explication": "Source déclare explicitement : «le député RN Bryan Masson officiellement candidat à la mairie de Cagnes-sur-Mer» pour 2026."
       }
     ],
     "used_sources": [
       1,
-      5,
+      6,
       7,
       8,
       9,
-      10,
       12,
       13,
-      15
+      15,
+      16
     ],
-    "analysis_at": "2026-01-08T13:54:58.657443Z",
+    "analysis_at": "2026-01-09T14:37:03.416670Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,5,7,8,9,10,12,13,15],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne explicitement que Bryan Masson se présente aux municipales 2026 à Cagnes-sur-Mer.\"},{\"source_index\":5,\"explication\":\"Confirme son ralliement comme candidat RN pour les municipales 2026.\"},{\"source_index\":7,\"explication\":\"Désigne Bryan Masson comme «candidat à la mairie» aux municipales 2026.\"},{\"source_index\":8,\"explication\":\"Évoque ses projets pour les municipales 2026 à Cagnes-sur-Mer.\"},{\"source_index\":9,\"explication\":\"Parle de son alliance et candidature dans le cadre des municipales 2026.\"},{\"source_index\":10,\"explication\":\"Présente explicitement son plan pour les municipales 2026.\"},{\"source_index\":12,\"explication\":\"Indique que Bryan Masson «veut faire basculer la mairie» aux municipales 2026.\"},{\"source_index\":13,\"explication\":\"Confirme sa candidature comme «jeune candidat du RN» pour les municipales 2026.\"},{\"source_index\":15,\"explication\":\"Source récente (sept. 2025) le désigne explicitement comme candidat à la mairie aux municipales 2026.\"}]}"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[\n    1,\n    6,\n    7,\n    8,\n    9,\n    12,\n    13,\n    15,\n    16\n],\"justification\":\n    [\n        \t{\"source_index\":1,\"explication\":\"Source affirme explicitement que Bryan Masson est candidat aux municipales 2026 à Cagnes-sur-Mer.\"},\n        {\"source_index\":6,\"explication\":\"Source cite Bryan Masson comme «candidat RN» aux municipales 2026 à Cagnes-sur-Mer.\"},\n        {\"source_index\":7,\"explication\":\"Source qualifie explicitement Bryan Masson de «député et candidat à la mairie» pour les municipales 2026.\"},\n        {\"source_index\":8,\"explication\":\"Source mentionne son projet municipal pour 2026, confirmant sa candidature.\"},\n        {\"source_index\":9,\"explication\":\"Source évoque explicitement Bryan Masson comme candidat aux municipales 2026.\"},\n        {\"source_index\":12,\"explication\":\"Source affirme que le RN veut faire basculer la mairie avec «le jeune député Bryan Masson» candidat en 2026.\"},\n        {\"source_index\":13,\"explication\":\"Source qualifie explicitement Bryan Masson de «jeune candidat du RN» aux municipales 2026.\"},\n        {\"source_index\":15,\"explication\":\"Source affirme que Bryan Masson se lance dans la course à la mairie pour les municipales 2026.\"},\n        {\"source_index\":16,\"explication\":\"Source déclare explicitement : «le député RN Bryan Masson officiellement candidat à la mairie de Cagnes-sur-Mer» pour 2026.\"}\n    ]\n}"
   }
 }

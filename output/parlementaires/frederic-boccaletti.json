@@ -158,6 +158,27 @@
       "snippet": "«Le caractère antisémite ne fait aucun doute» : Aurore Bergé saisit la justice après la publication d’une vidéo négationniste&nbsp;&nbsp;Libération",
       "date": "Mon, 15 Dec 2025 08:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Le maire de Six-Fours Jean-Sébastien Vialatte prend la défense du député RN Frédéric Boccaletti après son rappel à l'ordre - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeWJLbV81ODd4V0JsXzZMYjB5Q1VET0U3Vkd0bHhjTW9oLVZDbi1YVVlScW5DOW1Wdlp3V1RKYnhFc3V4bHpDYVNGcVprNnllTy10VFFqa3htWHR0bTdRVHNRUGVrYkpUU3htTkJCNWhpcklzTWFpbVRyUkM3MFhHdVBseThMRWNraURTSEpmaF9jZ2V3bFc0ZzdhczM2c0RoeDNPQWVCNHQ2eFo4N0FUNVNHX295MFJ3LW11Mk1ELVBIU1RMdGM0NkdxbkgwS056OFVxTHpYV1ZOZ2VEenBwUWZsQ1AyckZ2VjRqSFBDczNZLVBhMXdMTHItQ0FybTVzUk9z?oc=5",
+      "snippet": "Le maire de Six-Fours Jean-Sébastien Vialatte prend la défense du député RN Frédéric Boccaletti après son rappel à l'ordre&nbsp;&nbsp;Nice-Matin",
+      "date": "Wed, 12 Oct 2022 07:00:00 GMT",
+      "source": "Nice-Matin"
+    },
+    {
+      "title": "Législatives 2022: Frédéric Boccaletti (RN) et la députée sortante Cécile Muschotti (LREM) au second tour dans la 7e circonscription du Var - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOelAxSjBIYnhDME01REd4b0FZOFhxSk55UkRHUHgwOHk0dWd2WnVpaHJscUlBVHl2Sno5TXRvc3RzUVlOcWMyRzZQcVNqNzVoRDVtM0JNQnNKT05CeF94eDM2X29SR3J1aDY3bHNxMjJvNkJMaUtha3psdHRRR3hmS2U4WWRkNkJzaG5sZllMTFNMVUFSRDZZR2NLZ3JONnliRVhqVXNwM2JsTWc5YkJfbjQxRnlvbzFYb0R0QlpaS3RKbW5ja2J0ZEc0V2IzRFNRNDNWTUo1N2xEdk9ROWRLeHZaWE5ZcVQydndiTU1veTJydG5FZ1lRVTZPeE1BUm0teEYzTW1zZmN6SEowTTdYdFR5MA?oc=5",
+      "snippet": "Législatives 2022: Frédéric Boccaletti (RN) et la députée sortante Cécile Muschotti (LREM) au second tour dans la 7e circonscription du Var&nbsp;&nbsp;Nice-Matin",
+      "date": "Sun, 12 Jun 2022 07:00:00 GMT",
+      "source": "Nice-Matin"
+    },
+    {
+      "title": "Le RN appelle à... ne pas voter pour Bernard Machat à Saint-Maximin - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGlOQi1QdWNZUXFOXzFsNzJ0bWVfOHBULW8xMkpCcEVjcmFIT3FYNGxrZE84eURvSWM5cXhnQ3FIVllUVlBURzh2WGtiOWN6cnRWSGV2TU1pNDY1bHVNcGo1RVZGSzJ0Sl9nZzdUdHNQOE9ucVpiRnhUMVpQSFFfMno4ZFZ5ZHNkaDd6TlZuYmtVZDdnZjdPUkEzdDk3N1lwbHNDcHlCLUpyZnZNOW9hNm9CUE0?oc=5",
+      "snippet": "Le RN appelle à... ne pas voter pour Bernard Machat à Saint-Maximin&nbsp;&nbsp;Nice-Matin",
+      "date": "Thu, 25 Sep 2025 05:33:13 GMT",
+      "source": "Nice-Matin"
     }
   ],
   "analysis": {
@@ -165,15 +186,15 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source du 19/12/2025 : Boccaletti est décrit comme « candidat à la mairie de Six-Fours »"
+        "explication": "Source affirme explicitement sa candidature aux municipales 2026 pour Six-Fours-les-Plages."
       },
       {
         "source_index": 4,
-        "explication": "Source du 12/12/2025 : Candidature officielle mentionnée explicitement pour les municipales 2026"
+        "explication": "Source confirme officiellement sa candidature aux municipales 2026 à la mairie de Six-Fours-les-Plages."
       },
       {
         "source_index": 5,
-        "explication": "Source du 12/12/2025 : Confirmation de sa candidature à la mairie pour 2026"
+        "explication": "Source officialise sa candidature municipale pour les élections 2026 dans la même commune."
       }
     ],
     "used_sources": [
@@ -181,8 +202,8 @@
       4,
       5
     ],
-    "analysis_at": "2026-01-08T13:49:00.332016Z",
+    "analysis_at": "2026-01-09T14:29:41.891694Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,4,5],\"justification\":[{\"source_index\":1,\"explication\":\"Source du 19/12/2025 : Boccaletti est décrit comme « candidat à la mairie de Six-Fours »\"},{\"source_index\":4,\"explication\":\"Source du 12/12/2025 : Candidature officielle mentionnée explicitement pour les municipales 2026\"},{\"source_index\":5,\"explication\":\"Source du 12/12/2025 : Confirmation de sa candidature à la mairie pour 2026\"}]}\n\t\t"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [1,4,5], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Source affirme explicitement sa candidature aux municipales 2026 pour Six-Fours-les-Plages.\"},\n    {\"source_index\": 4, \"explication\": \"Source confirme officiellement sa candidature aux municipales 2026 à la mairie de Six-Fours-les-Plages.\"},\n    {\"source_index\": 5, \"explication\": \"Source officialise sa candidature municipale pour les élections 2026 dans la même commune.\"}\n]}"
   }
 }

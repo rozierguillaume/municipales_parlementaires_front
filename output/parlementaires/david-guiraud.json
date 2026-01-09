@@ -158,51 +158,55 @@
       "snippet": "Municipales 2026 à Tourcoing : où en sont les discussions entre la gauche et LFI ?&nbsp;&nbsp;La Voix du Nord",
       "date": "Sun, 07 Sep 2025 07:00:00 GMT",
       "source": "La Voix du Nord"
+    },
+    {
+      "title": "Municipales : Jean-Luc Mélenchon en meeting de soutien à David Guiraud, le 31 janvier à Roubaix - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUG9PMHB5R3VfYUc3bmNOeVVNUWpVb1JtbU9XUDhlVjV6NUkzT2szaXJUMldJbFNGNDBUeVNYZ2FreFRhOWQ5NlFHaURqSHlrbGJ3dDlOODdLMnlXelluNGdaSF80M3l1OHpIMWdPc1YyVjBncWlNWkNKd1ZGQVp0WmFCWWFndlZJZGM1Z0poQ0JmdENoMjRFQXcxWC05QkNKUXI5TjF1OExtYWgwUnBBMEhYS1haMmkzRVRJVEdMTWpzTWtJOXJVU0tPVQ?oc=5",
+      "snippet": "Municipales : Jean-Luc Mélenchon en meeting de soutien à David Guiraud, le 31 janvier à Roubaix&nbsp;&nbsp;La Voix du Nord",
+      "date": "Thu, 08 Jan 2026 18:00:30 GMT",
+      "source": "La Voix du Nord"
+    },
+    {
+      "title": "Municipales 2026 à Roubaix : les anciens frères ennemis de 2014 soutiennent David Guiraud - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGM0WEI3cVBJUWNNSk41aVNnSlhjMUpqMHZDa1hLQjlpclNnanY2enEtaTFYV280ellESWkySGU1MThPN3lQRzcxYk4xU0hpMVpGLUpERkxQVUR2R3FNbFA0RTBXV243cS0zX2VLb3RaVnp1Qjgtd0w4X09aWTVEeXdjaHZOZEY4b1BzM3JWWGkwUi1nSWQwYWtPbmRYZXBBSThyNGtiRERVQmJnN3FVVlkwNmprY2hzQjFGVER5LTdWbGVRTjhpS3NTZE4?oc=5",
+      "snippet": "Municipales 2026 à Roubaix : les anciens frères ennemis de 2014 soutiennent David Guiraud&nbsp;&nbsp;La Voix du Nord",
+      "date": "Fri, 07 Mar 2025 08:00:00 GMT",
+      "source": "La Voix du Nord"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 2,
-        "explication": "Source explicite sur un centriste remplaçant Delbar à la mairie de Roubaix (contexte municipal 2026)."
-      },
-      {
         "source_index": 3,
-        "explication": "Mention claire d’un chemin ouvert pour David Guiraud dans le cadre des municipales 2026."
+        "explication": "Source affirme explicitement qu’un centriste remplace Delbar à la mairie de Roubaix en lien avec les municipales 2026, contexte où Guiraud est cité comme candidat."
       },
       {
-        "source_index": 8,
-        "explication": "Liste des candidats déjà déclarés à Roubaix, incluant David Guiraud."
+        "source_index": 4,
+        "explication": "Libération mentionne explicitement David Guiraud comme candidat LFI pour les municipales 2026 à Roubaix."
       },
       {
         "source_index": 9,
-        "explication": "David Guiraud cité comme candidat aux municipales 2026 face à André Hibon."
+        "explication": "La Voix du Nord liste explicitement David Guiraud parmi les candidats déclarés aux municipales 2026 de Roubaix."
       },
       {
-        "source_index": 11,
-        "explication": "Meeting dédié aux municipales 2026 avec exposition de sa vision pour Roubaix."
+        "source_index": 10,
+        "explication": "Source cite explicitement André Hibon comme candidat contre David Guiraud pour les municipales 2026 à Roubaix."
       },
       {
         "source_index": 12,
-        "explication": "Renforcement du lien avec les municipales 2026 via un meeting local."
-      },
-      {
-        "source_index": 13,
-        "explication": "Ouverture d’un local de campagne pour les municipales 2026 à Roubaix."
+        "explication": "La Voix du Nord confirme que David Guiraud expose sa vision pour les municipales 2026 à Roubaix devant un public, impliquant une candidature déclarée."
       }
     ],
     "used_sources": [
-      2,
       3,
-      8,
+      4,
       9,
-      11,
-      12,
-      13
+      10,
+      12
     ],
-    "analysis_at": "2026-01-08T13:37:55.494196Z",
+    "analysis_at": "2026-01-09T14:16:15.617871Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3,8,9,11,12,13],\"justification\":[{\"source_index\":2,\"explication\":\"Source explicite sur un centriste remplaçant Delbar à la mairie de Roubaix (contexte municipal 2026).\"},{\"source_index\":3,\"explication\":\"Mention claire d’un chemin ouvert pour David Guiraud dans le cadre des municipales 2026.\"},{\"source_index\":8,\"explication\":\"Liste des candidats déjà déclarés à Roubaix, incluant David Guiraud.\"},{\"source_index\":9,\"explication\":\"David Guiraud cité comme candidat aux municipales 2026 face à André Hibon.\"},{\"source_index\":11,\"explication\":\"Meeting dédié aux municipales 2026 avec exposition de sa vision pour Roubaix.\"},{\"source_index\":12,\"explication\":\"Renforcement du lien avec les municipales 2026 via un meeting local.\"},{\"source_index\":13,\"explication\":\"Ouverture d’un local de campagne pour les municipales 2026 à Roubaix.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [3, 4, 9, 10, 12], \"justification\": [\n    {\"source_index\": 3, \"explication\": \"Source affirme explicitement qu’un centriste remplace Delbar à la mairie de Roubaix en lien avec les municipales 2026, contexte où Guiraud est cité comme candidat.\"},\n    {\"source_index\": 4, \"explication\": \"Libération mentionne explicitement David Guiraud comme candidat LFI pour les municipales 2026 à Roubaix.\"},\n    {\"source_index\": 9, \"explication\": \"La Voix du Nord liste explicitement David Guiraud parmi les candidats déclarés aux municipales 2026 de Roubaix.\"},\n    {\"source_index\": 10, \"explication\": \"Source cite explicitement André Hibon comme candidat contre David Guiraud pour les municipales 2026 à Roubaix.\"},\n    {\"source_index\": 12, \"explication\": \"La Voix du Nord confirme que David Guiraud expose sa vision pour les municipales 2026 à Roubaix devant un public, impliquant une candidature déclarée.\"}\n]}"
   }
 }

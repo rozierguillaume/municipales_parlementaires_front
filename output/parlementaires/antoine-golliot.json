@@ -151,41 +151,48 @@
       "snippet": "Boulogne-sur-Mer : échange tendu en fin de conseil municipal entre Frédéric Cuvillier et Antoine Golliot&nbsp;&nbsp;Nord Littoral",
       "date": "Mon, 30 Sep 2024 07:00:00 GMT",
       "source": "Nord Littoral"
+    },
+    {
+      "title": "Boulogne-sur-Mer : dernier conseil houleux pour Frédéric Cuvillier - Delta FM",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VbDRiYlhxRGlIREFkbXhDcU1yMXQ1MlUtcE5PbGpiLS1oaHVTT3J4S09XakhlSmpKM29BSlRTcEp5Y0NpSXg0LW56UjJZeUpBckFZN0s0NGJ3LXZyeE5tSDhsUlc1T1NHU0E?oc=5",
+      "snippet": "Boulogne-sur-Mer : dernier conseil houleux pour Frédéric Cuvillier&nbsp;&nbsp;Delta FM",
+      "date": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "source": "Delta FM"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 9,
-        "explication": "Antoine Golliot (RN) premier candidat déclaré aux municipales 2026"
-      },
-      {
         "source_index": 10,
-        "explication": "Programme municipal explicite pour les élections 2026 à Boulogne"
+        "explication": "Source affirme explicitement qu'Antoine Golliot est 'premier candidat déclaré aux municipales 2026'."
       },
       {
         "source_index": 11,
-        "explication": "Vidéos confirmant sa candidature officielle comme premier candidat RN aux municipales 2026"
+        "explication": "Source mentionne son programme pour les municipales 2026 à Boulogne-sur-Mer."
       },
       {
         "source_index": 12,
-        "explication": "Candidature officielle déclarée aux municipales 2026 de Boulogne-sur-Mer"
+        "explication": "Source indique qu'Antoine Golliot est 'premier candidat aux élections municipales 2026' de Boulogne-sur-Mer."
       },
       {
         "source_index": 13,
-        "explication": "Déclaration explicite de candidature à six mois des municipales 2026"
+        "explication": "Source précise qu'il 'officialise sa candidature' pour les municipales 2026."
+      },
+      {
+        "source_index": 14,
+        "explication": "Source confirme qu'Antoine Golliot 'déclare sa candidature' aux municipales 2026."
       }
     ],
     "used_sources": [
-      9,
       10,
       11,
       12,
-      13
+      13,
+      14
     ],
-    "analysis_at": "2026-01-08T13:51:32.450025Z",
+    "analysis_at": "2026-01-09T14:33:02.898896Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[9,10,11,12,13],\"justification\":[{\"source_index\":9,\"explication\":\"Antoine Golliot (RN) premier candidat déclaré aux municipales 2026\"},{\"source_index\":10,\"explication\":\"Programme municipal explicite pour les élections 2026 à Boulogne\"},{\"source_index\":11,\"explication\":\"Vidéos confirmant sa candidature officielle comme premier candidat RN aux municipales 2026\"},{\"source_index\":12,\"explication\":\"Candidature officielle déclarée aux municipales 2026 de Boulogne-sur-Mer\"},{\"source_index\":13,\"explication\":\"Déclaration explicite de candidature à six mois des municipales 2026\"}]}\n\t\t"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [10, 11, 12, 13, 14], \"justification\": [\n    {\"source_index\": 10, \"explication\": \"Source affirme explicitement qu'Antoine Golliot est 'premier candidat déclaré aux municipales 2026'.\"},\n    {\"source_index\": 11, \"explication\": \"Source mentionne son programme pour les municipales 2026 à Boulogne-sur-Mer.\"},\n    {\"source_index\": 12, \"explication\": \"Source indique qu'Antoine Golliot est 'premier candidat aux élections municipales 2026' de Boulogne-sur-Mer.\"},\n    {\"source_index\": 13, \"explication\": \"Source précise qu'il 'officialise sa candidature' pour les municipales 2026.\"},\n    {\"source_index\": 14, \"explication\": \"Source confirme qu'Antoine Golliot 'déclare sa candidature' aux municipales 2026.\"}\n]}"
   }
 }

@@ -151,6 +151,41 @@
       "snippet": "Chauny : politique, portrait de Mario Lirussi côté lisse et côté rude!&nbsp;&nbsp;L'Union",
       "date": "Sun, 31 Oct 2021 07:00:00 GMT",
       "source": "L'Union"
+    },
+    {
+      "title": "À Viry-Noureuil, la commune comparée à un bateau en mer lors des voeux - L'Aisne nouvelle",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzgxU2pMTmo5YTUtUndmdGY3WFNmSWhfM0kwY0dTd2xIRDEtamljYmdFUjB5R0NyWHh1bkN5a0ljQmxkd2Q5dC01VnJxc3FXVG9NRnVIU2g4RzZ5SkJTT09Cb3VsV19LVWFFUW1ycTNsdFV3dGpUYlhUMzZobkk5MnhaRU5wMEFHZGZJTHUxdnpFaXl3c1FxMGJxRUVVcTluNEFFeGJVN0tndzk3a3RZbjRhcjVQRlhVbzVVTzJDY2U?oc=5",
+      "snippet": "À Viry-Noureuil, la commune comparée à un bateau en mer lors des voeux&nbsp;&nbsp;L'Aisne nouvelle",
+      "date": "Thu, 08 Jan 2026 18:19:35 GMT",
+      "source": "L'Aisne nouvelle"
+    },
+    {
+      "title": "Résultats des élections municipales 2020 : Chauny (02300) - Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY000Zy1lczF0MTZXUFN2cnBZU1ZHLTBrMjZ3c3JBQlBSZXMzdDcta3hLbXJONEFCczFjRmp1dkE5UlI1Ml9jSk01dG14MzFiUWZxZTBzR3NqRVhXRFF5UmxYVWJhRUx6UzZuQ0M3MEF2cG5Qd1ZmeHRQWUpkZFFaWEJ2SWhZNkpxMERTWg?oc=5",
+      "snippet": "Résultats des élections municipales 2020 : Chauny (02300)&nbsp;&nbsp;Franceinfo",
+      "date": "Thu, 02 Oct 2025 07:00:00 GMT",
+      "source": "Franceinfo"
+    },
+    {
+      "title": "Alban Delforge: une petite pensée pour le député absent? - L'Ardennais",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSFdMV2FHdElJVGhnOWlTUVU3NDNwZlJQeVdqV0k1dFRRdjFmU1JHczlkU0lVSnhPQW9TcThpb3l0RU1xXzlRaUxrRjV6cmctQzZhMEJIdElGWGo1d0o1bi1pQy1NYmtjUFdfTWpnVXVtLWdTWTE5a1NlUVFNc0pqNmdKM240SVlpb2xWbXNLQWJkam1MTGpiM3JkUEJxcDhNYlNYMFlJUkN1U2Fh?oc=5",
+      "snippet": "Alban Delforge: une petite pensée pour le député absent?&nbsp;&nbsp;L'Ardennais",
+      "date": "Fri, 24 Jun 2022 07:00:00 GMT",
+      "source": "L'Ardennais"
+    },
+    {
+      "title": "À Saint-Quentin, le Rassemblement national tarde à se déclarer pour les Municipales - L'Aisne nouvelle",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUDVkOUcwXzBpRDktZmk0V04ydU9Bd3RWYkJ5eXF4VVY0YVRrRk14amtTUXRRWGF0ZVd2aXRXMHN4WFgtakk5bEd0LWN2UzNsTWtoLUdLZmp4R2R5WnNoM0xuWlYtY3A4MlIwdXdrUGd2UUc3ZE9xZFdLSUoyUGlIa1h5VnhqZkxpeG15Y3cyQWNCd3pvc1k1cW8tTFVuWk4zWDAzU2NHbDlOUGhyTDlfX2hCNzlPZ1hHS0hkR3V2MlpmelB4cjF2SC0zM21zQy1B?oc=5",
+      "snippet": "À Saint-Quentin, le Rassemblement national tarde à se déclarer pour les Municipales&nbsp;&nbsp;L'Aisne nouvelle",
+      "date": "Fri, 09 Jan 2026 07:08:00 GMT",
+      "source": "L'Aisne nouvelle"
+    },
+    {
+      "title": "Dans l’Aisne, le pouvoir d’achat est la priorité des Beautorois - L'Union",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa01wVzFSMlo0dDdjamdQVkdRNDdHc0NldmpKYWp3Y0NXdlpjM1pLVEV4SEZzTmcwYTU4bmRjWENaUHZWQTNnNVUzcTJabHFSdXQ5U05nRGc2Zmo1c2RsN004ZFltVzZoZjJkOHU3d2ZTbkhnU2NCeko0dEVlTEdQRHRVS3BONVZyZmF1Q2ZuZl9ENDRiOGVSY2RBa28zVm16dGNIQmRJX2xhdC1PWG5v?oc=5",
+      "snippet": "Dans l’Aisne, le pouvoir d’achat est la priorité des Beautorois&nbsp;&nbsp;L'Union",
+      "date": "Thu, 04 Jul 2024 07:00:00 GMT",
+      "source": "L'Union"
     }
   ],
   "analysis": {
@@ -158,16 +193,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement José BEAURAIN (HOR) ou Chauny dans le contexte des municipales 2026. Les sources évoquent uniquement Tergnier et RN."
+        "explication": "Aucune source ne mentionne explicitement José BEAURAIN (HOR) comme candidat aux municipales 2026 à Chauny."
       }
     ],
-    "used_sources": [
-      1,
-      2,
-      4
-    ],
-    "analysis_at": "2026-01-08T13:48:43.009277Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:29:22.692179Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2,4],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement José BEAURAIN (HOR) ou Chauny dans le contexte des municipales 2026. Les sources évoquent uniquement Tergnier et RN.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement José BEAURAIN (HOR) comme candidat aux municipales 2026 à Chauny.\"}\n]}"
   }
 }

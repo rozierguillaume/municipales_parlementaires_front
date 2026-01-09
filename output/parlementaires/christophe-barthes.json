@@ -151,6 +151,13 @@
       "snippet": "Carcassonne. Une pétition pour appeler toutes les gauches à s’unir aux municipales&nbsp;&nbsp;ladepeche.fr",
       "date": "Fri, 26 Sep 2025 07:00:00 GMT",
       "source": "ladepeche.fr"
+    },
+    {
+      "title": "L’avocat Franck Alberti rejoint la liste du maire divers droite Gérard Larrat aux élections municipales de Carcassonne - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbFlkRU1kbW1LV2RJdFpVZHNSSGswTjBIaVF0enlONUU4cXNpMXVhTXBYa3ZkTkQwWjVUSVhvT3NxQmFmbXJLczhMZVBoVVN0Q19pNGZRMk1TZ2FjSHMyOFFiV1dZeXFqaHNkQ3JFcGtrTzdZbEN5UUtuQk00dUFPZUJ4N1dGNktxRTV5bE1idF9TaTBfNmxIR1hMSk1GMC1iQk1xRkpIR01tbWpEX0NTQlVjdHhzSVNIY3hQbVNwR0pUX1hfQ2h1MWd6X2xVbDNUa0JRSVh2SEdsTm5GUzNiWG03Vm50SEdfQ3dGcmZMLWlBa0R4cS1MYWlyZGpZUQ?oc=5",
+      "snippet": "L’avocat Franck Alberti rejoint la liste du maire divers droite Gérard Larrat aux élections municipales de Carcassonne&nbsp;&nbsp;L'Indépendant",
+      "date": "Fri, 09 Jan 2026 11:26:00 GMT",
+      "source": "L'Indépendant"
     }
   ],
   "analysis": {
@@ -158,28 +165,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Christophe BARTHES comme candidat ou non-candidat aux municipales 2026."
-      },
-      {
-        "source_index": 1,
-        "explication": "Parle d'une autre candidate (Marine Toro) et de la liste de gauche, sans lien avec Barthes."
-      },
-      {
-        "source_index": 3,
-        "explication": "Évoque une campagne électorale générale pour mars 2026 sans nommer Barthes."
-      },
-      {
-        "source_index": 6,
-        "explication": "Cite des candidats (Gérard Larrat) et mouvements locaux, mais pas Barthes."
+        "explication": "Aucune source ne mentionne explicitement Christophe BARTHES comme candidat aux élections municipales de 2026."
       }
     ],
-    "used_sources": [
-      1,
-      3,
-      6
-    ],
-    "analysis_at": "2026-01-08T13:50:15.178884Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:31:34.815996Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,3,6],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Christophe BARTHES comme candidat ou non-candidat aux municipales 2026.\"},{\"source_index\":1,\"explication\":\"Parle d'une autre candidate (Marine Toro) et de la liste de gauche, sans lien avec Barthes.\"},{\"source_index\":3,\"explication\":\"Évoque une campagne électorale générale pour mars 2026 sans nommer Barthes.\"},{\"source_index\":6,\"explication\":\"Cite des candidats (Gérard Larrat) et mouvements locaux, mais pas Barthes.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Christophe BARTHES comme candidat aux élections municipales de 2026.\"}\n]}"
   }
 }

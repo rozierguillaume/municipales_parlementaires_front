@@ -157,15 +157,25 @@
     "status": "INCERTAIN",
     "justification": [
       {
+        "source_index": 1,
+        "explication": "Aucune mention explicite de candidature en 2026 pour Stéphane Hablot."
+      },
+      {
         "source_index": 2,
-        "explication": "La source évoque un 'mystère' autour de sa candidature sans confirmation explicite."
+        "explication": "Évoque un 'mystère' et des 'espoirs', mais sans affirmation claire de sa candidature en 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Résultats 2020, hors périmètre 2026."
       }
     ],
     "used_sources": [
-      2
+      1,
+      2,
+      3
     ],
-    "analysis_at": "2026-01-08T13:45:29.027994Z",
+    "analysis_at": "2026-01-09T14:25:21.892516Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"La source évoque un 'mystère' autour de sa candidature sans confirmation explicite.\"}]}"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[\n    {\"source_index\":1,\"explication\":\"Aucune mention explicite de candidature en 2026 pour Stéphane Hablot.\"},\n    {\"source_index\":2,\"explication\":\"Évoque un 'mystère' et des 'espoirs', mais sans affirmation claire de sa candidature en 2026.\"},\n    {\"source_index\":3,\"explication\":\"Résultats 2020, hors périmètre 2026.\"}\n]}"
   }
 }

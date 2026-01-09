@@ -151,6 +151,20 @@
       "snippet": "Municipales 2026. La Gauche part déjà désunie à Caen : Rudy L'Orphelin, premier candidat à se déclarer&nbsp;&nbsp;Actu.fr",
       "date": "Tue, 28 Jan 2025 08:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Arthur Delaporte - L'Humanité",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YWldzTWM0ZmNrTHU0eGR3RUdNOUM3U21sZElKVWh5X0Z0MzRUTTRtR25jdkZjRTBRa3pmVUtsUk9oQkJCVEJyWWhNRlZWSVh1MmN4UTNrVUxzRnpWa2ZsTDF1NmVzTnpCRTFPcXR2NEt2UHRDd3U2X3ZJYm95MU0?oc=5",
+      "snippet": "Arthur Delaporte&nbsp;&nbsp;L'Humanité",
+      "date": "Tue, 11 Jul 2023 06:27:44 GMT",
+      "source": "L'Humanité"
+    },
+    {
+      "title": "Arthur Delaporte, le député de Caen qui a mis au pas les influenceurs - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeF9aVEc0RWs1N01jNWdhZExPbUhwUG9Tb25PM0YxM2hoenhnWXNtSWxEZTRlNFpuMDJ2emhKQUZwUVpQZm1qVGpwclFKbHE5YWItZXlkWUc0MVY1dzlBa2E4UUI3RjJMT3NMUVduV0xEZWVFV0VsOUVWRml0empjTldwWVVWdXhHWU1sd25xaFV0RnBiNlM3TmU3UGhROGRUUWF6UlVhRlV1MzEtWUhneFdIbXYyVVl4Qktr?oc=5",
+      "snippet": "Arthur Delaporte, le député de Caen qui a mis au pas les influenceurs&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 26 Jun 2023 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
@@ -159,22 +173,11 @@
       {
         "source_index": null,
         "explication": "Aucune source ne mentionne explicitement Arthur Delaporte comme candidat aux municipales 2026 à Caen."
-      },
-      {
-        "source_index": 1,
-        "explication": "Source évoquant une liste écologiste (L'Orphelin) mais sans lien avec LR ou Delaporte."
-      },
-      {
-        "source_index": 4,
-        "explication": "Mentionne un soutien à L’Orphelin, sans référence à Delaporte ni candidature explicite."
       }
     ],
-    "used_sources": [
-      1,
-      4
-    ],
-    "analysis_at": "2026-01-08T13:47:27.052172Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:27:41.522952Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,4],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Arthur Delaporte comme candidat aux municipales 2026 à Caen.\"},{\"source_index\":1,\"explication\":\"Source évoquant une liste écologiste (L'Orphelin) mais sans lien avec LR ou Delaporte.\"},{\"source_index\":4,\"explication\":\"Mentionne un soutien à L’Orphelin, sans référence à Delaporte ni candidature explicite.\"}]}"
+    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[\n    {\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Arthur Delaporte comme candidat aux municipales 2026 à Caen.\"}\n]}"
   }
 }

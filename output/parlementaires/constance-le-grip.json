@@ -17,14 +17,16 @@
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNckl2YnVUejNNZk90QzNhVjROMFVBOXI4RHJlVVUxR0JSS0JUT3JrRUpKaXlpZzdONUpfeWdjekVvenBOUHVtSENjRVBrS3ZHVlY2SWUwaW5jMmhJblB4NG5xaXBPUW92aGxJUDlSOGtfLTJ2SGVMeGZDdng5ZV9sM0hWRUh1NFZnVkVUaTFONkh1ZzVidk1JUDJoUjNBMlByQXE5anBvUnNOdUdNVE9MS2w1QWJJdEN6T2pUMWNpQ2Y5ZnBGVWNkd29ocDFVX2pRU2F3WlE0NEVnYXpoZzVVd1VEWGxGcW9qTG03REk2enJaMGhvay0zenJleEh6c0JFSDVzX3BrSTdndHZGaGktaHFjZ3prQzQ?oc=5",
       "snippet": "Municipales 2026 à Neuilly : pour la première fois, il n’y aura pas de liste LR dans l’ancien fief de Sarkozy&nbsp;&nbsp;Le Parisien",
       "date": "Wed, 07 Jan 2026 18:20:00 GMT",
-      "source": "Le Parisien"
+      "source": "Le Parisien",
+      "snippet_source": "rss"
     },
     {
       "title": "Le moral des maires à 6 mois des législatives - Radio France",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejRySks0dVpFd28tb3pBMnFGY0IwckRiVW1ibGFEbWhaakVLcHFXODdGaDJwSDBiakJQUzdTc2pzMmlYS1lZWWxPZzdDUjJReXpmZ0RJaUdkcThjOUhJUUdVbUx4eU10dTYtU2J6RWhoTVhrbWVIQm5TdjVOajJNUVlReG5uUVVDZTZPcXk1NkxXY0dVT3FHakZpSXhIZTdRVXF1RjZPTHJBY0J5NzhYUHRuekZFOGMyTW9xZw?oc=5",
       "snippet": "Le moral des maires à 6 mois des législatives&nbsp;&nbsp;Radio France",
       "date": "Tue, 16 Sep 2025 07:00:00 GMT",
-      "source": "Radio France"
+      "source": "Radio France",
+      "snippet_source": "rss"
     },
     {
       "title": "Les Municipales: et si vous étiez candidats ? - Radio France",
@@ -38,7 +40,8 @@
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPckNJZXp5X3R3TVAtZGpfODhEMk1haTFNem9fNXg2eENVeG56Zzhja0JxZW9XeWZuVEpHbFVqUlhFRGFlRUNoSmUybHNuTjZia0RIRXVHZFBKY0FDSHpaZGZYY2dwUTJVUl9lclRMc0VLU2RvR1FXZkZBclVReS1FZWZjTGpDWFlhdVJJalZyMk5QMTRVajgzYkJfMlJYWDFEeUtXai1OYkxJYjZkZXBtaFV6NTlNTC1qZU1UaFpKSG1RR050Rnl2TG92SVVLNEU5NEpZNmdJcWtyb2t0TWxXaUIwTElDYk1TVTRxZ0ZsMHpQSjlQcVZYV3p0dWFRTzl1M1E?oc=5",
       "snippet": "Municipales 2026 à Courbevoie : Aurélie Taquillain bien entourée pour lancer sa campagne&nbsp;&nbsp;Le Parisien",
       "date": "Sat, 05 Jul 2025 07:00:00 GMT",
-      "source": "Le Parisien"
+      "source": "Le Parisien",
+      "snippet_source": "rss"
     },
     {
       "title": "Législatives dans les Hauts-de-Seine: un accord entre LR et Renaissance pour des candidats communs, dont Gabriel Attal - BFM",
@@ -52,7 +55,8 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeUZJRDFfUFJWdDFtMFAwbHNrcUhFdmVBMFdld1J6Q3JQZEVIa3lUTGlYcG8zMEloYkxjSjlpeEZ0V1YtcnljSURKMFZHRDl5bGlybDF6NjRwcVVpLVR6dFV6Zl94d1RsWG93TUpqZlRyUGxPTDNueVBLR2NBNXRDRTZCVXl2U1ZGUW9nS2dxUlBwNE5VakVJUnpBLWFnVzJsd19VVzFYd3Q5RXBpcW1BUUM3STlGUHVPcXl6YnBkSllMdXo5N0k3VXhTQm52T2J6VmhTUGljajBNTzRpWUNnTGZjUEtuUC1Vd0NEVHhQMmlzajdTbVc5Rw?oc=5",
       "snippet": "Législatives : une dissidente LREM face à la candidate investie par le parti dans les Hauts-de-Seine&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 23 May 2022 07:00:00 GMT",
-      "source": "Actu.fr"
+      "source": "Actu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Jean-Christophe Fromantin ne se présentera pas aux législatives - Le Figaro",
@@ -66,35 +70,40 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUpaV3A1RW43Q1ZVTzdtNWs1SzRhMWtoTXNWME51YzJIWkI0Qkd2dVFZa2JNNWZOTUxzSFp5Ymg0dG4xbjBoaWxrU2VuSzhKenAzT0h2Qm5iQXZtbXhrbk5CQU41aG9VbnVsRXlUX1VuSVQ1VzFZUjBHR3JCc1BpVVVndTJSYVhNUGFFbUVDYXZzQ1MwejIzQTBXbER2VVBKLWpHa3A0WTk4SGllTmdITzkyc1BTbld4WE1lSVlZYllIT3Z4TU5SaFdCTXM3S3RNbzlnSjFhekNnczd4UEk1MlV3T2k?oc=5",
       "snippet": "La macronie fait adopter une résolution polémique «pour un féminisme universel»&nbsp;&nbsp;Libération",
       "date": "Wed, 02 Jul 2025 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "Malgré l’opposition des Insoumis, l’Assemblée vote pour la libération immédiate de Boualem Sansal - Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX190X0x2cmllQ0VkOGVvMUtJbUVJcWJHdnBVZG1Wek1hVGNqOWVLMHFWV2l6V0JOTE11OFdjUWx5aHkybXpDQ1BIdUY0U25yWm90QnZFa09WSnhfY1NaSXh2WUx1VHAwY0pwXzNqSkQ1eVZRWTBwU3VzT3BmaEJYR0ZxcWxUSER6eTNMS0JJMTVrZHRLYzhfMWtaem5hMUE0aXFNX0Y2RWpleFNIZTBNX0k3ZkdFSVg4eklKSHlIenpLdVpiTVpEZmNqd241Tkc0TEJVeTR3?oc=5",
       "snippet": "Malgré l’opposition des Insoumis, l’Assemblée vote pour la libération immédiate de Boualem Sansal&nbsp;&nbsp;Le Figaro",
       "date": "Tue, 06 May 2025 07:00:00 GMT",
-      "source": "Le Figaro"
+      "source": "Le Figaro",
+      "snippet_source": "rss"
     },
     {
       "title": "Manuel Valls, vedette à l’offensive d’un meeting «contre l’islamisme» à Paris - Libération",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVFBpM3A1VmVMUmlBV1k1N1BiWEtOUHh1NDV0X0FKWG1kY1BmQ2ZMMWFpeWZTWU9XcjZITm0tVG5hV3pUaFRyQTUtaXdxcVV4bE9ySk1fTEFXV18wQnRUalpFb1dwR2dUMmdQMlQybEhxdldqX014N2ZlUlVucXc5WGZicU5HU05FZWJ3ZnhkWVZaUGVwc0ROZ3dpR0k5LXBmUnVkdnBoRlZSdmQ3Z1BCNU5MTVRxLUt4N2Fqa0FJU0VOYkZZMFY3emhxcjlPcmtidjFIZWNPT1N2WnIt?oc=5",
       "snippet": "Manuel Valls, vedette à l’offensive d’un meeting «contre l’islamisme» à Paris&nbsp;&nbsp;Libération",
       "date": "Thu, 27 Mar 2025 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "Législatives 2024 dans les Hauts-de-Seine : la députée sortante Constance Le Grip remporte la triangulaire - Actu.fr",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRE9BWElpRThmVGt6ZlB1c1l6RGR4MlZUMjQzWkZjSGhESGJEU0ZYRXpnT1dReW9CcExzbmdJX0NMOGhNVXlQWVpTdGhCcVYwSUVtb280RFpqTi1SYXpMNzlqcXJIS0ktNkljcWZZa05IZU15ZEdDak9zQUFpa2ZvdDRwZzlxbDY0cjNzU0djN0tRN21RRlVaSXZNLThXbk5XbHY4N0lkYkVMVGwzTG5HN0FXMFF5NC1oSTJESjl1NGtYMENXVzg0cHlrYWg1M29GQ3hlT3VqUXJFcTJEdWozeURld2o0VjJNc3N5dnBvdHY1VUlJ?oc=5",
       "snippet": "Législatives 2024 dans les Hauts-de-Seine : la députée sortante Constance Le Grip remporte la triangulaire&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 08 Jul 2024 07:00:00 GMT",
-      "source": "Actu.fr"
+      "source": "Actu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "«Vous êtes les ennemis de la République» : à l’Assemblée, débats électriques sur l’antisémitisme dans l’enseignement supérieur - Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMUNwaGxpaVJxNFg0ODREeUhuWDh2eVBhWGcwZUtwR1hQcHBQWTlkdXEwTE1obndlS0pVVTFGU1k0ejJZa3huUm1Rd01GeTU3T212WmktdXNVUi0zc0lnZ1R3c3BZcjNnNmJicG1ybzBSZkZtbHJFM0ViY0xZNUVEYzJMWjBicHJ4cUpMNzk4UTE4bWhIMTJNbVZ6SjIzdHNyUm1PR05jemZHdVpjRnBFbVFUTHVPcXBOMTBuY1NyWnlRbFo0Z1RsaEVhSjVIV2E3aTJ1VWJCRUdOX19weEhleTJBU21VcVdnYUhYQl9PUDNITXJtZXVj?oc=5",
       "snippet": "«Vous êtes les ennemis de la République» : à l’Assemblée, débats électriques sur l’antisémitisme dans l’enseignement supérieur&nbsp;&nbsp;Le Figaro",
       "date": "Wed, 07 May 2025 07:00:00 GMT",
-      "source": "Le Figaro"
+      "source": "Le Figaro",
+      "snippet_source": "rss"
     },
     {
       "title": "Législatives 2017 : qui est Constance Le Grip, LR, la nouvelle députée des Hauts-de-Seine ? - francebleu.fr",
@@ -108,49 +117,56 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWV9IOTRmZ0FPc1RhWVFTclA4b2V5d1pCNVE5Z2dFZm9Kd1VpMHRNQUMtN3N2NVV3bnpYUVlaLU1xQTZHenN4QzkyZF9qX0cyTEJWWXBUU3lOSkctWkVTYVVZUC03aWFGTlZMNnZmcUxMaF9oWG1RZTE4NDZyU1VKTU9nb0hqYWdENUlLWlpNWGVYOXFOLTJDLUtHZElQNTU1ck44TDRVbXl4d1FMbVUwMmh1SjlfVGM4UVNWRWtNVzJiU2RhNmk2RVpXeTdKLUNzQmV0MEVkdkdqcm05VDh2V3JGSy14NE0?oc=5",
       "snippet": "Les députés approuvent un texte contre l’antisémitisme et le racisme à l’université&nbsp;&nbsp;Libération",
       "date": "Wed, 07 May 2025 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "Assemblée : une résolution appelant à la libération de Boualem Sansal adoptée en commission, la gauche s’abstient - Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbGJKOTBYT3htVEFhRldja1FLMGZEbmtMYjQxbXMtb1dwUk1NcThEY2JKTWZIcUdIdHcweWVNU2h2RGw4ZVE2RF9oVEdvelVuclJMbUg1VlBNMEdndXdWVFpLdUhjVTFhLUNlZGNhRGo0cGFvWkc2bVRlSDROLUZ4NExqVHBVZUlfT1VEZjQtdVFnUWFyekVWaElMUWJuVEZrMkNiZkZMV2d0c2g2QWF0SFhvTHdmNDJ2aG9lT0I0YnlJYTFQNjZwLU1wOVVJZXNpYzNNMFVLZ3dMVVBHaVUwTWxwN0NfTTVQVDhRa0dQX2xfajVLRnJZTWxnXzh0aU1ORnlDcXVuY0w?oc=5",
       "snippet": "Assemblée : une résolution appelant à la libération de Boualem Sansal adoptée en commission, la gauche s’abstient&nbsp;&nbsp;Le Figaro",
       "date": "Tue, 04 Mar 2025 08:00:00 GMT",
-      "source": "Le Figaro"
+      "source": "Le Figaro",
+      "snippet_source": "rss"
     },
     {
       "title": "Courbevoie : après la démission d’Éric Cesari, cinq élues quittent la majorité avant les élections municipales - Le Parisien",
       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTUNvWUtWY1pCOE9zN3VtRldNeUxyaVlyV082SjAwZEZmOXVxdVJwNlBUemNzZFBaT2s2MTM1REk3bktOUXRiakNiOVAySGhzTlhDV25SMmMxUDB2MUUwazFBWWpIemZVV1dmSjdWa0Q0UzgwVmJ1UkhSMUVfTFRsQXdtUjUwaklGbkpEQ1RMNzBOZ0RPejg0cXRFMUlwdXhxdGUxLVo1djRqb3c3MzBmenhJQzRGMzVmS2hqQjViZFRiRG1GZmVpblA0Y1liYlQtaVRYeWJ3WXVpaVY1c0tQS3g1ejV0ZVlWS1pVaDJ6Z01SbG04LUFlZDdINHFLUktKMjQ0QzNyTHNmb3NkQzU0QTNCb09TSFJoSFVSNg?oc=5",
       "snippet": "Courbevoie : après la démission d’Éric Cesari, cinq élues quittent la majorité avant les élections municipales&nbsp;&nbsp;Le Parisien",
       "date": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "source": "Le Parisien"
+      "source": "Le Parisien",
+      "snippet_source": "rss"
     },
     {
       "title": "Constance Le Grip : «Il y a une relation privilégiée entre la Russie de Poutine et le RN» - Libération",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ3JfQmVKcWFYMll1V0l2cGVoa3huWTdDRzJmaFdqMjkzeThBTTJQX09rUVFhbVQ1eG9GSWVtMVRuZS1HbGpEZjNMMUlDbmxwZUhfb0g3ZHVCVTMwR2JWcTlOaXhSdzRIT2cwb2lzZ2tSUVhpSGQ4YkJYTWpXYW5LQ1pNRGM4b1ZaWS12NUdrUi04cEtOeXFZVmMxQmUtakwzb0x0a0hsNUp1djN3azNTX1pLWTVTa1Z3VTdCekdHQmF3ekx6N29TWG9CNGZHN2h0LU9JTkE1bFJUT1liTGpWdkxwd0hGWlA4VkRPUmhFaw?oc=5",
       "snippet": "Constance Le Grip : «Il y a une relation privilégiée entre la Russie de Poutine et le RN»&nbsp;&nbsp;Libération",
       "date": "Fri, 02 Jun 2023 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "Constance Le Grip, dernière députée LR des Hauts-de-Seine, travaille pour huit - Le Parisien",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSXFZZ0Fwb2tVXzdVdl9TeFdCWlZ3dFVDN2VKemNvQms1bF80MENXa3lPS1BFWmZPQmRyWnRKQ0NmTVVxdjE0blZ0bENGeGthNVVQMmlacmVoSk1Lc3pOQndRZzlEcFpOMFZJNXhOOVhqMmo2Sl9QYVhDTGZXQW8zYjgyZlpzaHpZeXFaT0VPa3g5Z2JFazlRdjdHQVRpNkxPMHBkS01HdE5heUVlU3ZqOF94RTQzNVhKOWt6bzZsRjZSYmNaOG9KS2lnU1BUUjZmOEdWWURMbjdSWHc?oc=5",
       "snippet": "Constance Le Grip, dernière députée LR des Hauts-de-Seine, travaille pour huit&nbsp;&nbsp;Le Parisien",
       "date": "Sun, 17 Jun 2018 07:00:00 GMT",
-      "source": "Le Parisien"
+      "source": "Le Parisien",
+      "snippet_source": "rss"
     },
     {
       "title": "Contre l'Iran, les députés macronistes appellent l'Assemblée nationale à hausser le ton - Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkswS1NpZG12cWFRRkZyU0Rxb053c3drZXU2eFJNV1Q3dU1MNmZxQ1liUVRWQjdma2YybldjWDBibFlkekE1Q2tUTXhGZDNNZVlwUkR6NmozNHlLZjliWlhGckY1d0dQWklSTEVvYm9fS0tVSzNrbnVPUDNhR1d3V1BOTkVWRy1qZVlxTWFCNkx0LTN4dTRKSzJPZ1pRWHE1SmFabkRGY202SGhfU1gwb1JTei1DZ3BxMEs1Z3loaWpIYW5LcXZaOQ?oc=5",
       "snippet": "Contre l'Iran, les députés macronistes appellent l'Assemblée nationale à hausser le ton&nbsp;&nbsp;Le Figaro",
       "date": "Thu, 18 Apr 2024 07:00:00 GMT",
-      "source": "Le Figaro"
+      "source": "Le Figaro",
+      "snippet_source": "rss"
     },
     {
       "title": "Ingérences étrangères : le RN, «courroie de transmission» de la Russie en France selon un rapport parlementaire - Libération",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeTVsdjJObWprb1FNOWhNX2poTWtUMTRaQjdEbzBaNmhld09COUJrbGZtQU5tM2d2ZUIyLUVhSE9LOUxIUUtla3g4eXlkQ0wtbGpNVEhfRDEwYmN4QTdXUU9XU3ZzWUEyMkRyb0NReS1oTXFmQWZyODJWWmpBYjhmb3cwVGJDUWhJVF9HS2RoMHNXaG5YVkkzTkpBVVJYMS1TbWZyTzhxYjdMT2dEVEVtcGRPcE5HZncxV01SWU5COXZXeURRZ2NLbmU0M1BBaXJZbFQwYV9XOTZhalp4VG5fNVU1bUprLXNlNFdXR0w3bnNqa1pLOHVHeXAtNDM3Zm1CU3N1SHQteC1neW8?oc=5",
       "snippet": "Ingérences étrangères : le RN, «courroie de transmission» de la Russie en France selon un rapport parlementaire&nbsp;&nbsp;Libération",
       "date": "Thu, 01 Jun 2023 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
     },
     {
       "title": "L’Assemblée nationale adopte le projet de loi de simplification supprimant les ZFE - Le Figaro",
@@ -171,7 +187,32 @@
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOQmxIV2tOd09OZkZiWlQ2eDZ3ZTdUbkdvTlBYNWtUVjhMd2JPNjBibDgwbUFVSUg3ejhBVTYyOWFpOEUxOTVPM3p3WDdNd2xqTG5JUS1JbW9ZYUxoeDhoOTQ3QV9ydlZ5cDNyZjhsbDAxS0l6OXJfRGwxUzFUd1lweWZFQ0JjRGJqWFItZWpiMWdGQ040dW5kek50ODV1elVKN1pYYU5oZXdVUDkxckNTRHczdmFHZkwySzlvZUVBVzF6WXphN01icEE5c0ZRemNDTk92Q1pNNU9LMDAzMWl1bXBPMkdFMTJYU0g5TEdjOEs3UWFpVEswVndCTld5aExWbUh0eWprR2xib3h3UHkyNExZX0c5V0tfQ1lDNUNGWFdJSDdBaHc?oc=5",
       "snippet": "Registre national, gel des avoirs et surveillance algorithmique : le Parlement renforce l’arsenal contre les ingérences étrangères&nbsp;&nbsp;Libération",
       "date": "Wed, 05 Jun 2024 07:00:00 GMT",
-      "source": "Libération"
+      "source": "Libération",
+      "snippet_source": "rss"
+    },
+    {
+      "title": "Vos élus - Ville de Neuilly",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zUnpmRlRhTFJZQXRrN3hzNnNZSFFBdGN1dC1jMFpCcUdXd3JXWkVqOGx0ci1QNmJZbFZLV09rd2IyZWwtWTByQXZYSmxFTEpy?oc=5",
+      "snippet": "Vos élus&nbsp;&nbsp;Ville de Neuilly",
+      "snippet_source": "rss",
+      "date": "Thu, 24 Oct 2013 05:17:21 GMT",
+      "source": "Ville de Neuilly"
+    },
+    {
+      "title": "Qui est Constance Le Grip, votre députée (LR) de Neuilly-Puteaux - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUDU1Q0pBRzJZeGhXc01DNFZHS2hzZVVnZjlKcjZOM0Q4b2ppQzF2U0NhQzhEY3dzVjh4TjUwUWQzdzFRbkdfWC1FLVA2YVhUX3o2N1ZuRTJpdjY2ZFQxb2trM1F1Q0l4UXJHS0xnUTVvS0EyZTJmSUwwdGtHOW1XcUVzQTZFQzJlS0NuQkJadzNFY01wWFlXcWNqVGJKaUhPYzdKQl93d1IyT1hNOEc1eExnVzJ0RDdDVUJUckdsOFR4LWI1cVdtNUlPeVZ4WWVkRlNXSm54N0lLdw?oc=5",
+      "snippet": "Qui est Constance Le Grip, votre députée (LR) de Neuilly-Puteaux&nbsp;&nbsp;Le Parisien",
+      "snippet_source": "rss",
+      "date": "Mon, 19 Jun 2017 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "«Règlement de comptes à Sarko-circo» : dans la 6e circonscription des Hauts-de-Seine, c’est la cacophonie à droite - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNR2lHZGtWWWJUYjhnLTJBWGwwaFJIMEJVdC1Qd0J3VkctMlg1SnEzVU5USVcySXpIYU9tX2p6amQ4SnplRUQxMVBOa0cyWmRxUzMxTGhrckRpMlBvZjlBNmlKc3htbnItX2hWS3BFWktEMzlPbDE4MGNnS0VXakpTNmlhR2kzS0JZSXdBTjRMSXFGdXFyOG1qT1ZQTzlLWW1OM0VnVnFHNmZSdTRXTDBBWkU0RnNTcmhQN3JwSmdEMklGenYzZjQ4bjNUYWdMMV9HRk9uZ01fbm1kWW42M1BPZGo3SFlDZktEd0hNUXFDMDVBNUpVYWwyRkNhaWhNbVdHam5ZTkJHT2lOeHZHb2EzWHVzakkwOElhd2hrdjdwaw?oc=5",
+      "snippet": "«Règlement de comptes à Sarko-circo» : dans la 6e circonscription des Hauts-de-Seine, c’est la cacophonie à droite&nbsp;&nbsp;Le Parisien",
+      "snippet_source": "rss",
+      "date": "Wed, 01 Jun 2022 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
@@ -179,14 +220,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Constance LE GRIP comme candidate ou retraitée aux municipales 2026 à Neuilly-sur-Seine. La Source 1 évoque uniquement l’absence d’une liste LR, sans lien avec sa candidature."
+        "explication": "Aucune source ne mentionne explicitement Constance LE GRIP comme candidate aux municipales 2026 à Neuilly-sur-Seine."
       }
     ],
-    "used_sources": [
-      1
-    ],
-    "analysis_at": "2026-01-08T13:25:55.638628Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:01:33.776140Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Constance LE GRIP comme candidate ou retraitée aux municipales 2026 à Neuilly-sur-Seine. La Source 1 évoque uniquement l’absence d’une liste LR, sans lien avec sa candidature.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Constance LE GRIP comme candidate aux municipales 2026 à Neuilly-sur-Seine.\"}\n]}"
   }
 }

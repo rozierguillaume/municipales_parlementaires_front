@@ -172,6 +172,27 @@
       "snippet": "Politique. Jérôme Buisson (RN) votera la censure du gouvernement, pas Xavier Breton (LR)&nbsp;&nbsp;Le Progrès",
       "date": "Fri, 17 Mar 2023 07:00:00 GMT",
       "source": "Le Progrès"
+    },
+    {
+      "title": "Ain. Christophe Coquelet et Jérôme Buisson : les meilleurs ennemis - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbG9ERFhNa3JoY2NWSVNmZTZ1bjA3dlhMeGw5ZjMtRVpkNS1XWnNkMmx3N0E5OS01cEQ3cEUzY1ZPbHI2STI1UWlrdlBISndDa0V2S3VVeHVValg4eFBUOVpXTlhEcDhTSG9wY1BIOHNaVk1tT1JuV1FKOURCU3paSTdNYlNVRy1mZmc0aC1nUlF5Q0xud0lvbFpPLU1MSFZPcGQ5ai0zWUE?oc=5",
+      "snippet": "Ain. Christophe Coquelet et Jérôme Buisson : les meilleurs ennemis&nbsp;&nbsp;Le Progrès",
+      "date": "Tue, 11 Feb 2025 08:00:00 GMT",
+      "source": "Le Progrès"
+    },
+    {
+      "title": "Drapeau palestinien sur le fronton de la mairie : Jérôme Buisson (RN) en appelle lui aussi à la préfète de l'Ain - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYl9odW9rbG05ODVzR0NYWlNyeWZtUUJWOTV4QkE1aUhGZUM2QnlJUWNubWdNX01PS0p2ODJqdzdWS3MwZ2tsTUNFM0xNUXhFUjQ1TUN3MjFMZFlBTTM5Z2xOYXFJNUxUdHlydHJRdTNINU5obVNibWFvUlpobmFwb0RuMzNsdlhLd1YyRUVNZllSZnFvTDc3R3dVZGZpVm1JN1dQZkZNeWtuV0llY3FadmdFNnZDZWZSbUJ2TlBVQzNSRkhiUHpaZmxtMERSYzJxQkhOUERaVmVLM1hTSW54SHQ0NllOcXNwUEFKZw?oc=5",
+      "snippet": "Drapeau palestinien sur le fronton de la mairie : Jérôme Buisson (RN) en appelle lui aussi à la préfète de l'Ain&nbsp;&nbsp;Le Progrès",
+      "date": "Sun, 08 Jun 2025 07:00:00 GMT",
+      "source": "Le Progrès"
+    },
+    {
+      "title": "À Bourg-en-Bresse, Benoît de Boysson esquisse un rassemblement des droites - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGY1Ukttc0xldUxHNXhfYjhXdHhyQlUxUWktVFNlYmxjNXc2b1phOERJLTZZT1ZvWHFDVVZueEljWDRNSjRSb01NX3lsZHRrcDJMYXJqeXh5ekZneWZjVG1jV1RJMlpoM3Vsdko2Q0JjRE9aVXF0eEM2WHFvN0ZpajVXZUtMUUttLVpzVjVSaHkxZ0RPcndzSnlDR1BhQ2l4Z0VEQUZyel9FS1p5bkNvS0s5SENFanM?oc=5",
+      "snippet": "À Bourg-en-Bresse, Benoît de Boysson esquisse un rassemblement des droites&nbsp;&nbsp;Le Figaro",
+      "date": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {
@@ -179,12 +200,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Jérôme Buisson (DVG) comme candidat ou non aux municipales 2026 à Bourg-en-Bresse."
+        "explication": "Aucune source ne mentionne explicitement Jérôme BUISSON (DVG) comme candidat aux municipales 2026 à Bourg-en-Bresse."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:49:24.396516Z",
+    "analysis_at": "2026-01-09T14:30:12.665468Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jérôme Buisson (DVG) comme candidat ou non aux municipales 2026 à Bourg-en-Bresse.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jérôme BUISSON (DVG) comme candidat aux municipales 2026 à Bourg-en-Bresse.\"}\n]}"
   }
 }

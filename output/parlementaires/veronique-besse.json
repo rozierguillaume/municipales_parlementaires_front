@@ -158,6 +158,34 @@
       "snippet": "Municipales aux Herbiers. Second round pour Véronique Besse à la mairie&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 26 May 2020 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Une semaine... aux Herbiers - Libération",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHMxalg3WjV4cWZXWWpjZVRKNFBHbmEzLXhIdjhMVl9oYmNkem9sSFlFaWZGRDN3NnJWbFFGY2EtYnZqeW5DWFZDeU1TanBSX19pUzBqWkNCWVBIQVlHM2FFNThEd3pJd1AwRTZSdDZMNjR6VVZoRkwyanhfWGcwRFd0YVliRXRhZDg4a1Q2T242N3E5bXJOZUo1VFhlT3luSUN2T0t4TQ?oc=5",
+      "snippet": "Une semaine... aux Herbiers&nbsp;&nbsp;Libération",
+      "date": "Tue, 03 Mar 2020 08:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Législatives 2022 : la droite en reconquête en Vendée - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0dyaTJPZ1dHZ1FsVnUxbFkwaXJlamp4WGxnR1h5Q2lBTHJJTWpZZHpXbzRleEJpdDUxZi1DWEZlX3B3YldySGhNOVU2aXlsWjdXdmQ3YTVJVGlFbVpWeUtIZ1VsVFpwajdTWnBWQlBpODhEVWJITGdUSjd5V1dWTFNJbmgyUkFsQjN3OHBzZlhqSXpxdTJobXBUc0E4Rnk4azl5UHpYRQ?oc=5",
+      "snippet": "Législatives 2022 : la droite en reconquête en Vendée&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 09 May 2022 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Vendée. Christophe Hogard est le nouveau maire des Herbiers - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeE01b3VhRWR5TWJvVnBkOHlGWmFtVnJ6TU9tRExwVjZ1ODg0LUJOZ2VMT29hRnRzbVlfa2RWWU92eGxUNW1oU0daTVFqbWx5M0k2dm5oU2FwWjBvajcxS1JMU1lkNDRHaWpmRWsycmdEN0lsWlowVzlHdWY2dVQ5X080UWRnU2w3SmtwNzhpR21aZTlxamc2U3JjUlJKeXZOZGUyVG1HLUlMZFhfM1dRZjg5ZUtJVDBMWG50QjNGLU91ay1pVjFMOE5NNHhGR0ZDektDQl90VGVfUVpMLWRvdA?oc=5",
+      "snippet": "Vendée. Christophe Hogard est le nouveau maire des Herbiers&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 07 Jul 2022 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Revivez la soirée du premier tour des élections municipales du 15 mars 2020 en Vendée - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeGJhTzNTeXROcjZJdy1qM2k4NEd1VGpIQzRNdnRNMzNVaGtEekp4TlJFNzRwR3NqQy1BbDJPcGNWNVVsdTVjcHNGdi0zdDVjQnk2NnhTUWF3WVdNUzVKSDhNY1RmSTV4NzZfWXBtZU5zejhVak5rSjB4c2ptbHJBa3o3NVhybHFETzZpdmlJNFR0XzlzTDRYZ2ZoaTJFOXdDdW9kR0NjZmhpbFR1R3cydThxWHp3Mm1qUlBQQUItNXVrZ0p2eGhnOGdrRXVTUjhjM2c?oc=5",
+      "snippet": "Revivez la soirée du premier tour des élections municipales du 15 mars 2020 en Vendée&nbsp;&nbsp;Ouest-France",
+      "date": "Sun, 15 Mar 2020 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
@@ -166,22 +194,11 @@
       {
         "source_index": null,
         "explication": "Aucune source ne mentionne explicitement Véronique Besse comme candidate aux municipales 2026."
-      },
-      {
-        "source_index": 4,
-        "explication": "Parle de la candidature du maire sortant Christophe Hogard (pas V. Besse)."
-      },
-      {
-        "source_index": 5,
-        "explication": "Évoque des maires locaux se positionnant, mais sans lien avec V. Besse."
       }
     ],
-    "used_sources": [
-      4,
-      5
-    ],
-    "analysis_at": "2026-01-08T13:42:46.521670Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:21:49.340456Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[4,5],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Véronique Besse comme candidate aux municipales 2026.\"},{\"source_index\":4,\"explication\":\"Parle de la candidature du maire sortant Christophe Hogard (pas V. Besse).\"},{\"source_index\":5,\"explication\":\"Évoque des maires locaux se positionnant, mais sans lien avec V. Besse.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Véronique Besse comme candidate aux municipales 2026.\"}\n]}"
   }
 }

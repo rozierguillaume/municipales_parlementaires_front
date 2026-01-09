@@ -151,6 +151,20 @@
       "snippet": "«Et voilà, c’est fini» : Anne-Sophie Lapix a présenté son dernier JT de France 2&nbsp;&nbsp;Libération",
       "date": "Thu, 26 Jun 2025 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Canohès (Municipales 2026)/ Vendredi 11 avril, 18H 30 : Carla Muti (RN) officialisera sa candidature - ouillade.eu |",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGllWGpuWkFLN3J5a3hfTThBcVI0RWQ5azQ0Z25mSm9fWWplZFg2TmpEaTRwMDVqTmpvMWpuQVNvZDhqeWpLTG5xbUw2dk1pUmFnR3dQZ0tUZ1hBZzNBMFB4UE93UGpvWWRlRzNnTEJ0dVNtcmZsdnVSRmNkbDB6aTJjNG44QVExN1dNQy1EX3JZOTd6ZURBa1Z3QVRLYV9tN01Oa1N3OW1aZ0hYOGtSY3BQWUR3ZXRCZGxvdUllTnJuZw?oc=5",
+      "snippet": "Canohès (Municipales 2026)/ Vendredi 11 avril, 18H 30 : Carla Muti (RN) officialisera sa candidature&nbsp;&nbsp;ouillade.eu |",
+      "date": "Sun, 06 Apr 2025 07:00:00 GMT",
+      "source": "ouillade.eu |"
+    },
+    {
+      "title": "Les débats du conseil municipal de Théoule-sur-Mer se crispent sur le plan local d’urbanisme - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMEprM0RUUnl4UkZybHhaam9tZUhLbTJuVFUySkpnSTRYZjhnRmR6WllYQXd2ZDJFUlRsaWtudGtSM3pGRlhfNWp0T0w2OXBMQlBSdC1QNWxIRzhOTDU5YkMzaEVldkFHRFlVQnN3N0JkejhQbzZtQzYzZEozcmFHRW1jYlJiY1BTMFlYTDBqTnA1ZTRlRmxCY25INE40OFNNRk5qMEltYmltT1psVEhhaUJMeFNZbm13eGQ4MjJYVVhFTkVaMVdGZFg2U3Jfa0pmbHhHVjdrVHBkWTdmcWc?oc=5",
+      "snippet": "Les débats du conseil municipal de Théoule-sur-Mer se crispent sur le plan local d’urbanisme&nbsp;&nbsp;Nice-Matin",
+      "date": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "Nice-Matin"
     }
   ],
   "analysis": {
@@ -158,12 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Sophie BLANC (RN) ou Perpignan dans un contexte de candidature aux municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement Sophie BLANC (RN) comme candidate aux municipales 2026 à Perpignan."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:48:49.893620Z",
+    "analysis_at": "2026-01-09T14:29:30.932577Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Sophie BLANC (RN) ou Perpignan dans un contexte de candidature aux municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Sophie BLANC (RN) comme candidate aux municipales 2026 à Perpignan.\"}\n]}"
   }
 }

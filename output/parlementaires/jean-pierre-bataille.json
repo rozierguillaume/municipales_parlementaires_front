@@ -158,21 +158,32 @@
       "snippet": "Municipales à Steenvoorde : Yves Debruyne ne brigue pas de nouveau mandat mais il sera présent sur la liste de Jean-Luc Dehuysser&nbsp;&nbsp;Nord Littoral",
       "date": "Thu, 27 Nov 2025 08:00:00 GMT",
       "source": "Nord Littoral"
+    },
+    {
+      "title": "Jean-Pierre Bataille, député de Flandre : « J’ai voté contre toute forme de taxe Zucman » - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT29pNU9WQmpYWUdRbkVBS2NObnpWZkN4NmN1cC1TTC1RV19hbjNnb0I5eWtyLTROaGdGemkxZ2U5QkRqcDluRVNxN0o3UDEtdmRVSllzUVpLam1UNk5LRVFydExzQzlQU280aUxLclhpU1M1WWpNam1TalVHQW9kRDRvUWhuZEVYeEtBdUE3Z1pyQlEtWFJmTXpjUW1Hal9vWXJ2Xzk3a2FHaFBad1UySm02cmp4MWloLWhSUG1XQ0UwRXJNNTBhUGhB?oc=5",
+      "snippet": "Jean-Pierre Bataille, député de Flandre : « J’ai voté contre toute forme de taxe Zucman »&nbsp;&nbsp;La Voix du Nord",
+      "date": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "source": "La Voix du Nord"
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "La source indique clairement que les municipales 2026 marqueront 'la fin de l’ère Bataille' à Steenvoorde, sous-entendant un retrait explicite."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Jean-Pierre BATAILLE comme candidat aux municipales 2026."
+      },
+      {
+        "source_index": 14,
+        "explication": "Source 14 parle de Jean-Pierre Bataille (député), mais sans lien avec Steenvoorde ou les municipales 2026."
       }
     ],
     "used_sources": [
-      5
+      14
     ],
-    "analysis_at": "2026-01-08T13:39:46.583229Z",
+    "analysis_at": "2026-01-09T14:18:30.233960Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"La source indique clairement que les municipales 2026 marqueront 'la fin de l’ère Bataille' à Steenvoorde, sous-entendant un retrait explicite.\"}]}"
+    "raw_output": "{\n  \"statut\": \"INCERTAIN\",\n  \"used_sources\": [],\n  \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jean-Pierre BATAILLE comme candidat aux municipales 2026.\"},\n    {\"source_index\": 14, \"explication\": \"Source 14 parle de Jean-Pierre Bataille (député), mais sans lien avec Steenvoorde ou les municipales 2026.\"}\n  ]\n}"
   }
 }

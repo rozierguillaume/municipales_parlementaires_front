@@ -151,30 +151,33 @@
       "snippet": "Loire. Le député Pierrick Courbon intègre une commission d'enquête à l'Assemblée nationale&nbsp;&nbsp;mesinfos",
       "date": "Tue, 08 Apr 2025 07:00:00 GMT",
       "source": "mesinfos"
+    },
+    {
+      "title": "Saint-Étienne. Municipales : la gauche pour l’union, reste à savoir qui pour la conduire - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzI3cnZEZl9RZ1NoSGRHLTZsUEdVUk5yNGsxWHQ3b2ZYaW5tVUVwbTJ0RU9BZjFDWXhnUHBrZGpoaVJjeVVadlFIazVWRC0wMWJhWkNHM2M1N0dSc183Y1p0YlJEU0UtZFRSQ0dqbGdJbjVySVQ1dURZMHRPN1Awek95anBuWjVZcmRZTGNsY2pnN2lXYXJiYkEtbzlOb2NsSUUwdTNCQjY2cndKRzFEbTd2MzZvNjA?oc=5",
+      "snippet": "Saint-Étienne. Municipales : la gauche pour l’union, reste à savoir qui pour la conduire&nbsp;&nbsp;Le Progrès",
+      "date": "Tue, 24 Sep 2024 07:00:00 GMT",
+      "source": "Le Progrès"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Pierrick Courbon comme candidat ou non aux municipales 2026."
-      },
-      {
         "source_index": 1,
-        "explication": "Parle des municipales 2026 mais sans lien avec Pierrick Courbon."
+        "explication": "Aucune mention explicite de Pierrick Courbon comme candidat aux municipales 2026."
       },
       {
         "source_index": 2,
-        "explication": "Évoque un 'candidat' à Saint-Étienne en 2026, mais sans nommer Pierrick Courbon ni confirmer sa candidature."
+        "explication": "Nom générique ('ce candidat') sans identification claire de Pierrick Courbon ni confirmation de sa candidature en 2026."
       }
     ],
     "used_sources": [
       1,
       2
     ],
-    "analysis_at": "2026-01-08T13:43:58.685430Z",
+    "analysis_at": "2026-01-09T14:23:02.545754Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Pierrick Courbon comme candidat ou non aux municipales 2026.\"},{\"source_index\":1,\"explication\":\"Parle des municipales 2026 mais sans lien avec Pierrick Courbon.\"},{\"source_index\":2,\"explication\":\"Évoque un 'candidat' à Saint-Étienne en 2026, mais sans nommer Pierrick Courbon ni confirmer sa candidature.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention explicite de Pierrick Courbon comme candidat aux municipales 2026.\"},\n    {\"source_index\": 2, \"explication\": \"Nom générique ('ce candidat') sans identification claire de Pierrick Courbon ni confirmation de sa candidature en 2026.\"}\n]}"
   }
 }

@@ -157,35 +157,15 @@
     "status": "OUI",
     "justification": [
       {
-        "source_index": 2,
-        "explication": "Mention explicite de 'Municipales à Saint-Pierre' et volonté d'action municipale (tramway) en 2026."
-      },
-      {
         "source_index": 3,
-        "explication": "Soutien de LFI confirmé pour les municipales 2026, avec nom explicitement lié à la candidature."
-      },
-      {
-        "source_index": 4,
-        "explication": "Formulation 'Municipales : Émeline K/Bidi souhaite...' implique une candidature avérée en 2026."
-      },
-      {
-        "source_index": 5,
-        "explication": "Titre mentionne 'Municipales' et un projet municipal (tramway) attribué à K/Bidi pour 2026."
-      },
-      {
-        "source_index": 6,
-        "explication": "Contexte des municipales 2026 évoqué avec soutien de LFI à K/Bidi, sans retrait mentionné."
+        "explication": "Source explicite mentionnant 'Municipales 2026' et un soutien à Emeline K'Bidi pour ces élections."
       }
     ],
     "used_sources": [
-      2,
-      3,
-      4,
-      5,
-      6
+      3
     ],
-    "analysis_at": "2026-01-08T13:30:38.389337Z",
+    "analysis_at": "2026-01-09T14:07:40.802389Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,3,4,5,6],\"justification\":[{\"source_index\":2,\"explication\":\"Mention explicite de 'Municipales à Saint-Pierre' et volonté d'action municipale (tramway) en 2026.\"},{\"source_index\":3,\"explication\":\"Soutien de LFI confirmé pour les municipales 2026, avec nom explicitement lié à la candidature.\"},{\"source_index\":4,\"explication\":\"Formulation 'Municipales : Émeline K/Bidi souhaite...' implique une candidature avérée en 2026.\"},{\"source_index\":5,\"explication\":\"Titre mentionne 'Municipales' et un projet municipal (tramway) attribué à K/Bidi pour 2026.\"},{\"source_index\":6,\"explication\":\"Contexte des municipales 2026 évoqué avec soutien de LFI à K/Bidi, sans retrait mentionné.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [3], \"justification\": [\n    {\"source_index\": 3, \"explication\": \"Source explicite mentionnant 'Municipales 2026' et un soutien à Emeline K'Bidi pour ces élections.\"}\n]}"
   }
 }

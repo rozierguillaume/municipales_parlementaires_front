@@ -151,6 +151,34 @@
       "snippet": "Municipales 2026 à Champagne-sur-Seine : Michel Gonord veut continuer sa mission&nbsp;&nbsp;mesinfos",
       "date": "Thu, 08 Jan 2026 06:15:00 GMT",
       "source": "mesinfos"
+    },
+    {
+      "title": "Palau-del-Vidre : le maire Bruno Galan sera candidat à sa propre réélection en 2026 - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGxDVEplc1RYSTl3WDVxTkh3dUVNLWdQUlcxRkhpSV8wd3VKaUF0V1Vuc1JLZTh4a0VmMWd1VjZ5ZjZmVnVlSUdhLUtTb2FlNlhNcWRXTHdrZldlRnVPaktRLW5fR3M3SG9vRjBCS2hoUHFWQjVqUlczLThPb09Kd1BsSE94UmkySmhxWHJCWjA4MTJReFZJR2ROVk5ZbzBSa3lHZENPYVB5LU85ZEdReFdCZnJ3X1pCMGF0ODlXNUdYT3dYeC0zUE9ZYkpkQQ?oc=5",
+      "snippet": "Palau-del-Vidre : le maire Bruno Galan sera candidat à sa propre réélection en 2026&nbsp;&nbsp;L'Indépendant",
+      "date": "Wed, 22 Jan 2025 08:00:00 GMT",
+      "source": "L'Indépendant"
+    },
+    {
+      "title": "Législatives P-O : le député sortant LREM Sébastien Cazenove défavorable au projet d'éoliennes à Passa - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVTF1XzQtczU4eHdPbGYxTXBQWGpiNXRjRlU5dXp0V1FzaFc1cWdESFB4aERCOWdHY1E2Znp4R2JWaU9Kc1N1SEZabUZuNlJPbFA3S3QyMTJ3c0JtMzdVdENwR2w5RDk0RFdrUGptQV9obmdMVkZLYWxvLWVucmZSQkprQkNVaWI4VE1uMmlhZlc0V05nOU9lZVV1TDZibDZPY0dPbmgwa0NOTXJ5YVFOVE5VRkZPeHVIQ2E1TUVZYkhRZnhaLURidXdVWEdrY1VmWWlVWWFpOGdoWWVfTGVvcjFPU1VyVF9O?oc=5",
+      "snippet": "Législatives P-O : le député sortant LREM Sébastien Cazenove défavorable au projet d'éoliennes à Passa&nbsp;&nbsp;francebleu.fr",
+      "date": "Wed, 08 Jun 2022 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Le RN Louis Aliot remporte la cantonale partielle de Perpignan-Canohès - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRFZtaDdPb2ZSU2l3WW54VkZtU2I5TUIzdlRaVXBqYk95ZGVJODNFYVFmWmdlVkI4cW1jcG9sNDlDZ004NGxlVkVYd3Q0c3J0YzF1VWtiN3c5NnU2V3BuR1J3SGl5V1BIMERMYzlsMkg3LUNpMTVJMUxqLV9tdVRpV3pLMFNpTmtuTC1kUzl0NkxCMHhkdjZoSi1GU2dkb2dfMXVRYWlYS04wemQ0RWRvbDNlYkVLcnpyUHUtaGtoaG93SkttU0pHNkxTbkthTUp6dW56OHdnUTRmWkJ6MDBnbVhHa08xbmUt?oc=5",
+      "snippet": "Le RN Louis Aliot remporte la cantonale partielle de Perpignan-Canohès&nbsp;&nbsp;Libération",
+      "date": "Sun, 04 Dec 2022 08:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Municipales 2026 à Trilport : Jean-Michel Morer, le sens du devoir - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNTcxZER2cUdHeXpSR2ZhNE8wdkNFRk1tSXVIUU9mNER6VVZsVmR0OG9SZGJBZG1scFpQczhMaXdSZzgzVHJhSmFxVGdXWk81X1Vfdm9PYVpKTlJPT1RRSUxGdTJpOWtDZ2x1NngweEFRUUlMLUZNMkhrTk1xaHUtZUpaUVB0dTdXWUdKQS1IWlJrRlVnbGdMVkp3dHlSQkJsbHZpMi1YQV9lZ2FFb2I0?oc=5",
+      "snippet": "Municipales 2026 à Trilport : Jean-Michel Morer, le sens du devoir&nbsp;&nbsp;mesinfos",
+      "date": "Fri, 09 Jan 2026 06:15:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {
@@ -158,12 +186,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Michèle Martinez (RN) comme candidate ou retraitée pour les municipales 2026 à Perpignan."
+        "explication": "Aucune source ne mentionne explicitement Michèle Martinez comme candidate aux municipales 2026 à Perpignan."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:52:22.198490Z",
+    "analysis_at": "2026-01-09T14:33:55.169588Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Michèle Martinez (RN) comme candidate ou retraitée pour les municipales 2026 à Perpignan.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Michèle Martinez comme candidate aux municipales 2026 à Perpignan.\"}\n]}"
   }
 }

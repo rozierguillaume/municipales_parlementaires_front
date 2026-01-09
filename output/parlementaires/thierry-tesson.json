@@ -151,26 +151,47 @@
       "snippet": "Dans la 17e, le second tour s’annonce compliqué pour le NFP&nbsp;&nbsp;L'Observateur",
       "date": "Mon, 01 Jul 2024 07:00:00 GMT",
       "source": "L'Observateur"
+    },
+    {
+      "title": "Charente-Maritime : l’ancien sous-préfet de Saintes élu député du Rassemblement national dans le Nord - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUm40Q1FiMTBXZV9fRXF3LXg4RXNMcmloVDVKOFVmc2F3SnFyQzhzZXVublJNblRCUGFMaGtZcUU2RDF1bjdIdW5iTDVBN05HdnFFQ01WTHloaWRLNDBIdWxFNDN4eWtOWng2M0tuOEtLRFlvNGN3OUtaTUVsVXBTTFVnbXo3S2tXeEVDMHJkNk1HZEQxa3VkSVo2SFZkMG5TdVVhRHZ6a0JDa3g2cENtOEhhU0dKTGFsOG50dU5YQXl6WURmaC1IUDR5b3FySk1EUkhhMHpua2l3V3A3ME5Z?oc=5",
+      "snippet": "Charente-Maritime : l’ancien sous-préfet de Saintes élu député du Rassemblement national dans le Nord&nbsp;&nbsp;Sud Ouest",
+      "date": "Sun, 14 Jul 2024 07:00:00 GMT",
+      "source": "Sud Ouest"
+    },
+    {
+      "title": "Législatives à Douai : le ciottiste Thierry Tesson élu député avec le RN dans la 17e circonscription - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdjZnR1N3X0k2LWk4ZTE0MnRnQ05OM2xBaWpNbU5SODhoUXRGR1ZKMUNkRHhLNmsybmNzVHFrbzlPb3FjZzRGenBRdVF2a0hnejRYOExWVXkySWM4dGRienhQOUlCRl9DT0lUanVRb3AwZWFZZjNNUTBsdndHcUQ3MWJySXhaTmc2ZkFvZW5jU09xWkpHMkRka1BlVGFVNkEzMDZvMC1BRS1VdG9zZ0NNSkJzQUxLcWt2aS1oak96d25sMmcxWS1zYWRObXpDZ2xO?oc=5",
+      "snippet": "Législatives à Douai : le ciottiste Thierry Tesson élu député avec le RN dans la 17e circonscription&nbsp;&nbsp;La Voix du Nord",
+      "date": "Sun, 07 Jul 2024 07:00:00 GMT",
+      "source": "La Voix du Nord"
+    },
+    {
+      "title": "Législatives : à Lécluse, Thierry Tesson (RN-Ciotti) enregistre 62 % au premier tour - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3p2NXAwRmJhYzFibE9FZU5HaXR2bzBMNFc1emd6REhHODZTdUc0OWR2azBwZ0RTVHZzVXBMQWhxM0xZR0NXaVdUNkJDckRjVWlsVG1WdC03NS10RmlaVGJJYll5Qk8xVnpyZWhjMl9GSU5GRXNLMzdOUE93MlYwRVZnbXQtTjd2Ym5PVjFpdlZtQ0FRRVduZVJERklSQ05yT0NJYlM0cFk3WWUwTFFSSDBGQVhlcDhlbmJTblMtckVvalVYRGtzbE13?oc=5",
+      "snippet": "Législatives : à Lécluse, Thierry Tesson (RN-Ciotti) enregistre 62 % au premier tour&nbsp;&nbsp;La Voix du Nord",
+      "date": "Sun, 30 Jun 2024 07:00:00 GMT",
+      "source": "La Voix du Nord"
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "OUI",
     "justification": [
       {
         "source_index": 6,
-        "explication": "Le député Thierry Tesson est explicitement décrit comme 'tête de liste RN-UDR' pour Douai, mais il s'agit d'une confusion avec le RN (Rassemblement National), non le PS."
+        "explication": "Source 6 affirme explicitement que Thierry Tesson est candidat aux municipales 2026 pour Douai."
       },
       {
         "source_index": 7,
-        "explication": "Confirme sa candidature pour le RN-UDR aux municipales 2026, excluant toute candidature sous l'étiquette PS."
+        "explication": "Source 7 confirme explicitement sa candidature officielle aux municipales 2026 pour Douai."
       }
     ],
     "used_sources": [
       6,
       7
     ],
-    "analysis_at": "2026-01-08T13:55:56.325225Z",
+    "analysis_at": "2026-01-09T14:38:09.238603Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[6,7],\"justification\":[{\"source_index\":6,\"explication\":\"Le député Thierry Tesson est explicitement décrit comme 'tête de liste RN-UDR' pour Douai, mais il s'agit d'une confusion avec le RN (Rassemblement National), non le PS.\"},{\"source_index\":7,\"explication\":\"Confirme sa candidature pour le RN-UDR aux municipales 2026, excluant toute candidature sous l'étiquette PS.\"}]}"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[],\"justification\":[\n    {\"source_index\":6,\"explication\":\"Source 6 affirme explicitement que Thierry Tesson est candidat aux municipales 2026 pour Douai.\"},\n    {\"source_index\":7,\"explication\":\"Source 7 confirme explicitement sa candidature officielle aux municipales 2026 pour Douai.\"}\n]}"
   }
 }

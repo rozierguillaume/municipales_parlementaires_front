@@ -172,19 +172,19 @@
     "justification": [
       {
         "source_index": 6,
-        "explication": "'Geneviève Darrieussecq tente de récupérer son siège' aux municipales 2026 à Mont-de-Marsan"
+        "explication": "Source affirme explicitement que Geneviève Darrieussecq tente de récupérer son siège aux municipales 2026 à Mont-de-Marsan."
       },
       {
         "source_index": 7,
-        "explication": "'Lancement de sa campagne de terrain pour les municipales 2026' explicitement mentionné"
+        "explication": "Source confirme sa candidature officielle et le lancement de sa campagne pour les municipales 2026 à Mont-de-Marsan."
       }
     ],
     "used_sources": [
       6,
       7
     ],
-    "analysis_at": "2026-01-08T13:41:25.332088Z",
+    "analysis_at": "2026-01-09T14:20:19.691817Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[6,7],\"justification\":[{\"source_index\":6,\"explication\":\"'Geneviève Darrieussecq tente de récupérer son siège' aux municipales 2026 à Mont-de-Marsan\"},{\"source_index\":7,\"explication\":\"'Lancement de sa campagne de terrain pour les municipales 2026' explicitement mentionné\"}]}\n\t\t"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [6, 7], \"justification\": [\n    {\"source_index\": 6, \"explication\": \"Source affirme explicitement que Geneviève Darrieussecq tente de récupérer son siège aux municipales 2026 à Mont-de-Marsan.\"},\n    {\"source_index\": 7, \"explication\": \"Source confirme sa candidature officielle et le lancement de sa campagne pour les municipales 2026 à Mont-de-Marsan.\"}\n]}"
   }
 }

@@ -151,6 +151,34 @@
       "snippet": "Le député Kévin Mauvieux veut démissionner du conseil municipal de Pont-Audemer&nbsp;&nbsp;Actu.fr",
       "date": "Wed, 22 Jun 2022 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Eure : une mère et ses filles perdent tout dans l’incendie de leur appartement - Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWRqNTFVX1RhTjlRWXRpVWU1YkoyR3NiVVhSbHY1NXQyODBpNU5DczNhbmVpc2lQQVFTX1NXenpiMU80Uk13b05KYmRPUHhZZkw2SHpFMFJTNGJxeGtlUVprcWpuNVJvZDVXckJSX1VpNHVPSkZBdm9XYUN5cm1uQ0tWRVBNYVl2LW1pN29PTVVyR1dicVdWcXpYZkZoYWxhVEs0SDltMjQyYkhCVnFZNGQwUFpraDZPVkhVaDNNdUVWRF80QUpnS19zZTRuRnc?oc=5",
+      "snippet": "Eure : une mère et ses filles perdent tout dans l’incendie de leur appartement&nbsp;&nbsp;Paris Normandie",
+      "date": "Sun, 24 Aug 2025 07:00:00 GMT",
+      "source": "Paris Normandie"
+    },
+    {
+      "title": "Le nouveau député RN quitte l’Agglo de Pont-Audemer/Val-de-Risle dans l’indifférence quasi-générale - Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3QtZlZWN3pBeFFPaTJRSUdjRW0xRkVNamgxRThUTHRudjZLNTR6blZ1b2RvM1kxQlBNRXkxVS1UOXhjYzZSZWZBX2tncW9MXzRqU21vdjFZQWVEQ0pVUmgtejRVeVZwei1EcUZPYkdEamcwVEp6LVlBcWdndkFreUJuUGhQUU9oRkh5WFQybGRERmVPdXJxenk3ODVzUk1ROWdiV1o2QktBZ09fMV9MV0tjelBMTlV4QUxuTkc3ZFY5NlQy?oc=5",
+      "snippet": "Le nouveau député RN quitte l’Agglo de Pont-Audemer/Val-de-Risle dans l’indifférence quasi-générale&nbsp;&nbsp;Paris Normandie",
+      "date": "Tue, 21 Jun 2022 07:00:00 GMT",
+      "source": "Paris Normandie"
+    },
+    {
+      "title": "Interview Législatives 2022 : le conseiller municipal de Pont-Audemer, Kévin Mauvieux, candidat pour le RN - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX05uTGhBM3pFYVNKU2lRMU1tTWFnZzhaWTBXMGZKMUNkOWt5b28yYVlPdEVhNDl5a1UzaF9OLTJjU1FTZERkOWNBQ09lMDhoY0hTOFVEUlBFejVMXzJ5VlA3cDF1RDBMVGV0T0VVWFRIcXBORzdYbTlmMW9Ma1diR0pNRUl6VjBwWUpZVFphNlh1SVpsYVdpdV9nYWdXOWlma24yQmRydEJyb1lYaE43WmlqZXdvZTNtSlhWTjhyam5GaGVRSFRxeWVCMkZ4SXRrLTAyMmJ0MmhGX0YwWEFuNk5BdGo?oc=5",
+      "snippet": "Interview Législatives 2022 : le conseiller municipal de Pont-Audemer, Kévin Mauvieux, candidat pour le RN&nbsp;&nbsp;Actu.fr",
+      "date": "Wed, 18 May 2022 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales. L'offensive du RN dans l'Eure fait tousser certains élus locaux - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGdpRjBhMkdoWUsyTDM1dUl5dmJubUhhMW1tOXlHMC05M2ZsQnhEalBJZkM1OEJoT3JlWVo1RENPSDU5Ql9pdDlsR1ZQMldaNHFzeFlGZ3hGSzEwZllfTFFsMW9PTFU3Qm12TEdOSjJQSnI1NG9MaVFSWmRVRW1NR3RHQzIwWU9nVzBKb3JnSGNQODlWMFVXOHJ4MnliV1hvYldENDhETzhNRjAyS3ZnZG0zeWdBclQ2TDYtOHgtb2ZROG43?oc=5",
+      "snippet": "Municipales. L'offensive du RN dans l'Eure fait tousser certains élus locaux&nbsp;&nbsp;Actu.fr",
+      "date": "Fri, 10 Nov 2023 08:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
@@ -158,19 +186,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Source explicite : 'le député RN Kévin Mauvieux se lance' aux municipales 2026 à Pont-Audemer."
-      },
-      {
-        "source_index": 7,
-        "explication": "Source évoquant un duel pour les municipales 2026 impliquant Kévin Mauvieux, confirmant sa candidature."
+        "explication": "Source datée du 05/01/2026 affirmant explicitement que Kévin Mauvieux se lance pour les municipales 2026 à Pont-Audemer."
       }
     ],
     "used_sources": [
-      1,
-      7
+      1
     ],
-    "analysis_at": "2026-01-08T13:52:39.342551Z",
+    "analysis_at": "2026-01-09T14:34:12.129444Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,7],\"justification\":[{\"source_index\":1,\"explication\":\"Source explicite : 'le député RN Kévin Mauvieux se lance' aux municipales 2026 à Pont-Audemer.\"},{\"source_index\":7,\"explication\":\"Source évoquant un duel pour les municipales 2026 impliquant Kévin Mauvieux, confirmant sa candidature.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [1], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Source datée du 05/01/2026 affirmant explicitement que Kévin Mauvieux se lance pour les municipales 2026 à Pont-Audemer.\"}\n]}"
   }
 }

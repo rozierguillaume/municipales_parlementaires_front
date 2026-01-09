@@ -172,6 +172,27 @@
       "snippet": "Ces députés de gauche qui n’ont pas signé la motion de censure du Nouveau Front populaire&nbsp;&nbsp;Le Figaro",
       "date": "Tue, 03 Dec 2024 08:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Maire de Crest depuis 1995, Hervé Mariton annonce sa démission l'été prochain - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkljcDA1SDVjMWNRd050ckpFNE54dnpKM1R5ZmtUbWFjbjdyN1U0cy1mRFE0NW52cDRmSExjeDVGdXljZjdsYUFjN0diS2llY1FtSUdJVkdQMGhsMXgtUGkxZTk0TFZHaVdqQVFmOHRhLVZCMTdGbS1DWmpXbWpZTEJUYUxEdTM5V3gyd056clB4Y3FaY0NXS0EtbEpOcWxTeTl5RWhSZi1nbm5WeFdxSUdzU01OYVgxejJFMDNmbmhESl9z?oc=5",
+      "snippet": "Maire de Crest depuis 1995, Hervé Mariton annonce sa démission l'été prochain&nbsp;&nbsp;francebleu.fr",
+      "date": "Sat, 06 Jan 2024 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Crise politique : \"Nos concitoyens doivent retourner aux urnes\", pour le maire de Valence Nicolas Daragon - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUHVEMVpqZzNhSDBZdDFCZFVGWTRVUG9aaHgxNXhTbk1kZU5vNjA0bDFiOXk0LVA1cE12bFZHX2I2RV9PeVNpdC1iaWg2WEg2ZTBkb2QyRkdMNE9tMGVGS1phQ2dVaWQzUzFzejZwa2h3Vl9lbkwxTFRJTkFqUHR2U3NVQm40NDZyVHFQMkZWaGpGbzZtRlZ4U3E1eXBHZkpXTUtyN2E4eG9ncnpmVGlQQjhmOVpaTUhkel9UazJjeEtRVDJ3ZkxvNmM5VFVEVEVOT0RFSVVQYm1PSzI1MGdhNGlLcV9zZWwweHIzTEROLU83cFVkY2NNNlA1ODM5NTcyZ2VoUVZsWk5Dcll6bkNGLQ?oc=5",
+      "snippet": "Crise politique : \"Nos concitoyens doivent retourner aux urnes\", pour le maire de Valence Nicolas Daragon&nbsp;&nbsp;francebleu.fr",
+      "date": "Tue, 07 Oct 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Ardèche – Quand la vie revient à Saint-Julien-d’Intres - Hebdo de l'Ardèche",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPSG52UVMwTHFCVDRPMHl6NjBVdzNlVnhQSXZMbnpHT0lFSUhkbE9oM285aDE4OEJUTEF6ZjAzbFdYcjJEWUhHRThTUjIxMk9tY3dveVUyNDVwTDRRRGRWRXpvYjZsXzBRMjNsMVlLVUtjRTVaQnQtbA?oc=5",
+      "snippet": "Ardèche – Quand la vie revient à Saint-Julien-d’Intres&nbsp;&nbsp;Hebdo de l'Ardèche",
+      "date": "Fri, 27 Jun 2025 07:00:00 GMT",
+      "source": "Hebdo de l'Ardèche"
     }
   ],
   "analysis": {
@@ -179,12 +200,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait d'Hervé Saulignac aux municipales 2026 à Privas."
+        "explication": "Aucune source ne mentionne explicitement une candidature municipale de Hervé Saulignac pour les élections de 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:49:18.431685Z",
+    "analysis_at": "2026-01-09T14:30:05.650907Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait d'Hervé Saulignac aux municipales 2026 à Privas.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature municipale de Hervé Saulignac pour les élections de 2026.\"}\n]}"
   }
 }

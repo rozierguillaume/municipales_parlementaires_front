@@ -130,19 +130,64 @@
       "snippet": "Municipales : Yvon Robert a ses adjoints à Rouen&nbsp;&nbsp;Actu.fr",
       "date": "Sat, 05 Apr 2014 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "\"J'ai entendu la colère, les attentes, je mesure l'espoir\", déclare la députée socialiste Florence Hérouin-Léautey - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT196SEFfbzBBR3NZeE91a2FqQlc1b19zZTc0NURBRlZWa2o2eXBmRkpMbV9OTjhCWnpCTXZfSzFpeVNGdVRsSjduM3pidUYtTGNjZjBVS0VRcERIZU1oenpicXJYeWpqNEFBNTU4aGlqM2NqLW8ybGd2dVVuak8tOVluM0dsNzltWDA4LWRkRU5tSXkxcVFaTHljNGhydHJZTkZoSDh6c0ZxTlR5YzVWSXhOLXlJU1pmVndjMk1xNWhwUkk0Y2NjMGptZ1AyN1F5d0NJX004X0tIdGRMRjV1UGExY1Y1OUJmbXc?oc=5",
+      "snippet": "\"J'ai entendu la colère, les attentes, je mesure l'espoir\", déclare la députée socialiste Florence Hérouin-Léautey&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Fin de vie : l’appel de 200 personnalités politiques pour une loi unique - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRDhWWGxIRk1YMEdjR1R6bGdoSXpjX1lGcmo4S0tjcjVUSVNVZmdHTlo1YXltM1ktRWR0ZWxxNjhVQTNJWHAtWjVwV1hON3d5SFo2VFFnREotVnVkWkNUN25lLXNqUXAzaGlqT0FCNTNrLXF4cW1ma0QyZHB1Zk9ZWG1pcUhTblNtQklqQTdJTVkzUk9KUmxualZ3eno4TklNSnFiMlFpUGVQVENHUXVnMzN5ZEtuRFlzandDUUxUc1BXdi1tR2ZLZ1lqYjdVZWhkU0toTmVjSkpONEhmbXMzTQ?oc=5",
+      "snippet": "Fin de vie : l’appel de 200 personnalités politiques pour une loi unique&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 27 Jan 2025 08:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Annie Vidal, réélue députée de la deuxième circonscription de la Seine-Maritime : \"Tout est à reconstruire\" - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3BDdkRVNEJWMlM3SGZiSU8xMkRSV0w1ZGJWSzljRFZ5aGdGaTkzMHRGS284NGxqa2lPX1p2VEc1YjItRGdtSDFxTl9za2tFYkVxNzExeThOUHkxV255a2tISDU2Sk5yaVRCMlROa3laZDhQT3dhMnBiME5GcXlTSjJ6R2w0bGtFamUwcF9MWFZ5VHZOT00xXzdzcThfLV90RlNGSHNUamRqSlRzcnZfSVJpYVJ2NFVFSlJGd0R6U1ZLZW1rTmM1LXFwcml3TWhOZjhiVWp3cw?oc=5",
+      "snippet": "Annie Vidal, réélue députée de la deuxième circonscription de la Seine-Maritime : \"Tout est à reconstruire\"&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Covid-19. Rentrée scolaire à Rouen : « On se penche sur les purificateurs d’air à l’école » - Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2ZfNXRNT3pnOWp3QXFOMm5NQ1JTbkdkMW1TelpDRkE0NFZKQUwxQ3pWY3NZelJaeUtPUmN4djBycE9SM2pOUjYxMlkwaG9ZeUo1OFFoS21xN1VveGZLbldNNDdlMnJPVHZfUHFmaGh3cGp5VGRxOGljcGNPQmdsc21hM1R6ZGFvMDE4TUp4dGdfNHRLWk02d3Z3UnNkb2hBS2hUSVRyMTJIaXV2VGlIQWNrT2lUbE9ibk41eDBCQVFtRC1uNFFWX2s0UXZhOFE?oc=5",
+      "snippet": "Covid-19. Rentrée scolaire à Rouen : « On se penche sur les purificateurs d’air à l’école »&nbsp;&nbsp;Paris Normandie",
+      "date": "Mon, 30 Aug 2021 07:00:00 GMT",
+      "source": "Paris Normandie"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne Florence HEROUIN-LÉAUTEY en lien avec une candidature ou un retrait pour les municipales 2026 à Rouen."
+        "source_index": 1,
+        "explication": "Aucune mention de Florence HEROUIN-LÉAUTEY ou des municipales 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Candidature de Grégoire Houdan uniquement (RN), pas Florence HEROUIN-LÉAUTEY."
+      },
+      {
+        "source_index": 3,
+        "explication": "Candidature de Grégoire Houdan uniquement (RN), pas Florence HEROUIN-LÉAUTEY."
+      },
+      {
+        "source_index": 4,
+        "explication": "Discussion générale sur Rouen sans référence à une candidature explicite en 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:45:39.585635Z",
+    "used_sources": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "analysis_at": "2026-01-09T14:25:40.525050Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Florence HEROUIN-LÉAUTEY en lien avec une candidature ou un retrait pour les municipales 2026 à Rouen.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention de Florence HEROUIN-LÉAUTEY ou des municipales 2026.\"},\n    {\"source_index\": 2, \"explication\": \"Candidature de Grégoire Houdan uniquement (RN), pas Florence HEROUIN-LÉAUTEY.\"},\n    {\"source_index\": 3, \"explication\": \"Candidature de Grégoire Houdan uniquement (RN), pas Florence HEROUIN-LÉAUTEY.\"},\n    {\"source_index\": 4, \"explication\": \"Discussion générale sur Rouen sans référence à une candidature explicite en 2026.\"}\n]}"
   }
 }

@@ -116,26 +116,26 @@
       "snippet": "Municipales : Vincent Morelle à Meaux : « Le FN doit radier ceux qui tiennent des propos racistes&nbsp;&nbsp;Le Parisien",
       "date": "Fri, 24 Jan 2014 08:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Législatives en Seine-et-Marne : dans la 6e, Régis Sarazin se désiste, laissant place à un duel RN-LFI - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQOXlJN19BcDRLMWE3VU16VEVFMnQ3dEVyb0I2dzdEODRtNGxHUExweUJtbnBHVVl6YVhQYWVGTXJDQzZXTnFOa1dUUFdjRnFGNGFyWXN6cHRrZm5BRlFUMEZlaExPV2dBVnpwcG4taVF4SHNLandoc2s4TE5vd3FXdWFfMF9zWDd2aUt1aUxhNXZXNi1UenZGUjNJRUxXRTF1Q0JHZXk2TDVZeW5IbmhWZ215UzhvZzd3NzRPaEw5Y2U4XzBvREMtOXNZTzd4ODdnOEh3SEhkWHZ1Z0diSW9zYXBMYkwtQ3RDSUVQd0NEVWd1QUUxb2dpbndhWC1EeldOYXU1SnVRY3M3ZmRYUXl6Y2djVzBwNDU3UXRoMmJmVVc?oc=5",
+      "snippet": "Législatives en Seine-et-Marne : dans la 6e, Régis Sarazin se désiste, laissant place à un duel RN-LFI&nbsp;&nbsp;Le Parisien",
+      "date": "Tue, 02 Jul 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source mentionne uniquement Jean-François Copé (LR) pour les municipales 2026 à Meaux."
-      },
-      {
-        "source_index": 2,
-        "explication": "Source évoque une candidate de la gauche unie (Valentine Rousseau), sans lien avec Béatrice Roullaud ou LR."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Béatrice ROULLAUD comme candidate aux municipales 2026."
       }
     ],
-    "used_sources": [
-      1,
-      2
-    ],
-    "analysis_at": "2026-01-08T13:55:27.207934Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:37:38.128178Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne uniquement Jean-François Copé (LR) pour les municipales 2026 à Meaux.\"},{\"source_index\":2,\"explication\":\"Source évoque une candidate de la gauche unie (Valentine Rousseau), sans lien avec Béatrice Roullaud ou LR.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Béatrice ROULLAUD comme candidate aux municipales 2026.\"}\n]}"
   }
 }

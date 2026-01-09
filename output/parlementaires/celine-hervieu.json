@@ -151,31 +151,40 @@
       "snippet": "Le cauchemar d’un maire insoumis à Paris – par Jean-Michel Salvator&nbsp;&nbsp;l'Opinion",
       "date": "Thu, 11 Jul 2024 07:00:00 GMT",
       "source": "l'Opinion"
+    },
+    {
+      "title": "Municipales 2026 : les jeux politiciens derrière la volonté de changer les règles du vote à Paris, Lyon et Marseille - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRFpJSXBELUhHS0NzMGRRdm0taWxOdGszdDdIejRvX3RQN1BiQkh1SkVId3QyMjg4d0VNdlZLbTdHQlJEMnNqNnRKNklBaklENENka0RzUWRlX1FIdWt2dUVFRGl1WWNCVk9WZDQ3Z05KLW1scTZua1lNMWYxeHVPc1JWc0p4SU5HMGJ2ZWtWd3p6SWNBd1phY3QwaXlTRVNsWGVkOEpoNVlTQnRHcERrWXJqS0poMDd1ejZwdVVwNUhmN3hkaU43UDhPUzh1ZWJudDhMRkl0WXlMUnRKV180Y2VGa1VxSEhmajFHV2xTS3IxRmRhclhyVmdiMFFpY2xmWHBXdmdseWprQQ?oc=5",
+      "snippet": "Municipales 2026 : les jeux politiciens derrière la volonté de changer les règles du vote à Paris, Lyon et Marseille&nbsp;&nbsp;Le HuffPost",
+      "date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "source": "Le HuffPost"
+    },
+    {
+      "title": "Emmanuel Grégoire mise aussi sur l'appli électorale Qomon - La Lettre",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQU4yV194X3ZzaDFNR3JyNFg1ZnFPdWZFOXdKaFpTZUY0eFpDUFN3V1ZOSHNPSUE1M3pvbTdBNEx4R05KalBORGw5bEdTVGtFTVQyc1ZhWGxBMXNzQ2NPQ20yYXE5MXlSd3FfXzlxMU5aNW10SXE4SFlPT0JLVjNLczk4WE5OTnFHLXROWm9fSDhBeDlBRzVPYkpaa3dUa0RyWUwxaWFtTFJNckh5NFBhQjhxQ2ZJVjVYdVlhclhHTml5Y1BxYlo4NGhEbUw5YlVSS0M4WDVXVQ?oc=5",
+      "snippet": "Emmanuel Grégoire mise aussi sur l'appli électorale Qomon&nbsp;&nbsp;La Lettre",
+      "date": "Wed, 07 Jan 2026 05:20:00 GMT",
+      "source": "La Lettre"
+    },
+    {
+      "title": "« C’est un village d’enfants gâtés » : des riverains parisiens, dont plusieurs célébrités, opposés à l’ouverture d’un Carrefour City - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1htaDRCV0hEOXI5d1dFaU55YkVPcFdHZ1JoSXkyN19kd3ZYWlZWRWVlWGNHYWlmdy04U2dRNFZVdXZnR19JaWVTYVNqTGdrLUtRa29nTjdQdUhuRjhsaHhoejU0bHVvb3R4RWtYZUdySVh6S3p6YVRJVFVhMFZCR1lsTjNOMENZWkMtaFBMR3FJMzlzaXFYQ3hxbThOYmVmOGxvclRTR2FuNmhHTTY4akp4NG5zT3BOU1g0WEtTemlKc2ps?oc=5",
+      "snippet": "« C’est un village d’enfants gâtés » : des riverains parisiens, dont plusieurs célébrités, opposés à l’ouverture d’un Carrefour City&nbsp;&nbsp;La Voix du Nord",
+      "date": "Mon, 21 Jul 2025 07:00:00 GMT",
+      "source": "La Voix du Nord"
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Mention explicite d'une liste municipale 2026 à Paris incluant Céline Hervieu (socialiste) dans un contexte de candidature confirmée."
-      },
-      {
-        "source_index": 2,
-        "explication": "Céline Hervieu est citée comme candidate aux municipales 2026 avec une proposition politique liée aux élections."
-      },
-      {
-        "source_index": 3,
-        "explication": "Proposition de loi pour les municipales 2026 (droit de vote à 16 ans) confirmant son implication dans la campagne municipale."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature municipale pour Céline HERVIEU aux élections 2026."
       }
     ],
-    "used_sources": [
-      1,
-      2,
-      3
-    ],
-    "analysis_at": "2026-01-08T13:45:48.362492Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:25:45.999669Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3],\"justification\":[{\"source_index\":1,\"explication\":\"Mention explicite d'une liste municipale 2026 à Paris incluant Céline Hervieu (socialiste) dans un contexte de candidature confirmée.\"},{\"source_index\":2,\"explication\":\"Céline Hervieu est citée comme candidate aux municipales 2026 avec une proposition politique liée aux élections.\"},{\"source_index\":3,\"explication\":\"Proposition de loi pour les municipales 2026 (droit de vote à 16 ans) confirmant son implication dans la campagne municipale.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature municipale pour Céline HERVIEU aux élections 2026.\"}\n]}"
   }
 }

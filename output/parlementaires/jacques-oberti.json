@@ -158,21 +158,67 @@
       "snippet": "Lauragais : Jacques Oberti vise à nouveau le fauteuil de maire d'Ayguesvives aux Municipales 2020&nbsp;&nbsp;Actu.fr",
       "date": "Thu, 30 Jan 2020 08:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Sylvie Brot : « Je serai maire à plein temps au service des Ramonvillois » - lepetitjournal.net",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMWo0QVgxUG56UUx4VE9OQ1dPNE1pWUE3Q0laRVBFdE5RcDl2YW96OUFJZXA3d2c0cVBvWEk1QktpakpKb0c2Z2diUGNGdFBtZ1JIenJwQU52T1Bjc0VQQk5CRkwxeVkzMXNNQ05vZzJMMjI0cnlyRGlZelBpTjJFLUNvV0s3NmhpMjZGSEFvemdYSnZ4VzNxQU9CdERDbndBQVFEMUtyODVkbVJkM2NpWVNlUEdoUjdzS18yMGtsWHUwbE8zQnFfQXZmN0NaNVVteG0zd2JvdTh2WmJZb0VZYVlR0gHnAUFVX3lxTE9XaS1KdFpjY2pkb0hIYUlzdloycGM0cTlwTkJKbG1vNHZ1NjlVelBYNTBDYXJXNkVUV0xOcDhfYVVYbG1RWjFoQS1uRFo2aEdXcU5OTFFPUDJyUjgtRUNrRjBfcVhCUHA4X2p0UncwcFgta2lINjE0bS1YWW1RU1Q3cnJSeHN1cHNhOVhEZjNGd1NEMDlaWTQwdlZhdjdESGdNeUI0dC1PUjdjVEQzbld0ZGdzSGRjUlU5MHRZT3VpdVBMZHlvSkUzdGRlb09oNzN5LTJ1NFZtRFYwUHJ2VTduWGIxdWY0SQ?oc=5",
+      "snippet": "Sylvie Brot : « Je serai maire à plein temps au service des Ramonvillois »&nbsp;&nbsp;lepetitjournal.net",
+      "date": "Mon, 28 Apr 2025 07:00:00 GMT",
+      "source": "lepetitjournal.net"
+    },
+    {
+      "title": "Stéphane Charpentier candidat à un nouveau mandat - lepetitjournal.net",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzdLUWtZN1hxeDRmMWFwNzRDTWF1ZnRneC1IN0FSOGc2Q0xxS3A4QXJZOTd5NHhmeEJlSDJPTExzX0JOLXFOMHg4c1ptX1AzbTZHNUYyclZLVFdTQWxOUWVUTkdGbjJRR3FQZm1YaFNZNG94dkRBbE95VURRQVQtS0JMQnE1c3duemZWdXJtLXE0VmVaQm9KbE9UbUlidGUtckxHVUtnVElNTEVocjVNc2M5MXN3T2QtNG1kTUhlR242T2RIRzNpT9IBzgFBVV95cUxQV1ZsZ19Eckp6b2hQMExVdUFFQTdILWY3RG1WUFBJMXVWR0ZjMndWZWVwRUxsUThrOVJsVE9YbU1ubVJXa0ZMVC16Z193ZmlxT08xYjN4Smk4WEp3Ml9fRkhvamRRbURxWFRNSGpmOFNEbGVIQjZ4dGRIMkh5SDVmbzJWckxzYVE0eXYtVFJDZFFfYjFwQU9FME5qaFNXNjBuMFc0bmxRMjdWYlhubWk5UHVucENQYmNvU3JFcGJSOWlINGdSaUxUYnRsWkV6Zw?oc=5",
+      "snippet": "Stéphane Charpentier candidat à un nouveau mandat&nbsp;&nbsp;lepetitjournal.net",
+      "date": "Mon, 29 Dec 2025 18:23:00 GMT",
+      "source": "lepetitjournal.net"
+    },
+    {
+      "title": "Ayguesvives. J.Oberti réélu maire - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wZGpNem1BZ3NMNUJjTlljeGdNSXEwdEVKX0V5ZWsxdmNxMlFieWxoQWt1ZC1rUEQwcThGdi16eTlZSzl4UHJSY0pIckZiN1Bsei0ycmNYRzhRXzBpUVlyd1h5VlRqdGZhZV9GV0dDRlhPQTlGT3c?oc=5",
+      "snippet": "Ayguesvives. J.Oberti réélu maire&nbsp;&nbsp;ladepeche.fr",
+      "date": "Tue, 26 May 2020 07:00:00 GMT",
+      "source": "ladepeche.fr"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Jacques Oberti comme candidat aux municipales 2026 à Ayguesvives ou ailleurs. La source 4 évoque son rôle actuel de député sans lien avec une candidature municipale."
+        "source_index": 1,
+        "explication": "Aucune mention de Jacques Oberti ou des municipales 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Évoque Victor Petitdidier pour Ayguesvives en 2026, pas Jacques Oberti."
+      },
+      {
+        "source_index": 3,
+        "explication": "Sylvie Brot mentionnée uniquement, sans lien avec Oberti ou 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Jean-Luc Merault cité, pas Jacques Oberti ni Ayguesvives."
+      },
+      {
+        "source_index": 5,
+        "explication": "Jacques Oberti évoqué mais sans référence à une candidature municipale en 2026."
+      },
+      {
+        "source_index": 6,
+        "explication": "Sylvie Brot mentionnée uniquement, pas Jacques Oberti ni 2026."
       }
     ],
     "used_sources": [
-      4
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
     ],
-    "analysis_at": "2026-01-08T13:46:40.553350Z",
+    "analysis_at": "2026-01-09T14:26:47.996113Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[4],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jacques Oberti comme candidat aux municipales 2026 à Ayguesvives ou ailleurs. La source 4 évoque son rôle actuel de député sans lien avec une candidature municipale.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention de Jacques Oberti ou des municipales 2026.\"},\n    {\"source_index\": 2, \"explication\": \"Évoque Victor Petitdidier pour Ayguesvives en 2026, pas Jacques Oberti.\"},\n    {\"source_index\": 3, \"explication\": \"Sylvie Brot mentionnée uniquement, sans lien avec Oberti ou 2026.\"},\n    {\"source_index\": 4, \"explication\": \"Jean-Luc Merault cité, pas Jacques Oberti ni Ayguesvives.\"},\n    {\"source_index\": 5, \"explication\": \"Jacques Oberti évoqué mais sans référence à une candidature municipale en 2026.\"},\n    {\"source_index\": 6, \"explication\": \"Sylvie Brot mentionnée uniquement, pas Jacques Oberti ni 2026.\"}\n]}"
   }
 }

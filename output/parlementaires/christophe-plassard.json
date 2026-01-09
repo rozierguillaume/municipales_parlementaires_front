@@ -151,6 +151,20 @@
       "snippet": "Charente-Maritime : clins d’œil un peu mesquin, militaire et… à Giscard d’Estaing dans nos échos politiques&nbsp;&nbsp;Sud Ouest",
       "date": "Sat, 18 Oct 2025 07:00:00 GMT",
       "source": "Sud Ouest"
+    },
+    {
+      "title": "La meilleure solution à la crise politique c'est \"la stabilité\", pour Christophe Plassard, député de Charente-Maritime - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNTkJJdDBKeXlHMTBHSjdsNkpwTDlIbmxjcmZCSk5GUzZfVkVmY1JNQWNxOV8wRzF6OTNQMGpjRXc2bVdCSHBEZG1SQjJVTjNSWkVuYmpGVkttRUwyc2JUZm5JSmo3S2tyeXJwYkozY2cyWkFMNnl4eXJVX2w3c0NjUGFzbmZjZDJEMmVUejFrbHNyWFlnbG44LWNyRkhiZGVJSGFmSEREdFBGMTBuS25ZZlpzNE9kbzk3d1FIeUhxN3FiQVFzWjVxcGdPcFlYUW82TFBuUWhwQVhWUEh4cHVyRW9rNTRQWG5QZ2pyaVNBUnpiQ1dsWDB3NElRQ0w5XzhvX0FGWk00bGg2dHJzdndkXzB4Y3FZTHk0M3o0aTRSTGFUU3ZacWRldlgzZw?oc=5",
+      "snippet": "La meilleure solution à la crise politique c'est \"la stabilité\", pour Christophe Plassard, député de Charente-Maritime&nbsp;&nbsp;francebleu.fr",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "\"Il y a une élection par circonscription, très différente d'une élection européenne\" pour Christophe Plassard - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQcDdOTFEtSVlkU2tUZlpEdUZXTHZIeVZPMk9oMjFHMWJCZ1hIT1JoZktVME40cHlOWE0tYUxQOTRJeks5V0JlTWhrcFZ5dU9uZTZ4VFpOQmVrczAyVnBZdzBaX25DQ3VjN01wQnZSYU0tVGxpZG1FQUFmUTQxZTBOd3A1VGRWTEhoQzlzaU1XOWkyZFZpUjZXc0IzY2pqdWVMVE12R1lTcGo2Q0VyeFA1NHdlMmgzdUdya0lSZGRBY2U2amJmdzNRendGTVg0cEMzYVAwbEI4Q1R3dmotRktiYTNNb0xMMnU3V2l0aG9xYndEdUp4QUFTSEZXRTI1U1ZZdDFlZFpVOXdrRUVvVHFxejUzSDhpaFQwT0Vrcnh5VnFjZWJnMHktZHJNSG5KaWxo?oc=5",
+      "snippet": "\"Il y a une élection par circonscription, très différente d'une élection européenne\" pour Christophe Plassard&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 17 Jun 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
@@ -158,18 +172,19 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Retrait explicite de la vie municipale en 2026 (pas de mention de candidature)."
+        "explication": "Évoque son retrait de la vie municipale en 2026, mais ne confirme ni ne nie une candidature explicite."
       },
       {
-        "source_index": null,
-        "explication": "Aucune autre source ne confirme une candidature aux municipales 2026 pour Christophe Plassard."
+        "source_index": 5,
+        "explication": "Mentionne Christophe Plassard comme député et porteur d’une idée politique générale (stabilité), sans lien avec une candidature municipale 2026."
       }
     ],
     "used_sources": [
-      1
+      1,
+      5
     ],
-    "analysis_at": "2026-01-08T13:33:09.403881Z",
+    "analysis_at": "2026-01-09T14:10:39.979867Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Retrait explicite de la vie municipale en 2026 (pas de mention de candidature).\"},{\"source_index\":null,\"explication\":\"Aucune autre source ne confirme une candidature aux municipales 2026 pour Christophe Plassard.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Évoque son retrait de la vie municipale en 2026, mais ne confirme ni ne nie une candidature explicite.\"},\n    {\"source_index\": 5, \"explication\": \"Mentionne Christophe Plassard comme député et porteur d’une idée politique générale (stabilité), sans lien avec une candidature municipale 2026.\"}\n]}"
   }
 }

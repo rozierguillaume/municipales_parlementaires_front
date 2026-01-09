@@ -79,7 +79,7 @@
       "title": "Municipales 2026 à Corbeil-Essonnes, Jean-François Bayle à nouveau sur les rangs - Le Républicain de l'Essonne",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2IwYUVTZ1kweG16aHJNTXFlNE41V2xVVVREM1hWRGdNVjlXV0s5Y1VYZjRzNEVlMTR2bHE5bzlOclcwR2VqUGNMZmdURnF4ejZuU3JjSzdjc3BXMkI4Y3BqOTNpbTlOaEhldE1OQWFSa3VGN2hsNVFmNFFWSXhyalB3WlVvLXIxR2F4UXE0TDNreENQUWo4bEFGZG00cXB1ZEM2eHp5SkljOEtnVi1n?oc=5",
       "snippet": "Municipales 2026 à Corbeil-Essonnes, Jean-François Bayle à nouveau sur les rangs&nbsp;&nbsp;Le Républicain de l'Essonne",
-      "date": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "date": "Tue, 23 Dec 2025 05:56:39 GMT",
       "source": "Le Républicain de l'Essonne"
     },
     {
@@ -158,46 +158,55 @@
       "snippet": "Municipales 2026 : « Jamais vraiment parti », Nicolas Dupont-Aignan brigue un nouveau mandat à Yerres&nbsp;&nbsp;Le Parisien",
       "date": "Wed, 03 Dec 2025 08:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Les élections municipales de mars 2026 en Essonne : modalités et fonctionnement - Le Républicain de l'Essonne",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmlmN3EzUm9fdlBvek9uV3dId3djeDk4eWptVHVwbmotV0ZkTTRTV2xtT2tqZWVNQW4zaVhsdDhYSnE1Ni02cDFET2toVVh3d05ObHlaa3pPODg2Y21XcF9SMWU1NDEyZF9nelphV2NITldCNWcwSEwxN1hEZHJLNXoxSWNWeWg3WE51Y3BFYjFzUW0wVHd4anhSZHB4T2doV2VaN2czbUw0S2F0?oc=5",
+      "snippet": "Les élections municipales de mars 2026 en Essonne : modalités et fonctionnement&nbsp;&nbsp;Le Républicain de l'Essonne",
+      "date": "Thu, 08 Jan 2026 14:39:14 GMT",
+      "source": "Le Républicain de l'Essonne"
+    },
+    {
+      "title": "Aurélien Péroumal à Viry-Châtillon: « reconnecter les quartiers et recréer du lien entre les Castelvirois - Le Républicain de l'Essonne",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGJwbmVuWGhrNTBVUHhNdnUzZkdNWFltdEl4d3RRUWhMSEhsOWg4d3VEVTVUVVZWTHRKdGY5ZnA5WU5CX1NiSV9WbjZHZFVXVmRCRlNvNTUzM3pjalZxVXBNcTA0QWM2MjNKV2o4QnNUTm5vcHo5bW11NnFhWEJiMGFsUTFNRnZoOGNQejJRX2xjOWRxeGZvcUtBcTU4U3hKVjZQUFp0YVM5WFU0NGp3Y3ZybWhDQjZxNGRUME5OODR2V09vZHNzSDlfRDBIQQ?oc=5",
+      "snippet": "Aurélien Péroumal à Viry-Châtillon: « reconnecter les quartiers et recréer du lien entre les Castelvirois&nbsp;&nbsp;Le Républicain de l'Essonne",
+      "date": "Thu, 08 Jan 2026 14:20:00 GMT",
+      "source": "Le Républicain de l'Essonne"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "Titre mentionne explicitement Farida Amrani liée aux municipales 2026 à Evry-Courcouronnes."
+        "source_index": 6,
+        "explication": "Source cite explicitement Farida Amrani comme candidate aux municipales 2026 à Evry-Courcouronnes."
       },
       {
-        "source_index": 7,
-        "explication": "Titre évoque la candidate LFI Farida Amrani en lien avec les municipales 2026 à Évry."
-      },
-      {
-        "source_index": 8,
-        "explication": "Titre indique clairement sa campagne pour la mairie d’Évry-Courcouronnes en 2026."
-      },
-      {
-        "source_index": 9,
-        "explication": "Titre précise son lancement de campagne pour conquérir la mairie en 2026."
+        "source_index": 10,
+        "explication": "Source confirme sa candidature officielle pour les municipales 2026 à Évry."
       },
       {
         "source_index": 11,
-        "explication": "Titre confirme explicitement sa candidature aux municipales 2026 à Évry."
+        "explication": "Source affirme qu'elle lance sa campagne pour la mairie d'Évry-Courcouronnes en 2026."
       },
       {
-        "source_index": 12,
-        "explication": "Titre décrit sa campagne pour offrir à LFI une victoire municipale à Evry en 2026."
+        "source_index": 13,
+        "explication": "Source indique explicitement son lancement de campagne pour les municipales 2026 à Évry."
+      },
+      {
+        "source_index": 14,
+        "explication": "Source confirme sa candidature aux municipales 2026 à Evry pour LFI."
       }
     ],
     "used_sources": [
-      4,
-      7,
-      8,
-      9,
+      6,
+      10,
       11,
-      12
+      13,
+      14
     ],
-    "analysis_at": "2026-01-08T13:34:38.906137Z",
+    "analysis_at": "2026-01-09T14:12:38.625097Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[4,7,8,9,11,12],\"justification\":[{\"source_index\":4,\"explication\":\"Titre mentionne explicitement Farida Amrani liée aux municipales 2026 à Evry-Courcouronnes.\"},{\"source_index\":7,\"explication\":\"Titre évoque la candidate LFI Farida Amrani en lien avec les municipales 2026 à Évry.\"},{\"source_index\":8,\"explication\":\"Titre indique clairement sa campagne pour la mairie d’Évry-Courcouronnes en 2026.\"},{\"source_index\":9,\"explication\":\"Titre précise son lancement de campagne pour conquérir la mairie en 2026.\"},{\"source_index\":11,\"explication\":\"Titre confirme explicitement sa candidature aux municipales 2026 à Évry.\"},{\"source_index\":12,\"explication\":\"Titre décrit sa campagne pour offrir à LFI une victoire municipale à Evry en 2026.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [6, 10, 11, 13, 14], \"justification\": [\n    {\"source_index\": 6, \"explication\": \"Source cite explicitement Farida Amrani comme candidate aux municipales 2026 à Evry-Courcouronnes.\"},\n    {\"source_index\": 10, \"explication\": \"Source confirme sa candidature officielle pour les municipales 2026 à Évry.\"},\n    {\"source_index\": 11, \"explication\": \"Source affirme qu'elle lance sa campagne pour la mairie d'Évry-Courcouronnes en 2026.\"},\n    {\"source_index\": 13, \"explication\": \"Source indique explicitement son lancement de campagne pour les municipales 2026 à Évry.\"},\n    {\"source_index\": 14, \"explication\": \"Source confirme sa candidature aux municipales 2026 à Evry pour LFI.\"}\n]}"
   }
 }

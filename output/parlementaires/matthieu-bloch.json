@@ -151,26 +151,47 @@
       "snippet": "Municipales 2026. Le Rassemblement national en ordre de marche pour les élections à Besançon&nbsp;&nbsp;L'Est Républicain",
       "date": "Sat, 27 Sep 2025 07:00:00 GMT",
       "source": "L'Est Républicain"
+    },
+    {
+      "title": "Condamnation de Marine Le Pen : le député UDR du Doubs Matthieu Bloch scandalisé - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaXhJVHdSWFFBeXoxVkpBQ0J6MnFZczg0VkFoT3BoVF9Vd0dIV1F4WnlHY1FkaXpXUjdmOEVsOTV5REhqT0RjbXR4WjB0elBqZ0VnV000akZROWhIM21PZzZEaTJfVnRZNE5mU1JpT1Fjcm0tYk1oQzhLcXpxZHFudXd1RGplcGJCNlNCQUx2OTdiSFoxNkZ5SFFvOXVBNUZxVF9PNWN1WTh2ZkRmd1JObk40U3UzOUlkWkJSNy1PYzMwNTVWYmhN?oc=5",
+      "snippet": "Condamnation de Marine Le Pen : le député UDR du Doubs Matthieu Bloch scandalisé&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 31 Mar 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "\"C'est là que se fait la loi\" : le député Matthieu Bloch fait son entrée à l'Assemblée Nationale - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlhOUm03TzJrZXRCOHNkYnFFLUp2bGs3WTFTeVRXWU5sUnRvMHFJVjQzSWZoTTNKODRnTTRfcGxJb1BuLUZNM29NbDVmQVhIRGZqa1lYTHNLWXJkX2dYWjVndnFzTVdCMC1LWW82cVljRzRvSjQwRXVhN09hNVhOcTdPWWUwRDFaS05xclBzWHJfUnlvT0lsRjB6OTlFaVpFaFR6Sy10X2tDOWlFNVdyS2FSTDVIYVFZalh4WmQ1N0RDUndwUm9RY1hRWktVNnlHb21iSmpaLUF1QQ?oc=5",
+      "snippet": "\"C'est là que se fait la loi\" : le député Matthieu Bloch fait son entrée à l'Assemblée Nationale&nbsp;&nbsp;francebleu.fr",
+      "date": "Tue, 09 Jul 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Doubs. Matthieu Bloch, candidat LR sur la 4e circonscription - L'Est Républicain",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkpDZkxock1KcGZsTXN2UVNtVXJTTGdrRTNSMXRVa202TlhrS3pJUndPWUlHVnpudzBtenJMVUNYd1dYWlFPRVpsYkExRjZVRTlpaGpER1VJalZRUVJHc2MwXzhoYnpiYy1NajJDMWE5eFdra1MxSEZURDU2NGstVks0TTAxUm91enVQN0JLNl9zeWgwbTNIczBuRXhCdHJsNWh0N2NR?oc=5",
+      "snippet": "Doubs. Matthieu Bloch, candidat LR sur la 4e circonscription&nbsp;&nbsp;L'Est Républicain",
+      "date": "Sun, 22 May 2022 07:00:00 GMT",
+      "source": "L'Est Républicain"
+    },
+    {
+      "title": "Politique. Liens entre partis politiques et réseaux islamistes : « La menace est très forte, c’est un enjeu majeur pour la République » - L'Est Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSlVVaUhBMmNpLTh4QndLWS1oWGItY3RtOEhFSzFRdVdvbkRKNk1jMEs2dXYxRzdrTFJEZEVUektiRkFmM1BrWGQzaGVvZXZ6UUxBQTFKM180ZGQzRUN4M2dlcVdHaUVJWGl6S2xVNXI0ZmpuaF80SU1YcFRvdW12NlJicElrcnZzdXI4a19MenVJVXF2TXZ1VzFKZ0lhMEhRT1VXdnh0MXA4X281am1oQjNodjNZZjBSRV9LbEwwdl9CckU2dlBVZ0NXNkJqRVFUWHBWZ29PRDE1aGhaX1liRk9FajIxa2xlbEhZOUxVZ0JHRWlUQVJyZEJFVkI?oc=5",
+      "snippet": "Politique. Liens entre partis politiques et réseaux islamistes : « La menace est très forte, c’est un enjeu majeur pour la République »&nbsp;&nbsp;L'Est Républicain",
+      "date": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "L'Est Républicain"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 13,
-        "explication": "Matthieu Bloch appelle à l’union des droites pour les municipales 2026 mais ne mentionne pas explicitement sa candidature."
-      },
-      {
-        "source_index": 14,
-        "explication": "Le RN confirme une liste aux municipales avec l’UDR de Matthieu Bloch, sans préciser s’il est candidat ou tête de liste."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement la candidature de Matthieu Bloch aux municipales 2026."
       }
     ],
-    "used_sources": [
-      13,
-      14
-    ],
-    "analysis_at": "2026-01-08T13:56:28.126634Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:38:44.662284Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[13,14],\"justification\":[{\"source_index\":13,\"explication\":\"Matthieu Bloch appelle à l’union des droites pour les municipales 2026 mais ne mentionne pas explicitement sa candidature.\"},{\"source_index\":14,\"explication\":\"Le RN confirme une liste aux municipales avec l’UDR de Matthieu Bloch, sans préciser s’il est candidat ou tête de liste.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement la candidature de Matthieu Bloch aux municipales 2026.\"}\n]}"
   }
 }

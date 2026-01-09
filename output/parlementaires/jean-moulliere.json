@@ -151,6 +151,20 @@
       "snippet": "Ligne Ascq-Orchies : quinze maires soutiennent un projet mêlant rail et vélo, par tronçon&nbsp;&nbsp;La Voix du Nord",
       "date": "Sat, 22 Mar 2025 07:00:00 GMT",
       "source": "La Voix du Nord"
+    },
+    {
+      "title": "Saint-Georges-lès-Baillargeaux (86130) : Résultat des élections municipales 2026 - ICI - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWE5ZVm9ibk5pYXpDUmlpclh2dXdvT05jX0ctanZmLWdsZjdlekFpbGtlazhnSzJmV1J5aU9Xa21GWGgtS0FMS3J4eWQyeTFBQVVFSmRCN1ZPU29HdkhhcVBDTS15WHV5ZG81amstNWNyZ3VXMDF2NTFzX3J6bEcwQWZzcXAtaVBqbzlkdEc1R296azRsWlJsMGRVcw?oc=5",
+      "snippet": "Saint-Georges-lès-Baillargeaux (86130) : Résultat des élections municipales 2026 - ICI&nbsp;&nbsp;francebleu.fr",
+      "date": "Thu, 04 Sep 2025 00:56:14 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "La Chapelle-Moulière : un permis d’aménager déposé en 2025 - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdFBXS1VWdHNQeFZVQS0zVGtGV3RoWkRHVndDMlE0VUh1ZkRkdHZuM1NqYUtfOHFqSmNpVU5TRUZ6TlM0U2Zrb216QTdqNjJSYjRSeXdtbzRSNFIwbTBwVzRCaDR4blBVQUl2MzJuZk8tcWwwZlZ4dE85MXhrczVNalNYblMweDlFRWdZMEx3WWRNMW5OUEE1aks1N1BpdDk2aFNZem1mTUZOVjBBb3pvUXo0MjlHWXBCZXV3NkVVNDlwTGRDcHJidDhVRm9oT3BFSTItTnVR?oc=5",
+      "snippet": "La Chapelle-Moulière : un permis d’aménager déposé en 2025&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Tue, 14 Jan 2025 08:00:00 GMT",
+      "source": "lanouvellerepublique.fr"
     }
   ],
   "analysis": {
@@ -158,14 +172,14 @@
     "justification": [
       {
         "source_index": 3,
-        "explication": "La source mentionne explicitement 'Jean Moullière candidat aux municipales de Templeuve-en-Pévèle'."
+        "explication": "La Voix du Nord (oct. 2025) affirme explicitement que Jean Moullière est candidat aux municipales de Templeuve-en-Pévèle en 2026."
       }
     ],
     "used_sources": [
       3
     ],
-    "analysis_at": "2026-01-08T13:33:01.615907Z",
+    "analysis_at": "2026-01-09T14:10:29.780018Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[3],\"justification\":[{\"source_index\":3,\"explication\":\"La source mentionne explicitement 'Jean Moullière candidat aux municipales de Templeuve-en-Pévèle'.\"}]}"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[3],\"justification\":[\n    {\"source_index\":3,\"explication\":\"La Voix du Nord (oct. 2025) affirme explicitement que Jean Moullière est candidat aux municipales de Templeuve-en-Pévèle en 2026.\"}\n]}"
   }
 }

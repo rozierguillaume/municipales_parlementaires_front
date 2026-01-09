@@ -45,13 +45,15 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune mention explicite des municipales 2026 ou d'une candidature à Jongieux dans la source fournie."
+        "source_index": 1,
+        "explication": "Aucune mention de Didier PADEY ou des municipales 2026."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:42:01.215603Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-09T14:20:57.957530Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention explicite des municipales 2026 ou d'une candidature à Jongieux dans la source fournie.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [{\"source_index\": 1, \"explication\": \"Aucune mention de Didier PADEY ou des municipales 2026.\"}]}"
   }
 }

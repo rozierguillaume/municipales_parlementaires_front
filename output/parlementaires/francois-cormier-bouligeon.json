@@ -17,7 +17,8 @@
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZlJ6UE1HOUd3MENPU0xUS1NJaE8tZnNfdEJ1VFhmbTdVb2QwY182RjdjZnA3RmxlMmJxMkEzSkt4c1lvYkZIUlN6VTh6bTRsQWgwcTR5cV9GOGhoNHlTdmFzQWxubXIwNGx4cEZFY0JyYjg1c3I0T0dLRkh5ZjcwTGFPRzVJZ1REdTc1Sk51bmhQVmFGNGVEM2NtdzUxV096c1RwR3JzRmprQzI5VXpIbXBKdzY3dVg5OGpvV2tRUG9RRXF5eUVzSzd0WmNpV1JsZnJBYUQ0RzBEWTd1b3gwUXJiczE5RzhWVV9HMjBCb0V1SV9jYkRLdVVFeHRKZWkzMW9YRXpFTGJULXhqYWU3WmtQbXlpN1cxVXlCeHFHWXg?oc=5",
       "snippet": "Municipales 2026 : François Cormier-Bouligeon et Renaissance ne mèneront pas de liste à Bourges, un soutien à Philippe Mercier en discussion&nbsp;&nbsp;Le Berry Républicain",
       "date": "Tue, 06 Jan 2026 18:10:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Thierry Doucet, maire de la Chapelotte, ne sera pas candidat aux municipales 2026 - Le Berry Républicain",
@@ -38,21 +39,24 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2hOTVZWTEtvNzBMMFlManZmVWVIWUdQZWF3SUxYVVUwTjFmNU1GNUVQY0NRRGVXTng5cTVjWGRZdUcyNEFtZDQtVi1Sb2RqQU1mMUFWUXEyQWlQaXlUTXRHMDg5Tlh2TEJxY1pqQXMyZzdwVGl1aHBibmpvc2RRMHRtX0V0bXk2djRhM2lQc0R5T3hPVVJ3UEd0SndWSmkybGtfSS0yV3RtdFdjZHNPRkEtLXZYVko5Y3lydVdlSzRsZXA3M0tz?oc=5",
       "snippet": "Municipales 2026 : « humble et pragmatique », Renaissance lance sa campagne&nbsp;&nbsp;Les Echos",
       "date": "Thu, 20 Mar 2025 07:00:00 GMT",
-      "source": "Les Echos"
+      "source": "Les Echos",
+      "snippet_source": "rss"
     },
     {
       "title": "François Cormier Bouligeon renonce à tenter de conquérir la mairie de Bourges - francebleu.fr",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT1ZTcmJwNjNIUE82YXJnZklHc2ZrcTZoOElwMXIyQTdoQjB2SDBwaGplTlhIWXFTMkhWX0NEZ0ctYnZMVW54cVZCQWtXSjg2NjI4MEZFelJhdDNhZ3dmSy1OWWtDazNyci05N3hGSnJzVFhHXzhRNlVRQXRVNl9PZTJUcEdyRHQ5MzVqV2E0aWVHaWlPUTlnY1lrYTBrbmR2ZHdsN1hqZ2EwMHgwNnQ0SERNSldyYzlFS3hHT0FqNC16Z2F4dmNQUVNR?oc=5",
       "snippet": "François Cormier Bouligeon renonce à tenter de conquérir la mairie de Bourges&nbsp;&nbsp;francebleu.fr",
       "date": "Fri, 27 Sep 2019 07:00:00 GMT",
-      "source": "francebleu.fr"
+      "source": "francebleu.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "À la maternité de Bourges, un dernier bébé en 2025... et un premier pour 2026 - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd3ZsNW1mcEY3SUlVN3oweDNuMHpKMlIxN2RHMGtweUtGdGFiZ0FHWFc5Q2ZvNkFCN3hyelIzdzB0T29EM1otaXJubDNLSDJzRWlzVFV3bmlnZXhHTGU3bzlhV1hURjIxb24zd0IzYUs2Z3BWT242eXNGTGhXQTYwclJNN3JzR2QzbnNCS0JCNHQzZlVBNXdOOXZIcEcwVGUweXF3bWhmcWlVV196RFpFTnJaaEZWQmU5UGxqVzJXdmJBbVgxY2ljMXVtcw?oc=5",
       "snippet": "À la maternité de Bourges, un dernier bébé en 2025... et un premier pour 2026&nbsp;&nbsp;Le Berry Républicain",
       "date": "Mon, 05 Jan 2026 19:24:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Un atelier robot très constructif à Saint-Germain-du-Puy - Le Berry Républicain",
@@ -66,7 +70,8 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXp1eEJaSGh2Nk5TWlZ3S2xEYjVHcklyS3lseHIycDhqcWdBS3NGRmY0VHNWZTVSWTVfUDM3UGFjWFFrbGRFbmtTc01jUXE3U2ZXc0c1dUJ2LXlXblQ0VnV4THNwaGRNN1d4YmtOVnUwRUtpRmRqNkFPejl0VXhTY2JHOVpkaDVTUDBBS2VuSTN6WWF6dldVYjZzVDZ2UFhjbzRUeFFLbXVxQzFmd0tzM0hKcw?oc=5",
       "snippet": "Patrick Richard, maire de Pigny, briguera un nouveau mandat&nbsp;&nbsp;Le Berry Républicain",
       "date": "Wed, 24 Dec 2025 08:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "\" 99 % d’ADN en commun\" : entre piques et main \"tendue\", comment deux listes d'extrême droite cohabitent à Vierzon pour les municipales 2026 - Le Berry Républicain",
@@ -87,21 +92,24 @@
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPT1R2V0Y0ekxPaWJKNWxNN3ljWW1sc0RYYktwdUVnbXdWdjI1eHdPdnlqS2w2VGJ1Wjh1NzZMeG5YbHd3MDBibkJ4THFobGFrNnh3UHAxZjRhV3JsakdkbElNSS1uaTk0cDVWLXk2SE1JTzM4S3dmTlVaT1ZGZXE2aFJWOWJZZDdheENRcW9XYzMwcDI0Z01EM3lKUzlGUXI3T0lyb0ZjdXpya3JDY001OG1yQTlLQ3Bqb0RJS1FBS3BLb2hfXy10RzZPbXh1VE5yajVncDJ3bHA4MmpzWWd2NG9hRi1HQ2JSdkZTQXZla0hGWWFrZ2lJRkdxYUJqM1BwWGJhdHpCakh4LUVHX3QyNDAzVHhKSFE?oc=5",
       "snippet": "François Cormier-Bouligeon monopolise l'attention, Yann Galut pas \"cher\" à Rachida Dati, Vierzon oubliée... Nos indiscrétions de la semaine&nbsp;&nbsp;Le Berry Républicain",
       "date": "Sun, 20 Apr 2025 07:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "À Bourges, Philippe Mercier met en avant l’union lors d’un premier meeting - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1VwM0QweUFId3FVREp4WXhJZ0hYNnQzQUdHeGVYOUxST0NtdkhHWjdqajhlVGdXaWEwQnVlTmpZQkphR2U5U1NGVVZFYXRkTWNvMURQUVNndFAwajNRRkg0bU5RT0pEV1pxcjBGenZYMk5ENEhTUkpnU3JadTlnUzFrTmFNZy1QUzBBVVMwSUxKOEphdWIyNnBiaTVuTl9SLTRwc0k3RTcxOTRGcEM1MG9kNGFOOFhuUVlVV2hBMkZZWnFBa05MUg?oc=5",
       "snippet": "À Bourges, Philippe Mercier met en avant l’union lors d’un premier meeting&nbsp;&nbsp;Le Berry Républicain",
       "date": "Fri, 17 Oct 2025 07:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Christian Babonnaud est candidat aux élections municipales à Nérondes - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVJoN0Y0eUxXMnNoS2NMWExwZklNZ0N3V196ZlFHZ1BVNl9EUEFVcm1XUGpHQ3R3MUVzT0tsRlRteE9Yekx1QjJ5MWx3M29vZ2FCUnZDYmV6b0t6RHRqMnFFeTNlWVZLT3MxLTJTbkhnVldqV1FQZWJ0OEhOWXpSWEtHRnVjSnlwV1JNbkxIbFpTOEN0dElTR0paRm1uLURoR2poNzMxSGF4UWp2eTE4VGFtVHBvY0hDNzZ1bHJzS0xqRklrQjJ3?oc=5",
       "snippet": "Christian Babonnaud est candidat aux élections municipales à Nérondes&nbsp;&nbsp;Le Berry Républicain",
       "date": "Sat, 22 Nov 2025 08:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Municipales 2026 : avec Vierzon Autrement, Ahmed Taoussi s'engage dans la course à la mairie - Le Berry Républicain",
@@ -115,55 +123,102 @@
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeVBWQjJhTTZIbTRpVGJpVEp1YkdaMm5RdURpMEtoNGNoLVhFSFpET3dpTEV5QXQzbVdpb2t1VzhKSjhkcUYzVnJPTF9lUXRGWEp4RnptTEZ0QmVPOFJialFZeHV2ZnhCamZOTkFxd1ZMd1FwY2pFckZWQjVab1dpMVRQNWo5bmVhdXFoZ2dBSkdtY20tcHVzLTl4RzV1cUN0YnBzSkpNRmNKbG8xN09ycGxZM0hrdE5xREwzb1l1NWxjcHI5R3pFMmdxSkRrVWpfeXBlcXF3c1BJLWZzbjY4SHQ1T2tuVnNWOWNzb0RIdm8?oc=5",
       "snippet": "Les finances et l'eau potable à l'ordre du jour du conseil d'Agglo Bourges Plus ce mercredi 12 novembre&nbsp;&nbsp;Le Berry Républicain",
       "date": "Tue, 11 Nov 2025 08:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Chroniqueur sur W9, Matthieu Delormeau envisage d'être candidat dans cette commune de l'Yonne - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVHBqMEIxbG8ybXp1ckZnRDdPXzF0b3NSZzR2RnQzRVFGUXhrR0Uwc0cyYTE3U3NLYWNIV3BVcHpvR2E1QXNuSnFPbERNZjRIQWlZTkZJZDF3eVg5OW1rT1hGWk9GLU82U1F5amc3VnlUbzJwVXVhdndWN3F1Q2NibklmalZnR0ZpbTFCZ2Y3M1JxSXlxTDNhZEMtb2QzSFdCN3N1WEp6UFpsYVVEX2xEdm9Tb280Sjk0bUNxMmdHRS0yN29XRG5wT2tpdUw5YVNzOEJ2MmhXTmNSXzhrcUplNkxJcW85MnI1RUJPdg?oc=5",
       "snippet": "Chroniqueur sur W9, Matthieu Delormeau envisage d'être candidat dans cette commune de l'Yonne&nbsp;&nbsp;Le Berry Républicain",
       "date": "Wed, 12 Nov 2025 08:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Dominique Larduinat et Sylvie Olivier, élus de l'opposition divers gauche, se lancent pour les élections municipales à Saint-Amand-Montrond - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQd0FhMHU1d1BKbTAwV2tXRnNDZFB3VTBKbzl4dVN0cjV6ZTlEZjBsa3BuaXNLSzFaYjNTRVA3NjBSaWVkVzlYSTl6RWNjWElyTFNqZUc1ODUzWjBFdTVFN0l4VVgyc0xrRUYxcGtJZTZxb0dxeHF0UXdrRWRDOEdoTHRTRDI3bzAwa2lJbkstQmxKdUxoZUdaakM1ZmpIWHhxSWNHWnV3OXd6RjZFNFBkUnZteFpzV1BRdi1rOWFVem4yc3RqWjNOdXdYOGQ3U0tHQU4ycDJRVFp1emdDdFowbkF1dXBXWlNVRnlPbzFhMTdrZVFWaXZSd1VUNkFwSlBUazZTVnJnTlBpNlI3dGg3TE1NMzZFekdjeWJLTEdLd2tuU3BrQVZJX0lvN2dJVGNNVVE?oc=5",
       "snippet": "Dominique Larduinat et Sylvie Olivier, élus de l'opposition divers gauche, se lancent pour les élections municipales à Saint-Amand-Montrond&nbsp;&nbsp;Le Berry Républicain",
       "date": "Thu, 30 Oct 2025 07:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Chantal Dulière, retraitée mise à l’honneur au Châtelet - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm8xRGJwSm9Hd2U2UUVDWmItVnZ0aTJfenZzRkpwamIySzFCemlzcmdwRWJ1aWJoQmI2SXZoa2o5djVjX3h1M1MyLXpYekF3NzJCYUxTX3pGckwwZUJ3NU5sSDU1MXpabVZVMHhqd0dYRWU4SDNSSnUwNExid3E2MmdDNEpfNTJycUlTa0ZmdEVYWFBsY0RHLTRxM2M5Wm1KRWc?oc=5",
       "snippet": "Chantal Dulière, retraitée mise à l’honneur au Châtelet&nbsp;&nbsp;Le Berry Républicain",
       "date": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Élections municipales 2026 : qui est candidat à Saint-Florent-sur-Cher - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQckdtNXFqRVNRdXM4ZTNpXzdwbTdPMEp3bmktUHc3MjI0ZHJPdFJkUGQ2Q2V0UFR3TkhCTkh3UFpuQmRackJncEx5UTZqZDkzTGl3a2p6MmVyVlhfZkRyVTdHZVBvalFNMVQ5d0xjUG5kWE1CVlVDOEdobkVnc3RBM2czX0R6aHhkM0xGMll1aGlPTngwUkJsa2x0NDFTaEd0VDZMbjdpQjJsZVI2YmJjYXhMcUlzUTR0V2ZpQWd0QWh4UzJtbGJlcHhPZWxiTTNZR0o2Qk1oWW8?oc=5",
       "snippet": "Élections municipales 2026 : qui est candidat à Saint-Florent-sur-Cher&nbsp;&nbsp;Le Berry Républicain",
       "date": "Sat, 27 Sep 2025 07:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Départ de la directrice de la crèche du Jardin de Pomme d’Api à Berry-Bouy - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3BMb2JwREJQejBqal9PLUVYVy1VMDltcnRUZmF6eGFCOGU0QW9JcWFSbEtQby1hYnZMZ1NvZEJiVVJ1b24tWEU1aG51NHZkOUh1VFU5WnJBZkNGMkRMdFVYV1dCZHVvSWtWRG92Tno4bFFOZHhrbFBmVjJSRnhBbEFtdkZKNHNhWDZQZ3MyT0xrcXlhemwtYzI0bWNyTVhSNjExWW5CcF9HZ0ZoNzM4RzdjTXNMLW5XV2c?oc=5",
       "snippet": "Départ de la directrice de la crèche du Jardin de Pomme d’Api à Berry-Bouy&nbsp;&nbsp;Le Berry Républicain",
       "date": "Sat, 03 May 2025 07:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Albanie, Andalousie, Madère... Les six destinations en vol charter de l’aéroport de Tours pour l'été 2026 - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR2Zfbml0TG0tRzVkdDRCMS1zSXd4eXd1UHBlbTlyRHZ5ZFN2YlhtWURLcHdMdFR5QnFvQXFNeFFZTEsxaWZiazV6YzZEb1F3bWozaGhFS2RqZVRNemhZNzQtSFpiYUlXRl96UnNiVzBGbnBUVG90MjFfT3dXVDI5TVNhY2NjdGE1Q0FxdGtvWnVmaTNuSnkyVmZrUXgzX2xLN29DNFhyRVFKbHVDZnhPZG02ZUlTQXZKSWp4cVdITjZ3OXFDVUltU21PMWhQMlVqU2NQVFltNFNJMVZYMDFPZ0hqdGpGOC1W?oc=5",
       "snippet": "Albanie, Andalousie, Madère... Les six destinations en vol charter de l’aéroport de Tours pour l'été 2026&nbsp;&nbsp;Le Berry Républicain",
       "date": "Wed, 29 Oct 2025 07:00:00 GMT",
-      "source": "Le Berry Républicain"
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
     },
     {
       "title": "Le député (Renaissance) du Cher François Cormier-Bouligeon en Pologne cette semaine, pour parler défense européenne - Le Berry Républicain",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUzRHaU1rM1pkZjF0RF8yMmNQTDdwT3dacW1YNGFvRjA5d1hCck9aVG1XZmpxRzdHdi1fOWtlbXhQT3F0c2ZkVlBPSGczNk1KV1ZhSGZMcnNJXzFVckZ3UDVZUVdETFVGVmFfXy15T3ZsMDhtUmVIdE84UjZZR3Y3Mnp6cmZQR2R2TWxpMmthVjJseHN5UUk0QWVGVkhlVm1XWkRNd3MtemdMVkhlSTYtbmppQXJhVnQ5dlhvZktJWnFwQzdGLWY5Y1RMMWpyMXRHS0hfVE9pNlBqeHoycHpUaW9mNkpFSUlSZFUzNkRIUWZ2MVZLQVBZV3ZnNEtrNzQ?oc=5",
       "snippet": "Le député (Renaissance) du Cher François Cormier-Bouligeon en Pologne cette semaine, pour parler défense européenne&nbsp;&nbsp;Le Berry Républicain",
       "date": "Tue, 10 Dec 2024 08:00:00 GMT",
+      "source": "Le Berry Républicain",
+      "snippet_source": "rss"
+    },
+    {
+      "title": "D'importants retards sur la ligne SNCF entre Orléans et Paris-Austerlitz à cause de la neige et du grand froid - Le Berry Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOEl1M09WRjhHMzRzU25KM0RCSTRfVE5nSDVWbjJ4azlOd3lnYUJGSjFfNUdTcFJ4U2VhYW4xM3RtM3l6VThNdVIyWmh2UzJGM1hxdUFJZE5YWlFnQW1zR2xhMjRXa3ZlM0R5TVM4Mlp6MS1WQXh6T1VYV3huSGJCbDNuNFdJY2I4M2d2RVo4bm15WXc1MjZKWDRjenZjemxEeVNCQkN2TkVMQ1FYcmZmZUZFRzdCXzNtZEoxWDk5YW16Q0gwVVNldTNhVE1lRE9qN3pwSl85Zk5DNXdLVnR0WEpnNFlVSW9XSElXcGJUckwxRDhlLW9CNA?oc=5",
+      "snippet": "D'importants retards sur la ligne SNCF entre Orléans et Paris-Austerlitz à cause de la neige et du grand froid&nbsp;&nbsp;Le Berry Républicain",
+      "snippet_source": "rss",
+      "date": "Tue, 06 Jan 2026 08:05:00 GMT",
+      "source": "Le Berry Républicain"
+    },
+    {
+      "title": "Appel à témoignages : vous habitez près d'une route passante et vivez dans la peur des accidents ? Racontez-nous - Le Berry Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRnFNS0lMZEI4UnlsQ09rdm5vekdIbHo1eDR3aDRCVXZaanJXX3RldWwwU1Y5RlB2T2wxbm82aUU5NkhhSHBadVhweDBtOHJ1NUxqQUVGSXdsWkh4cHJSeERTNlZWeXFscHF3TjFrME90aHpjakl2eUxKbjc3VnhhakZKMV9qOGF5RG1iRjJyNnVDMWhtdEpYMzBHd05yeUVmcDEtdHY2ZFZJU21HR01VUVBzeVM1bnM1TmFZUG04MUNKUG1LM2xUOU91eEtOcFBlbzdfTEUySm9wWGZtaU5IYkctQ3hvSWpfSzduenFTRWNLUnIxR0ZheHJn?oc=5",
+      "snippet": "Appel à témoignages : vous habitez près d'une route passante et vivez dans la peur des accidents ? Racontez-nous&nbsp;&nbsp;Le Berry Républicain",
+      "snippet_source": "rss",
+      "date": "Tue, 06 Jan 2026 10:31:00 GMT",
+      "source": "Le Berry Républicain"
+    },
+    {
+      "title": "Christelle Blanc, ex-adjointe au maire de Bourges, rejoint la candidature d'Ugo Iannuzzi (RN) aux municipales 2026 - Le Berry Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPemFMdHJjczFoU3d1YVlFWWFqQ20yekNSbVg2RDF2TmhuMjhtOEh2OGFrZGFUcGlPSkZ1M05wM09FS0RXNjRHRmJlNlUtaHRDd3lkT043SXJYa0RuZ28xS1B1ZG1EQkI4dlRjTlA5ejhGNmdBN2ZRdi1qWlRDNDE4Y0x0Z2JRV3ZSS1JGZ0I3NEhQem5lU2RhZGVJM3lvXzVqMjlIa3lHSm9xWUk2YU1vR0F5QUFXeHFYZDVUWk1US202ajg3ZmVCUnMya2szZU1xX21YYVVWTlFUS2NrV2dVU2ttVWI2WXhmRDJxaGJKYlFWYUtYaDhoLVNtTTU?oc=5",
+      "snippet": "Christelle Blanc, ex-adjointe au maire de Bourges, rejoint la candidature d'Ugo Iannuzzi (RN) aux municipales 2026&nbsp;&nbsp;Le Berry Républicain",
+      "snippet_source": "rss",
+      "date": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "source": "Le Berry Républicain"
+    },
+    {
+      "title": "Le député du Cher François Cormier-Bouligeon dépose une proposition de loi pour renforcer la protection des élus contre les violences - Le Berry Républicain",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxON2I5V3ctaThYNGQ2aDd3Y1FWdndEV3ljeDgySzNXT3VXaDVuNWZDaTg2c0d5RmowbUNKMkk3UXdGMl9LSGJsY2VlVnE0aFVNQksxbi0wMVVvLWlIYlFKNUxmaE9vbktoYnloZXlwT2pQU19Md1VrQWxQWkRiN3EwTS1WUEV5eG1KZ0tEV3NSUlFrNHNRNlNBNTYwdUI2d0JJUWRPcDdPcFlmTXBudnEtWGwzNHo3QkVGZmN1eFp5cks2bFFkLVBOUVA4TUUtSFBGcVp2NzB0WmtObFpMUEc3Nkg1OXAxS3p5ZGZaOG14TEYzNEZuUGQ3SlBZcklSbTZkSV95TFpkb0pibUNFTlluUU94SzVaR05uNVRz?oc=5",
+      "snippet": "Le député du Cher François Cormier-Bouligeon dépose une proposition de loi pour renforcer la protection des élus contre les violences&nbsp;&nbsp;Le Berry Républicain",
+      "snippet_source": "rss",
+      "date": "Wed, 13 Sep 2023 07:00:00 GMT",
+      "source": "Le Berry Républicain"
+    },
+    {
+      "title": "François Cormier-Bouligeon, député Renaissance du Cher : \"je suis un homme de dialogue et de raison, mais si on veut le combat, je suis prêt\" - Le Berry Républicain",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcnRUVWxVUno3enc0aTJrcHJITzFLeUQ2ZnZqSTF3ZHB3TzJtWEpkV2kzeXRaYjM3Ui16UW9vZmlCdGU2TGh5ZFl0TlJlRGhCdzVIcmxIM0g0TEFqQXdGTDdSeVBBbi1pUmtDbEZBdnRIYkRqbnpQTlIxZWJ1OXhPZV9XTjh0eUUwb1dSM05jbGJRNEhUVHV5Ml9zVE9VWE9XWmh2RXVtSW5WSEhqMFBwajFfaTdGWkVoTFNqLTN2S19SbVZabW1OZEhoWkxiWGVjNy16c0VzYVJ0dlNQWWVNbzliLW9meDBWTERWNTZiVnUyM09JWUVSbmRRam11RXY4eFlXRzlzVE5xS0I3T0xLSnozVS1UOWkzWGY3Xw?oc=5",
+      "snippet": "François Cormier-Bouligeon, député Renaissance du Cher : \"je suis un homme de dialogue et de raison, mais si on veut le combat, je suis prêt\"&nbsp;&nbsp;Le Berry Républicain",
+      "date": "Tue, 19 Sep 2023 07:00:00 GMT",
       "source": "Le Berry Républicain"
     }
   ],
@@ -172,14 +227,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "La source indique clairement que François Cormier-Bouligeon ne mènera pas de liste aux municipales 2026 à Bourges."
+        "explication": "Source affirme explicitement que François Cormier-Bouligeon ne mènera PAS de liste aux municipales 2026 à Bourges."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T13:25:08.519061Z",
+    "analysis_at": "2026-01-09T14:00:24.396161Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source indique clairement que François Cormier-Bouligeon ne mènera pas de liste aux municipales 2026 à Bourges.\"}]}"
+    "raw_output": "{\"statut\": \"NON\", \"used_sources\": [1], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Source affirme explicitement que François Cormier-Bouligeon ne mènera PAS de liste aux municipales 2026 à Bourges.\"}\n]}"
   }
 }

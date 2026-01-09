@@ -151,26 +151,51 @@
       "snippet": "Thierry Bonnet tête de liste LFI, conduit \"Moulins en commun : des projets en partage\"&nbsp;&nbsp;La Montagne",
       "date": "Thu, 18 Dec 2025 08:00:00 GMT",
       "source": "La Montagne"
+    },
+    {
+      "title": "Budget de la Sécurité sociale : Sébastien Lecornu gagne une première manche - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQenB0QkNGQ0lGVHd4b1RhYTRZY1VEUHRKLUQzT0VnM1lEaVRFUHdaeXpUUDlhMWJFV0hRUENrSlNTRktRc0MzclptbF9FUS05MkpNdDZicWlwSk1zcHZ5YW16eThZQ1ltekxFcHl0SXFKaTNBX19kd2YzbzNHbVJ2dG5kaFJBd045QzFJTVVXMXVxTWRSRmJGaVJES3VOT1NsbG1iZDBQeWFNelRYMlJDVUhOWTNxTTdhdmlzSkxRd2FQdHl6MTJZUkxObDRZT0V4VnFXaVpfbkx0NWUyV21oLWJSeXg1RFFpV1E?oc=5",
+      "snippet": "Budget de la Sécurité sociale : Sébastien Lecornu gagne une première manche&nbsp;&nbsp;Ouest-France",
+      "date": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "«Une forme de culpabilisation des malades» : les députés refusent d’instaurer une participation forfaitaire sur les actes dentaires - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQeGFJVXdrT0k5b05sVGRTQVpoRmhRRDRXTk81eUlKLVlib1BSNTN2U3lQTkkxdGxYa2dqYkpiUXFSOGJhRUFpXzhRckk5S3FubWc3dlJfM0VXbzJ2Uk84eG1wby16NTVjTDhEcnV3c0oxZ2NidFM1ZkJ1WlhCY2lUenM1cTEtMFlpV0ZwcXhEZF9yM0hKLXd6aFpYMVpUVjhrZDBiVVVLQ1Y2Vk1DbWpndkc3MklBQm5WUU5FMjJXdmFWYkoxdVoyZkZfVWhSM0l4dDkzU0lLMUFSZHlROHd4VFVweDhfSDhjdEZwaF83TlVhcG9VcEVDSzV5SUctMnhWUFZkVXhocm02OW5ORUliOV9GanRXTWdZUDc1OHJwb0c1SVhlN2w0eVIzcw?oc=5",
+      "snippet": "«Une forme de culpabilisation des malades» : les députés refusent d’instaurer une participation forfaitaire sur les actes dentaires&nbsp;&nbsp;Libération",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Municipales à Moulins : La France insoumise entre en lice - La Semaine de l'Allier",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZThna2VmVElwQy1yU3NVY09NZzVYZWk0VWtTU2poUzYzY05wMGhyVFdqaFJqRWptYk1NTHdjR2R6Z0x2SER6Nk9ab0cycFVJc1FoZTFzSHJSbkswdE4waVo0TzQ?oc=5",
+      "snippet": "Municipales à Moulins : La France insoumise entre en lice&nbsp;&nbsp;La Semaine de l'Allier",
+      "date": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "source": "La Semaine de l'Allier"
+    },
+    {
+      "title": "Allier- 4 questions sur notre système de santé au député de l’Allier, Yannick Monnet - La Semaine de l'Allier",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82RGk5bkwxYk5QZ2Nob1Fad0tteW9TR1R6OU1zN0ZtaGY4TUdwa3diaklCM2tEVXZ6RGFBNWJULWdleHZkMUQ2SmdOT1RMYk5FZzg2VXZ5VXdTQmYyWEF3YjMyTVJuUFRSWFlyUTlkVkhrbnozT2tidw?oc=5",
+      "snippet": "Allier- 4 questions sur notre système de santé au député de l’Allier, Yannick Monnet&nbsp;&nbsp;La Semaine de l'Allier",
+      "date": "Sat, 01 Mar 2025 08:00:00 GMT",
+      "source": "La Semaine de l'Allier"
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 3,
-        "explication": "Source explicite : 'Yannick Monnet, député communiste de Moulins, tête de liste aux municipales' (2025)."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Yannick Monnet (LR) comme candidat aux municipales 2026."
       },
       {
-        "source_index": 4,
-        "explication": "Titre mentionne explicitement sa candidature à la mairie de Moulins ('course à la mairie')."
+        "source_index": null,
+        "explication": "Toutes les sources liées à Moulins concernent d'autres candidats ou des articles non pertinents pour LR/Monnet en 2026."
       }
     ],
-    "used_sources": [
-      3,
-      4
-    ],
-    "analysis_at": "2026-01-08T13:30:51.082761Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:07:57.462677Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[3,4],\"justification\":[{\"source_index\":3,\"explication\":\"Source explicite : 'Yannick Monnet, député communiste de Moulins, tête de liste aux municipales' (2025).\"},{\"source_index\":4,\"explication\":\"Titre mentionne explicitement sa candidature à la mairie de Moulins ('course à la mairie').\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Yannick Monnet (LR) comme candidat aux municipales 2026.\"},\n    {\"source_index\": null, \"explication\": \"Toutes les sources liées à Moulins concernent d'autres candidats ou des articles non pertinents pour LR/Monnet en 2026.\"}\n]}"
   }
 }

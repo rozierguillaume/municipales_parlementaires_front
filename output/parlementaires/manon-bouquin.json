@@ -41,11 +41,11 @@
       "source": "echo-des-tribunes.com"
     },
     {
-      "title": "Mèze, municipales 2026 : l'ostréiculteur Joël Armentier, aux côtés de la députée RN Manon Bouquin - Hérault Tribune",
+      "title": "Mèze, municipales 2026 : l'ostréiculteur Joël Armentier, aux côtés de la députée RN Manon Bouquin - echo-des-tribunes.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc1loV201cUZXN3A0NFB4X1RxUXRsUlJpbFhrQ0hkTjUxMGQzdkxPUk03QWFlYjhHdWNCbFdxSGs4Mnk1ZjZwX0RNOFBOSG53WExaN3hMOFFIR01DQjJoMHpNUUxZWnFSdEQxUE5HMl9fRHBhNTRkSFd1bUY0SFlvZy0tanRYeGExMUZ4bjZkako3bzVJTlBsdVcxLVVLVEVjN2dkX3RLYl80Q05JWF94Uk8taTVJcnMtWlFhQ2xncFpVMDNnZS1qZ2Uwd0poUVU?oc=5",
-      "snippet": "Mèze, municipales 2026 : l'ostréiculteur Joël Armentier, aux côtés de la députée RN Manon Bouquin&nbsp;&nbsp;Hérault Tribune",
+      "snippet": "Mèze, municipales 2026 : l'ostréiculteur Joël Armentier, aux côtés de la députée RN Manon Bouquin&nbsp;&nbsp;echo-des-tribunes.com",
       "date": "Mon, 17 Nov 2025 08:00:00 GMT",
-      "source": "Hérault Tribune"
+      "source": "echo-des-tribunes.com"
     },
     {
       "title": "L’ancienne députée transgenre Eva Son-Forget s’introduit dans une chambre privée de l’Assemblée, vide le minibar et vole des robes - Le Figaro",
@@ -158,26 +158,39 @@
       "snippet": "Hérault : top 7 des ressourceries autour du bassin de Thau&nbsp;&nbsp;echo-des-tribunes.com",
       "date": "Wed, 19 Nov 2025 08:00:00 GMT",
       "source": "echo-des-tribunes.com"
+    },
+    {
+      "title": "Législatives 2024 : la RN Manon Bouquin élue députée de la quatrième circonscription - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZkV2QnE4S3dveFQ3bjlGQTR4aXR3TmtiajJOUW1XWXQzdWQwRmdfQWtrMGpyakRFMkV5R2ZKYTdWQVlpNzlIYWowb3cybkczNUdLZEhCZmExakUteUlOUGp2OGlOSmMzSHQzcXBJbzB0ZUtTbFpnaWc5R3dKejZKZl9KNXMzcHNQbnp6N2VDQmhYc0Z3UlpoZ1JLYjBfd08wNzI5UHdDTFowVjVyQjBsVFFsNkVXYjdSM25wX3J2bTR1NzFwejlHbDBudFo?oc=5",
+      "snippet": "Législatives 2024 : la RN Manon Bouquin élue députée de la quatrième circonscription&nbsp;&nbsp;francebleu.fr",
+      "date": "Sun, 07 Jul 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Collectif contre l’islamophobie en Europe invité à l’Assemblée : vives tensions entre députés Insoumis et nationalistes - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ1RFd0pSNWtpSk9UUkJTSUVyaFkyRTRJZHNxbVF0M2QweVp4UC11S25CdDVBOXNTVTY3THVUd0owTEtraFJ6VFVIZUpIdjZaQTQweUtmM05oRHM4eUdnb0RCa1RpaUl2NEN2VC1VaFlaX3FkRnhTRlVLT0l4NjRnX3p5Z1B6NnFjNE1FRHB0d3ctdTRkVXdURk9DVVpfR1hTbnVYeUhzU2ZjUnY4MHZCRy1DakY4NkpyMXFYUEdTTlNtUXRPSU5pWG5pbkxpZWljdHFqeHFETTYxWW5yaVROUWZDVThJZnJ0YjBPLVFZdmM0MmtR?oc=5",
+      "snippet": "Collectif contre l’islamophobie en Europe invité à l’Assemblée : vives tensions entre députés Insoumis et nationalistes&nbsp;&nbsp;Le Figaro",
+      "date": "Wed, 12 Mar 2025 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 12,
-        "explication": "Manon Bouquin est mentionnée comme députée RN aux côtés d'un candidat (Joël Armentier) pour Mèze en 2026, mais sans confirmation explicite de sa candidature municipale."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Manon Bouquin comme candidate aux municipales 2026 à Mèze."
       },
       {
-        "source_index": 15,
-        "explication": "Aucune liste n'est officialisée et les réflexions sont 'en cours', sans lien direct avec une candidature confirmée de Manon Bouquin."
+        "source_index": 12,
+        "explication": "Source évoque sa présence aux côtés d'un candidat (Joël Armentier) mais sans confirmation de candidature officielle pour elle-même en 2026."
       }
     ],
     "used_sources": [
-      12,
-      15
+      12
     ],
-    "analysis_at": "2026-01-08T13:51:18.800296Z",
+    "analysis_at": "2026-01-09T14:32:45.552716Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[12,15],\"justification\":[{\"source_index\":12,\"explication\":\"Manon Bouquin est mentionnée comme députée RN aux côtés d'un candidat (Joël Armentier) pour Mèze en 2026, mais sans confirmation explicite de sa candidature municipale.\"},{\"source_index\":15,\"explication\":\"Aucune liste n'est officialisée et les réflexions sont 'en cours', sans lien direct avec une candidature confirmée de Manon Bouquin.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Manon Bouquin comme candidate aux municipales 2026 à Mèze.\"},\n    {\"source_index\": 12, \"explication\": \"Source évoque sa présence aux côtés d'un candidat (Joël Armentier) mais sans confirmation de candidature officielle pour elle-même en 2026.\"}\n]}"
   }
 }

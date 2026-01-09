@@ -158,6 +158,20 @@
       "snippet": "Législatives. Le maire de Compiègne réaffirme son soutien à Daniel Leca, son opposant à la ville de Compiègne&nbsp;&nbsp;Oise Hebdo",
       "date": "Thu, 04 Jul 2024 07:00:00 GMT",
       "source": "Oise Hebdo"
+    },
+    {
+      "title": "Elections municipales 2020 : un revers pour le Rassemblement national en Picardie - France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2dJNk5hbU51TlJ3WUtFYkZMbktHcEZabnlTbzNadGpXNUJRWWJmd0ljRktXWkVWRmJvQkltWkdjS1dweW9zWlNLaFhYVzNTZGZKMjBBQ0JqY3ZWbldOMUhtY1RZbHFyTk9mdjdrWXRqOUFyalBSZVQ4UVVIR20xcGNpY0k0YnZSV2lmU2RIZjJLQklpZVI5VlE1bXpKTEhha05VTzJPb2QtNUdHR0VaRlBfcVE5N0FFclU1Z2d3NzM5Zm05VmdLWDRxMGY?oc=5",
+      "snippet": "Elections municipales 2020 : un revers pour le Rassemblement national en Picardie&nbsp;&nbsp;France 3 Régions",
+      "date": "Fri, 03 Jul 2020 07:00:00 GMT",
+      "source": "France 3 Régions"
+    },
+    {
+      "title": "Noyon. L’extrême droite continue sa poussée, dilemme pour Michel Guiniot ? - Oise Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjFpRUhJWlhIZEdHWndmeGVzVmJvcGRpeXBnVUJXd0N0LWp1cmtidE41bFU1b3hDSFJtQWlDUmFHX1VFcHVzekY1bkNia0VuSFNXT0dhcGdGNkpCdmNSSkhJV1k4WFVta24wSkF3aExnSDBYZ2M4Z016Y1BjLWEwNTZRQWVlV2gwZFRkenpCZUg0MVk?oc=5",
+      "snippet": "Noyon. L’extrême droite continue sa poussée, dilemme pour Michel Guiniot ?&nbsp;&nbsp;Oise Hebdo",
+      "date": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "source": "Oise Hebdo"
     }
   ],
   "analysis": {
@@ -165,14 +179,14 @@
     "justification": [
       {
         "source_index": 10,
-        "explication": "Le député Michel Guiniot déclare explicitement 'Je suis en train de constituer la liste' pour les municipales 2026 à Noyon."
+        "explication": "Source du **Courrier picard** (05/09/2025) cite explicitement : *« le député RN Michel Guiniot confirme sa présence aux municipales »* pour Noyon en 2026."
       }
     ],
     "used_sources": [
       10
     ],
-    "analysis_at": "2026-01-08T13:51:49.009965Z",
+    "analysis_at": "2026-01-09T14:33:20.559932Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[10],\"justification\":[{\"source_index\":10,\"explication\":\"Le député Michel Guiniot déclare explicitement 'Je suis en train de constituer la liste' pour les municipales 2026 à Noyon.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [10], \"justification\": [\n    {\"source_index\": 10,\n     \"explication\": \"Source du **Courrier picard** (05/09/2025) cite explicitement : *« le député RN Michel Guiniot confirme sa présence aux municipales »* pour Noyon en 2026.\"}\n]}"
   }
 }

@@ -16,7 +16,7 @@
       "title": "Municipales 2026. Lorraine : candidats déclarés, listes pressenties, qui se présente dans les grandes communes ? - L'Est Républicain",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYjItU1BDY0hCUlN3M2dLVzRVYXpkUVdReE41S2YzVERHRnVEb3BKSGgybUhidVlsbW5pZzhkZGdRbnVkYTlGdEhzR1pxRVdKUFlkZWxYYWhjTkJPWVZGbXRvU0hCR3FFbWF5c0hncTBDTEdDMDFLNUtPeV9ocTNaa1hxZ2E0TnBrTW5jdVJmdlp5SnZQM3ZsMTVVVE9CNk1lQ2dNNjRSV1pTZ3JZZTBDZzFiTWh1WFBLcklyY3hHYTVkTnRVa1dzTTFUejk4d3BvZ0Y5ZmdBdmlydkMta2pUa1ZOLWlHRUVHczYyX3NGc09kZjJLTWE5Mk9Ia1g?oc=5",
       "snippet": "Municipales 2026. Lorraine : candidats déclarés, listes pressenties, qui se présente dans les grandes communes ?&nbsp;&nbsp;L'Est Républicain",
-      "date": "Mon, 05 Jan 2026 17:00:14 GMT",
+      "date": "Mon, 05 Jan 2026 15:50:00 GMT",
       "source": "L'Est Républicain"
     },
     {
@@ -151,6 +151,13 @@
       "snippet": "Municipales 2026. Le Rassemblement national a adoubé ces jeunes hommes à Jarny pour les municipales 2026&nbsp;&nbsp;Le Républicain Lorrain",
       "date": "Thu, 16 Oct 2025 07:00:00 GMT",
       "source": "Le Républicain Lorrain"
+    },
+    {
+      "title": "Municipales 2026. Ghyvelde-Les Moëres : à quelques mois du scrutin, qui se déclare candidat ? - Nord Littoral",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYU44cllidm1qNlUwM3NoaXJWVjdfcDV0VnI1Nkd6c0M2RnRQcko2WXlOYVNTREtucllPS3NFZkpXSExqc29kUkcwZFpsZ2VBclgzTl9mTG5mNWc3UnNKSm9kRldyeFJGMnFISU9tRTVHajYyV1dMclV4eEhPM2tCaF9sQ1Z0UjFxT01CbE1LUmhhV0lLcFM5OHVMVlJyODZzMWxabjlsNkZNMzlNZnh3MU5Yd2NkaGNFaUVONi1KdDFjZFpYNEdUM0J3?oc=5",
+      "snippet": "Municipales 2026. Ghyvelde-Les Moëres : à quelques mois du scrutin, qui se déclare candidat ?&nbsp;&nbsp;Nord Littoral",
+      "date": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "source": "Nord Littoral"
     }
   ],
   "analysis": {
@@ -158,19 +165,14 @@
     "justification": [
       {
         "source_index": 5,
-        "explication": "Source mentionne les municipales 2026 à Pont-à-Mousson mais sans lien explicite avec Anthony Boulogne."
-      },
-      {
-        "source_index": 9,
-        "explication": "Parle de son rôle dans le recrutement pour LR (sans confirmation de candidature municipale 2026)."
+        "explication": "Source mentionnant les municipales 2026 à Pont-à-Mousson mais sans lien explicite avec Anthony Boulogne."
       }
     ],
     "used_sources": [
-      5,
-      9
+      5
     ],
-    "analysis_at": "2026-01-08T13:50:48.522746Z",
+    "analysis_at": "2026-01-09T14:32:04.607906Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5,9],\"justification\":[{\"source_index\":5,\"explication\":\"Source mentionne les municipales 2026 à Pont-à-Mousson mais sans lien explicite avec Anthony Boulogne.\"},{\"source_index\":9,\"explication\":\"Parle de son rôle dans le recrutement pour LR (sans confirmation de candidature municipale 2026).\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 5, \"explication\": \"Source mentionnant les municipales 2026 à Pont-à-Mousson mais sans lien explicite avec Anthony Boulogne.\"}\n]}"
   }
 }

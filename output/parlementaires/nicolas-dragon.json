@@ -158,21 +158,124 @@
       "snippet": "Municipales : sans doute quatre listes face au maire sortant Eric Delhaye&nbsp;&nbsp;L'Union",
       "date": "Sun, 14 Dec 2025 08:00:00 GMT",
       "source": "L'Union"
+    },
+    {
+      "title": "Guadeloupe la 1ère : actualités et info en direct de la Guadeloupe, replays TV et radio - Outre-mer la 1ère",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxRDE0X2tBeFpPM0RHYUUyYVVtano5UjdHNUZsUFgycVNmQnlIMlV4a3NfeWxDLTdoN25fNTB0MS1qZUthZkNtcXNsNFJFMVBuZ1E?oc=5",
+      "snippet": "Guadeloupe la 1ère : actualités et info en direct de la Guadeloupe, replays TV et radio&nbsp;&nbsp;Outre-mer la 1ère",
+      "date": "Tue, 13 May 2025 23:10:15 GMT",
+      "source": "Outre-mer la 1ère"
+    },
+    {
+      "title": "Une ancienne candidate RN découverte morte, son ex-conjoint qui a tenté de se suicider placé en garde à vue pour meurtre - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSkw0emV4SFozdXZHYWRVcGNYOUladjBmSnlGN05FbUU3enpJS1VTNlNfU1Ria0VFNjlydGQ2aUVYYWRoYkNWVHdNRndtNnYzY013MnZ4RGpFdnZRM0U5RG1BclhxdnhDY2prS056ZW9JcHYzZ3hNazdMcXJMc2ZnWmprQkl4djlQMnpuSWdPQVNFcUVBUlRnWGhQd3Q4bGxwSFJXY0lleUQ2eEVUbU9aZlZWVUtub3BuWERMbXRIM0VMMURJUzE4N3l6TEJXSTBKeWZyTURiZ2ZOMDd2N2tlME54M3k4QWJPVU93YVplSzNuVnFLclBnS1pBOXdFdw?oc=5",
+      "snippet": "Une ancienne candidate RN découverte morte, son ex-conjoint qui a tenté de se suicider placé en garde à vue pour meurtre&nbsp;&nbsp;Sud Ouest",
+      "date": "Thu, 16 Jan 2025 08:00:00 GMT",
+      "source": "Sud Ouest"
+    },
+    {
+      "title": "Municipales 2026 à Calais : les socialistes et les communistes partent seuls, sans les écolos et LFI - Nord Littoral",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVpfdzhfa203czlMUGJoVnBEd2FUQnk3aEthNlhoYjJldUpiNWFqLUpNUWFtdGItWGtvNFB3THpMX3JVTVJRbHQydzkzemM2S01ESHR6cDRmOXZMTFZRMG9CWmRvTTBCUkY4TnZJd2dQQkFmQVlRcUF0YnlIOG5Ldnh2ZUFYRkg4WHZ5Qy1RdkpOUGJxSjlDVmduNjg0YmMza24zeFlHd2lsZEE5SFI0Ync1OGNFLUM2ZlZnV0dramhDSGpILXNsU0M0WQ?oc=5",
+      "snippet": "Municipales 2026 à Calais : les socialistes et les communistes partent seuls, sans les écolos et LFI&nbsp;&nbsp;Nord Littoral",
+      "date": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "source": "Nord Littoral"
+    },
+    {
+      "title": "« Elle ne méritait pas cela » : Sonia, une préparatrice en pharmacie tuée dans l’Aisne, son ancien compagnon placé en garde à vue - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRG93NDg5eXhSMUhidm4tODBmX2dJX09EWG9XTkM4eFNMd01QMXZlUkduX19neFQybnROczAtZUlrQXEzelFjR0wwb3drNjNzdGdoNUtXc05yVDFpUFBLSDkyNWhWeVg4TkQtcjRETU41M28zV0xNSTVnVERBLW1FS2FObDRuei1IVGpISURucDhaWnFHTEtwYllxOVl5T05SNnV3TDFJWlpYcTdLU0hoSFc2ZGh3ODlNQjZyLXdYNFVNRzRVbUdlRGl2c2NDYVNmRnlISktIUWZ5cnBLZXY1TVlBN1U5b095TmFmU3NtbnZDM2U1R21ZUEpYRlc4S3FtRnFLblgyMUdKMXlUVUJXQ2Zqek5FVVE?oc=5",
+      "snippet": "« Elle ne méritait pas cela » : Sonia, une préparatrice en pharmacie tuée dans l’Aisne, son ancien compagnon placé en garde à vue&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 17 Jan 2025 08:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
+        "source_index": 1,
+        "explication": "Aucune mention de Nicolas Dragon ou des municipales 2026"
+      },
+      {
+        "source_index": 2,
+        "explication": "Liste des possibles candidats à Laon sans nommer explicitement Nicolas Dragon"
+      },
+      {
+        "source_index": 3,
+        "explication": "Mention de listes potentielles sans référence directe à Nicolas Dragon"
+      },
+      {
+        "source_index": 4,
+        "explication": "Évoque Nicolas Dragon mais pas sa candidature aux municipales 2026"
+      },
+      {
+        "source_index": 5,
+        "explication": "Parle des propos de Nicolas Dragon, pas de sa candidature"
+      },
+      {
+        "source_index": 6,
+        "explication": "Candidature à Bourbourg, hors sujet"
+      },
+      {
+        "source_index": 7,
+        "explication": "Mentionne Nicolas Dragon mais sans lien avec les municipales 2026"
+      },
+      {
+        "source_index": 8,
+        "explication": "Vote budgétaire, hors contexte électoral municipal"
+      },
+      {
+        "source_index": 9,
+        "explication": "Sujet local à Montcornet, hors sujet"
+      },
+      {
+        "source_index": 10,
+        "explication": "Candidature à Calais, hors sujet"
+      },
+      {
+        "source_index": 11,
+        "explication": "Municipales de Calais, hors sujet"
+      },
+      {
+        "source_index": 12,
+        "explication": "Chaises musicales du RN à Tergnier, pas Nicolas Dragon"
+      },
+      {
         "source_index": 13,
-        "explication": "Source mentionne Nicolas Daragon (orthographe incorrecte) mais uniquement dans le cadre des municipales de Valence, sans lien explicite avec Laon ou une candidature confirmée pour 2026."
+        "explication": "Candidature à La Fère, hors sujet"
+      },
+      {
+        "source_index": 14,
+        "explication": "Mention de Nicolas Daragon (orthographe différente) mais sans lien avec Laon ou candidature confirmée"
+      },
+      {
+        "source_index": 15,
+        "explication": "Sujet général sur les communes drômoises, hors contexte"
+      },
+      {
+        "source_index": 16,
+        "explication": "Investiture du RN à Laon pour Emmanuel Cervi, pas Nicolas Dragon"
       }
     ],
     "used_sources": [
-      13
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
     ],
-    "analysis_at": "2026-01-08T13:50:03.042696Z",
+    "analysis_at": "2026-01-09T14:31:28.216693Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[13],\"justification\":[{\"source_index\":13,\"explication\":\"Source mentionne Nicolas Daragon (orthographe incorrecte) mais uniquement dans le cadre des municipales de Valence, sans lien explicite avec Laon ou une candidature confirmée pour 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention de Nicolas Dragon ou des municipales 2026\"},\n    {\"source_index\": 2, \"explication\": \"Liste des possibles candidats à Laon sans nommer explicitement Nicolas Dragon\"},\n    {\"source_index\": 3, \"explication\": \"Mention de listes potentielles sans référence directe à Nicolas Dragon\"},\n    {\"source_index\": 4, \"explication\": \"Évoque Nicolas Dragon mais pas sa candidature aux municipales 2026\"},\n    {\"source_index\": 5, \"explication\": \"Parle des propos de Nicolas Dragon, pas de sa candidature\"},\n    {\"source_index\": 6, \"explication\": \"Candidature à Bourbourg, hors sujet\"},\n    {\"source_index\": 7, \"explication\": \"Mentionne Nicolas Dragon mais sans lien avec les municipales 2026\"},\n    {\"source_index\": 8, \"explication\": \"Vote budgétaire, hors contexte électoral municipal\"},\n    {\"source_index\": 9, \"explication\": \"Sujet local à Montcornet, hors sujet\"},\n    {\"source_index\": 10, \"explication\": \"Candidature à Calais, hors sujet\"},\n    {\"source_index\": 11, \"explication\": \"Municipales de Calais, hors sujet\"},\n    {\"source_index\": 12, \"explication\": \"Chaises musicales du RN à Tergnier, pas Nicolas Dragon\"},\n    {\"source_index\": 13, \"explication\": \"Candidature à La Fère, hors sujet\"},\n    {\"source_index\": 14, \"explication\": \"Mention de Nicolas Daragon (orthographe différente) mais sans lien avec Laon ou candidature confirmée\"},\n    {\"source_index\": 15, \"explication\": \"Sujet général sur les communes drômoises, hors contexte\"},\n    {\"source_index\": 16, \"explication\": \"Investiture du RN à Laon pour Emmanuel Cervi, pas Nicolas Dragon\"}\n]}"
   }
 }

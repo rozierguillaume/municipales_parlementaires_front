@@ -86,7 +86,7 @@
       "title": "Mort de Brigitte Bardot : Alexandra Masson, candidate aux municipales à Menton propose la création d’un cimetière animalier municipal - Nice-Matin",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPTV9HWm53WkpkcXRnMGFuZ2NuNXFlempuMmpKUml5NzZjdzFaWVBSQXdsSnkzSUdKRkc2dnc3aDFVeEIyaU1JeHBOQTJ3elRWYXZHMDM2TExIR0lSYmZnakVzUmViNVNxUUxJcUxXc2xOR1ZOY1I5WTBOUDFDSEtKdEQzcHJDTWRCZWZpY2F1dUhMT25LbHRiQ191UkRsMkNPZzN3WWFsUWhGbC11RG4zOFppZUNjd1BpM3l1akx3d00xM3V4aGRIQ0F1aFhLYmpqVFBEYXY1QTBvT2VVakw0NkwxQTYtRWFXQjh4MWpDdXBjMUlGV1dQWjRSMTBDQUNLclBJRkdfbWplYVVEM3R0QTZsQlR1UXBSZHIzVEtFam5yT1VMaEU4?oc=5",
       "snippet": "Mort de Brigitte Bardot : Alexandra Masson, candidate aux municipales à Menton propose la création d’un cimetière animalier municipal&nbsp;&nbsp;Nice-Matin",
-      "date": "Wed, 31 Dec 2025 08:24:30 GMT",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT",
       "source": "Nice-Matin"
     },
     {
@@ -157,25 +157,25 @@
     "status": "OUI",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source mentionne explicitement 'Alexandra Masson, candidate aux municipales à Menton' pour 2026."
+        "source_index": 13,
+        "explication": "Alexandra Masson est explicitement décrite comme candidate RN à Menton pour les municipales 2026."
       },
       {
         "source_index": 14,
-        "explication": "Titre indique clairement 'Alexandra Masson (RN) se présente comme la candidate' aux municipales 2026 de Menton."
+        "explication": "Titre mentionne Alexandra Masson (RN) se présentant comme candidate aux municipales 2026 à Menton."
       },
       {
         "source_index": 15,
-        "explication": "Source confirme officiellement sa candidature avec la phrase 'Alexandra Masson officiellement candidate à Menton' pour les municipales 2026."
+        "explication": "France 3 Régions confirme officiellement Alexandra Masson comme candidate à Menton pour les élections de 2026."
       }
     ],
     "used_sources": [
-      1,
+      13,
       14,
       15
     ],
-    "analysis_at": "2026-01-08T13:54:36.242874Z",
+    "analysis_at": "2026-01-09T14:36:33.819353Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,14,15],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne explicitement 'Alexandra Masson, candidate aux municipales à Menton' pour 2026.\"},{\"source_index\":14,\"explication\":\"Titre indique clairement 'Alexandra Masson (RN) se présente comme la candidate' aux municipales 2026 de Menton.\"},{\"source_index\":15,\"explication\":\"Source confirme officiellement sa candidature avec la phrase 'Alexandra Masson officiellement candidate à Menton' pour les municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [13, 14, 15], \"justification\": [\n    {\"source_index\": 13, \"explication\": \"Alexandra Masson est explicitement décrite comme candidate RN à Menton pour les municipales 2026.\"},\n    {\"source_index\": 14, \"explication\": \"Titre mentionne Alexandra Masson (RN) se présentant comme candidate aux municipales 2026 à Menton.\"},\n    {\"source_index\": 15, \"explication\": \"France 3 Régions confirme officiellement Alexandra Masson comme candidate à Menton pour les élections de 2026.\"}\n]}"
   }
 }

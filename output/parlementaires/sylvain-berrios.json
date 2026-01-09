@@ -151,6 +151,27 @@
       "snippet": "Législatives dans le Val-de-Marne : avec trois députés élus, comment les Républicains se sont renforcés&nbsp;&nbsp;Le Parisien",
       "date": "Mon, 08 Jul 2024 07:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Législatives dans le Val-de-Marne : perdant dans la 1re circo, le sortant Descrozaille soutient Berrios au 2nd tour - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPSkNKRXk1QWNjaWsyYjVpU3B2MHlHakFEYmVXZEpuY0RNaFN0VXZiUTM2eU1UdWlKNDBEdHJJVUFfRjhQQS1nQU04Y2tBeUREeXM3LWxKbktiNTU0VWdKZTl1MTJSWTFsV2x5N1kwOGgwckxPV0EwQzlOcG8zSFQ3bFZ1X2hmSE10ckplMVFGZVo0dmFrbHduQmtmTk1mUEFNdi05ODdIWWRqSXpJaTJEWk5BcWJxQ0xDazN5N0lVYnZFYUFBWjdCWkhwaTRkVDJpWk43cVdIXzhqYWI2eGZZS0xIVjlJb2ppZDVhNzRXblJjRnZIRDVMSFpBLXY5SF9ZYnZpTklXOWk4WUZOWGJxQmNhUWdiZ2toVEtWQW1xYWRMdGdfZk1BaENZdmJ2WEdJQVIxcGVxMktxZVVfd01oaXF4R3oxUkJ2Uks1ODMwUVVEdw?oc=5",
+      "snippet": "Législatives dans le Val-de-Marne : perdant dans la 1re circo, le sortant Descrozaille soutient Berrios au 2nd tour&nbsp;&nbsp;Le Parisien",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Sylvain Berrios : « Saint-Maur, c’est mon choix du cœur » - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmxnOHVsN1NvOTNXVy1PMy04ZUxCWFZNS2ZwVkNOMFdpNFZUY01GSUR3c1NvUVJMbUpXbUFGUnFfZWJIWllFZFRoVTVtRm9STVZQX250alRQYjlfZ2dab0wzeWpycDZubGt3bkozaVc5SVFVTHpMQzdfX0R0WUkybXhDbVpONHp4MEMxQXF6ZXMxajdxdXQ5a2lHeHpCNDhtSF8tUU5FRjJaMVdHY2xSblJEV1NFaGFaUThydXVTTDZ6YVM1ZUhj?oc=5",
+      "snippet": "Sylvain Berrios : « Saint-Maur, c’est mon choix du cœur »&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 10 May 2017 07:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Pierre-Michel Delecroix, le nouveau maire de Saint-Maur a « toujours voulu prendre les choses en main - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOEJPQTg5R2t6SFAzcE1TVVcxVTYxU2V3RWFXeHpQNXVPMnN0ZkVPdEg3VE5Tc0RsSFFyMTFJU0hmOGhyYXQ1MC1LNFRQbzNkMjc2WUhqV2E1Q3dnejNubFAzV2RMcktONWYtVnVMTkpnei1FZHFnLTVFYlBIXzVScWx6dmZVNi1lNVRXaW1VYXN4ZTFLaFBOY0xRc2ZDY0RXbG9DUko2RmhMVHBjalFGak9ETHJyQVRXQTJHbkVQMzZoel9VVUtBZl8wLXh4d0VOSlI2S1hhdVZiUmptcy1DaVdnTnZGd1ljUi15MmxLQ1NrTGpYRWUtTTdUaXZ3SnlTa2xYRkZxb1BZd0RpZlBB?oc=5",
+      "snippet": "Pierre-Michel Delecroix, le nouveau maire de Saint-Maur a « toujours voulu prendre les choses en main&nbsp;&nbsp;Le Parisien",
+      "date": "Wed, 25 Sep 2024 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
@@ -158,14 +179,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "La source évoque uniquement le contexte des municipales 2026 (thème des logements sociaux) sans mention explicite de candidature pour Sylvain BERRIOS."
+        "explication": "Aucune mention explicite d'une candidature de Sylvain BERRIOS aux municipales 2026."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T13:31:48.188820Z",
+    "analysis_at": "2026-01-09T14:09:00.602089Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source évoque uniquement le contexte des municipales 2026 (thème des logements sociaux) sans mention explicite de candidature pour Sylvain BERRIOS.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [{\"source_index\": 1, \"explication\": \"Aucune mention explicite d'une candidature de Sylvain BERRIOS aux municipales 2026.\"}]}"
   }
 }

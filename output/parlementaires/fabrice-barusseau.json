@@ -151,6 +151,27 @@
       "snippet": "Centrale à bitume à Saintes : le député Fabrice Barusseau inquiet pour la source de Lucérat&nbsp;&nbsp;Sud Ouest",
       "date": "Mon, 17 Feb 2025 08:00:00 GMT",
       "source": "Sud Ouest"
+    },
+    {
+      "title": "Droit des enfants, climat, vie chère… Quels sont les textes présentés par les socialistes à l’Assemblée ce jeudi ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOVU1tTi1icTdZcWZCZ2VrRjAxX2tGUlU5Q2E3TXA3MEljTURYWWkyMVVvNk9VS1otUlVRemJ1c3lFRTRwY3ZLTGgzOU9CVUlMT1JxeDRvYUE2ZVF0MGRaVVMxck1PNU1xS1ZGeFVZNjUtS01hMkJhaHZWdzhUaXZqNGpPQUJCYVE0TFlyUkt5dml6cy1VSHJGVW5pZ2ZzXy1iVUtUa0pxaXFiLVJRSUQ2TDdROFBaQUZsMENpcEVza1BIOXFxamJsTGlYX3pQYWxoaFlvTFpoaENEa1dIZC1RbmZjMDZBVlZMSkxKenU4amI1enFnblN6R0laYUN3TWJCTDV5TlhZNGJjTVcxWHpaM3YyMFVlNEEwODdSbWxjaXkxempTUjRJ?oc=5",
+      "snippet": "Droit des enfants, climat, vie chère… Quels sont les textes présentés par les socialistes à l’Assemblée ce jeudi ?&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Charente-Maritime. PLF 2025 : les parlementaires socialistes montent au créneau - langerienlibre.fr",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkdmc0hWSjZJZ000cmJ4LUtDdDFUZmR3ZjlZcGhhRFhOYVdsR3RPUy1KaWpZZjI2Sm1Ka2FwcVBLeTdvRGxyVHFnSzY4SmdUbXB5VzhKeERVU3F3dkFKUlFkdlNIdlVkSXdsTExwVElqaXZ2M2hpU3EwRDdSZTdnMVZvQUd5QVZ0UVByaGRPUS02Y2pQdktxSTNSSzk4UmVsaDJSYkQ0VU4wMUk4c1g2Q2t6czdMMWNybl9Yazhn?oc=5",
+      "snippet": "Charente-Maritime. PLF 2025 : les parlementaires socialistes montent au créneau&nbsp;&nbsp;langerienlibre.fr",
+      "date": "Mon, 11 Nov 2024 08:00:00 GMT",
+      "source": "langerienlibre.fr"
+    },
+    {
+      "title": "Agglo de Saintes : l’élection départementale peut laisser des traces - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZjFmNTBvQ0hUWEU4RlN1Qi15N2xWT043VmhMSHpxVFBVa0VlYktLOV91NWQtcEpQWG16YjVLaXVWdUVLMEI3MHc2a2pBNm9QdFhKQnJqV29LV1hBX2t1LW5KOVFPcHpvcnhmOHk0QlpEclRwMDE4TlVjY2lOek5fOUhKQ05WWjdYU1FZdnhmeGlYbUJfa3dIclMxUEk5dUg3Y0JuQUlzVnpMUE5xTXJHNWlFdHlSZXNQR0tBOFhxQ0I0aTVURWVmbg?oc=5",
+      "snippet": "Agglo de Saintes : l’élection départementale peut laisser des traces&nbsp;&nbsp;Sud Ouest",
+      "date": "Mon, 28 Jun 2021 07:00:00 GMT",
+      "source": "Sud Ouest"
     }
   ],
   "analysis": {
@@ -158,12 +179,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait de Fabrice Barusseau aux municipales 2026 à Villars-les-Bois."
+        "explication": "Aucune source ne mentionne explicitement une candidature de Fabrice BARUSSEAU aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:43:08.113025Z",
+    "analysis_at": "2026-01-09T14:22:08.771956Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait de Fabrice Barusseau aux municipales 2026 à Villars-les-Bois.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature de Fabrice BARUSSEAU aux municipales 2026.\"}\n]}"
   }
 }

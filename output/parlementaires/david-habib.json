@@ -158,6 +158,27 @@
       "snippet": "VIDÉO - Municipales à Mourenx : revivez le débat de France Bleu Béarn&nbsp;&nbsp;francebleu.fr",
       "date": "Wed, 11 Mar 2020 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales 2026: ces maires de Béarn et Soule ont fait leur choix - La République des Pyrénées",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0ZUSWk5ZXpoVlZaX3V0ZlhjakpBOE9TXy1ZU1BEeXMyRGw4UjlvMllHa19WQ2g4S0lORjVRdjgzWWsxeWVfVUtFN282UFF2REh0dV9COVdzYW04NGh4OXJoOUJ4V1VCQWtRdS1vbXZUNmcxdXZ4MEM5RVFBTVZmUzcwOUJkTjd2OHZHLXhFRFI1S0JRNG8zTlpYZXpHdUJJMDEwRkRYQlc0RWc1QVVqSW1KYXp0WDM1LUN0TjZndUh1V2pJXy1pQUVianJIcUtWamV1alFn?oc=5",
+      "snippet": "Municipales 2026: ces maires de Béarn et Soule ont fait leur choix&nbsp;&nbsp;La République des Pyrénées",
+      "date": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "source": "La République des Pyrénées"
+    },
+    {
+      "title": "Municipales à Pau : Jean-Marc Souverbie candidat sur la liste de David Habib - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR25GU25zMmx1TGduTUZtclNWVXluSE1lWk1WNzZITW1QMnFPTlZFUVFFUUQyZTN5MGlHSDluMzZ3TkRudDR4d0d3elpfWk5GWWdVeF85MjBNTnEtY1FyeEk2aGJPckR5WWNsVnU0TTdfVjZybERrTkF2Y3lSMGxha2tYcEh4YjFBNzlWWldIeHQ5c0tJX3g0M3ZZbVluUDRGd2tjUXN2cU9STkZtc1ZmdEJXS1A0blExTmxoUVFUTmhFV0ZWMTlmVlRDa3Q?oc=5",
+      "snippet": "Municipales à Pau : Jean-Marc Souverbie candidat sur la liste de David Habib&nbsp;&nbsp;Sud Ouest",
+      "date": "Fri, 17 Jan 2014 08:00:00 GMT",
+      "source": "Sud Ouest"
+    },
+    {
+      "title": "Si j'osais : \"bravo David Habib\" - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVBhcnVjOVpVVGxpMlZfUmFhXzBGUTR0bTU5djY3SlpjWGl4TDIxaVk0eVI0MzliVTlqWFdqblJTU3pzc0lnZlVhRGY3TjE0TUl6U2g5bm9NSUR6OGg2NE1jeVA4MHAyYzdYeVp6Y1VGTFpkT21RTmMydlBURE5MbnhOOVdQUnV1QW9j?oc=5",
+      "snippet": "Si j'osais : \"bravo David Habib\"&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 17 Nov 2023 08:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
@@ -165,12 +186,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait de David Habib aux municipales 2026 à Mourenx."
+        "explication": "Aucune source ne mentionne explicitement la candidature de David HABIB aux municipales 2026 à Mourenx ou ailleurs."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:40:31.506310Z",
+    "analysis_at": "2026-01-09T14:19:16.163162Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait de David Habib aux municipales 2026 à Mourenx.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement la candidature de David HABIB aux municipales 2026 à Mourenx ou ailleurs.\"}\n]}"
   }
 }

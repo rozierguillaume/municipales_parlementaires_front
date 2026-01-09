@@ -151,21 +151,35 @@
       "snippet": "Municipales 2026 à Marmande : la candidate LR ferme la porte au RN&nbsp;&nbsp;Sud Ouest",
       "date": "Fri, 11 Apr 2025 07:00:00 GMT",
       "source": "Sud Ouest"
+    },
+    {
+      "title": "Fin d'un long suspens, le RN et l'UDR annoncent enfin leur tête de liste pour les municipales à Marmande - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0k0RktKTEoySXFoRGJSM3VYOV9UaTJhREZRZzNBeTJtcm94MFJnbWdOSE45VlUzSTVUdDQwQVB0QTUyZEZfQWx2QkxkYnBZWDZ4NENuR3A5WGhFUllYQndRMDdSN2JJMTBFR1RfODlyMW5hZGh6T3JZRXo2U2hVN2RWd2E5cE9MNHEwR1VYcGFvcmNFd1VJeDRoUlI3Z2E2ajl5SGhHM2pEb0UxUzdqNXlGVUN0S0pQLURtRUpmMVBUUjJFbDlnNHBpTFJkNERtTnU5NXhlalNNUG9oNWs1X3lTazZESDh6TEhYWjhxOFNKd0x3RTNkVw?oc=5",
+      "snippet": "Fin d'un long suspens, le RN et l'UDR annoncent enfin leur tête de liste pour les municipales à Marmande&nbsp;&nbsp;Actu.fr",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2026 à Marmande : Le Rassemblement national adoube Jean-Luc Dubourg pour mener sa liste - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPakhrNzNodEV5dEZncXVVX24yMDlMS2NWSy1tMkhxZGdkVTV1UUxuMmdqanJDN1V6UV9idU9FcFlzLUFkNENjM3hLMV83cjNKRG1SYnY2SkM0ZjNRYjFxYkR6Y3ktdWlLd0t4N1Z2eHhRZWVEa2w1VWdQYkNZcVl2RTFmblY2NzhJYWVBUGxlTkN5NGlSX1pkV3UySzZJei1FZWdrRWpyc2Q0MlZVa3VjVVZXSHJfemtsYVBla2txM0lOeHdrSEVtZ1Q0WUlnc1k5QU5SbVd4VUYxOFYzaThiRUNlVGhGUnRqbVhucFVaRQ?oc=5",
+      "snippet": "Municipales 2026 à Marmande : Le Rassemblement national adoube Jean-Luc Dubourg pour mener sa liste&nbsp;&nbsp;Sud Ouest",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "source": "Sud Ouest"
     }
   ],
   "analysis": {
     "status": "NON",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "La source 4 indique clairement qu'Hélène Laporte ne sera pas tête de liste aux municipales 2026."
+        "source_index": 6,
+        "explication": "Source affirme explicitement qu’Hélène Laporte ne sera pas tête de liste aux municipales 2026."
       }
     ],
     "used_sources": [
-      4
+      6
     ],
-    "analysis_at": "2026-01-08T13:52:30.005555Z",
+    "analysis_at": "2026-01-09T14:34:04.702723Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[4],\"justification\":[{\"source_index\":4,\"explication\":\"La source 4 indique clairement qu'Hélène Laporte ne sera pas tête de liste aux municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"NON\", \"used_sources\": [6], \"justification\": [\n    {\"source_index\": 6,\n     \"explication\": \"Source affirme explicitement qu’Hélène Laporte ne sera pas tête de liste aux municipales 2026.\"}\n]}"
   }
 }

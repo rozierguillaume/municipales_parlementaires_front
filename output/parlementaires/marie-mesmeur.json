@@ -23,7 +23,7 @@
       "title": "Municipales 2026 à Rennes : quel scénario pour le second tour à Rennes ? - unidivers.fr",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9va1pjdHVGaE1lZ2hRSHp4TndicldFWTkyWDhtNS1OVENtd0U2UnVlaFVfbjVQaWVDUGxVS0xQQTF5MHpqeEU5UXJ4bmVvOHN2bDhTT2tHVGc?oc=5",
       "snippet": "Municipales 2026 à Rennes : quel scénario pour le second tour à Rennes ?&nbsp;&nbsp;unidivers.fr",
-      "date": "Sat, 03 Jan 2026 03:38:00 GMT",
+      "date": "Tue, 06 Jan 2026 03:38:00 GMT",
       "source": "unidivers.fr"
     },
     {
@@ -151,6 +151,13 @@
       "snippet": "Municipales à Rennes : entre LFI et les Écologistes, des convergences… en attendant mieux&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 22 Jul 2025 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales. Pour la députée Marie Mesmeur, un pas de plus vers une candidature insoumise à - Maville Rennes",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLVIyV1lldVdrYlhKa3N0OFRnSExNUFU5cVdoY2VSZGdqT2ttRG9raTVUclBnQUN6X3pvTHlyd3FLQk4yTk1nMnNiQUF2UUpxUVc5V2ZwNXdLRngyQThQMnh4ODBsdk93ZGJXU1hCckh5Y1JiZlZzS04zLXZORm80bW8yeC1SOVpjX0lEMHB5ZG5fQXRCaWFNRWVBZV9TZ3N1ZHF6M0V2MFE5TmwxOTFWWDc4dnJKdGZralNoMHNyT0FOVl9BS1oxMlI4YjlHbm1oMUM3eFFBdFVPVlJYT2pySmdSY1pnSjRTREhnUWxuelUwUQ?oc=5",
+      "snippet": "Municipales. Pour la députée Marie Mesmeur, un pas de plus vers une candidature insoumise à&nbsp;&nbsp;Maville Rennes",
+      "date": "Fri, 13 Jun 2025 07:00:00 GMT",
+      "source": "Maville Rennes"
     }
   ],
   "analysis": {
@@ -158,19 +165,19 @@
     "justification": [
       {
         "source_index": 7,
-        "explication": "Marie Mesmeur est explicitement désignée comme candidate aux municipales 2026 à Rennes."
+        "explication": "Source explicite : 'Marie Mesmeur candidate aux élections municipales de Rennes en 2026'"
       },
       {
         "source_index": 9,
-        "explication": "Confirme sa candidature officielle en tant que candidate des Insoumis pour les municipales 2026 à Rennes."
+        "explication": "Source explicite : 'Marie Mesmeur candidate des Insoumis aux municipales 2026 à Rennes'"
       }
     ],
     "used_sources": [
       7,
       9
     ],
-    "analysis_at": "2026-01-08T13:39:27.718333Z",
+    "analysis_at": "2026-01-09T14:18:07.297294Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[7,9],\"justification\":[{\"source_index\":7,\"explication\":\"Marie Mesmeur est explicitement désignée comme candidate aux municipales 2026 à Rennes.\"},{\"source_index\":9,\"explication\":\"Confirme sa candidature officielle en tant que candidate des Insoumis pour les municipales 2026 à Rennes.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [7, 9], \"justification\": [\n    {\"source_index\": 7, \"explication\": \"Source explicite : 'Marie Mesmeur candidate aux élections municipales de Rennes en 2026'\"},\n    {\"source_index\": 9, \"explication\": \"Source explicite : 'Marie Mesmeur candidate des Insoumis aux municipales 2026 à Rennes'\"}\n]}"
   }
 }

@@ -112,19 +112,23 @@
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "NON",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Emmanuel Fouquart comme candidat aux municipales 2026 à Martigues. Les sources 6 et 9 évoquent sa candidature pour le RN mais uniquement en tant que tête de liste ou figure médiatique, sans confirmation directe."
+        "source_index": 6,
+        "explication": "Source mentionne explicitement Emmanuel Fouquart comme candidat RN aux municipales 2026 à Martigues, mais ne confirme pas sa candidature pour le PC."
+      },
+      {
+        "source_index": 9,
+        "explication": "Confirme qu'Emmanuel Fouquart conduira la liste RN (pas PC) aux municipales 2026 à Martigues."
       }
     ],
     "used_sources": [
       6,
       9
     ],
-    "analysis_at": "2026-01-08T13:50:40.082014Z",
+    "analysis_at": "2026-01-09T14:31:57.533317Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[6,9],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Emmanuel Fouquart comme candidat aux municipales 2026 à Martigues. Les sources 6 et 9 évoquent sa candidature pour le RN mais uniquement en tant que tête de liste ou figure médiatique, sans confirmation directe.\"}]}"
+    "raw_output": "{\"statut\": \"NON\", \"used_sources\": [6], \"justification\": [\n    {\"source_index\": 6,\n     \"explication\": \"Source mentionne explicitement Emmanuel Fouquart comme candidat RN aux municipales 2026 à Martigues, mais ne confirme pas sa candidature pour le PC.\"},\n    {\"source_index\": 9,\n     \"explication\": \"Confirme qu'Emmanuel Fouquart conduira la liste RN (pas PC) aux municipales 2026 à Martigues.\"}\n]}"
   }
 }

@@ -130,18 +130,29 @@
       "snippet": "Le nouveau conseil municipal des jeunes de Dechy a été présenté : quel est son rôle ?&nbsp;&nbsp;La Voix du Nord",
       "date": "Thu, 24 Oct 2024 07:00:00 GMT",
       "source": "La Voix du Nord"
+    },
+    {
+      "title": "Loi Duplomb : ce qu’ont voté les députés du Nord et du Pas-de-Calais - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHk4NmhFZUVvdE1yMUZqa1dDUGZ6Tk5vc08xSUdocDlqWXVrbXpmOTM0cGpVWXJTTmpYSk9lUG5WWHk1UTFKR3lMdk1RWm1EVm1PQzRiVGNRUmFLOW5jOGg0QVlpcnllTDNlZnl2OThqRWlUVGdwLW9WWWxQS2pRM1pDQ0lQRWQzdllIODdGTWxPQjd5Y1llQlFxcGZaZjUxTGFSOGViQVItRnBfczgtZmdHQTZXLXNYdDJYRUNR?oc=5",
+      "snippet": "Loi Duplomb : ce qu’ont voté les députés du Nord et du Pas-de-Calais&nbsp;&nbsp;La Voix du Nord",
+      "date": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "source": "La Voix du Nord"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Sources 2 et 3 évoquent un candidat RN pour Aniche (municipales 2026) mais concernent Maxence Lemoine, non Matthieu Marchio. Aucune mention explicite de sa candidature à Somain."
+        "source_index": 1,
+        "explication": "Aucune mention de candidature municipale en 2026 pour Matthieu Marchio."
       },
       {
-        "source_index": 1,
-        "explication": "Source 1 traite d'une condamnation judiciaire sans lien avec les municipales 2026 ou une candidature municipale."
+        "source_index": 2,
+        "explication": "Candidat RN évoqué est anonyme (pas nommé Marchio), lié à Aniche, pas Somain."
+      },
+      {
+        "source_index": 3,
+        "explication": "Candidat RN évoqué est Maxence Lemoine, non Matthieu Marchio."
       }
     ],
     "used_sources": [
@@ -149,8 +160,8 @@
       2,
       3
     ],
-    "analysis_at": "2026-01-08T13:52:14.725655Z",
+    "analysis_at": "2026-01-09T14:33:47.669013Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[2,3],\"justification\":[{\"source_index\":null,\"explication\":\"Sources 2 et 3 évoquent un candidat RN pour Aniche (municipales 2026) mais concernent Maxence Lemoine, non Matthieu Marchio. Aucune mention explicite de sa candidature à Somain.\"},{\"source_index\":1,\"explication\":\"Source 1 traite d'une condamnation judiciaire sans lien avec les municipales 2026 ou une candidature municipale.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention de candidature municipale en 2026 pour Matthieu Marchio.\"},\n    {\"source_index\": 2, \"explication\": \"Candidat RN évoqué est anonyme (pas nommé Marchio), lié à Aniche, pas Somain.\"},\n    {\"source_index\": 3, \"explication\": \"Candidat RN évoqué est Maxence Lemoine, non Matthieu Marchio.\"}\n]}"
   }
 }

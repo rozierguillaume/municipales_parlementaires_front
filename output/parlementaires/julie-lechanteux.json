@@ -130,6 +130,20 @@
       "snippet": "Le conseiller municipal d'opposition Didier Lemaître va briguer le fauteuil de maire de Roquebrune-sur-Argens en 2026&nbsp;&nbsp;Nice-Matin",
       "date": "Fri, 10 Jan 2025 08:00:00 GMT",
       "source": "Nice-Matin"
+    },
+    {
+      "title": "Le journal de 8h du vendredi 24 octobre 2025 - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXMxTTBWNUJ3cFpNQ21MbXpuTlZfcU0xaUIwQnBzRHR1c3pVVlplRTBINkFEZExkTW9FZnpBSXljbGpBS0FtMzlKVm81R0NqNlppRDc0V1VJQzVwMWhRYWI2dm45NXFISkFKN1gtYXpCdjJicXNVMUF6aTdFdDAyU2VQVzM0U19JTGVGOGliOThudm5XX0FONDMtdERkUktKU2UzUF9pQ2IxaWQwcEN5ZTQ4clFuYUl6UHdlTkpLTjRaOERzTGx4VGlJLUp1ZEdYMXJfMF9pRXRjdw?oc=5",
+      "snippet": "Le journal de 8h du vendredi 24 octobre 2025&nbsp;&nbsp;BFM",
+      "date": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "source": "BFM"
+    },
+    {
+      "title": "Cumul des mandats: ces nouveaux eurodéputés contraints de renoncer à leur ancrage local - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZW9ZNk40Zi1PZC1VZkFCd0pKTW11bTVVZGphSlhUaUlfNGVSTkJPaGt6MWFpekI5bzlQdDdiZ09LUC1KbU1jUktzbE9yYnRsZWh3VzhHOTFmeFhmdXhMNGxoVDRtWFM5UHZLbUwzMGpHM1FwRkdoNzA4X19CZVFYdmZpdDlyZGZwWjBpc09LVFhET05NaGc3ZG5UeU1CNlVXeVpFblo2VFYtNDdVS0dnWDdGdmJJOTIxSXQzLVFuTTBQRGVzVmZndEdDT21ud19nM3JjNlhUVEo?oc=5",
+      "snippet": "Cumul des mandats: ces nouveaux eurodéputés contraints de renoncer à leur ancrage local&nbsp;&nbsp;Le Figaro",
+      "date": "Wed, 29 May 2019 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {
@@ -137,23 +151,23 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "'députée et candidate à la mairie de Roquebrune-sur-Argens'"
+        "explication": "Source affirme explicitement sa candidature aux municipales 2026 pour Roquebrune-sur-Argens."
       },
       {
         "source_index": 5,
-        "explication": "'la députée RN Julie Lechanteux, candidate à Roquebrune-sur-Argens' (municipales 2026)"
+        "explication": "Source confirme sa candidature municipale 2026 à Roquebrune-sur-Argens."
       },
       {
         "source_index": 6,
-        "explication": "'déclaration officielle de candidature... Municipales 2026'"
+        "explication": "Déclaration officielle de candidature aux municipales 2026 pour Roquebrune-sur-Argens."
       },
       {
         "source_index": 7,
-        "explication": "'la députée RN Julie Lechanteux candidate à Roquebrune'"
+        "explication": "Source affirme sa candidature municipale 2026 à Roquebrune."
       },
       {
-        "source_index": 8,
-        "explication": "'part à la conquête de la mairie de Roquebrune-sur-Argens'"
+        "source_index": 9,
+        "explication": "Source indique son lancement en vue des municipales 2026 pour Roquebrune-sur-Argens."
       }
     ],
     "used_sources": [
@@ -161,10 +175,10 @@
       5,
       6,
       7,
-      8
+      9
     ],
-    "analysis_at": "2026-01-08T13:53:39.697310Z",
+    "analysis_at": "2026-01-09T14:35:21.892047Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2,5,6,7,8],\"justification\":[{\"source_index\":2,\"explication\":\"'députée et candidate à la mairie de Roquebrune-sur-Argens'\"},{\"source_index\":5,\"explication\":\"'la députée RN Julie Lechanteux, candidate à Roquebrune-sur-Argens' (municipales 2026)\"},{\"source_index\":6,\"explication\":\"'déclaration officielle de candidature... Municipales 2026'\"},{\"source_index\":7,\"explication\":\"'la députée RN Julie Lechanteux candidate à Roquebrune'\"},{\"source_index\":8,\"explication\":\"'part à la conquête de la mairie de Roquebrune-sur-Argens'\"}]}"
+    "raw_output": "{\n  \"statut\": \"OUI\",\n  \"used_sources\": [\n    2, 5, 6, 7, 9\n  ],\n  \"justification\":\n  [\n    {\"source_index\": 2, \"explication\": \"Source affirme explicitement sa candidature aux municipales 2026 pour Roquebrune-sur-Argens.\"},\n    {\"source_index\": 5, \"explication\": \"Source confirme sa candidature municipale 2026 à Roquebrune-sur-Argens.\"},\n    {\"source_index\": 6, \"explication\": \"Déclaration officielle de candidature aux municipales 2026 pour Roquebrune-sur-Argens.\"},\n    {\"source_index\": 7, \"explication\": \"Source affirme sa candidature municipale 2026 à Roquebrune.\"},\n    {\"source_index\": 9, \"explication\": \"Source indique son lancement en vue des municipales 2026 pour Roquebrune-sur-Argens.\"}\n  ]\n}"
   }
 }

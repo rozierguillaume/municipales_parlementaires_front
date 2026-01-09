@@ -116,6 +116,13 @@
       "snippet": "Municipales 2026 : le maire de Wittes, Pascal Danvin, ne se représentera pas et explique pourquoi&nbsp;&nbsp;Nord Littoral",
       "date": "Tue, 25 Mar 2025 07:00:00 GMT",
       "source": "Nord Littoral"
+    },
+    {
+      "title": "Rassemblement national : terrain et discipline, la boussole des nouveaux jeunes députés - La Croix",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNC12NWxEdkpPcFRwdmhDV0VfS0RzTC1jNGFyN1RvZUNucXp3Vmg0dUhzeS0wWTlKbmVDSjhtdV8wcDVyTnhhaHlGMWNhNmhRRkRxbEVsR2x5SUltTjVmb201M3FFNGdzeXFoUTRhbHl0VkRjUlRNZzVwa2dBejNNaVNueGxxSHluel83eVJySS1QUW5faTFsbFY2MDZMaGNqb1hSeTFXT2haN28wNjZhLWZaMzk3WFlaVnh0a2ozM2g?oc=5",
+      "snippet": "Rassemblement national : terrain et discipline, la boussole des nouveaux jeunes députés&nbsp;&nbsp;La Croix",
+      "date": "Wed, 30 Oct 2024 07:00:00 GMT",
+      "source": "La Croix"
     }
   ],
   "analysis": {
@@ -123,12 +130,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Auguste EVRARD comme candidat ou retiré pour les municipales 2026 dans sa commune (Dans sa circo)."
+        "explication": "Aucune source ne mentionne explicitement Auguste EVRARD comme candidat aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:51:53.564650Z",
+    "analysis_at": "2026-01-09T14:33:24.836268Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Auguste EVRARD comme candidat ou retiré pour les municipales 2026 dans sa commune (Dans sa circo).\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Auguste EVRARD comme candidat aux municipales 2026.\"}\n]}"
   }
 }

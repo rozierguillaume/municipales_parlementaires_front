@@ -158,12 +158,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Aurélien DUTREMBLE (LR) comme candidat ou non aux municipales 2026 à Mâcon."
+        "explication": "Aucune source ne mentionne explicitement Aurélien DUTREMBLE comme candidat aux municipales 2026 à Mâcon."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:50:23.638720Z",
+    "analysis_at": "2026-01-09T14:31:42.269068Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Aurélien DUTREMBLE (LR) comme candidat ou non aux municipales 2026 à Mâcon.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Aurélien DUTREMBLE comme candidat aux municipales 2026 à Mâcon.\"}\n]}"
   }
 }

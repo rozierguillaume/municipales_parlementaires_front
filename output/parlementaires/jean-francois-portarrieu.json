@@ -151,6 +151,20 @@
       "snippet": "Haute-Garonne : Jean-François Portarrieu interpelle le gouvernement sur les installations illicites des gens du voyage&nbsp;&nbsp;L'Opinion Indépendante",
       "date": "Tue, 28 Jan 2025 08:00:00 GMT",
       "source": "L'Opinion Indépendante"
+    },
+    {
+      "title": "Municipales 2026 : le collectif \"Toulouse à Pied et en Commun\" renonce à se présenter - L'Opinion Indépendante",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFhQVlVnbS1ONk9wYnQ4Ung3ZXhSNTM5VUh1cEhjWk9WTGU3Q3JjSTdkc0hKUld4amVJQVBoSWg5NGlGUjRjR0ozWURFbFQ1aG5IQ1V5Y1pQSEdtSTBiUExYSklHWGRmSzhrNmZHN09sLUNsN1c2Z1dSLTV0dHkxVWVvY081VEJjMnAtT1REa19RVFpucS1vcdIBngFBVV95cUxOdmVSQ3BRN1lGZnZKNVpxUnRmeU45dVo2Q19jTzVtdzd3bnpMYVJhaXR1aklMemJONjlRakVsYWNhWWpueUl0MjZwTmZxQzhpeS1mVWZsX0gwalJGeHJhUHA2VWl1YzFHUDR3dEJnMmRwbUd4X1VjU1BPMFVrNWR5VUVVWW1BbkVMVnpXMXRadmxYLUJORUk5QnJfRFZadw?oc=5",
+      "snippet": "Municipales 2026 : le collectif \"Toulouse à Pied et en Commun\" renonce à se présenter&nbsp;&nbsp;L'Opinion Indépendante",
+      "date": "Fri, 09 Jan 2026 10:30:00 GMT",
+      "source": "L'Opinion Indépendante"
+    },
+    {
+      "title": "Municipales 2026 à Toulouse : Carole Bélot et Magyd Cherfi rejoignent la liste de François Briançon - L'Opinion Indépendante",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHgxX29zb050QV9jb2d3eHlmNE5FWGV2bG5tWTFYYmNFdF92MGFiYUtVV3pMNDRyaEpLTzdjcWI1SnVyWk0wcHl2ak5KNlB0aHY0ZmFkdHlxN21XRkRrWVpzQVVsZU1GZUJFMGE0R0t4YjBicXhEREpKOVREczVHS1phWW5McmJLSktUam5ScFB5OThWQ0RqM3FqLWRYYkFUNXUwNXV0TWszQzUwVVVkM183V2FzZ3RVOTBRRkpR0gHDAUFVX3lxTE9PWmQxZUdUa0gwR1IySFRfcEpWVXJMNExCSk9WM1l5MzFhdDhsVl9KZlZOUVdnTS1vZnpRT1J0UlFHdzJDcjdOb1d4bkdwM2E2b3dEU1ZZQWkzM2ZyZ21xbDBkT2d4MTQ5UDNjMDRsSFdYbE8wWjBhUk5TYXVodXVGdVc5U2xOZUJ4bGYtWHBDNHdWRnFBSmdpU2ZKVkNETE1kY0FmWFdfNFpJaGdlbVZKUnpPS0RqYTBtSGxLSkFvOFBDMA?oc=5",
+      "snippet": "Municipales 2026 à Toulouse : Carole Bélot et Magyd Cherfi rejoignent la liste de François Briançon&nbsp;&nbsp;L'Opinion Indépendante",
+      "date": "Thu, 08 Jan 2026 14:00:00 GMT",
+      "source": "L'Opinion Indépendante"
     }
   ],
   "analysis": {
@@ -158,12 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Jean-François Portarrieu comme candidat aux municipales 2026 ou son retrait."
+        "explication": "Aucune source ne mentionne explicitement Jean-François Portarrieu comme candidat aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:33:17.145546Z",
+    "analysis_at": "2026-01-09T14:10:47.981379Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jean-François Portarrieu comme candidat aux municipales 2026 ou son retrait.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jean-François Portarrieu comme candidat aux municipales 2026.\"}\n]}"
   }
 }

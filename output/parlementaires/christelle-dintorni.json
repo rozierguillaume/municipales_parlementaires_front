@@ -154,18 +154,20 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Christelle D'Intorni est explicitement décrite comme porte-parole d'Éric Ciotti **pour la campagne des municipales à Nice en 2026**."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Christelle D'Intorni comme candidate aux municipales 2026."
+      },
+      {
+        "source_index": null,
+        "explication": "Les sources (5 à 7) la décrivent uniquement comme porte-parole d'Éric Ciotti pour sa campagne municipale 2026, sans évoquer une candidature personnelle."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T13:55:35.557244Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:37:48.627231Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"Christelle D'Intorni est explicitement décrite comme porte-parole d'Éric Ciotti **pour la campagne des municipales à Nice en 2026**.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Christelle D'Intorni comme candidate aux municipales 2026.\"},\n    {\"source_index\": null, \"explication\": \"Les sources (5 à 7) la décrivent uniquement comme porte-parole d'Éric Ciotti pour sa campagne municipale 2026, sans évoquer une candidature personnelle.\"}\n]}"
   }
 }

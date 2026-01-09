@@ -16,7 +16,7 @@
       "title": "Stella Dupont réélue députée sur la 2ème circonscription de Maine-et-Loire. - Angers Info",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1pqc3pMR2dQUmJ1WlVpVlliZHJLc1hobFRteE9OQlZoaWFIX1BIenhPUGlmcVlGczYzTVd1blpYdU10Y3ljLWZ4RllWOUtBUlBlY0UxTlBMNmlkUHI5aUxQSkNFNkN6ellHcmtVdTcyOVBFNWQxYklQT2p5YkwyRU0xRHYxMTJWUWZxa0pVYnB5UXUwOVNzWnduanpSV280ZU91WHpkS1Z6akNEd2c0?oc=5",
       "snippet": "Stella Dupont réélue députée sur la 2ème circonscription de Maine-et-Loire.&nbsp;&nbsp;Angers Info",
-      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "date": "Sun, 19 Jun 2022 07:00:00 GMT",
       "source": "Angers Info"
     },
     {
@@ -158,6 +158,13 @@
       "snippet": "Budget de la Sécurité sociale : que va-t-il se passer cet après-midi ? Qui votera pour ? Qui votera contre ?&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 09 Dec 2025 08:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Ni pro-Macron, ni NFP : un «collectif social-démocrate» apparaît à l'Assemblée en attendant l’après-Barnier - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdmE5enRTYUV6YW9Db0xfbnB5Q0RFanVpVTVOLXNUbDJuRzFCUElDUnU1UVN5M0x5YjNpQ29ONEh6amxLWTFoV3JxeVVDUy1aLTAwQnRDbE4wZ2w3Q3hEQklCRFprYVctUTV3VjA4LTVYWC1EbDQ5RWZqTHh5RWM4Q0VMTXh3U3IzOUlrZVY1U2FpcUlGQ1BvSkI1Mk9ObzZ0TWdvNmxwRFNuTlZFUG1wTS0wc04xbnBKc1ZReE9fNHlTVng5UnVXZ1hvUS16WjhudHhBVzU2eVQ4aFNxemc?oc=5",
+      "snippet": "Ni pro-Macron, ni NFP : un «collectif social-démocrate» apparaît à l'Assemblée en attendant l’après-Barnier&nbsp;&nbsp;Le Figaro",
+      "date": "Fri, 25 Oct 2024 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {
@@ -165,28 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Stella Dupont comme candidate aux municipales 2026 à Chalonnes-sur-Loire."
-      },
-      {
-        "source_index": 1,
-        "explication": "Source sur les municipales 2026 mais concerne une autre commune (Ponts-de-Cé)."
-      },
-      {
-        "source_index": 4,
-        "explication": "Source générale sur les municipales en Maine-et-Loire sans mention de Stella Dupont."
-      },
-      {
-        "source_index": 5,
-        "explication": "Mentionne Fernando Gonçalves pour Chalonnes-sur-Loire, pas Stella Dupont."
+        "explication": "Aucune source ne mentionne explicitement Stella DUPONT (DVD) comme candidate aux municipales 2026 à Chalonnes-sur-Loire."
       }
     ],
-    "used_sources": [
-      1,
-      4,
-      5
-    ],
-    "analysis_at": "2026-01-08T13:42:56.593026Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:21:54.985121Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,4,5],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Stella Dupont comme candidate aux municipales 2026 à Chalonnes-sur-Loire.\"},{\"source_index\":1,\"explication\":\"Source sur les municipales 2026 mais concerne une autre commune (Ponts-de-Cé).\"},{\"source_index\":4,\"explication\":\"Source générale sur les municipales en Maine-et-Loire sans mention de Stella Dupont.\"},{\"source_index\":5,\"explication\":\"Mentionne Fernando Gonçalves pour Chalonnes-sur-Loire, pas Stella Dupont.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Stella DUPONT (DVD) comme candidate aux municipales 2026 à Chalonnes-sur-Loire.\"}\n]}"
   }
 }

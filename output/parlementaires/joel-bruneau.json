@@ -158,6 +158,34 @@
       "snippet": "Municipales à Caen. Le maire Joël Bruneau (LR) présente sa liste élargie&nbsp;&nbsp;Ouest-France",
       "date": "Sun, 09 Feb 2020 08:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Élections municipales 2026 à Caen. Éducation, sport, solidarité, culture : l’heure du bilan a sonné - maville Caen",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbGJzY2Z3STVGbmpxOFgwRW9UQWI1RWdMV1FZOEF4OWF1WjN2M1lLSVhCbmFMZVNFLVU4S1lCWk1mTGUyNmVzeXNBelViM255TzA2TU40b0FnX014ZFZjWUx2cTJHQ1NkTU9ocVQ5UXd1RTh0YW1SaUo3RnByR3Bja0NNYjk0UVVkNElJNHdmUWludml2Q0E5YXJtMkVPTWM0WExPM2c2Q1NmTjVkYkJYSGhOd2RFTU5BV2JMa1hERU85Tm10SlpTYnRvcXpVMEdIY09hYVFsaDJGR3d5M0NKZUhJMGdhREw0MWtr?oc=5",
+      "snippet": "Élections municipales 2026 à Caen. Éducation, sport, solidarité, culture : l’heure du bilan a sonné&nbsp;&nbsp;maville Caen",
+      "date": "Fri, 02 Jan 2026 07:01:00 GMT",
+      "source": "maville Caen"
+    },
+    {
+      "title": "Municipales 2026. L’ex adjoint de Philippe Duron repart en campagne pour la 3e fois avec Citoyens à Caen - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ2R0Nl9zSWFTQ0FVTXAyVmNFV2RFWV9QOGNfNHhMMV9tUkdVSVZ5b0tGdkR0V2IwX2Z0SlhrNURiWWluYndEY2l2dVREd1RObEJJb3VBbjBNOVI2Zi1nSm1CMk1xbUt4d3pTb1lkeXIzMVpXRG1RaGt0bEtzNDRYUVN4ZklKMnlxTGZVaGQ0MDU3UzhqUTFPMzIxOWJ1RUg0Y1JfYW5GazVjM2NkYnNNcDhnaXhfOVVWRmtnSVEtUGNGdW5qNVY2Y2ZJZklGb1FpYXNPbExLdTdQMXhQS29aZjViVkFYOVV0?oc=5",
+      "snippet": "Municipales 2026. L’ex adjoint de Philippe Duron repart en campagne pour la 3e fois avec Citoyens à Caen&nbsp;&nbsp;Actu.fr",
+      "date": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Mairie de Caen : Joël Bruneau candidat à sa succession en 2026 ? La décision est prise - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSFlFT3NWbTcxMzRtQ0ZMQ043a3JkbGQzQVlNVzltRndQRXVHWjI0MldIY2V1Z19TTnA0UktUTEk5aWRUODhBR3I4dkJxYWRreDMxMDR2S1BhQVlSdDJtNTluOWw5bnVaTlppWmh1TTVGMzBMSnZmTE1vUnlBdVJBU0pIeDZDSnBBNi11cFJqZkZwZjI2RDdaaTNWOVVKMmtUc2hlSm1GckN4MlJ4OVZySzloVFJ6Q2ZxT0RfbGxOcmZKZzN3Q1d2UjhMeTdYZw?oc=5",
+      "snippet": "Mairie de Caen : Joël Bruneau candidat à sa succession en 2026 ? La décision est prise&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 20 Mar 2023 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Résultats du 1er tour des municipales à Caen. Joël Bruneau est réélu, le PS prend une claque - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFp5UnllRVVtNXE0dVdXQUxyQlAtYkE1Z215cmJhWkFmZGhUTGZGTGVodFZMUFcwTDh6NlVNeUxERGpGQl94N1Joc3dXSlVUN1RhWDJLSzd6TV9ETWRJZktqRVBUSlMxS0p6R2tBV0pWN2hISmt5ZFdhMWxkazZqTDIyUXd6Qkk3ejNPUmd2eGJSM0RJalpOUDhKcTBDY0RpMmZrT3Rrdl9XWUZGeWFsQ2tlS29WLWZuWmlSU2gzeVdBdVc2dGNmakR2Nkh4cUo3QU00NFdpTWVGU3BZMlo4?oc=5",
+      "snippet": "Résultats du 1er tour des municipales à Caen. Joël Bruneau est réélu, le PS prend une claque&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 16 Mar 2020 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
@@ -165,12 +193,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Joël Bruneaau comme candidat ou non aux municipales 2026 à Caen."
+        "explication": "Aucune source ne mentionne explicitement Joël Brunea comme candidat aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:39:52.684944Z",
+    "analysis_at": "2026-01-09T14:18:38.122458Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Joël Bruneaau comme candidat ou non aux municipales 2026 à Caen.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Joël Brunea comme candidat aux municipales 2026.\"}\n]}"
   }
 }

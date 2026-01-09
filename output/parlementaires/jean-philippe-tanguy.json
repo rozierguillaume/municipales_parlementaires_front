@@ -151,26 +151,33 @@
       "snippet": "Retraites : le Rassemblement national ne votera pas la censure du gouvernement, annonce Jean-Philippe Tanguy&nbsp;&nbsp;Le Figaro",
       "date": "Wed, 25 Jun 2025 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Budget de la Sécu : pour Jean-Philippe Tanguy (RN), Sébastien Lecornu devra démissionner en cas de rejet du texte - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlZ0WnFhOUFESi1TRjRyalJhdDFRbHRNTFlDU204MDVWNnRkVkxTRkQ5N09WenpBSlFSdVRkSndUNUY2MTNHV3JYZXYxRkJEYk11aE9pVk85dTJURGt0dkJxU1BpcmhCci1qOE1BQWcwZlpEQ3Myd1EzQ1o2bFFDdTE3MnVfY053SEU5TXRnOGwyS1haWjk0eHhaZHY4TlBQWWZLSUtIMzhxV0hXXzgxTXY1T3poS1FqRzlaMC1EdzZfQ1QtZUFHdkc0Y3JxMnlBNUVHd1A4cWFjVDc2ekR3WTNMTV9YZw?oc=5",
+      "snippet": "Budget de la Sécu : pour Jean-Philippe Tanguy (RN), Sébastien Lecornu devra démissionner en cas de rejet du texte&nbsp;&nbsp;Le Figaro",
+      "date": "Sun, 07 Dec 2025 08:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 11,
-        "explication": "Pose la question de sa candidature sans confirmation explicite"
+        "source_index": 12,
+        "explication": "Formulation interrogative ('sera-t-il... ?') sans affirmation explicite"
       },
       {
-        "source_index": 12,
-        "explication": "Évoque une potentielle candidature ('On lui a posé la question') sans réponse claire"
+        "source_index": 13,
+        "explication": "Mention d'une question posée, pas de confirmation de candidature"
       }
     ],
     "used_sources": [
-      11,
-      12
+      12,
+      13
     ],
-    "analysis_at": "2026-01-08T13:55:48.053846Z",
+    "analysis_at": "2026-01-09T14:38:02.230760Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[11,12],\"justification\":[{\"source_index\":11,\"explication\":\"Pose la question de sa candidature sans confirmation explicite\"},{\"source_index\":12,\"explication\":\"Évoque une potentielle candidature ('On lui a posé la question') sans réponse claire\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 12, \"explication\": \"Formulation interrogative ('sera-t-il... ?') sans affirmation explicite\"},\n    {\"source_index\": 13, \"explication\": \"Mention d'une question posée, pas de confirmation de candidature\"}\n]}"
   }
 }

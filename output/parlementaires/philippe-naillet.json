@@ -158,25 +158,47 @@
       "snippet": "Budget 2025 : qui sont les socialistes qui ont voté la censure, contrevenant à la position du PS&nbsp;&nbsp;Libération",
       "date": "Wed, 05 Feb 2025 08:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Municipales 2026 à Saint-Paul : Didier Robert entre officiellement dans l’arène - Clicanoo",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY0R2RGQzUnd2ZmsyV19zLWhUcWlfZ3lvekJkNFZSTWNJSGpNX3lvTGFBcHo4V2VYSlpWMWtBMVZwVVNGcFU3UURyTmVZWEw3LVphQTlYNHNjMEZwRzI1cVVaczRLd1FtODdOVnBoeVUzaDQ1dWZoaXlCYlBDM2M0akVLbGFjUzhKOTIyaUMtQ29uU1FEVXF4XzFQZHBiemRpc2FQRHZKbklLMjRQdklwRmhlT21TWWlmUGhETVdtUF9zaGo5Y29MSQ?oc=5",
+      "snippet": "Municipales 2026 à Saint-Paul : Didier Robert entre officiellement dans l’arène&nbsp;&nbsp;Clicanoo",
+      "date": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "source": "Clicanoo"
+    },
+    {
+      "title": "Budget 2026 : Philippe Naillet dénonce une baisse de 10 % des crédits alloués à La Réunion - Zinfos974",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmtpcmZNYnhzMV8tWndPNEpLNjBOUFRkbkNKWUJRQWxCR2JmVmFNa0tiOWNtYUsyZUVBRFg0ZWp4dVY1dDZjWVVoS1RiODZFTFI0akk3OEtGTGN2YjV6ZmhfOTB2cG1zMGxrZTVkZlJ0TXlLbEt4aURVd1JZTDdrc21td2VSX0xQaHV3dWl6a0hEckpXejRYRHd3VjNuM1N2U3NqYWRGYjQ1QXk2X0J4eEVCMA?oc=5",
+      "snippet": "Budget 2026 : Philippe Naillet dénonce une baisse de 10 % des crédits alloués à La Réunion&nbsp;&nbsp;Zinfos974",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "Zinfos974"
+    },
+    {
+      "title": "Motion de censure : qui sont les députés PS qui n’ont pas suivi Olivier Faure et qui ont voté pour ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOM3V2X1h4VVp2LVhndEFmQi1WbFNScjBiWm54Z093UEdaa2VoaV9Gb20zQnI5RjZOMHk2NkZZSjFybWtVZndELWNoZE9za1hyMWNRdjEwaC1DZXNzbmtTSWh6OW9kLWh3aFZiazZ3X00xZldWVHBOUXNWTV9PbFFsWUtMU2RwU08zLTlMOEJBbEN5M0RXZklVUFFaT2NRcWZRZjdyRWVwSy1xaGZMOUJXc091SWd1ZFIxMEUyOExNdDRzbFV0clExcmJsa3Utb0UxblY3aks5YkJGT2ZRdXM1NGM4bkxRNkE1S1gwcWl2YlBBNkdUWWhHWVRIcmZKUlMxNEdWdWFnOENSV0JRWU9DRWVHbUx2Zw?oc=5",
+      "snippet": "Motion de censure : qui sont les députés PS qui n’ont pas suivi Olivier Faure et qui ont voté pour ?&nbsp;&nbsp;Ouest-France",
+      "date": "Fri, 17 Jan 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Taxe Zucman : à Saint-Pierre, la gauche démocratique tacle l’absentéisme de la députée K/Bidi - Clicanoo",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHhHZndKdGtaODFUT2N6Xy1DRFRRRi1jSTI1Z3ZDQ1ZmVjBGWjVmcjhxVmR5aGFuVVlSWjRmTGt1MHRjSGkyQTlMVDFFbGY4WW1XWS1tWjFISHlEUG0xYjhaelVOaUpLaE1WalZpemxxVlhNeWZ3Smp3RFliaFN4WEc0dVpyb09MVlN0Q1U3U3pNMHBWNHlsakotM1lJSGpyUXVNc3Y4Mng2Rld3Y0xXeWN5YlA3VjZxMUtRSWtFeUtmM2VHRjh0Q2ZXaW1qdVZWYUhaNlk2eHQ?oc=5",
+      "snippet": "Taxe Zucman : à Saint-Pierre, la gauche démocratique tacle l’absentéisme de la députée K/Bidi&nbsp;&nbsp;Clicanoo",
+      "date": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "source": "Clicanoo"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 7,
-        "explication": "La source mentionne les candidats investis par le PS pour les municipales 2026, mais ne cite pas explicitement Philippe Naillet."
-      },
-      {
         "source_index": null,
-        "explication": "Aucune autre source ne confirme ou infirme sa candidature aux municipales 2026 de Saint-Denis."
+        "explication": "Aucune source ne mentionne explicitement Philippe Naillet comme candidat aux municipales 2026 à Saint-Denis."
       }
     ],
-    "used_sources": [
-      7
-    ],
-    "analysis_at": "2026-01-08T13:46:34.988341Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:26:32.239563Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[7],\"justification\":[{\"source_index\":7,\"explication\":\"La source mentionne les candidats investis par le PS pour les municipales 2026, mais ne cite pas explicitement Philippe Naillet.\"},{\"source_index\":null,\"explication\":\"Aucune autre source ne confirme ou infirme sa candidature aux municipales 2026 de Saint-Denis.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Philippe Naillet comme candidat aux municipales 2026 à Saint-Denis.\"}\n]}"
   }
 }

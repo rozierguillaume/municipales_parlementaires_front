@@ -17,14 +17,16 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUdxa0hMWkduUnlmRkJlNEZKalo5cXk5US00NzV4NkFLZFhrNVgydkk2U0pLQWlBaWVLMVJWTi1zaDVOSUJMWk0tbzZta0QtNWx0aGVEdnA2bWV5YmJsZHJqOXpnaXhTTlM1dktNNVFNZGtTOWRPX21xTlFfX256c3J6Slc0YkZvUV9PZ2JVSGhIMEpsRkRiTHVYNEZUVDNaYkt4dlVuX0RuVFFQY194ZjhQMDhWal96OXpR?oc=5",
       "snippet": "Joséphine Missoffe, une Wendel derrière Griveaux&nbsp;&nbsp;Le Monde.fr",
       "date": "Sun, 15 Dec 2019 08:00:00 GMT",
-      "source": "Le Monde.fr"
+      "source": "Le Monde.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Accord franco-algérien de 1968 : que change l'adoption du texte du RN le dénonçant ? - mesinfos",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVR0REItNlFvQ1AwSUpoQU5YLXJKTzkyVW5MeDE4OFRXT21TTThQa0NVb3cwRHAyV0xkLUJ4RHNtM29INVNycGlfZ0RObjE1VkI1T3JmNWd6N0pUNksyT0NVU1JkWVNEVnVvR254ZXZRdHEwVFdxSFRKWVdoRWl0Z3RmVVVrdmszVmc4d1hKVEtMeTNWbXRJM0F0c01mZV9FaW1ucFc2REtLVG9JanNGQ19B?oc=5",
       "snippet": "Accord franco-algérien de 1968 : que change l'adoption du texte du RN le dénonçant ?&nbsp;&nbsp;mesinfos",
       "date": "Thu, 30 Oct 2025 07:00:00 GMT",
-      "source": "mesinfos"
+      "source": "mesinfos",
+      "snippet_source": "rss"
     }
   ],
   "analysis": {
@@ -32,12 +34,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne clairement une candidature (ou un retrait) aux municipales 2026 pour Joséphine Missoffe."
+        "explication": "Aucune source ne mentionne explicitement Joséphine Missoffe comme candidate aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:27:02.159048Z",
+    "analysis_at": "2026-01-09T14:03:25.574080Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne clairement une candidature (ou un retrait) aux municipales 2026 pour Joséphine Missoffe.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [{\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Joséphine Missoffe comme candidate aux municipales 2026.\"}]}"
   }
 }

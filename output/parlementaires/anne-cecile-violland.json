@@ -165,30 +165,42 @@
       "snippet": "Municipales 2020 : à Neuvecelle, la maire sortante est réélue&nbsp;&nbsp;Le Messager",
       "date": "Sun, 15 Mar 2020 07:00:00 GMT",
       "source": "Le Messager"
+    },
+    {
+      "title": "Aéroport de Genève : bientôt moins de nuisances pour les riverains grâce à une nouvelle trajectoire aérienne - Le Messager",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelNBejZhZmpERjhtN3o0dVFoU1Y4MVBOSXh6OHlOWXZYQWFRREJNQXMxQ1JNQzRtQXUyLXhxYUVsZy1MOENGLUtrXzFLMG9wTDhzNk1US1NncV9uY2pPejFibnpZR2I3eVYyUEhrYl9yMzJ1OU5VMmhHazJHWXE2MU5WdS1zcVRhZGJmVWYxVmVDb2YxcGxqRnI3aURfNEc3TjAtWGp0dDE0b09oaS13ZVYxMDIzTE5SZmZiZ0RkcS00QTdlbEdZTw?oc=5",
+      "snippet": "Aéroport de Genève : bientôt moins de nuisances pour les riverains grâce à une nouvelle trajectoire aérienne&nbsp;&nbsp;Le Messager",
+      "date": "Fri, 09 Jan 2026 05:00:00 GMT",
+      "source": "Le Messager"
+    },
+    {
+      "title": "Lutte contre la « fast fashion » : le Sénat approuve un texte ciblant Shein - Euractiv FR",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVQ4MkF0Sk5YZVRpa2NhSlNISHBPUkJ4Wm9TeEFUMG52RUlKbktOZ3EwLWFTWG5CZTg1NFZuT2hLVVZGbnFPNkNScDc0cEJwblpqeWJqdmVHY1NIeVYwS1VzU09MWUl2WmUxeE00WDJEa05RSkJCMEV6T25LZ1JNLXR6U3Qwa3dzVUx2bjhGYUt6ZzFKZGlSUXNFMA?oc=5",
+      "snippet": "Lutte contre la « fast fashion » : le Sénat approuve un texte ciblant Shein&nbsp;&nbsp;Euractiv FR",
+      "date": "Tue, 10 Jun 2025 07:00:00 GMT",
+      "source": "Euractiv FR"
+    },
+    {
+      "title": "Adoption du budget de la Sécu : comment ont voté les députés de Haute-Savoie et de Savoie - Le Messager",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktuMjBXNzM4T2d5NVdrTk5qMjczc2NQanVlUHY3R24xMEFLbi1ZSkNiM2h5S1dxOWJ5ek9tbG91VnhKRjcydG1xMDBXNVpWUTVqTEx5bG9oNW5fMW9xTElxMllyT3RGa1AwTjF2XzR5NVJodzVCQ3NLdUVnczEzMG1rTFVib29GWG9FNFlxSnRSczZsMlRvVVRoWGZSaEVXV2RWOXZ2Ym82bkk2RzdndGJ5MmtGcmRMWXU4QkhMR3EtdlpZSmdjSUhxS3ZjTVJy?oc=5",
+      "snippet": "Adoption du budget de la Sécu : comment ont voté les députés de Haute-Savoie et de Savoie&nbsp;&nbsp;Le Messager",
+      "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "source": "Le Messager"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Anne-Cécile Violland comme candidate aux municipales 2026 à Neuvecelle."
-      },
-      {
-        "source_index": 1,
-        "explication": "Source sur les municipales 2026 dans le Chablais, mais sans lien avec Anne-Cécile Violland."
-      },
-      {
-        "source_index": 6,
-        "explication": "Source mentionne des municipales 2026 (Thonon), mais pas Neuvecelle ni Anne-Cécile Violland."
+        "source_index": 2,
+        "explication": "Source mentionnant les municipales 2026 dans le Chablais mais sans référence explicite à Anne-Cécile Violland ou Neuvecelle."
       }
     ],
     "used_sources": [
-      1,
-      6
+      2
     ],
-    "analysis_at": "2026-01-08T13:33:58.954105Z",
+    "analysis_at": "2026-01-09T14:11:55.942880Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,6],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Anne-Cécile Violland comme candidate aux municipales 2026 à Neuvecelle.\"},{\"source_index\":1,\"explication\":\"Source sur les municipales 2026 dans le Chablais, mais sans lien avec Anne-Cécile Violland.\"},{\"source_index\":6,\"explication\":\"Source mentionne des municipales 2026 (Thonon), mais pas Neuvecelle ni Anne-Cécile Violland.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 2, \"explication\": \"Source mentionnant les municipales 2026 dans le Chablais mais sans référence explicite à Anne-Cécile Violland ou Neuvecelle.\"}\n]}"
   }
 }

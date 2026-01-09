@@ -151,19 +151,102 @@
       "snippet": "Gouvernement : Agnès Canayer et Marie-Agnès Poussier-Winsback nommées ministres déléguées&nbsp;&nbsp;Paris Normandie",
       "date": "Sat, 21 Sep 2024 07:00:00 GMT",
       "source": "Paris Normandie"
+    },
+    {
+      "title": "Municipales à Fécamp : Marie-Agnès Poussier-Winsback réélue : « Un ouf de soulagement » - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVHJ1TjBUb09qaDNEYTNVajR3N3NRMGNGRi1OcWVqRUhJMlhDcmdOdTlUNnJDNzJnUm1lLThMb0dtalpPWWdFejhIakpuZmNndjVkWjhrNXl3WGhLOVR2SEg3VzFCLU43elU1LTAwRFkzZHRtQkZsU0dBN0tsX2c4VGpmei1mVndyVmh6UHk2MVpfc2x6aGhaTU9hS29NNlVTdmJZOHJFaFJoN3FpU1VSVmJCcmJ4TnM0STgtQlhsdkVtNUd4M0FkLW02TlI?oc=5",
+      "snippet": "Municipales à Fécamp : Marie-Agnès Poussier-Winsback réélue : « Un ouf de soulagement »&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 29 Jun 2020 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Marie-Agnès Poussier-Winsback, ministre de l’Économie sociale et solidaire se rend à Niort - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOXQ2VWZMZEU5bGNEU0VFRk1KOUxULWpJRjc3eldhQUY0T1gyaWdFM19GRTh5UVMwVEFWaVB4c2p0Y0JOWGE5X0d0LVdodlVtcURNRHF2a04wb2NHd21Pd1NyM01oeFVpejU5eTJUeDRaNXVBNFdrVHI4dm9tTVNhQWl6cHQySUI4ZDI1eVp6QnhOT3VFVnppMHk5SElHRjM3VE9oTlcyaWlYM1gzUlJMS0o0WjB1b014RVJoSzZFeE1lZ3JyczlHNUhDcVh3MF9sX3FpbHFKNkFRNEZTdkhWc3ZHdWVIOHNzYTZjQmRUSk9VSG9RR2c?oc=5",
+      "snippet": "Marie-Agnès Poussier-Winsback, ministre de l’Économie sociale et solidaire se rend à Niort&nbsp;&nbsp;Ouest-France",
+      "date": "Thu, 07 Nov 2024 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026. A Fécamp, la gauche unie derrière Bénédicte Martin espère reprendre la mairie - tendanceouest.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU1BCcEZyUHZka0R1dUMwYlFEblkxbFZYWk8tc0tSdmlrZ1IySW9tOXRhZE1pMW9EUVVxbWo5NlRjcUU0NzUxa0FtaFpWbEpBVDhjZWNVakJyeks3MHJabV9PenlVX0o5Rk50NVd0bFNlS3FRd093LWtHN1ZHVzZlYjhOem9BWEpYNHhvdE1XQXpHdHBwanFsb0tNTkN1R2J2OHRjZWh6Z2ozcUgzVk9hanBIdXl1LXhZbjFnVy0wd2x1LVF2NW9TWWdVMkRPWDlmX3NzUk1WVQ?oc=5",
+      "snippet": "Municipales 2026. A Fécamp, la gauche unie derrière Bénédicte Martin espère reprendre la mairie&nbsp;&nbsp;tendanceouest.com",
+      "date": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "source": "tendanceouest.com"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature (ou un retrait) de Marie-Agnès Poussier-Winsback aux municipales 2026 à Fécamp."
+        "source_index": 1,
+        "explication": "Évoque une candidature à gauche sans mention de Marie-Agnès Poussier-Winsback"
+      },
+      {
+        "source_index": 2,
+        "explication": "Aucune référence aux municipales 2026 ou à Fécamp"
+      },
+      {
+        "source_index": 3,
+        "explication": "Vote sur le budget Sécu 2026, hors contexte municipal"
+      },
+      {
+        "source_index": 4,
+        "explication": "Candidature de David Roussel uniquement"
+      },
+      {
+        "source_index": 5,
+        "explication": "Candidature de David Roussel uniquement"
+      },
+      {
+        "source_index": 6,
+        "explication": "Candidature de David Roussel uniquement"
+      },
+      {
+        "source_index": 7,
+        "explication": "Démission d’un adjoint, hors candidature"
+      },
+      {
+        "source_index": 8,
+        "explication": "Candidature à Bolbec, hors Fécamp et personne concernée"
+      },
+      {
+        "source_index": 9,
+        "explication": "Scénario général sans mention explicite de sa candidature"
+      },
+      {
+        "source_index": 10,
+        "explication": "Candidature d’un autre candidat (RN) pour Fécamp"
+      },
+      {
+        "source_index": 11,
+        "explication": "Élection à l’Assemblée nationale, hors municipales"
+      },
+      {
+        "source_index": 12,
+        "explication": "Contexte politique national, hors candidature locale"
+      },
+      {
+        "source_index": 13,
+        "explication": "Élection à l’Assemblée nationale, hors municipales"
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:33:24.677046Z",
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "analysis_at": "2026-01-09T14:11:13.982164Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature (ou un retrait) de Marie-Agnès Poussier-Winsback aux municipales 2026 à Fécamp.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Évoque une candidature à gauche sans mention de Marie-Agnès Poussier-Winsback\"},\n    {\"source_index\": 2, \"explication\": \"Aucune référence aux municipales 2026 ou à Fécamp\"},\n    {\"source_index\": 3, \"explication\": \"Vote sur le budget Sécu 2026, hors contexte municipal\"},\n    {\"source_index\": 4, \"explication\": \"Candidature de David Roussel uniquement\"},\n    {\"source_index\": 5, \"explication\": \"Candidature de David Roussel uniquement\"},\n    {\"source_index\": 6, \"explication\": \"Candidature de David Roussel uniquement\"},\n    {\"source_index\": 7, \"explication\": \"Démission d’un adjoint, hors candidature\"},\n    {\"source_index\": 8, \"explication\": \"Candidature à Bolbec, hors Fécamp et personne concernée\"},\n    {\"source_index\": 9, \"explication\": \"Scénario général sans mention explicite de sa candidature\"},\n    {\"source_index\": 10, \"explication\": \"Candidature d’un autre candidat (RN) pour Fécamp\"},\n    {\"source_index\": 11, \"explication\": \"Élection à l’Assemblée nationale, hors municipales\"},\n    {\"source_index\": 12, \"explication\": \"Contexte politique national, hors candidature locale\"},\n    {\"source_index\": 13, \"explication\": \"Élection à l’Assemblée nationale, hors municipales\"}\n]}"
   }
 }

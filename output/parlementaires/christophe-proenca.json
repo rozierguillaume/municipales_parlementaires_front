@@ -151,6 +151,27 @@
       "snippet": "Lot. Christophe Proença candidat aux Législatives sur la circonscription de Figeac&nbsp;&nbsp;Actu.fr",
       "date": "Thu, 17 Mar 2022 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Le député du Lot Christophe Proença rencontre les acteurs du sport lotois à Gramat - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT0g0VE5jcnlhYnRjVnZKa3ZxTkpjWmVSZ2UyR1RSUXQ2UDFXbzVZN0RDVUJtV05fd0psMk9jMnJHUVd0WHRpZ3pYRWtNUUtDLTdkb29LVDJpV1hFbG5OemxxS3pVLWlTWXhsMlRJcFBOUm96MXNWREx6dWV2SXRCcDM1RDJYMFktS3dzT2QwUlFOaTFBN1FldVNkSDZUYklJaUdyM0dxQjBYZzlNQXVuaWdjLVNOQnlwSUhyWlJvNmRraVRhejZEN2tVMUxYT3U1?oc=5",
+      "snippet": "Le député du Lot Christophe Proença rencontre les acteurs du sport lotois à Gramat&nbsp;&nbsp;Actu.fr",
+      "date": "Thu, 27 Feb 2025 08:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Législatives 2024. Aurélien Pradié et Christophe Proença, élus députés du Lot - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclpXOG1CamdlcEM1OVNXNXUteWd3eHU5Sy1fMEJtZENxU1FPWUFzRkg2UDIwWU1EYVJQclk2MlFqSnBHVGc4UjJFNWU4OHUwZXFjbE43SUJTUnM5eDZxTVB1dVRpMWhnTHBaYVFBRmU2SzlmZjQ1MlZPZkpfVE4tSjEzV090Q1FKRS05UGgzOWszbFRLd1A4WVpDOWw1dVhBYWtxbjlYeEsyZVhPR1B1UTEzaFUtZw?oc=5",
+      "snippet": "Législatives 2024. Aurélien Pradié et Christophe Proença, élus députés du Lot&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Martin Malvy revient dans le Lot pour soutenir Christophe Proença - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRHh4amVpZ2YxWkExRmZiTl81ZU5fSkh0eEJPWjFuZ1k3UTRod0hIY1Atd1RiZ1A5N2IyZHdWU29USG5nX0ZBR0JIVHp1LVIzRWRBdVZudXRlV2ZKdXRBbmZ0OWgzallhekg5VXQ3Qmx2ZmVJZTR2QndyYW9qVWlsdDU5Z3NZb3pMMExxaDFKbnRoVmx6anFQNjcxSFktUG9GaTJtU0pWRWlYZXhmX1A3Z2EyYWxLNjZ5T0NEaWVkVWxSQU1BbE5n?oc=5",
+      "snippet": "Martin Malvy revient dans le Lot pour soutenir Christophe Proença&nbsp;&nbsp;Actu.fr",
+      "date": "Mon, 06 Jun 2022 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
@@ -158,14 +179,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Christophe Proença comme candidat aux municipales 2026 à Gintrac ou ailleurs. La Source 1 évoque les municipales mais uniquement pour Figeac et un autre candidat."
+        "explication": "Aucune source ne mentionne explicitement une candidature municipale de Christophe Proença pour les élections de 2026."
       }
     ],
-    "used_sources": [
-      1
-    ],
-    "analysis_at": "2026-01-08T13:47:33.515218Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:27:47.850387Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Christophe Proença comme candidat aux municipales 2026 à Gintrac ou ailleurs. La Source 1 évoque les municipales mais uniquement pour Figeac et un autre candidat.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature municipale de Christophe Proença pour les élections de 2026.\"}\n]}"
   }
 }

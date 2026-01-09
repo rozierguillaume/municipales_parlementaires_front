@@ -151,21 +151,49 @@
       "snippet": "Municipales 2026 à Calais : les socialistes et les communistes partent seuls, sans les écolos et LFI&nbsp;&nbsp;Nord Littoral",
       "date": "Tue, 14 Oct 2025 07:00:00 GMT",
       "source": "Nord Littoral"
+    },
+    {
+      "title": "A Calais, le RN Marc de Fleurian s’en prend (à tort) à «la Voix du Nord» - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOEl2VjVyUUNLdk13SjZnQS1BV2lQR0dKeU5zNzUzZnFsaHRrNDdJRFh6RFFvV1ZZcUNIX1JkTC1SNFVqck83VlowZ0tSUVpsSjZGdmtGdXo1dk02TFJESVJya1g3NGZmbHN0ZEJXVWZSalRIb3c1b1NITEJCMkt6T0NMRUdmTjhuNXc3bHQ4RFVJQ0hjaUF2NkcyMWhIMW40N09GUkhoVlF4eDFBZGx0SHRnTU9HWG1xZUZpYjAybWNQNnJXLVUydU5kMXF1RVZqRlpNZUtpbmEyYnF2MFNLdnJOVQ?oc=5",
+      "snippet": "A Calais, le RN Marc de Fleurian s’en prend (à tort) à «la Voix du Nord»&nbsp;&nbsp;Libération",
+      "date": "Fri, 09 Jan 2026 10:25:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Municipales à Calais : la maire sortante Natacha Bouchart remet les gants et repart au combat - Delta FM",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFBCRFY5NU11bDBLQTl0ZVVrTWdNTnhrTnAtd2Q4eFUzVUI0Nm5mQmRSZFFVNktzTlg2QUF3R0ZBel8ycmRDOGF2T1FmQWFNX202VF9uYWJfbDhqN2VodDRvdFZVbEFTdl85T3daZWtCVGUxRElULVk0RE5RanBFLWw4OUFDeWxxRXRCZkRtX05yeVhWQnJVbzRpVTJYLU1TYW1uWjlIeUNiVVBhR2gyc0IyNUY?oc=5",
+      "snippet": "Municipales à Calais : la maire sortante Natacha Bouchart remet les gants et repart au combat&nbsp;&nbsp;Delta FM",
+      "date": "Sat, 20 Dec 2025 08:00:00 GMT",
+      "source": "Delta FM"
+    },
+    {
+      "title": "Plainte de la maire de Calais pour diffamation contre son opposant RN : procès en juin 2026 - La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeHdmLXB2Q25zYkJqQi14ejhRbkh6OEFCZG5JOUtXUW8yQ0V5Rl92TWtBWXlvdXhLOFpTMGdnV0pqV0V1THJOdFZjbzZEZXhtWlZKdkpPMXE0OG85cmRSRkdvb1FQX01DSmhlTWRWM3g0bTIwRm5OT2N3Ny0zNzhqWGw2YzZJZ3c4T1drWGdXbFVMaGszTVpYd2toYjZWSTdxQlppckpfSy1Uak9td2hJeVhPYUktR0hfOWZ4UmdpUVN1Umk2N3BmUkRmNjNUZEU?oc=5",
+      "snippet": "Plainte de la maire de Calais pour diffamation contre son opposant RN : procès en juin 2026&nbsp;&nbsp;La Voix du Nord",
+      "date": "Tue, 01 Jul 2025 07:00:00 GMT",
+      "source": "La Voix du Nord"
+    },
+    {
+      "title": "Municipales 2026 à Calais : Jean-Philippe Lannoy veut « bousculer gentiment » la gauche « pour que ça avance » - Nord Littoral",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDhXRXZ5cDlMeThQR2JxemZfZjVoMUYzWk1hSW9WWTY0Z1QtYjdBOWNOVzRNaFBwMUlsbWdHUm5kblNGdDJkVENYaGpYeGo0Q0RVZVlTQTJVZExfdXJRaHBmbVpYc1lhTW5sOUhJQ0pyQUQ0RldCR25XWnI0NnBWTlJqemlOaEVaRXhJUHY3RUtGNWowZmNaVzNEVjJJVVZWRW9CZ2pueHpVSFBXaXl5cXpQXy0tei1XOFZoeFFzaFlTNmJFTDhNSUE0MVBNUQ?oc=5",
+      "snippet": "Municipales 2026 à Calais : Jean-Philippe Lannoy veut « bousculer gentiment » la gauche « pour que ça avance »&nbsp;&nbsp;Nord Littoral",
+      "date": "Wed, 13 Nov 2024 08:00:00 GMT",
+      "source": "Nord Littoral"
     }
   ],
   "analysis": {
-    "status": "NON",
+    "status": "OUI",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "La source indique que Marc de Fleurian (RN) officialise sa candidature pour les municipales 2026 à Calais, mais il est précisé qu'il s'agit du Rassemblement National (RN), non de LR."
+        "source_index": 7,
+        "explication": "Source explicite : 'Municipales 2026 à Calais Marc de Fleurian (RN) officialise sa candidature'"
       }
     ],
     "used_sources": [
-      5
+      7
     ],
-    "analysis_at": "2026-01-08T13:49:37.443255Z",
+    "analysis_at": "2026-01-09T14:30:29.024623Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"La source indique que Marc de Fleurian (RN) officialise sa candidature pour les municipales 2026 à Calais, mais il est précisé qu'il s'agit du Rassemblement National (RN), non de LR.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [7], \"justification\": [\n    {\"source_index\": 7, \"explication\": \"Source explicite : 'Municipales 2026 à Calais Marc de Fleurian (RN) officialise sa candidature'\"}\n]}"
   }
 }

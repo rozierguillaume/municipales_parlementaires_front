@@ -34,11 +34,11 @@
       "source": "Midi Libre"
     },
     {
-      "title": "Municipale à Agde : les candidats se positionnent avant le sprint final - Hérault Tribune",
+      "title": "Municipale à Agde : les candidats se positionnent avant le sprint final - echo-des-tribunes.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGFFS0dVNnNwcDI3azdHQllRakNERjFmLS0ydVFFRVE0VDJLZ3BqWC1LT3gzZEt3TGVJQ29sd2RvY3RHbnFySFFCcXVrX2dJdUdXRjBaOFdRT3JrTUdRYldheGFxZ2ZjelVZdWFaLTBoTlNIMExJckJmb3FsTTl0N0lUMVZ4amtzQmdqSkJUR2xnQjA?oc=5",
-      "snippet": "Municipale à Agde : les candidats se positionnent avant le sprint final&nbsp;&nbsp;Hérault Tribune",
+      "snippet": "Municipale à Agde : les candidats se positionnent avant le sprint final&nbsp;&nbsp;echo-des-tribunes.com",
       "date": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "Hérault Tribune"
+      "source": "echo-des-tribunes.com"
     },
     {
       "title": "\"C'est une vendetta politique\" : un député RN accusé de fraude dans ses comptes de campagne, \"j'étais un homme de paille\" se défend l'ex-collaborateur - France 3 Régions",
@@ -151,6 +151,20 @@
       "snippet": "Sète : Sébastien Pacull a déjà en tête les municipales de 2026&nbsp;&nbsp;Midi Libre",
       "date": "Wed, 22 Jun 2022 07:00:00 GMT",
       "source": "Midi Libre"
+    },
+    {
+      "title": "Élections municipales à Agde : Arpon rejoint Lopez-Liguori, Varesano veut loger les sans-abri, Frey se lance le 17 janvier… tous les échos de la campagne - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYWRaU1EyUlBNTFlnejNMOHk5TDFWbXFWSVZabW9HeV9tcjA3T1FCWWpYOVppOU9fcEVZMnNLckhWM3MweXAtTnhJdEp2NC1fZmdfX01MdTFzUm9VSHZBbFdHaWFWMXFBNGdCTmF5Y01XRkpUR1dPVGNkbHZOTXhJcWhfSzFhVzlqWDFMd3FGWk9BeFVDanRmOG5ZbnMwcVpIc1d1Tk9UVDhFRzlwZTBlVEs2WUUzQVFtdVRFOUU2QzkyTDV0TUNoNHZMTDZ2YXN1aUdKbXpubFhKQ0lsX2dJUmFSZzRfUWt1Um5yaU12RG9CYXFmNG9IVEhBTTZkNmt1Zll5bEZ3TDFXazlvS3N6amZWYm54bXVUeVo1a1NQdG1PVm8?oc=5",
+      "snippet": "Élections municipales à Agde : Arpon rejoint Lopez-Liguori, Varesano veut loger les sans-abri, Frey se lance le 17 janvier… tous les échos de la campagne&nbsp;&nbsp;Midi Libre",
+      "date": "Thu, 08 Jan 2026 15:49:00 GMT",
+      "source": "Midi Libre"
+    },
+    {
+      "title": "Municipales à Agde : Aurélien Lopez-Liguori entrouvre la porte à Fabienne Varesano… qui la referme aussitôt - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNelF1Z3RZakhRXzlxYmxoWlUyckNoTXBHYndnWEZWQUJtVXdFS0pnV29Zb3c4OUpPT255YXFiWklib1lmZDhORU55NHlBRlF0VG4zVXpEcllsZFB4RmxENU4xd1l5UUdLU1hzTkFhYnVULTM5bmlUS1g2eDJCRGprNUZsazBYbWo4dC1DNURlV3FEUkQ5aWlzbEsyVThCS3lEcTNOWDI3Y0E0ZlQ1X2NBMmFMajBmcVZNd2VxSVA2TGxVVFBndG9PSmNmUkd2aDdSUGFTVTZKdEJ6c3BGOVBGQjhaanlGa0hL?oc=5",
+      "snippet": "Municipales à Agde : Aurélien Lopez-Liguori entrouvre la porte à Fabienne Varesano… qui la referme aussitôt&nbsp;&nbsp;Midi Libre",
+      "date": "Sat, 13 Dec 2025 08:00:00 GMT",
+      "source": "Midi Libre"
     }
   ],
   "analysis": {
@@ -158,29 +172,39 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "Inauguration d'un local de campagne pour les municipales 2026."
+        "explication": "Mention explicite de sa candidature en 2026 dans le titre et le contenu (campagne municipale active)."
       },
       {
         "source_index": 2,
-        "explication": "Mention explicite de la candidature aux municipales 2026 à Agde et inauguration de permanence."
+        "explication": "Inauguration d'un local de campagne pour les municipales 2026."
       },
       {
         "source_index": 3,
-        "explication": "Inauguration d'une permanence municipale en lien avec les élections 2026."
+        "explication": "Ouverture d'une permanence municipale pour les élections 2026."
       },
       {
         "source_index": 4,
-        "explication": "Déclaration claire de candidature à la mairie d'Agde pour 2026."
+        "explication": "Inauguration de la permanence municipale confirmant sa candidature en 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Référence à sa campagne et engagement dans le contexte des municipales 2026."
+      },
+      {
+        "source_index": 6,
+        "explication": "Déclaration explicite de candidature pour la mairie d’Agde en 2026."
       }
     ],
     "used_sources": [
       1,
       2,
       3,
-      4
+      4,
+      5,
+      6
     ],
-    "analysis_at": "2026-01-08T13:54:05.150099Z",
+    "analysis_at": "2026-01-09T14:35:53.065919Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4],\"justification\":[{\"source_index\":1,\"explication\":\"Inauguration d'un local de campagne pour les municipales 2026.\"},{\"source_index\":2,\"explication\":\"Mention explicite de la candidature aux municipales 2026 à Agde et inauguration de permanence.\"},{\"source_index\":3,\"explication\":\"Inauguration d'une permanence municipale en lien avec les élections 2026.\"},{\"source_index\":4,\"explication\":\"Déclaration claire de candidature à la mairie d'Agde pour 2026.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [1, 2, 3, 4, 5, 6], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Mention explicite de sa candidature en 2026 dans le titre et le contenu (campagne municipale active).\"},\n    {\"source_index\": 2, \"explication\": \"Inauguration d'un local de campagne pour les municipales 2026.\"},\n    {\"source_index\": 3, \"explication\": \"Ouverture d'une permanence municipale pour les élections 2026.\"},\n    {\"source_index\": 4, \"explication\": \"Inauguration de la permanence municipale confirmant sa candidature en 2026.\"},\n    {\"source_index\": 5, \"explication\": \"Référence à sa campagne et engagement dans le contexte des municipales 2026.\"},\n    {\"source_index\": 6, \"explication\": \"Déclaration explicite de candidature pour la mairie d’Agde en 2026.\"}\n]}"
   }
 }

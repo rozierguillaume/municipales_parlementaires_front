@@ -151,51 +151,48 @@
       "snippet": "Municipales 2026 à La Rochelle : Olivier Falorni dénonce le « tripatouillage » de Jean-François Fountaine&nbsp;&nbsp;Sud Ouest",
       "date": "Fri, 06 Jun 2025 07:00:00 GMT",
       "source": "Sud Ouest"
+    },
+    {
+      "title": "Municipales à La Rochelle : Christophe Bertaud sera sur la liste de la majorité municipale - INF la Rochelle",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTE2aElCbkFWWXBOU0N6NDdOUlFUdU1Cakg1LWk0RFdvcDR5bFlNTG9aTC1oQkVQMGMtSXg4TWJGdlcxWW80T0kxSjRlRzZ4RW52a25xQlFIaUV0SlUtdHJuUXZEQ2FTQUpWZVVPamZ0X3ZBNE4xX0xkVGNfUHhZUlpiMDBWUkpoSlRrZ2xvMTltYTFVbDdjVnUzeGRUSDEyTmVmNDB2U3FNb2tiWVE?oc=5",
+      "snippet": "Municipales à La Rochelle : Christophe Bertaud sera sur la liste de la majorité municipale&nbsp;&nbsp;INF la Rochelle",
+      "date": "Wed, 07 Jan 2026 19:00:00 GMT",
+      "source": "INF la Rochelle"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 7,
-        "explication": "'Olivier Falorni officialise sa candidature à La Rochelle'"
-      },
-      {
         "source_index": 8,
-        "explication": "'le député Olivier Falorni... officialise sa candidature'"
+        "explication": "Titre mentionne explicitement 'Olivier Falorni officialise sa candidature' pour les municipales 2026 à La Rochelle."
       },
       {
         "source_index": 9,
-        "explication": "'Olivier Falorni candidat à La Rochelle'"
+        "explication": "Titre indique clairement 'le député Olivier Falorni [...] officialise sa candidature' aux municipales 2026."
       },
       {
-        "source_index": 11,
-        "explication": "'le député Olivier Falorni officialise sa candidature à La Rochelle'"
+        "source_index": 10,
+        "explication": "Titre affirme 'Olivier Falorni candidat à La Rochelle' pour les municipales 2026."
       },
       {
         "source_index": 12,
-        "explication": "'Olivier Falorni sera bien candidat aux municipales 2026 à La Rochelle'"
+        "explication": "Titre précise 'le député Olivier Falorni officialise sa candidature [...] aux municipales 2026 à La Rochelle'."
       },
       {
         "source_index": 13,
-        "explication": "'Olivier Falorni se déclare candidat'"
-      },
-      {
-        "source_index": 14,
-        "explication": "'Olivier Falorni a pris sa décision' (contexte municipal 2026)"
+        "explication": "Titre confirme 'Olivier Falorni sera bien candidat aux municipales 2026 à La Rochelle'."
       }
     ],
     "used_sources": [
-      7,
       8,
       9,
-      11,
+      10,
       12,
-      13,
-      14
+      13
     ],
-    "analysis_at": "2026-01-08T13:42:17.283905Z",
+    "analysis_at": "2026-01-09T14:21:16.287731Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[7,8,9,11,12,13,14],\"justification\":[{\"source_index\":7,\"explication\":\"'Olivier Falorni officialise sa candidature à La Rochelle'\"},{\"source_index\":8,\"explication\":\"'le député Olivier Falorni... officialise sa candidature'\"},{\"source_index\":9,\"explication\":\"'Olivier Falorni candidat à La Rochelle'\"},{\"source_index\":11,\"explication\":\"'le député Olivier Falorni officialise sa candidature à La Rochelle'\"},{\"source_index\":12,\"explication\":\"'Olivier Falorni sera bien candidat aux municipales 2026 à La Rochelle'\"},{\"source_index\":13,\"explication\":\"'Olivier Falorni se déclare candidat'\"},{\"source_index\":14,\"explication\":\"'Olivier Falorni a pris sa décision' (contexte municipal 2026)\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [8,9,10,12,13], \"justification\": [\n    {\"source_index\": 8, \"explication\": \"Titre mentionne explicitement 'Olivier Falorni officialise sa candidature' pour les municipales 2026 à La Rochelle.\"},\n    {\"source_index\": 9, \"explication\": \"Titre indique clairement 'le député Olivier Falorni [...] officialise sa candidature' aux municipales 2026.\"},\n    {\"source_index\": 10, \"explication\": \"Titre affirme 'Olivier Falorni candidat à La Rochelle' pour les municipales 2026.\"},\n    {\"source_index\": 12, \"explication\": \"Titre précise 'le député Olivier Falorni officialise sa candidature [...] aux municipales 2026 à La Rochelle'.\"},\n    {\"source_index\": 13, \"explication\": \"Titre confirme 'Olivier Falorni sera bien candidat aux municipales 2026 à La Rochelle'.\"}\n]}"
   }
 }

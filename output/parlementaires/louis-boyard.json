@@ -158,31 +158,26 @@
       "snippet": "Election municipale à Villeneuve-Saint-Georges : Louis Boyard battu par la candidate de droite Kristell Niasme&nbsp;&nbsp;Libération",
       "date": "Sun, 02 Feb 2025 08:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Affichage sauvage et barbecue public sans autorisation : Louis Boyard verbalisé par la mairie de Villeneuve-Saint-Georges - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTGRnclJ2ZFJtU25saXhtVzh5MW95MmZrUU5jaHRTRUZKRzd1Qm9MaGVvSHd2b0JDUUJLOXdUMzl6VGVHR3Z6cmxJc2NLY2JLa3dmd2JVZVRWeGFRMnFrQjN1WXJzVDRBX2hVSFF1VHE1aHFmc2d5ZzFZUDZnWi1LeEw1QjdXTFVwZlkwSUQyQi1jZ1RJMjNjdHRiZnNJRWxpSnhYQUJHOXVqLUxlZ3J2NVZwN21PRXRIRTI4ZnJEREZVWDdUVUxEQkY0Z3RiNjFwTkc5WUFOMko3YlozdXEyT0c1b0xRbXZUT1ctODNmOG9ENXVR?oc=5",
+      "snippet": "Affichage sauvage et barbecue public sans autorisation : Louis Boyard verbalisé par la mairie de Villeneuve-Saint-Georges&nbsp;&nbsp;Le Figaro",
+      "date": "Mon, 28 Jul 2025 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Mentionne Louis Boyard en soutien à LFI pour les municipales 2026 mais sans lien explicite avec Villeneuve-Saint-Georges ou sa candidature."
-      },
-      {
-        "source_index": 8,
-        "explication": "Évoque des 'rumeurs' et une campagne municipale à Villeneuve-Saint-Georges, sans confirmer sa candidature."
-      },
-      {
-        "source_index": 10,
-        "explication": "Parle d’un ex-colistier de Louis Boyard et d’alliances potentielles, mais pas de sa propre candidature en 2026."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature de Louis Boyard aux municipales 2026."
       }
     ],
-    "used_sources": [
-      5,
-      8,
-      10
-    ],
-    "analysis_at": "2026-01-08T13:35:17.090461Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:13:14.322757Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5,8,10],\"justification\":[{\"source_index\":5,\"explication\":\"Mentionne Louis Boyard en soutien à LFI pour les municipales 2026 mais sans lien explicite avec Villeneuve-Saint-Georges ou sa candidature.\"},{\"source_index\":8,\"explication\":\"Évoque des 'rumeurs' et une campagne municipale à Villeneuve-Saint-Georges, sans confirmer sa candidature.\"},{\"source_index\":10,\"explication\":\"Parle d’un ex-colistier de Louis Boyard et d’alliances potentielles, mais pas de sa propre candidature en 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature de Louis Boyard aux municipales 2026.\"}\n]}"
   }
 }

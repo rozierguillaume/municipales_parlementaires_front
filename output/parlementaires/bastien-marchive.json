@@ -17,14 +17,16 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMGlxM3JiOTctNkFPeTRGRjE5aTRFY2o5SC14MjZLQlpyOWRMd0RELXRpdDVFeHFmSk55WGRpYXpMajVoQUxGdEN4QXltQUFQejlzVGluQlA0Q3dxckhnQTRqb1BmV2FUSEd3OTdYOW1iWEVHMFlVNmJBMHdyakh5YnBJTnIzRHktenpQMGg5d255bTJvSnd2NDA2RWZTUl9QQUNwd2VaX0lBaWdjaUJDN0hIeF9oMTZoNXFoWVdjZVg2bXB3cW1mWnRGRHA2RUgySk94b3NOQTMyQQ?oc=5",
       "snippet": "\"Une attaque contre notre ville\" : Niort à gauche appelle au rejet du \"budget Macron-Balogiste\"&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "source": "lanouvellerepublique.fr"
+      "source": "lanouvellerepublique.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "MUNICIPALES 2026. À Niort qui pour rivaliser avec Jérôme Baloge ? - lanouvellerepublique.fr",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGlQRGNYb1hUSEdyR1A4azJGdnVxd0N2a0dLUG5fWUdQMFVLTk12VnN0MDlZdUpwUDJlU2xCSmgwVnlsSUVGU2FHWlBHM1RhVnpxSnROSVY5anVuRFVGd3VUOUctV1k4anZvd2E3VmdxOXhNckNWUlA3VVh4ckFFWGlGQmF0WFhITHVadlpwR1pDa2pGbnd3RnpkVm9CRFREUDJ2YlVEdmhYV3M2NFVCWUEwQnR5VEpTc1FYWjI1Y0RDdnVPV0ptaEU2ek94Zw?oc=5",
       "snippet": "MUNICIPALES 2026. À Niort qui pour rivaliser avec Jérôme Baloge ?&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Thu, 20 Mar 2025 07:00:00 GMT",
-      "source": "lanouvellerepublique.fr"
+      "source": "lanouvellerepublique.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Législatives 2024 : découvrez qui sont les 18 candidats dans le département des Deux-Sèvres - francebleu.fr",
@@ -38,7 +40,8 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUMzVjVRT3J1aThoY1g5QWpYRmw1TGdLcDVvQlFoQThiay1yTzE2UXg0SlRvRDRvbG83Nk5UcnNqUjFoeWk2Qk4tVXczcGJZMUNyVmRlRmcxSEVyU1hLaDR3Mk1mLXFyOHhaQy16V2pqdDAxWDRpOGY4bDk0TnZET3poRG51NEw3QmZGUGdqZ3FYVkRFclhXdjl5eVJjV2Y5M2VEXzEzOXdXc0JOSk5QcHZuRnhCZw?oc=5",
       "snippet": "Jérôme Baloge : en 2026, le combat pour la mairie de Niort s’annonce disputé&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Fri, 22 Mar 2024 07:00:00 GMT",
-      "source": "lanouvellerepublique.fr"
+      "source": "lanouvellerepublique.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Législatives. 1re circonscription des Deux-Sèvres : Bastien Marchive pour « un vote de raison » - Ouest-France",
@@ -52,55 +55,63 @@
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRFNPT21FcXM1Sm5Fb0Zwd0w2WFQyR01MTnNCVlU4RFgyVmVyUXF0UnliUGRNNC1NTnBHOGtPMDBnY0ZsOWJTVzJQVmNTQVhHbXJNdjd0VWlFMG1KOEdGVjd1M2MzNG9QSlE0WktPWk1MWkxrcjJreXZyVnlycU1hSnNMd3B4SEFNOFEtZTA5ejZsLTBDU1dNS18tMkwxRTVwWVJsVG1HdHhSay0zYjJGamdYbE12dmwzOHh2dFZvdEVIajVJRVhzT1RkS3Z4cFRZWGs1bXctWklpdWRVOURVeVIyWHl2a29RMWVJSFdCX2dBME1MdUJ5MHNJcmNtdw?oc=5",
       "snippet": "Municipales. Bastien Marchive, adjoint à l’urbanisme à Niort, symbole des nouveaux élus&nbsp;&nbsp;Ouest-France",
       "date": "Mon, 01 Jun 2020 07:00:00 GMT",
-      "source": "Ouest-France"
+      "source": "Ouest-France",
+      "snippet_source": "rss"
     },
     {
       "title": "Niort. Municipales : les candidats à la Maison d’arrêt - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbHNvQ2JuSTJNcV90akV2VXF5RkRNRTFiODM1LXY2ZzNxNTBKMUxYSEs1QVhLZWJ6U0N6M00xclhwUnZLZncxM3lFX2JoSklxTWFJMHIxSnJUS3JDZGc0ZmkzRlBVbGZ5a204YjY4RG83NG9LNmE5dnpVdExuYl80cF95NjdHWGlpTVYxNFBCS204ckNZQ0dsMWNoNnhONEM4cnNJQ3ZWOU8xMG5uYmFzWVE4MWJOMlZ6M2VWeWRmdk83NnJESFFPQkhVMThHNjh5ZlRQRQ?oc=5",
       "snippet": "Niort. Municipales : les candidats à la Maison d’arrêt&nbsp;&nbsp;Ouest-France",
       "date": "Mon, 09 Mar 2020 07:00:00 GMT",
-      "source": "Ouest-France"
+      "source": "Ouest-France",
+      "snippet_source": "rss"
     },
     {
       "title": "Niort. Municipales. Les délégations des nouveaux adjoints - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ0lDdGVjVWZDUnROT2dsZnltYTFfaFRjVVRYbXlzTUdTZkZUVHpCNVdUQ2tPRjZoSzBQTzlDRzE0LXVDZlFiZ0ZucVU0ZklKa3JYZ0tZbnpBSEZPMXBqblNveWI5NUZWUW9jcVJhZDgzVjhUcG4xYk5OakZuZjhMNEs0ZVhheUF0dWxoeFJENV91TVk1eURtaG03NU5fSTJlOEs0VXdNa0U4cEQzakNJMjI4bmFtYVlaeUlsQXNrYTVkOTE0YzB2Y3hkTEpudDZTaWU1eGdzVTdmQQ?oc=5",
       "snippet": "Niort. Municipales. Les délégations des nouveaux adjoints&nbsp;&nbsp;Ouest-France",
       "date": "Wed, 27 May 2020 07:00:00 GMT",
-      "source": "Ouest-France"
+      "source": "Ouest-France",
+      "snippet_source": "rss"
     },
     {
       "title": "Saint-Maxire : Christian Brémaud ne sera pas candidat à sa succession en 2026 - lanouvellerepublique.fr",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX1ZjWnZRY2RIMUF2LXFKdC0yb2Q5ZW9lVXNnS1FpYTdKUUtwRlB5SkwwcjZiSUVxejZqcEhHNGpRamE0QnhCbmNheEp1djdaaHV3eUtWYkJZNHFqazVVYm1MdHFtT3pzN2V6dVBDUHFMNVY3ZXVhZHhQTWRKLVlZYzdid0owTVhmSFVEWTh3OG9GNXktYnpOU3BTWWNfN2dxOFMwVlhfVUl0ZVVfbENsNWJ4am55Y21ETm1GbTY2WUx0M1FlNlJFQVlyYjhrNENaNzlJWkRYenk2OENzbjItQ3l0aXYxTU1MLWRz?oc=5",
       "snippet": "Saint-Maxire : Christian Brémaud ne sera pas candidat à sa succession en 2026&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Sun, 26 Jan 2025 08:00:00 GMT",
-      "source": "lanouvellerepublique.fr"
+      "source": "lanouvellerepublique.fr",
+      "snippet_source": "rss"
     },
     {
       "title": "Municipales. Niort : la liste Baloge élue dès le premier tour - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLVBFYzNnb1hrV3pKd3ZEMGw5VWZwV2ZDRUtxNWpBVXRlbzVueEs1M3RkdlZ2T0xpU29oVWhTNjl1NDhHWElGQTlMemNlZ0ozVHdaa3hQdHU3UDUzUHhGdnBlMWFlMlRsMmVNc196Yk45S0VqNk01VVpTSHYzb2g5WVVXejZCUEVxcFlMeHdRYzNFR2REY3YtRWxmTFhjYjRXaGM4NjhZaVdKM3UxYVdvQkZlbWpHS2JTVG1IT0dibWU1UENSVWNMSWRKb3J1Ulh2ZFJCeW5QM3lONk50a2c?oc=5",
       "snippet": "Municipales. Niort : la liste Baloge élue dès le premier tour&nbsp;&nbsp;Ouest-France",
       "date": "Sun, 15 Mar 2020 07:00:00 GMT",
-      "source": "Ouest-France"
+      "source": "Ouest-France",
+      "snippet_source": "rss"
     },
     {
       "title": "Résultats élections municipales Niort [79000] : en direct score des listes, taux abstention - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fSTUtN25rNGstTkdqLWVpVm9pTi1Mc1RSSHF5MTBTX0UyenJaYnN2NlYzSDdPWVhpSzJqSVpQU2xvdk81RkR6TkpxZHNCdVZrSzVacHpMMm8tdjZDaUhxeWVSZ2EwNFJ1Ni1BYjFZVE5vSHJ2d3h5eFpGYnY?oc=5",
       "snippet": "Résultats élections municipales Niort [79000] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 30 Jun 2020 07:00:00 GMT",
-      "source": "Ouest-France"
+      "source": "Ouest-France",
+      "snippet_source": "rss"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune mention explicite de candidature aux municipales 2026 (Niort, mairie, liste, etc.) dans la source fournie."
+        "source_index": 1,
+        "explication": "Aucune mention explicite de candidature municipale en 2026 pour Bastien Marchive."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:26:21.061468Z",
+    "used_sources": [
+      1
+    ],
+    "analysis_at": "2026-01-09T14:02:12.361188Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune mention explicite de candidature aux municipales 2026 (Niort, mairie, liste, etc.) dans la source fournie.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention explicite de candidature municipale en 2026 pour Bastien Marchive.\"}\n]}"
   }
 }

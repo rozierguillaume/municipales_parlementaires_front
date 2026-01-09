@@ -151,6 +151,20 @@
       "snippet": "Législatives : Emmanuel Riotte, maire (LR) de Saint-Amand-Montrond, suppléant du député (Horizons) Loïc Kervran sur la troisième circonscription du Cher&nbsp;&nbsp;Le Berry Républicain",
       "date": "Thu, 13 Jun 2024 07:00:00 GMT",
       "source": "Le Berry Républicain"
+    },
+    {
+      "title": "Le député Loïc Kervran a déposé plainte après que des agriculteurs ont déversé des \"déchets\" à proximité de son domicile - Le Berry Républicain",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcHN4THdvMHBNQjlJVnVNNjVYVDdSTUFIaGRualBPbkx3YkJQcUN2YXptaVpzYVJ6NExZNzNjRkV2Rm0zV0g3Y2FmNk0zQkJrVmhPMVZKaXdQdzlNdkF1cjBLS3BNMllYYWxmNVpwVWl0M3AyWk9Mcm95QU9ERjhfM08tS1F3TE1CdkZkNVpOUTd6ampkQVVxOUZZNmFiMVo5NEhpd0xlTlJ4YVV1V1FTdEdGSUF2UFhnbmV2ajNwektoMV9RaURnb2FUczgzV053WWZkQklVdFotc21XVkYzNFdvZnFKRGlGS1VSQThZaV80OGk1bHpNSk9idHVqS1VGNmE2Rmc3dGRJeWc?oc=5",
+      "snippet": "Le député Loïc Kervran a déposé plainte après que des agriculteurs ont déversé des \"déchets\" à proximité de son domicile&nbsp;&nbsp;Le Berry Républicain",
+      "date": "Wed, 07 Jan 2026 19:04:12 GMT",
+      "source": "Le Berry Républicain"
+    },
+    {
+      "title": "Déserts médicaux : Loïc Kervran et Nicolas Sansu avancent leurs pions pour réguler l'installation des médecins - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUEVoUmhaeENJcDNlRi1md3oyRXdSVTBybXpHTG5xNnJZMWtJX2h5QV9weVRsSzU0TW1sUFBKbHZEUWh6Y0tQeWktMlpLRVJUNnFzVnotemFROGxBVUFLRVZpS3dpQ1V3Q3ZTQjRVY3FnTm9mMEh4RVJoZjh3clRLamd6ci13dUsxZm5VSE9zVVlUMDlBb2dmS0Fqc0hRUVJmWndNMUppc1VZVGZhbndoSVQ0V2VxV0VMQ2VvR0ZXLWIwZC1LSUlIZzlTZF9BLVlHWDRXU3hmWHhJT1RpT2dJeW84a3lwYXBFOVozVncxS29BdmJGU0E?oc=5",
+      "snippet": "Déserts médicaux : Loïc Kervran et Nicolas Sansu avancent leurs pions pour réguler l'installation des médecins&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 31 Mar 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
@@ -158,12 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Loïc Kervran comme candidat (ou non) aux municipales 2026 d'Orcenais ou ailleurs."
+        "explication": "Aucune source ne mentionne explicitement Loïc Kervran comme candidat aux municipales 2026 à Orcenais ou ailleurs."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:32:33.907787Z",
+    "analysis_at": "2026-01-09T14:10:07.395112Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Loïc Kervran comme candidat (ou non) aux municipales 2026 d'Orcenais ou ailleurs.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Loïc Kervran comme candidat aux municipales 2026 à Orcenais ou ailleurs.\"}\n]}"
   }
 }

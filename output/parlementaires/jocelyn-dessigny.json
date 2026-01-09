@@ -151,19 +151,74 @@
       "snippet": "Assemblée : Mathilde Panot injuriée de «poissonnière», le député RN sanctionné&nbsp;&nbsp;Le Figaro",
       "date": "Fri, 09 Jun 2023 07:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "« Poissonnière! »: un député RN sanctionné pour une injure à Mathilde Panot - Le Bien Public",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnlvZFNvYkNBbk1vYWVJZmZPQUs1QnFqLU1PZ1ZtQWQ3V1A5YmVwZjh3YU1zcW5CYkROOU5LSVJTQl9JTlc4UkhVSTJLX1hrOTBadXg3c2lueFJpTy1ZbHYyRDNxdk1IWXl1TEwydzVTQ1hPcEtfNklsQTFhN2gxZ01nRDYwb1BpUHhLQW8xcVVha2dRS21tbXVmNHNDcWF5T3JXWE03OW90UV84amx0dHdjRU01M1Zz?oc=5",
+      "snippet": "« Poissonnière! »: un député RN sanctionné pour une injure à Mathilde Panot&nbsp;&nbsp;Le Bien Public",
+      "date": "Tue, 13 Jun 2023 07:00:00 GMT",
+      "source": "Le Bien Public"
+    },
+    {
+      "title": "Lutte contre le narcotrafic : la proposition de loi définitivement adoptée à l’Assemblée nationale - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZWVBaE1zcFIxNXNFcHZMZVNqdFJyMk9wMXdXMVBET3FVcDduallKYkN6MzJLNnB1c3AwZGFVNjZVdjNsXzBtQlpLcHAtX1NfLWhvVi1Od1l5eVZ2Rld1WUJLQmFjaFZzUUJaT1FlTTNyRHZhUm45Sk9Hb0Q3ZmJ2dF82R2pHenpzNVRBRkpLSzcxaEpNZ3VBZUVUa1ZUQnRTX1ozWDA3cDlBdl9IdGtiVkxMUnBEaV9maVZ2VUFwOWNZeldnLW5jbjFsSWV0TDJYdmI5SXFR?oc=5",
+      "snippet": "Lutte contre le narcotrafic : la proposition de loi définitivement adoptée à l’Assemblée nationale&nbsp;&nbsp;Le Figaro",
+      "date": "Wed, 30 Apr 2025 07:00:00 GMT",
+      "source": "Le Figaro"
+    },
+    {
+      "title": "Château-Thierry. Le député RN Jocelyn Dessigny s’indigne de la fermeture du service de néonatologie de l’hôpital - Oise Hebdo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2YyZm1uNEFkdjcwUllUV3hRd0ZYZ1pCNXFKOGVrRTd1VU5yVmc1NnVFQld6Nk01OGJHb2daR2NjQmtsdmNfNndwY3JqQWkxbzd3ZmpVUU5HT003S3dMXzBPNlR5b19nTWE3VFZHTkZiU0pGWWluTS1yWTg1bmxkSHQwUWJkeF82V3Vlbw?oc=5",
+      "snippet": "Château-Thierry. Le député RN Jocelyn Dessigny s’indigne de la fermeture du service de néonatologie de l’hôpital&nbsp;&nbsp;Oise Hebdo",
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "Oise Hebdo"
+    },
+    {
+      "title": "Résultats législatives 2024 : Jeanne Roussel (Ensemble) mise sur le rassemblement après sa défaite - L'Union",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSW9rQ0N3X2E1d1oxVVV2Y0lhMm5iQ3ByMW52TUxlZ240emVjTHNtOC16akptRnIwNUJDbmZ0X3hKckVMa2RLRlJFR1lyNlBxMkhQSEZMcTlfVkVPOW45YkM4bndqMDA1eW5pSTlHZDVGYjFnRV85dGtzOVlZMmFBSS0ybTkyUjA4UkZ4bTNod1RobGZYcVREQmd1Z3ZQMVg5V2RvT1ZhbkF6amp4QXpPU0lEdGIwUG81T3llM3g1MVB5RlJsN0E?oc=5",
+      "snippet": "Résultats législatives 2024 : Jeanne Roussel (Ensemble) mise sur le rassemblement après sa défaite&nbsp;&nbsp;L'Union",
+      "date": "Sun, 30 Jun 2024 07:00:00 GMT",
+      "source": "L'Union"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Jocelyn Dessigny comme candidat aux municipales 2026 ou son retrait."
+        "source_index": 1,
+        "explication": "Aucune mention de candidature municipale en 2026"
+      },
+      {
+        "source_index": 2,
+        "explication": "Évoque Jocelyn Dessigny mais sans lien avec les municipales 2026"
+      },
+      {
+        "source_index": 3,
+        "explication": "Traite du vote des députés sur une taxe, pas de candidature municipale"
+      },
+      {
+        "source_index": 4,
+        "explication": "Parle d'une autre personne (Franck Briffaut) et ne mentionne pas Dessigny"
+      },
+      {
+        "source_index": 5,
+        "explication": "Aborde un sujet non lié aux municipales 2026"
+      },
+      {
+        "source_index": 6,
+        "explication": "Évoque une stratégie politique générale, sans candidature municipale explicite"
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:49:49.892569Z",
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "analysis_at": "2026-01-09T14:30:52.779747Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jocelyn Dessigny comme candidat aux municipales 2026 ou son retrait.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention de candidature municipale en 2026\"},\n    {\"source_index\": 2, \"explication\": \"Évoque Jocelyn Dessigny mais sans lien avec les municipales 2026\"},\n    {\"source_index\": 3, \"explication\": \"Traite du vote des députés sur une taxe, pas de candidature municipale\"},\n    {\"source_index\": 4, \"explication\": \"Parle d'une autre personne (Franck Briffaut) et ne mentionne pas Dessigny\"},\n    {\"source_index\": 5, \"explication\": \"Aborde un sujet non lié aux municipales 2026\"},\n    {\"source_index\": 6, \"explication\": \"Évoque une stratégie politique générale, sans candidature municipale explicite\"}\n]}"
   }
 }

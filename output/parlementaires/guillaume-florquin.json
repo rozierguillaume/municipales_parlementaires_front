@@ -137,25 +137,33 @@
       "snippet": "Municipales 2026 : les points chauds dans le Nord&nbsp;&nbsp;La Voix du Nord",
       "date": "Fri, 28 Mar 2025 07:00:00 GMT",
       "source": "La Voix du Nord"
+    },
+    {
+      "title": "Fabien Roussel : « Je ne suis pas là pour faire de l’intérim » - Le Point",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3NVNnZ1WG51Q3F2OU5BYVVWS1RDTEEyY2haQXFQLVZLdF81cGNwR0dFRzh3WTVEZlBib1Rrbm1PSGVQUmxQYU9qYVJ2ekxFWS1BbHl0THRpVWZ3X3R5N1Z1Z1gwMVhzVjcxSVc5LWJ3R0E2RHlOaFMydUV4NUphdWRkcnVOakdlVlZNdS12YnQtRTc2QjhCaktHU2NCZWhSbXJRZEo0Yk5xN1BhUEhuWXRlbWliQQ?oc=5",
+      "snippet": "Fabien Roussel : « Je ne suis pas là pour faire de l’intérim »&nbsp;&nbsp;Le Point",
+      "date": "Sat, 26 Apr 2025 07:00:00 GMT",
+      "source": "Le Point"
+    },
+    {
+      "title": "«Drôle de l’appeler M. le maire !» : à Saint-Amand-les-Eaux, le rebond municipal de Fabien Roussel - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRFRvN2RBdy1VLUNVWWxNZl9HNUp4UHVOMllLMFhKQ05BMmZSOVloSkFFR2ZUNWoyeGhLOERqNEdibVVLQlZYd3FsVHBrNUJ3V3ZvOEU0UlFzNTNHNExfaEFOQzJmVk9MSkV0TWFQeElvRE9pU0hkUmdkcnZmNHVzTU4zMXByT3N0NEw5T1dWT2t3WmFyVG1XbDhnY0RLZi1wVms2NUlLcWNIb2ZfYkFIZkZXZlJoUEpsWW4xU2NIRW96dnNVQ3VwSm1CdnhRQmVaTmhIWGRrQXZsRjNnTi1CTkZmWjE3STVBenlpdWEyVVVCcFZURmY2SGtFcm5tT1RHYnc?oc=5",
+      "snippet": "«Drôle de l’appeler M. le maire !» : à Saint-Amand-les-Eaux, le rebond municipal de Fabien Roussel&nbsp;&nbsp;Libération",
+      "date": "Fri, 31 Jan 2025 08:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 6,
-        "explication": "Le Parti communiste pourrait présenter des candidats aux municipales 2026 (générique, sans mention explicite de Guillaume Florquin ou Saint-Amand-les-Eaux)."
-      },
-      {
         "source_index": null,
-        "explication": "Aucune source ne cite clairement sa candidature ou son retrait pour Saint-Amand-les-Eaux en 2026."
+        "explication": "Aucune source ne mentionne explicitement Guillaume Florquin comme candidat aux municipales 2026."
       }
     ],
-    "used_sources": [
-      6
-    ],
-    "analysis_at": "2026-01-08T13:50:31.605988Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:31:47.867936Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[6],\"justification\":[{\"source_index\":6,\"explication\":\"Le Parti communiste pourrait présenter des candidats aux municipales 2026 (générique, sans mention explicite de Guillaume Florquin ou Saint-Amand-les-Eaux).\"},{\"source_index\":null,\"explication\":\"Aucune source ne cite clairement sa candidature ou son retrait pour Saint-Amand-les-Eaux en 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Guillaume Florquin comme candidat aux municipales 2026.\"}\n]}"
   }
 }

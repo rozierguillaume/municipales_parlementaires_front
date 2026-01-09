@@ -151,6 +151,20 @@
       "snippet": "DOSSIER. Châtellerault (4/4) : qui peut succéder à Jean-Pierre Abelin en 2026 ?&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Fri, 07 Jul 2023 07:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Jacques Proust est candidat à un nouveau mandat de maire à Pouant - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTFscW5GOFNsX2gzVXgzaXhLbWFWMUNISG1UOW5PQ3M0S2pycm13ZzNXWFhYRk1vbk1Td05WOW9YcXZxakdoaEo0bnlGR1ZPUV9jV05tMUpxZ1JBNHVlRVhhZVBLU1ltRFhiNjR3X2V6V29OZVhLQVRXOXJ5YTkzczJGS2RTQWZVbFZnSlppWGVmMUtxdVh1bUFEdDlOUEpCaUt5aEFMSzJLSnNnZWpEWkt4SGFvZnQ4UDMwY1NZVDFXclZWQURtYWFXaUY1SDA?oc=5",
+      "snippet": "Jacques Proust est candidat à un nouveau mandat de maire à Pouant&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Tue, 06 Jan 2026 17:00:00 GMT",
+      "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Châtellerault : le MoDem se ralliera-t-il à Abelin pour les municipales ? - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWozZ2lJV0g3U0QxT1dldVF2dzlXS19oUUhYSXVBTTNienRCX3Y0bXFNV2s0QVNyQUc5VnVIUURXeU95am1fNEtsSEUtYjROU1FfcG1CMVJFNXh2QWwyNHh6ZXp3WmE3UzJHLTc0TjN6aVNrNUNSNll4aUpaXzhvZ290OHBvWkNXcVJiN3BEbUtTcWNXS0xWRWhORk1SenpEVG9GV0NLUkQyR011eFQ1ZWZIUDZXWWtRdmlJ?oc=5",
+      "snippet": "Châtellerault : le MoDem se ralliera-t-il à Abelin pour les municipales ?&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Sat, 30 Nov 2019 08:00:00 GMT",
+      "source": "lanouvellerepublique.fr"
     }
   ],
   "analysis": {
@@ -158,12 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Nicolas TURQUOIS, sa candidature ou son retrait aux municipales 2026 à Moncontour."
+        "explication": "Aucune source ne mentionne explicitement Nicolas TURQUOIS comme candidat aux municipales 2026 à Moncontour."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:42:22.694926Z",
+    "analysis_at": "2026-01-09T14:21:23.114970Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Nicolas TURQUOIS, sa candidature ou son retrait aux municipales 2026 à Moncontour.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Nicolas TURQUOIS comme candidat aux municipales 2026 à Moncontour.\"}\n]}"
   }
 }

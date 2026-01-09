@@ -158,19 +158,54 @@
       "snippet": "Résultats élections municipales Carhaix-Plouguer [29270] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
       "date": "Tue, 30 Jun 2020 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Législatives : Mélanie Thomin représentera l’union des gauches dans la circonscription Châteaulin-Carhaix - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmZ0TFBDNXhRNnIwUDhyNkpFUlVZamp5d0VLUGplLUtjREtuQXRxUHZ4anNXUlp0bkNpa1hlMXJrcnJtVS04ZVFRS1RWLVRYdnF2YVA2Nzl0ZjVLSFlIRkxDbDZ0TGJhX3FhZkRLUG5EVHNfeU44SFdYS2ZyNW5LdEE2RWNzX1ljRU1RRGwybHVQR1REenl6UEhLTWVUdVFUb21MYVhJbFNRcERVSVBFQWtfTkRGVnVlNmdCb1Uwa2IyejRpb0JhbGlDMURtUFgtdzRhRm13TnZlT3NLNm1vYjRCS05ZQ3NIdG1Tck1SejY5bDNUVG1JeW82ajFkZw?oc=5",
+      "snippet": "Législatives : Mélanie Thomin représentera l’union des gauches dans la circonscription Châteaulin-Carhaix&nbsp;&nbsp;Le Télégramme",
+      "date": "Wed, 11 May 2022 07:00:00 GMT",
+      "source": "Le Télégramme"
+    },
+    {
+      "title": "Vie chère en outre-mer, repas à 1 euro, scandale des crèches privées… Le PS dévoile une niche parlementaire éclectique - Libération",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNXB5TVpLVjFxcWJDYTJIZU1HQnI3dEgtRXA3Y0Vic1lJVGlEQVNkaXU5M1ZTdC02VjhSZHBwWWFtSEJmTElqaEpqbXVMeHo5OFlnUThSTjZ3WmNnWnptMDE3bFEtWFllM0xmajlyTDNHMTdVXzdfMmRsY21XbUNjQURyYkhXUnM3alk3YURwYXpqLUtQeTZoZFIwNF9fVG5kazlSQUxUd0FUZmdYMjZOZ1BIV0tBNEl6cE1oRmx6RHlVVWtSekdFMExHTktBSXVsU2VtWFdnaGJzREtjUURyS2drU1NVekp4SUJFWXpWVXVGN3REZlpNUnJieUtMemNuWEJWZEV5RVFMVjRPWkxsTmZscjJQWnc?oc=5",
+      "snippet": "Vie chère en outre-mer, repas à 1 euro, scandale des crèches privées… Le PS dévoile une niche parlementaire éclectique&nbsp;&nbsp;Libération",
+      "date": "Tue, 05 Nov 2024 08:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Le préfet du Finistère échange avec la filière agricole biologique à Rosnoën - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUDNOcnY4WWR6MmFVRXNhS0V0bENQSTdmNHVJSXZ6SFVscXlvVk82RVBBZ0lHb0J0dzhKbmhkUjR5a2g2MzBtZVdZR1FRWTNsU29MMmNBT3EzSUNyUWdTeUIyWDF0MXNqVzllV0FmZ2lyeU1MMnpRTmVIbWdEZk1OY1RjcDJwTk8ydkhIZmtaS3VrV1d2YUZVN1BoYUxJRkJEVG9ibnUyOFgteXhWbDVOMGtKcWh5cDl6cGo1WjB4VEZfNTg4OEpRR0s4WU5NRGVmZzkxeUFMcktVc3NuNlpSMkt2REpGMnVkV1Ytc0ZGWjdEUE5NNHpB?oc=5",
+      "snippet": "Le préfet du Finistère échange avec la filière agricole biologique à Rosnoën&nbsp;&nbsp;Ouest-France",
+      "date": "Sun, 21 Dec 2025 08:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Hanvec.Yves Cyrille, aux municipales avec 18 colistiers - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLU1OdnhTS3ptekxSSGVtTzlicWc4dFdNTU5HZEZoTGVsem9OYzJpN0RxWi1hcHhwOTdtQlhsUm9qYXBmY1I4NmhrX09jTWUxWEhZejhZZmI0aS1ERC10bC02MFN1YUh2aVR1MTZENUZGRHJSZGF4aVFOZ2pwaDczcTZmYnN0YjVhc3hhXzVNZTlFT0VoczZJaHdOWmx0Y2REck1pMjJEc2V1MTI3NFBldTNR?oc=5",
+      "snippet": "Hanvec.Yves Cyrille, aux municipales avec 18 colistiers&nbsp;&nbsp;Ouest-France",
+      "date": "Fri, 14 Feb 2020 08:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait de Mélanie Thomin aux municipales 2026 à Hanvec."
+        "source_index": 7,
+        "explication": "Mentionne Mélanie Thomin mais sans lien avec une candidature municipale 2026"
+      },
+      {
+        "source_index": 8,
+        "explication": "Évoque son rôle politique mais pas de candidature explicite aux municipales 2026"
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:48:04.642341Z",
+    "used_sources": [
+      7,
+      8
+    ],
+    "analysis_at": "2026-01-09T14:28:29.985888Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait de Mélanie Thomin aux municipales 2026 à Hanvec.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 7, \"explication\": \"Mentionne Mélanie Thomin mais sans lien avec une candidature municipale 2026\"},\n    {\"source_index\": 8, \"explication\": \"Évoque son rôle politique mais pas de candidature explicite aux municipales 2026\"}\n]}"
   }
 }

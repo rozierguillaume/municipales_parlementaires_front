@@ -165,6 +165,22 @@
       "snippet": "Pour Julie Laernoes (EELV), parler des municipales à Nantes, « c’est encore un peu tôt »&nbsp;&nbsp;Ouest-France",
       "date": "Fri, 13 Sep 2024 07:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Châteaubriant : quel est le programme de cette fête écologiste ? - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnk0cUdXZmxWamFGc1FQODBrWE9LbVliTGMyU3l6NC1WWlNWWDBEWVdJY3F2Wmh2Szh0YWhlTWlwd2poM2laOXJPbWkxeWRySE9XYVRUb29USHVDWWQ4NkFqdEpUTlBqR2stOVQzeHVYYll1X0l0bWZJQjZMa0lScFVkcHlzTW9MTnVKWURfMm44QnhhTVN3WTNDeXBhdTZmQ01pZWZ4MlNMRFRxMXRnbDFvQ0hWeHNIcXNMYjY0b2pIZUx4LVE?oc=5",
+      "snippet": "Châteaubriant : quel est le programme de cette fête écologiste ?&nbsp;&nbsp;Actu.fr",
+      "snippet_source": "rss",
+      "date": "Tue, 20 May 2025 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales : candidat, Julio Pichon investi par le RN à Saint-Nazaire - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSjlfX3JDZnJEV2h4ZnRyUlhaQmVPRHVCc2J5dnR4S1VOVzd1YlVmS0NfQnlkQWVsWXNFZFFVNlgtdnVhUlBuajFDbXIwcG1pUHpCdkZwQVBGRU4wWFNNSzgwYkJWYXdKZ0lJaGdUSEEyQ2FaX2JEWEIya2R0czZ6TDVPTEc2RXhyREdUeWwzNkFzcDJkbjJEWW9jZnlXVjhaU2xLZFRZX1dDRXZCVG5USTlIaXpMNC1vQ0VYaWd0ZE9QYURxSEJ5WTNFd2NNR0tiZk1EX3VMT3B4cFJSelRJbFdLaVQtWDlDOGNLV3RFcGlTZTdrb2ZpbUw0aUl5UQ?oc=5",
+      "snippet": "Municipales : candidat, Julio Pichon investi par le RN à Saint-Nazaire&nbsp;&nbsp;Ouest-France",
+      "snippet_source": "rss",
+      "date": "Mon, 19 May 2025 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
@@ -172,12 +188,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Jean-Claude Raux (SE) ou Saffré dans le contexte des municipales 2026."
+        "explication": "Aucune source ne mentionne explicitement Jean-Claude RAUX (SE) ou sa candidature aux municipales 2026 à Saffré."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:29:06.357980Z",
+    "analysis_at": "2026-01-09T14:06:00.487897Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jean-Claude Raux (SE) ou Saffré dans le contexte des municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jean-Claude RAUX (SE) ou sa candidature aux municipales 2026 à Saffré.\"}\n]}"
   }
 }

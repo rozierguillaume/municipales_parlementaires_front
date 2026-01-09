@@ -158,51 +158,62 @@
       "snippet": "Saint-Julien-en-Genevois (74160) : Résultat des élections municipales 2026 - ICI&nbsp;&nbsp;francebleu.fr",
       "date": "Wed, 03 Sep 2025 23:59:16 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Franck Dalibard rejoint le collectif « Thonon 2026 » pour une alternative municipale unie - Le Faucigny",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjgxampnXy1BeWVwUXFxa0dObk5DdVlVdUM1Q3puWlhvMzRXSXdub1MybFlkbWJPWklhQmFnYUo2ME1UZWtaTUFmLW5WdktfS24ydWZCdnFsci0wVm9FVHJzN0hsWkVZc0pJRlRaV2NKazM3dGFPME1vdUhPNURYVjh0c0RFelhLVjl6VXhuaTFZVXJxSzRjMEpHVHFrZ2xxb3EyTXc5QzhGR2FSN1hZRXVsUUEzUmNLbTRyaQ?oc=5",
+      "snippet": "Franck Dalibard rejoint le collectif « Thonon 2026 » pour une alternative municipale unie&nbsp;&nbsp;Le Faucigny",
+      "date": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "source": "Le Faucigny"
+    },
+    {
+      "title": "Annecy : le rééquilibrage salarial anime le conseil municipal - Le Faucigny",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXI2bWtPREhJdm95RDFhY2J5d3RpNUNIams3c2hwTHJUTmVINWtaLWNUeklvVlQ2d0g1YzNHTjZDZldnOFlVcjB2T1ZJU1lja2NwSEl6ODYwM25nd1ppSEpOSEFselVhR2ZPdlZfdGhXM2N3cnJrc1AwZzkxMzR5b3VzQTExUlAwMWVLcW04UFVpeTkxNTlIRjN3?oc=5",
+      "snippet": "Annecy : le rééquilibrage salarial anime le conseil municipal&nbsp;&nbsp;Le Faucigny",
+      "date": "Sat, 22 Nov 2025 08:00:00 GMT",
+      "source": "Le Faucigny"
+    },
+    {
+      "title": "Collectivités locales : ce qui change en 2026 - Le Faucigny",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1M0TEh6RUxtRnU5Wng0SkREY19SYlJhSjZ2bjRBRXVFVDhqX3RrV0N2Q0NUblRoODAzZkxjbDJ6VzU3emhWbUUyNUZrY2dmeEx1bUtpeW8xbEdqcm83cmVMa09ORFRtVVJpa1ZVZjdpNWVIdU9TQURIa1d2SzYxajI0TmE?oc=5",
+      "snippet": "Collectivités locales : ce qui change en 2026&nbsp;&nbsp;Le Faucigny",
+      "date": "Mon, 05 Jan 2026 10:13:48 GMT",
+      "source": "Le Faucigny"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "Titre mentionne explicitement 'l’alternative Xavier Roseren' dans le contexte des municipales 2026."
-      },
-      {
-        "source_index": 5,
-        "explication": "Titre indique que Xavier Roseren dévoile une liste pour les municipales 2026 à Chamonix."
-      },
-      {
-        "source_index": 10,
-        "explication": "Titre précise 'le député Xavier Roseren officialise sa candidature à la mairie de Chamonix' pour 2026."
-      },
-      {
-        "source_index": 11,
-        "explication": "Titre confirme explicitement 'Xavier Roseren candidat à Chamonix' aux municipales 2026."
-      },
-      {
-        "source_index": 12,
-        "explication": "Titre indique que Xavier Roseren 'brigue la mairie de Chamonix' pour les municipales 2026."
-      },
-      {
         "source_index": 13,
-        "explication": "Titre affirme explicitement 'Xavier Roseren candidat aux municipales 2026' à Chamonix."
+        "explication": "France 3 Régions affirme explicitement que Xavier Roseren officialise sa candidature à la mairie de Chamonix pour les municipales 2026."
       },
       {
         "source_index": 14,
-        "explication": "Titre annonce clairement sa candidature à la mairie de Chamonix pour les municipales 2026."
+        "explication": "Le Dauphiné Libéré confirme sa candidature aux municipales 2026 à Chamonix."
+      },
+      {
+        "source_index": 15,
+        "explication": "Le Messager indique qu’il brigue la mairie de Chamonix pour les élections 2026."
+      },
+      {
+        "source_index": 16,
+        "explication": "ODS Radio annonce sa candidature aux municipales 2026 à Chamonix."
+      },
+      {
+        "source_index": 17,
+        "explication": "France Bleu confirme son annonce de candidature pour les municipales 2026 à la mairie de Chamonix."
       }
     ],
     "used_sources": [
-      4,
-      5,
-      10,
-      11,
-      12,
       13,
-      14
+      14,
+      15,
+      16,
+      17
     ],
-    "analysis_at": "2026-01-08T13:35:44.566184Z",
+    "analysis_at": "2026-01-09T14:13:43.000698Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[4,5,10,11,12,13,14],\"justification\":[{\"source_index\":4,\"explication\":\"Titre mentionne explicitement 'l’alternative Xavier Roseren' dans le contexte des municipales 2026.\"},{\"source_index\":5,\"explication\":\"Titre indique que Xavier Roseren dévoile une liste pour les municipales 2026 à Chamonix.\"},{\"source_index\":10,\"explication\":\"Titre précise 'le député Xavier Roseren officialise sa candidature à la mairie de Chamonix' pour 2026.\"},{\"source_index\":11,\"explication\":\"Titre confirme explicitement 'Xavier Roseren candidat à Chamonix' aux municipales 2026.\"},{\"source_index\":12,\"explication\":\"Titre indique que Xavier Roseren 'brigue la mairie de Chamonix' pour les municipales 2026.\"},{\"source_index\":13,\"explication\":\"Titre affirme explicitement 'Xavier Roseren candidat aux municipales 2026' à Chamonix.\"},{\"source_index\":14,\"explication\":\"Titre annonce clairement sa candidature à la mairie de Chamonix pour les municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [13, 14, 15, 16, 17], \"justification\": [\n    {\"source_index\": 13, \"explication\": \"France 3 Régions affirme explicitement que Xavier Roseren officialise sa candidature à la mairie de Chamonix pour les municipales 2026.\"},\n    {\"source_index\": 14, \"explication\": \"Le Dauphiné Libéré confirme sa candidature aux municipales 2026 à Chamonix.\"},\n    {\"source_index\": 15, \"explication\": \"Le Messager indique qu’il brigue la mairie de Chamonix pour les élections 2026.\"},\n    {\"source_index\": 16, \"explication\": \"ODS Radio annonce sa candidature aux municipales 2026 à Chamonix.\"},\n    {\"source_index\": 17, \"explication\": \"France Bleu confirme son annonce de candidature pour les municipales 2026 à la mairie de Chamonix.\"}\n]}"
   }
 }

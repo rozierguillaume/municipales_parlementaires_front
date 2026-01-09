@@ -154,18 +154,22 @@
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
         "source_index": 12,
-        "explication": "Le député RN Serge Muller est explicitement mentionné comme étant sur la liste de son parti pour les municipales 2026 à Bergerac."
+        "explication": "Source mentionne Serge MULLER (DVG) comme député RN, mais ne confirme pas sa candidature aux municipales 2026."
+      },
+      {
+        "source_index": null,
+        "explication": "Aucune source ne lie explicitement Serge MULLER à une candidature municipale DVG pour Bergerac en 2026."
       }
     ],
     "used_sources": [
       12
     ],
-    "analysis_at": "2026-01-08T13:55:05.510349Z",
+    "analysis_at": "2026-01-09T14:37:14.151114Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[12],\"justification\":[{\"source_index\":12,\"explication\":\"Le député RN Serge Muller est explicitement mentionné comme étant sur la liste de son parti pour les municipales 2026 à Bergerac.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 12, \"explication\": \"Source mentionne Serge MULLER (DVG) comme député RN, mais ne confirme pas sa candidature aux municipales 2026.\"},\n    {\"source_index\": null, \"explication\": \"Aucune source ne lie explicitement Serge MULLER à une candidature municipale DVG pour Bergerac en 2026.\"}\n]}"
   }
 }

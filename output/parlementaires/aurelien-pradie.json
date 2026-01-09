@@ -27,11 +27,11 @@
       "source": "Actu.fr"
     },
     {
-      "title": "Municipales 2026. Choc fiscal, police municipale : les priorités de Vivien Coste pour Cahors - Totem Radio",
+      "title": "Municipales 2026. Choc fiscal, police municipale : les priorités de Vivien Coste pour Cahors - TOTEM - Tous les tempos de la radio",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTA3bXNlVVhOTWVwaGpnLWxsNVZVcnZnbGVZUGs1ZnNDRjZ5RGo2RkpMYzE3eEdJVy1LeE12QXFwdUlGMWxCUjBUaVJtMzk5enEwUmoxZVBtRENCazhhekpvRGtmVzREYk5PNzVVZGtxWjNKOVkyNDJFOHhWdnVOS3RTQ3U5cDYwQS1lbXpXTndYWm5VbEg0MzRWVVRMQzk0WTNuMzYtc2xSRUxoTVdOQjNqOXRzUQ?oc=5",
-      "snippet": "Municipales 2026. Choc fiscal, police municipale : les priorités de Vivien Coste pour Cahors&nbsp;&nbsp;Totem Radio",
+      "snippet": "Municipales 2026. Choc fiscal, police municipale : les priorités de Vivien Coste pour Cahors&nbsp;&nbsp;TOTEM - Tous les tempos de la radio",
       "date": "Fri, 24 Oct 2025 07:00:00 GMT",
-      "source": "Totem Radio"
+      "source": "TOTEM - Tous les tempos de la radio"
     },
     {
       "title": "Municipales 2026. Aurélien Pradié candidat à Cahors ? \"Je n'ai toujours pas pris de décision\" - Actu.fr",
@@ -151,6 +151,20 @@
       "snippet": "Aurélien Pradié en campagne dans le Lot : «J’ai repris ma liberté et je vais travailler à mon propre compte&nbsp;&nbsp;Libération",
       "date": "Wed, 26 Jun 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Alors que tout les oppose, pourquoi David Lisnard et Aurélien Pradié font cause commune ? - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQenk5N2FxaUZzYUlZRW9zeE9fYXJhS2VjUTBLTVpxNFJqT05IX0ZnSEw3WHhiQy1odXM1c2xfanFVQTcxanFaVk9GcEJZeGI2MjVTX19VcUFxRnN0N2V2YjlGanZLR0pJcGlEVTdNWS1jNXljeTZEWHZWaEtjdUZzem5qM0FDTWdGcGtIWTZERGdXdDNwRTRvZ3FUeFBHWWNaNU5UemNqWVpGQ19fd0tXYnJ1VlpqckJaR2d3UDNMNEhhT3JwNzF5WVNPNk9INXM0UHVRT3QzOHlhamUyanRPazBZOGlWdVZiclhQTzY5WHg?oc=5",
+      "snippet": "Alors que tout les oppose, pourquoi David Lisnard et Aurélien Pradié font cause commune ?&nbsp;&nbsp;Libération",
+      "date": "Wed, 19 Mar 2025 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Cœur de Causse. Aurélien Pradié s’engage - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwZnJfeDFQUUJZN3NJbzFtX0FPd0hkeTdvVm9OUGRJdng1MGV1cDR4U3hBSWxrY1JwcjFIOE1XNEpfU1NBVGNVOXV2ZXdIZW02Tk80WTRvWVdhVTROTlk5SjJxbHFRRlVySU1GVlp1bnM4U2g1NmlKTVFUMA?oc=5",
+      "snippet": "Cœur de Causse. Aurélien Pradié s’engage&nbsp;&nbsp;ladepeche.fr",
+      "date": "Fri, 13 Mar 2020 07:00:00 GMT",
+      "source": "ladepeche.fr"
     }
   ],
   "analysis": {
@@ -158,14 +172,14 @@
     "justification": [
       {
         "source_index": 7,
-        "explication": "Le candidat déclare explicitement 'je n'ai toujours pas pris de décision' concernant sa candidature aux municipales 2026."
+        "explication": "La source mentionne explicitement qu'Aurélien Pradié n'a 'toujours pas pris de décision' concernant une candidature aux municipales 2026, sans confirmer ni infirmer sa participation."
       }
     ],
     "used_sources": [
       7
     ],
-    "analysis_at": "2026-01-08T13:44:43.499672Z",
+    "analysis_at": "2026-01-09T14:24:13.210216Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[7],\"justification\":[{\"source_index\":7,\"explication\":\"Le candidat déclare explicitement 'je n'ai toujours pas pris de décision' concernant sa candidature aux municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [7], \"justification\": [\n    {\"source_index\": 7,\n     \"explication\": \"La source mentionne explicitement qu'Aurélien Pradié n'a 'toujours pas pris de décision' concernant une candidature aux municipales 2026, sans confirmer ni infirmer sa participation.\"}\n]}"
   }
 }

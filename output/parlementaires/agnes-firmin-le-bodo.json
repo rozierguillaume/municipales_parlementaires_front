@@ -158,6 +158,20 @@
       "snippet": "Affaire Agnès Firmin-Le Bodo : une «loi anti-cadeaux» qui met vraiment le paquet ?&nbsp;&nbsp;Libération",
       "date": "Fri, 22 Dec 2023 08:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Le Parlement étend aux petites communes le scrutin de liste paritaire, dès 2026 - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSmc5U0p2dThYYlJsR2ppWUsyS2FNSUR5ZnRuSUlwTXR6U1F5cVBuZF9iaGxmNDhqWUR5WWFaOHpSS3ozcWRKR0ZndlRXNmJuOEpWcHZOWTFWby12cnJ0U0lvMzNZVjhYQ3RTNkZwemRMLTJhZ0dHNlI1STV3cW8zWjB4SEFXcG0zR0gxSlNJOXhVZUloOU9QejQyMGY3ZlhRQWFsdHhNUmZPd2JZbFhiOENMXzc3UzhlanBqYW5DRVIyaHJ3VEpFc3JWcndNWHpmS1BsMkVXSFFzWjIwdWloa3RmUkdPQVZFTHRhMF9hVHRsMkN2VEVEaQ?oc=5",
+      "snippet": "Le Parlement étend aux petites communes le scrutin de liste paritaire, dès 2026&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026 dans le Gers : élu à une voix près en 2020, le maire de Mauvezin Alain Baqué laisse planer le doute sur sa candidature - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQ3cwSGxnR2NkTFF1UVh6UHpmbDd5NnI5SVQxNzRLQlJuT1VrWXpFRVY2aXlRRU55N3NlSU5hbVE0S0ZId2RrMG93bFFtNHRzeFJQdk43Ry1JaDE0Sjg2N2NYNjRGTngzbG12X3VqaTZtRjhaS0hxc0VXNFlKbjJhY3ZkNzlVRGFBMFMtQnpOUkhTMlZjaG9oOVoxZVY3S3BpdzN2OG1sMlljQlYwcHNMM2stb2lWbHBJN2RCczQ2VTBGaTV0bUNaX0VpXzI3SWhMMGNWRWxaTzJtUHI3Ym1jNXFDYm5xU3dqalZEd24zYmwwbXB5dXJHejFURzBjUHFneEFyM3ZoaWR5YTdPalE?oc=5",
+      "snippet": "Municipales 2026 dans le Gers : élu à une voix près en 2020, le maire de Mauvezin Alain Baqué laisse planer le doute sur sa candidature&nbsp;&nbsp;ladepeche.fr",
+      "date": "Sat, 28 Jun 2025 07:00:00 GMT",
+      "source": "ladepeche.fr"
     }
   ],
   "analysis": {
@@ -165,12 +179,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne Agnès Firmin Le Bodo, les municipales de 2026 au Havre ou une candidature/retrait explicite."
+        "explication": "Aucune source ne mentionne explicitement Agnès Firmin Le Bodo comme candidate aux municipales 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:32:22.843399Z",
+    "analysis_at": "2026-01-09T14:09:56.092644Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Agnès Firmin Le Bodo, les municipales de 2026 au Havre ou une candidature/retrait explicite.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Agnès Firmin Le Bodo comme candidate aux municipales 2026.\"}\n]}"
   }
 }

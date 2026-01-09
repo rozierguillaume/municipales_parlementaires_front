@@ -158,6 +158,27 @@
       "snippet": "Lotfi Ben Khelifa quitte le PS et rejoint Idir Boumertit&nbsp;&nbsp;Expressions, les nouvelles de Vénissieux",
       "date": "Mon, 01 Dec 2025 08:00:00 GMT",
       "source": "Expressions, les nouvelles de Vénissieux"
+    },
+    {
+      "title": "Municipales 2026 à Lyon : un nouveau sondage place Aulas largement en tête devant Doucet au 1er tour - Lyon Capitale",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdGRaVWcxY2JsY3FpbVVLNlowc09WWGxNZngwSnhjUk1KOUJld0s3S1NKVVBHZEVGUGhnRDhPRTRGUURlVHZjWmhVRXVuLVlwcmVuNDI1dk9DbFRibjNiQ1dTZ2lIWmI2TW9aME5VdElUMjZodDZRcWRLNXl3cmVXcUtKX2VNMHhURnZ0dlcyRXVhQ21qRVlQcFlLcU1YeUdPNDhDTFVkME1xa1UxZW5TeGQ2QzJYUHVzZnZPakdQVm9DMGFGOVRRVUswR3QzOHp5M2c?oc=5",
+      "snippet": "Municipales 2026 à Lyon : un nouveau sondage place Aulas largement en tête devant Doucet au 1er tour&nbsp;&nbsp;Lyon Capitale",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "Lyon Capitale"
+    },
+    {
+      "title": "La maire de Vénissieux, Michèle Picard, annonce sa candidature ce samedi. Avec ou sans le soutien de LFI ? - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMlpLX0I1T3Y1ZktsVDZpeGNBOHR5aFd2WUcwNnZwRGphSkpMQ01uU21lOGlpQXhMbGFmRC1lY0lFUE12U1dlRldma2JnRWdUWE1qVFlQNkN5MnNLdk9IYTRGYk53S2lPUjlsQTBVLXlLd2FrQW5SdTNfa0xBOEVZLVRFejBDZzZZc2pJdVB1T2J0akZRNnZqUzJRMHNxVUhmbkd1UDQxWVVORDBoaXVLSEFGU2JDWmJuZHEwQ0h0dFZMZ3FWRm05TWd6MUxvQlFZVGVrR3BHMmFqSm5QNVlNek81MFFnQlZVSFExNG1tbERJNE1pUUFr?oc=5",
+      "snippet": "La maire de Vénissieux, Michèle Picard, annonce sa candidature ce samedi. Avec ou sans le soutien de LFI ?&nbsp;&nbsp;Le Progrès",
+      "date": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "source": "Le Progrès"
+    },
+    {
+      "title": "« Il y a des gens gonflés… » : à Vénissieux, Mokrane Kessi parle au nom de LFI pour faire réagir Idir Boumertit - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUklOb1AwcW5UNFd1YTNjWUtuVk9KM2tPVEg1QWRhdzgxM1R0SVhzRFc2ajFSSlhuTU1BUG1OV3ZfLW9CejdZbmktajJOcXdHNjItLWhHRU9BSVZHWl9EU1lhbmFPeWZfaWJhcGpiUTBLRVRqcEkwN0tqSlhJaXdJYVZVcEdTRUp6UWgxUE5uR2xzb202NGlaV0NsYlNzT2RwZjNiMlFuSDROaTg0SWwwbUowT3p1MTFEWUVqcnhLYmd6U2pwQTJZb0E0a21zT0NsZmpCazFpeV9JM2FGUUp5bEJPWQ?oc=5",
+      "snippet": "« Il y a des gens gonflés… » : à Vénissieux, Mokrane Kessi parle au nom de LFI pour faire réagir Idir Boumertit&nbsp;&nbsp;Le Progrès",
+      "date": "Sat, 01 Nov 2025 07:00:00 GMT",
+      "source": "Le Progrès"
     }
   ],
   "analysis": {
@@ -165,15 +186,15 @@
     "justification": [
       {
         "source_index": 13,
-        "explication": "Le député LFI Idir Boumertit annonce explicitement sa candidature aux municipales 2026 à Vénissieux."
+        "explication": "Le Progrès (2025) : 'le député LFI, Idir Boumertit, annonce sa candidature à Vénissieux'"
       },
       {
         "source_index": 14,
-        "explication": "Idir Boumertit (LFI) officialise sa candidature aux municipales de Vénissieux en 2026."
+        "explication": "Lyon Capitale (2025) : 'Idir Boumertit (LFI) officialise sa candidature à Vénissieux'"
       },
       {
         "source_index": 15,
-        "explication": "Le député LFI Idir Boumertit officialise sa candidature aux municipales à Vénissieux pour 2026."
+        "explication": "lyonmag.com (2025) : 'le député LFI Idir Boumertit officialise sa candidature à Vénissieux'"
       }
     ],
     "used_sources": [
@@ -181,8 +202,8 @@
       14,
       15
     ],
-    "analysis_at": "2026-01-08T13:35:05.153508Z",
+    "analysis_at": "2026-01-09T14:13:07.560143Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[13,14,15],\"justification\":[{\"source_index\":13,\"explication\":\"Le député LFI Idir Boumertit annonce explicitement sa candidature aux municipales 2026 à Vénissieux.\"},{\"source_index\":14,\"explication\":\"Idir Boumertit (LFI) officialise sa candidature aux municipales de Vénissieux en 2026.\"},{\"source_index\":15,\"explication\":\"Le député LFI Idir Boumertit officialise sa candidature aux municipales à Vénissieux pour 2026.\"}]}"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[\n    13,\n    14,\n    15\n],\"justification\":\n    [\n        {\"source_index\":13,\"explication\":\"Le Progrès (2025) : 'le député LFI, Idir Boumertit, annonce sa candidature à Vénissieux'\"},\n        {\"source_index\":14,\"explication\":\"Lyon Capitale (2025) : 'Idir Boumertit (LFI) officialise sa candidature à Vénissieux'\"},\n        {\"source_index\":15,\"explication\":\"lyonmag.com (2025) : 'le député LFI Idir Boumertit officialise sa candidature à Vénissieux'\"}\n    ]\n}"
   }
 }

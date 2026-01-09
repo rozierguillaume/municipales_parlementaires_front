@@ -158,6 +158,27 @@
       "snippet": "\"Un accès aux publics modestes\" : de nouveaux tarifs au conservatoire de Fontainebleau dès la rentrée 2025&nbsp;&nbsp;Actu.fr",
       "date": "Fri, 27 Jun 2025 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Gouvernement Attal : Frédéric Valletoux, des hôpitaux à la Santé - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1otckxzbnlNWlZEakUzRWhrNk00VURYODdST0h2MEpsNU1zWmpxTkZiUjZiOGlHNVI3c0FyS3h2MFNWT05OOGg3TFNyNzA3VkhDSUxjUHVTdDhVMjgtTXZLVzdKbVh2ckFNM3B3bTVPRVJndkVscFdmTDd4OHk0S19YZjZya0RDR01sTFM4R2xaRTJRNU1SWU1Jb0ZYQzd0dHBmdS1fc0ZGa3lPWWRSOHYxRG1GT0M0YWdrOXFQYzdla0xHcUtjZ3R0VQ?oc=5",
+      "snippet": "Gouvernement Attal : Frédéric Valletoux, des hôpitaux à la Santé&nbsp;&nbsp;Libération",
+      "date": "Thu, 08 Feb 2024 08:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "PLFSS 2026 : l’Assemblée adopte définitivement le budget de la Sécurité sociale - Éditions WEKA",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmw0TE9CSWtYbnNBRWltRWNHeGpMaks2b0hyc2t2M1VhTnQ3enlWUEx0Q0dkYzlnZXdIX0g2UTJSMFBnRlU5LS1lbHVKZFdEUUxvc0VsX1Q5NzZsZnJNNzI5a0VSckVTTXA2NUZINVhETlNQd3N2c3FOWHJhRDJzVGlGU1phRk41ZmhpdVIxMnZGbmJqUUpwMGJnaDFJWjJUMk94VlExbVBXQnM3UXBQSjd1cFgxYTBVSUpPa3VoaUh3UFdhSl90Zg?oc=5",
+      "snippet": "PLFSS 2026 : l’Assemblée adopte définitivement le budget de la Sécurité sociale&nbsp;&nbsp;Éditions WEKA",
+      "date": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "Éditions WEKA"
+    },
+    {
+      "title": "Commerce illicite du tabac : la proposition de Frédéric Valletoux adoptée - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEFkcm5TLWlBOThDbTZSQl9XQ0xsLUZsWXJHVkhfU0o4Sk5MdVQ4QlJKQUZvVFhTSkRLUkppdFhtQjJvRU4xdWpBSFlVVk9RX2xldURhWVJqNnAwazktaDNUT2pBaW5qQTBjMmVYdUVXN295Y3VMdXFJb1lGMWxFbkdrWmEtcGZIUTAybE1USUdaNkM2M2Jsa29tSXB4Q0hXUU1sS3R1b3VNOE5xb3F3VHBoMV9QMkI0R1NLd3hlS0I?oc=5",
+      "snippet": "Commerce illicite du tabac : la proposition de Frédéric Valletoux adoptée&nbsp;&nbsp;mesinfos",
+      "date": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "source": "mesinfos"
     }
   ],
   "analysis": {
@@ -165,14 +186,14 @@
     "justification": [
       {
         "source_index": 1,
-        "explication": "La source indique clairement que Frédéric Valletoux 'ne sera pas tête de liste' aux municipales 2026 à Fontainebleau."
+        "explication": "Source affirme explicitement que Frédéric Valletoux **ne sera pas tête de liste** aux municipales 2026 à Fontainebleau."
       }
     ],
     "used_sources": [
       1
     ],
-    "analysis_at": "2026-01-08T13:33:49.050121Z",
+    "analysis_at": "2026-01-09T14:11:48.679478Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"La source indique clairement que Frédéric Valletoux 'ne sera pas tête de liste' aux municipales 2026 à Fontainebleau.\"}]}"
+    "raw_output": "{\"statut\": \"NON\", \"used_sources\": [1], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Source affirme explicitement que Frédéric Valletoux **ne sera pas tête de liste** aux municipales 2026 à Fontainebleau.\"}\n]}"
   }
 }

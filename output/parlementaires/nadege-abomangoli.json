@@ -158,6 +158,13 @@
       "snippet": "Municipales 2026 à Toulouse : la voix des dissidents Insoumis&nbsp;&nbsp;ladepeche.fr",
       "date": "Mon, 10 Mar 2025 07:00:00 GMT",
       "source": "ladepeche.fr"
+    },
+    {
+      "title": "\"Je suis candidat à l’union de la gauche\" : François Piquemal (La France insoumise) lance sa campagne pour les municipales à Toulouse - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNXF4U1E4QU9kdGNRdmM4eHplLTRlblJWQ0pJSjEzUVVtS0RGa1JlSjg1dVRFbjJOTmxqdkdicUYteWdndXdVZGQwZk9BNERHSUE2M1NqbFZ2cWx0TUNtSDkzME9jQ2diSEo2cmZwamVYelB4d1RvZDF4Vlh0eUljWmlGUFFXOHFPaTVfMlZ4NVVuN3lNUjhMSWdWSjVreDRhalRhTWVYUEd4OEVwRXk3cHJkR0U3NDZvZjFLcHhMTFBuNFB4WTNvX3JQXzV2UlRBUlh6ZDhQQjRqMGt5b0NVQUVMNzRyalZ2bGZ0MzA3QW96T3ZqWmN0VGVtLVdBcDVHa0syclhn?oc=5",
+      "snippet": "\"Je suis candidat à l’union de la gauche\" : François Piquemal (La France insoumise) lance sa campagne pour les municipales à Toulouse&nbsp;&nbsp;ladepeche.fr",
+      "date": "Thu, 16 Jan 2025 08:00:00 GMT",
+      "source": "ladepeche.fr"
     }
   ],
   "analysis": {
@@ -165,14 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Nadège Abomangoli comme candidate aux municipales 2026 à Pantin. La source 7 évoque les municipales 2026 dans la commune mais sans lien avec sa candidature."
+        "explication": "Aucune source ne mentionne explicitement Nadège Abomangoli comme candidate aux municipales 2026."
       }
     ],
-    "used_sources": [
-      7
-    ],
-    "analysis_at": "2026-01-08T13:34:06.441415Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:12:02.529358Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[7],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Nadège Abomangoli comme candidate aux municipales 2026 à Pantin. La source 7 évoque les municipales 2026 dans la commune mais sans lien avec sa candidature.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Nadège Abomangoli comme candidate aux municipales 2026.\"}\n]}"
   }
 }

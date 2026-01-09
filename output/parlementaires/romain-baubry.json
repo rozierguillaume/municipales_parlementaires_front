@@ -151,21 +151,37 @@
       "snippet": "Municipales 2026 : Audrey Chikhaoui sera la candidate du Rassemblement national à Noves&nbsp;&nbsp;La Provence",
       "date": "Thu, 07 Aug 2025 07:00:00 GMT",
       "source": "La Provence"
+    },
+    {
+      "title": "Eyguières : le Rassemblement national pose déjà ses jalons - mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEY0MnM0ZE5pZXk4ZlIxcVJaem81bEMyYWo5dzRjMHdndmNkRGdfZHp0SzhHUER3SXhLSzZnMVNmSHk0WEVXQkJzQ0p3VGhwaEVSMkZCOTlUS3dDOW5tQ2R0SEp0VnRRQmlfd2NNaVY4OVZLOFk5RU1fX0l0c1JhR1p5WEZQc2p6WDhWT0ppVFAtMW9zTVpicGFZS1prX0dKRXZXQzd6NA?oc=5",
+      "snippet": "Eyguières : le Rassemblement national pose déjà ses jalons&nbsp;&nbsp;mesinfos",
+      "date": "Tue, 28 Nov 2023 08:00:00 GMT",
+      "source": "mesinfos"
+    },
+    {
+      "title": "À Sénas, le député RN Romain Baubry fait salle comble pour sa cérémonie des vœux - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQVFwSnRDVDNWem9uUEhKRW9wa25VYU1fLTVhWklQVl9qZG5NcmhNRkU5dl9wWnFDNXZSMTlDTzl1b3ZDUmRrVE8wNTZKa09MX0xNb3J4ZXhWdk4wUmgyYUk5bG80ZWQ5LUREcEpnei1rbFdQdWs3Mjh0U2s1UlpQWHlZa1J2R0JYQ2hOQ05sdFZkVEdyT0pxWnNSUnZHbTNPZGNldlF5YVVZMlFSVHlwS2h3QWFjc0YtUFhGcVNpZlR3bmpuTW1fTmhIMU9JUWR2RlRsUFdR?oc=5",
+      "snippet": "À Sénas, le député RN Romain Baubry fait salle comble pour sa cérémonie des vœux&nbsp;&nbsp;La Provence",
+      "date": "Fri, 17 Jan 2025 08:00:00 GMT",
+      "source": "La Provence"
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source mentionne explicitement 'le duo RN Baubry/Borges veut se présenter aux municipales 2026 pour Sénas'."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Romain BAUBRY (DVD) comme candidat aux municipales 2026 à Sénas."
+      },
+      {
+        "source_index": null,
+        "explication": "Les sources 1 et 2 évoquent un duo RN 'Baubry/Borges', mais sans confirmation de candidature officielle ni lien avec le DVD."
       }
     ],
-    "used_sources": [
-      1
-    ],
-    "analysis_at": "2026-01-08T13:48:37.716032Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:29:17.024279Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne explicitement 'le duo RN Baubry/Borges veut se présenter aux municipales 2026 pour Sénas'.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Romain BAUBRY (DVD) comme candidat aux municipales 2026 à Sénas.\"},\n    {\"source_index\": null, \"explication\": \"Les sources 1 et 2 évoquent un duo RN 'Baubry/Borges', mais sans confirmation de candidature officielle ni lien avec le DVD.\"}\n]}"
   }
 }

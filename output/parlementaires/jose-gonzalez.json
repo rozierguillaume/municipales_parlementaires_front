@@ -157,15 +157,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "La source mentionne uniquement l'activité du RN à Allauch sans lien explicite avec une candidature de José Gonzalez (LR) aux municipales 2026."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement José GONZALEZ (LR) comme candidat aux municipales 2026 à Allauch."
       }
     ],
-    "used_sources": [
-      5
-    ],
-    "analysis_at": "2026-01-08T13:51:37.915815Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:33:08.442125Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5],\"justification\":[{\"source_index\":5,\"explication\":\"La source mentionne uniquement l'activité du RN à Allauch sans lien explicite avec une candidature de José Gonzalez (LR) aux municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement José GONZALEZ (LR) comme candidat aux municipales 2026 à Allauch.\"}\n]}"
   }
 }

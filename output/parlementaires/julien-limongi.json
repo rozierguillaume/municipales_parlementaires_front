@@ -109,28 +109,40 @@
       "snippet": "Croix gammées découvertes en Seine-et-Marne : un député RN s'indigne, une plainte déposée&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 21 Oct 2024 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2026 : le député RN de Seine-et-Marne Julien Limongi est candidat à Provins - frontieresmedia.fr",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTRraWFXMjJVN1N2U3R5SmRkUndjSi1sNlF2TUtjb25zTnF5WHdPYmhJVEdxWTZtVGJCb0NMVmtQYVRQcjBzNUt4Sy1HZmxGMjk1VWNVU3pqVlZ5Q0dXMFdHdFMwZEdCbW5CdVdjZ2xCcGZzM3Q4d1Vxclk3c1IyU05kaEpIQ2dmUXlGTmR5TmtESjBta2pCNGlDZVZUV21RazhoczcxRktyTTNQVno1dThYMlF6dzdERk04Z0NBbXFXY2JzOW4xa2NXa3FyODg?oc=5",
+      "snippet": "Municipales 2026 : le député RN de Seine-et-Marne Julien Limongi est candidat à Provins&nbsp;&nbsp;frontieresmedia.fr",
+      "date": "Fri, 09 Jan 2026 09:45:00 GMT",
+      "source": "frontieresmedia.fr"
+    },
+    {
+      "title": "[Info VA ] A Provins, le RN lance Julien Limongi dans la course à la mairie - Valeurs actuelles",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPRHYtZ29tMXROblEzenQ3X05QeUZpVUNkcEdZUTJRRWozUVJyYld0bjFpSldGUXB5cDBYU0Z1aTd0UnBXUm9nYW91aUwxb05TXzRacjBKM0ptSVgwd2FlMEZJa0tVT1RNRzVuS0ZSd3RMOVVWREdZczdFcThXMThDLXFDZ1pyU2kwSXUtWl9KUkxNMUc0YjNYME9PVkVxZ182elZJbDhhTS1Kd0VFeXhlbi11ZGxmbXVCakZnT0lpRkpFOVRFTWZWclN3b3hXbl9OQ3ZiZVZlMTI5d1pRUkxNVElNZTJ6RWUwckJiVUVuMVQ3aVhQV3BEZXdFTWZmR3pTaTZjcFhsV016cUFZVDVBYU9KcTJ2UlRaREJrMA?oc=5",
+      "snippet": "[Info VA ] A Provins, le RN lance Julien Limongi dans la course à la mairie&nbsp;&nbsp;Valeurs actuelles",
+      "date": "Thu, 08 Jan 2026 15:00:09 GMT",
+      "source": "Valeurs actuelles"
     }
   ],
   "analysis": {
-    "status": "INCERTAIN",
+    "status": "OUI",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Julien Limongi comme candidat aux municipales 2026 à Provins."
+        "source_index": 1,
+        "explication": "Source 1 affirme explicitement que Julien Limongi est candidat aux municipales 2026 à Provins."
       },
       {
-        "source_index": 5,
-        "explication": "La source évoque une implication dans la campagne du RN mais pas sa candidature personnelle."
+        "source_index": 7,
+        "explication": "Source 7 confirme sa candidature officielle pour les municipales 2026, avec un lancement de campagne explicite."
       }
     ],
     "used_sources": [
       1,
-      2,
-      3,
-      5
+      7
     ],
-    "analysis_at": "2026-01-08T13:53:46.271145Z",
+    "analysis_at": "2026-01-09T14:35:29.149120Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1,2,3,5],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Julien Limongi comme candidat aux municipales 2026 à Provins.\"},{\"source_index\":5,\"explication\":\"La source évoque une implication dans la campagne du RN mais pas sa candidature personnelle.\"}]}"
+    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[],\"justification\":[\n    {\"source_index\":1,\"explication\":\"Source 1 affirme explicitement que Julien Limongi est candidat aux municipales 2026 à Provins.\"},\n    {\"source_index\":7,\"explication\":\"Source 7 confirme sa candidature officielle pour les municipales 2026, avec un lancement de campagne explicite.\"}\n]}"
   }
 }

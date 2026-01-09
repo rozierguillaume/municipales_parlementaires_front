@@ -151,6 +151,13 @@
       "snippet": "«Trottoir, pas crottoir», ventes de places de concert gratuit, le proc' dans l'Alpine... Les indiscrétions de la semaine en Eure-et-Loir&nbsp;&nbsp;L’Écho Républicain",
       "date": "Sun, 29 Jun 2025 07:00:00 GMT",
       "source": "L’Écho Républicain"
+    },
+    {
+      "title": "Ce maire de l’Essonne en a assez des propos « condescendants » du RN sur sa ville - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUWRITEVxTjFjbnJkQVRTZHVOb2t3SlBNX1d4dDRYVnRTOTQ1bnBJMGhzeDlfZkFWMTZVb2tUYWZwVDNuUlhMSFp2amI0d2JCcTBFdmIxbUtSMUVxT1cwU1JuNm5XYVUtRDU0cTNqcGNaQ1NoR0pEQjRtYmJ2VVUxdEhWZ2phUXRSaXc0YVBqU000TTUyU3RTTTVzb0FhNHM5dm1FQjN3OUx4b2hQWkJBR1Bxa0kzVnFKQXJRTDhQaTdSWklRSVUwOVNPbS02bWVtTGJGbGliaWJCUGhfOW0zaWhmdks4dDlJTUlvYUxxODlsdEY4R19rZFo1dXlWRDFwRjRteA?oc=5",
+      "snippet": "Ce maire de l’Essonne en a assez des propos « condescendants » du RN sur sa ville&nbsp;&nbsp;Ouest-France",
+      "date": "Sun, 23 Feb 2025 08:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
@@ -158,30 +165,40 @@
     "justification": [
       {
         "source_index": 4,
-        "explication": "Philippe Vigier est explicitement désigné comme 'candidat à Châteaudun' aux municipales 2026."
+        "explication": "Source cite explicitement Philippe Vigier comme candidat aux municipales 2026 à Châteaudun."
       },
       {
         "source_index": 5,
-        "explication": "Inauguration d'une permanence de campagne pour les municipales 2026 à Châteaudun."
+        "explication": "Source confirme sa candidature avec inauguration de permanence pour les municipales 2026."
+      },
+      {
+        "source_index": 10,
+        "explication": "Titre mentionne explicitement Philippe Vigier en campagne pour Châteaudun aux municipales 2026."
+      },
+      {
+        "source_index": 11,
+        "explication": "Source affirme sa candidature officielle pour les élections municipales de 2026 à Châteaudun."
       },
       {
         "source_index": 14,
-        "explication": "Titre mentionne explicitement 'Philippe Vigier candidat à Châteaudun' aux municipales 2026."
+        "explication": "Radio Intensité confirme explicitement Philippe Vigier comme candidat aux municipales 2026."
       },
       {
         "source_index": 15,
-        "explication": "Déclaration explicite de candidature aux municipales 2026 ('candidat aux élections municipales de 2026') et refus de se dérober."
+        "explication": "Source cite sa candidature explicite pour les élections municipales de 2026 à Châteaudun."
       }
     ],
     "used_sources": [
       4,
       5,
+      10,
+      11,
       13,
       14,
       15
     ],
-    "analysis_at": "2026-01-08T13:42:37.519865Z",
+    "analysis_at": "2026-01-09T14:21:43.400203Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[4,5,13,14,15],\"justification\":[{\"source_index\":4,\"explication\":\"Philippe Vigier est explicitement désigné comme 'candidat à Châteaudun' aux municipales 2026.\"},{\"source_index\":5,\"explication\":\"Inauguration d'une permanence de campagne pour les municipales 2026 à Châteaudun.\"},{\"source_index\":14,\"explication\":\"Titre mentionne explicitement 'Philippe Vigier candidat à Châteaudun' aux municipales 2026.\"},{\"source_index\":15,\"explication\":\"Déclaration explicite de candidature aux municipales 2026 ('candidat aux élections municipales de 2026') et refus de se dérober.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [4, 5, 10, 11, 13, 14, 15], \"justification\": [\n    {\"source_index\": 4, \"explication\": \"Source cite explicitement Philippe Vigier comme candidat aux municipales 2026 à Châteaudun.\"},\n    {\"source_index\": 5, \"explication\": \"Source confirme sa candidature avec inauguration de permanence pour les municipales 2026.\"},\n    {\"source_index\": 10, \"explication\": \"Titre mentionne explicitement Philippe Vigier en campagne pour Châteaudun aux municipales 2026.\"},\n    {\"source_index\": 11, \"explication\": \"Source affirme sa candidature officielle pour les élections municipales de 2026 à Châteaudun.\"},\n    {\"source_index\": 14, \"explication\": \"Radio Intensité confirme explicitement Philippe Vigier comme candidat aux municipales 2026.\"},\n    {\"source_index\": 15, \"explication\": \"Source cite sa candidature explicite pour les élections municipales de 2026 à Châteaudun.\"}\n]}"
   }
 }

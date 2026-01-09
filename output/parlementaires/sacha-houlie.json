@@ -158,31 +158,38 @@
       "snippet": "Municipales 2026 : à Poitiers, Anthony Brottier prêt pour une liste commune avec l’équipe d’Alain Claeys&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Wed, 27 Nov 2024 08:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Municipales 2026 à Poitiers : la maire écologiste sortante, Léonore Moncond’huy, isolée à gauche - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPblRQQ2E2dU05M0J5d3ZYNlBCZ3ZhblU2SlBFWjlKVnVGVWFQZFk3MVhvLVVZSDZONk5EeDBpOEFRdk0tTWl0bnpQSDNFWlVKUExMbERzQUV4V3lJeGNuRXRRaENYcmo3Y2FIcUZUNno3eE5WQUI4NUtSaV9xUXhsZzZGSGJISU1GTzRqeFdRR25pRU1YaV9zeGdlWExoWWQ2YnZTRHV6eDhCeE5ETkNJbjFMVVhJUjVKQkk5a0pRS3N4YW8yTGYySEoybURtbE5SemgtZFg5QnhfSTh4elQ2ZlFqWXRyc2s3VzZKbkNpWEJyenRUdlZZQzFXVVBlNmZXRzVDakRxYXU1WHk4LVE?oc=5",
+      "snippet": "Municipales 2026 à Poitiers : la maire écologiste sortante, Léonore Moncond’huy, isolée à gauche&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Sacha Houlié n’exclut pas une candidature mais ne confirme pas explicitement."
+        "source_index": 6,
+        "explication": "Formulation conditionnelle ('n’exclut pas') sans confirmation explicite"
       },
       {
-        "source_index": 7,
-        "explication": "Évoque une 'candidature possible' sans certitude."
+        "source_index": 8,
+        "explication": "Spéculation sur une candidature potentielle sans preuve directe"
       },
       {
-        "source_index": 9,
-        "explication": "Liste des noms dont Sacha Houlié, sans mention explicite de sa candidature officielle."
+        "source_index": 10,
+        "explication": "Liste de noms évoqués sans mention claire d’une candidature confirmée pour 2026"
       }
     ],
     "used_sources": [
-      5,
-      7,
-      9
+      6,
+      8,
+      10
     ],
-    "analysis_at": "2026-01-08T13:48:13.966708Z",
+    "analysis_at": "2026-01-09T14:28:41.165960Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[5,7,9],\"justification\":[{\"source_index\":5,\"explication\":\"Sacha Houlié n’exclut pas une candidature mais ne confirme pas explicitement.\"},{\"source_index\":7,\"explication\":\"Évoque une 'candidature possible' sans certitude.\"},{\"source_index\":9,\"explication\":\"Liste des noms dont Sacha Houlié, sans mention explicite de sa candidature officielle.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 6, \"explication\": \"Formulation conditionnelle ('n’exclut pas') sans confirmation explicite\"},\n    {\"source_index\": 8, \"explication\": \"Spéculation sur une candidature potentielle sans preuve directe\"},\n    {\"source_index\": 10, \"explication\": \"Liste de noms évoqués sans mention claire d’une candidature confirmée pour 2026\"}\n]}"
   }
 }

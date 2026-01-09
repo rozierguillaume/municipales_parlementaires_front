@@ -151,21 +151,42 @@
       "snippet": "Municipales 2026 à Anglet : une première annonce de… non-candidature&nbsp;&nbsp;Sud Ouest",
       "date": "Fri, 10 Oct 2025 07:00:00 GMT",
       "source": "Sud Ouest"
+    },
+    {
+      "title": "Municipales 2026 à Bayonne : \"Nous avons toujours cherché à faire gagner la gauche, il ne faut pas inverser les rôles\" - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPa1FQUXNycEFLUzQwMTNOODBsR0txVW1NZTZmSzRtMmp3aV9rLUwtTmk0bFBVQmlYLTVoMXNQVzdXTjM2THZ2dm1EeGc5WVhWS2UyNjBGX08yUmVzOE1LSm1POGR0YlBrNmZfMEZkQW8tQThBajdXZ3RYM0ZZYS16clZYWGhNdHBEa2QtcWdIUWIwUlViUmx0U1NMS0t3T2pSbWoyOGtQaTllVkozd01qNTVTRjU2S0RDLWdHQ0FpbDY1dUlJUXhhSzl6cjEzOUlBaVJVUUpCOWk0Ymd5M0lFZmRUaE5zMlNmbnJKdnNrYXpJQkIwaFFYbjRWWWo1cC1GaGZCQ2dSOGRpRzVHdkMwQ0Z6WHFBeWpYWkxGd2t4Ympub1l4bVRYcA?oc=5",
+      "snippet": "Municipales 2026 à Bayonne : \"Nous avons toujours cherché à faire gagner la gauche, il ne faut pas inverser les rôles\"&nbsp;&nbsp;francebleu.fr",
+      "date": "Fri, 09 Jan 2026 06:47:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Saint-Jean-de-Luz : Manuel de Lara annonce officiellement sa candidature aux élections municipales - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZjJaR0xkOFBoWHluSi12TzdoRXJHTVJPZ1YxSXFYbnpLaWZBTEZvYVJydU5XbGpqTVVxMG5fb0FMMzhIZ1FUdFM5RmZLeUZ6WU0yZ0FEVUtrbHhlVlpWQTFiZHdCMGRNUjR6TGNJcWZBYUpfS1BjNzZKSGczM25hWWpYajBjQlBhamoyemVMbkliQk0xX2w1UV9KM3RGTTdzOU9CczRtR1R3MDBzWUVjTjFNMXpTMlF3S0Z5eTNUdnNkUUE1WURQdmNvNy02N1VHUHdOeGlHbS1hTUdVZVRF?oc=5",
+      "snippet": "Saint-Jean-de-Luz : Manuel de Lara annonce officiellement sa candidature aux élections municipales&nbsp;&nbsp;francebleu.fr",
+      "date": "Sat, 04 Oct 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Au Pays Basque, les grandes manœuvres commencent pour les élections municipales à Bayonne, Anglet et Biarritz - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbWczTjZEZzFVYXIwQW12OG5mdkg4Ri1telMzbUVvT1dsSmxTV3pIcFVpM0NiWl95Q0JUdGVwVl9YSmMxRDlRSmJXSXJqRlJrX3hJM0dXd3g0bld0Q2hIVDFaN2MzdHpKTzVHUFF6dkN6cHpfQmpDbzJ2MlNtb2k2LTVwRkRyS1NBeW5KeTJ3RjZyMWFkSHNZT0xQTUd1blZOVlBRamR3THQyUzVUejdjb2poUmZwazdnSEVFeDZPNkxZRy1vOFJfczFsMFlVeHRIcDk3RUNuZWJSQzBLMnU5TkZuU3FWbUxTOGVuQmE4OA?oc=5",
+      "snippet": "Au Pays Basque, les grandes manœuvres commencent pour les élections municipales à Bayonne, Anglet et Biarritz&nbsp;&nbsp;francebleu.fr",
+      "date": "Mon, 10 Mar 2025 07:00:00 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 14,
-        "explication": "Source explicite mentionnant Colette Capdevielle comme tête de liste pour les municipales 2026 à Bayonne."
+        "source_index": 16,
+        "explication": "Source explicite : 'Jean-Claude Iriart et Colette Capdevielle mèneront la liste d'union de la gauche' pour les municipales 2026 à Bayonne."
       }
     ],
     "used_sources": [
-      14
+      16
     ],
-    "analysis_at": "2026-01-08T13:43:50.692118Z",
+    "analysis_at": "2026-01-09T14:22:55.982878Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[14],\"justification\":[{\"source_index\":14,\"explication\":\"Source explicite mentionnant Colette Capdevielle comme tête de liste pour les municipales 2026 à Bayonne.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [16], \"justification\": [\n    {\"source_index\": 16, \"explication\": \"Source explicite : 'Jean-Claude Iriart et Colette Capdevielle mèneront la liste d'union de la gauche' pour les municipales 2026 à Bayonne.\"}\n]}"
   }
 }

@@ -116,21 +116,45 @@
       "snippet": "Résultats élections municipales Clermont-Ferrand [63000] : en direct score des listes, taux abstention&nbsp;&nbsp;Ouest-France",
       "date": "Mon, 25 Sep 2017 01:57:05 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026 : « La parité des listes, c’est possible, mais il y a quelques faux culs sur le sujet » - Le Point",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGowMkYzVUpXcDRuQjZQa1hoMWktcUJPSTMzV2FXTXdjaEZtMWxZbXZybUpORFQwanA0UTJYNWo2aFVjUGtjNmM1UVN6VjdtQUlITEJGcWlnRkU2dHlTWndQYlhNblg5WlhzaUQ4OUs0ZDEybzA1ZU8zMWFpb1V5eTdielFoTk9yaHZUaE9pMXJmZ0NlT2F2RVdlY2VnSG9IQXVxMHJZTnFwZEg1am8yUk5HbmNoSzk1N3RESlJRUGs3TE5mY1FuTWZvaXdrVldvcGtPa05KbHNEV3k4UklSSDI0VWJ4U3dLTjkw?oc=5",
+      "snippet": "Municipales 2026 : « La parité des listes, c’est possible, mais il y a quelques faux culs sur le sujet »&nbsp;&nbsp;Le Point",
+      "date": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "source": "Le Point"
+    },
+    {
+      "title": "Le Parlement étend aux petites communes le scrutin de liste paritaire, dès 2026 - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSmc5U0p2dThYYlJsR2ppWUsyS2FNSUR5ZnRuSUlwTXR6U1F5cVBuZF9iaGxmNDhqWUR5WWFaOHpSS3ozcWRKR0ZndlRXNmJuOEpWcHZOWTFWby12cnJ0U0lvMzNZVjhYQ3RTNkZwemRMLTJhZ0dHNlI1STV3cW8zWjB4SEFXcG0zR0gxSlNJOXhVZUloOU9QejQyMGY3ZlhRQWFsdHhNUmZPd2JZbFhiOENMXzc3UzhlanBqYW5DRVIyaHJ3VEpFc3JWcndNWHpmS1BsMkVXSFFzWjIwdWloa3RmUkdPQVZFTHRhMF9hVHRsMkN2VEVEaQ?oc=5",
+      "snippet": "Le Parlement étend aux petites communes le scrutin de liste paritaire, dès 2026&nbsp;&nbsp;Ouest-France",
+      "date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
+        "source_index": 1,
+        "explication": "Aucune mention de Delphine Lingemann ou des municipales 2026."
+      },
+      {
         "source_index": 2,
-        "explication": "La source évoque une potentielle candidature ('sera-t-elle candidate') mais sans confirmation explicite ni mention de 2026."
+        "explication": "Question hypothétique sur une éventuelle candidature (MoDem, pas PS) sans confirmation explicite pour 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Généralités sur les municipales 2026, aucune référence à Delphine Lingemann ou Clermont-Ferrand."
       }
     ],
     "used_sources": [
-      2
+      1,
+      2,
+      3
     ],
-    "analysis_at": "2026-01-08T13:41:46.791497Z",
+    "analysis_at": "2026-01-09T14:20:44.004306Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"La source évoque une potentielle candidature ('sera-t-elle candidate') mais sans confirmation explicite ni mention de 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention de Delphine Lingemann ou des municipales 2026.\"},\n    {\"source_index\": 2, \"explication\": \"Question hypothétique sur une éventuelle candidature (MoDem, pas PS) sans confirmation explicite pour 2026.\"},\n    {\"source_index\": 3, \"explication\": \"Généralités sur les municipales 2026, aucune référence à Delphine Lingemann ou Clermont-Ferrand.\"}\n]}"
   }
 }

@@ -151,6 +151,20 @@
       "snippet": "Municipales à Pornic. Jean-Michel Brard présente sa liste&nbsp;&nbsp;Ouest-France",
       "date": "Wed, 12 Feb 2020 08:00:00 GMT",
       "source": "Ouest-France"
+    },
+    {
+      "title": "Municipales 2026. À Pornic, l’opposant Antoine Hubert officialise sa candidature - Maville Nantes",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmFrQ3FJNG9HalRRSUhUT1UyUGM1dmpYQlN3UE1XbFFzU3JON3hMbHQyd1lCeTgxMFd6RUF0OVhvZlJ1SEd5YUU4elFuRms3U0swMzMzdm9WU1F6bUx5U2V6bnBmTFZQc0Zvcmh4Mk5hX2RDZm56emVtWEUydVFoVmN2M0g1QVYxb0kxdjJ2Y25TQXRiZzIyM1BXb3BFdmFCLUl6WjV2eE1wS3Uwd3lBbktIR3BRR3JLYWw2bml0VzNJMnJNb090VGJOV25uUXZHb2tENnVRU3JDUQ?oc=5",
+      "snippet": "Municipales 2026. À Pornic, l’opposant Antoine Hubert officialise sa candidature&nbsp;&nbsp;Maville Nantes",
+      "date": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "source": "Maville Nantes"
+    },
+    {
+      "title": "Pornic : le maire est candidat sur une liste aux élections sénatoriales 2023 - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZHQ0WkMtUXZ6TmJBM1AzTG5pOVVYMXFiWWYzQkx6TW9ZWmVENEJKcUdVSFl4R2wwOXFZckxGTGpOQUxfU05NVWpFWFAwNUR4TElielN6Y1ZkU0VTWXRhTW85WjQ0RmxWd1hNSl8yRDdoMDZOR3BILUtrYUdacWJPOGx0M2Z2ekRIVE5XOUhmSnJzYWUtQklZSTR4cDFFUkNPWHpOeW11LWxSOFZRTmt3b3JpY050Z1VVdl9uQ0dfX2xKZEVHbUdiUQ?oc=5",
+      "snippet": "Pornic : le maire est candidat sur une liste aux élections sénatoriales 2023&nbsp;&nbsp;Actu.fr",
+      "date": "Tue, 06 Jun 2023 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
@@ -158,14 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Jean-Michel BRARD comme candidat ou non-candidat aux municipales 2026 de Pornic. La source 2 liste les candidats déclarés mais ne cite pas son nom."
+        "explication": "Aucune source ne mentionne explicitement Jean-Michel BRARD comme candidat aux municipales 2026."
       }
     ],
-    "used_sources": [
-      2
-    ],
-    "analysis_at": "2026-01-08T13:31:56.161921Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:09:07.921709Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[2],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jean-Michel BRARD comme candidat ou non-candidat aux municipales 2026 de Pornic. La source 2 liste les candidats déclarés mais ne cite pas son nom.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Jean-Michel BRARD comme candidat aux municipales 2026.\"}\n]}"
   }
 }

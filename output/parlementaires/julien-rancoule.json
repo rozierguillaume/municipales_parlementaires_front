@@ -151,26 +151,30 @@
       "snippet": "Résultats municipales à Limoux : Pierre Durand en tête au premier tour avec 47,71 % des voix&nbsp;&nbsp;ladepeche.fr",
       "date": "Sun, 15 Mar 2020 07:00:00 GMT",
       "source": "ladepeche.fr"
+    },
+    {
+      "title": "Limoux : combien de listes seront sur la ligne de départ aux municipales ? - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEpYNTFQRkx3MXZPZmpyd2dtcFhRa2dleFdXU2o3QmxYMmZWWmFzMm0tX2ZadGdOSnFVRGh6RmNVOW1CRnprTjFpU05LMmw2cmR2VmVLR1lVbmdmelFFN1lZYkdQRkRyUGRyOHJpeWhFQmROVTBJRTY0OEhaeGJsQlhwR09EQzNNNTJvLUE0SDBUNjVOdjUtUkNyVmVzeHJWV3BxVjNNcGF5azEzazMwQjdqRGFEa0plb3c?oc=5",
+      "snippet": "Limoux : combien de listes seront sur la ligne de départ aux municipales ?&nbsp;&nbsp;ladepeche.fr",
+      "date": "Wed, 13 May 2020 07:00:00 GMT",
+      "source": "ladepeche.fr"
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Source mentionne explicitement 'Municipales 2026' et associe Julien Rancoule (RN) à une action juridique liée aux élections municipales."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement Julien RANCOULE comme candidat aux municipales 2026 à Limoux."
       },
       {
-        "source_index": 8,
-        "explication": "Source indique clairement que le RN de Castelnaudary, via Julien Rancoule, 'veut changer le cap de la ville' dans le cadre des Municipales 2026."
+        "source_index": null,
+        "explication": "Les sources évoquent Castelnaudary (commune différente) et des actions juridiques ou stratégies du RN sans confirmation de candidature en 2026 pour Limoux."
       }
     ],
-    "used_sources": [
-      5,
-      8
-    ],
-    "analysis_at": "2026-01-08T13:54:13.877783Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:36:01.816096Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[5,8],\"justification\":[{\"source_index\":5,\"explication\":\"Source mentionne explicitement 'Municipales 2026' et associe Julien Rancoule (RN) à une action juridique liée aux élections municipales.\"},{\"source_index\":8,\"explication\":\"Source indique clairement que le RN de Castelnaudary, via Julien Rancoule, 'veut changer le cap de la ville' dans le cadre des Municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Julien RANCOULE comme candidat aux municipales 2026 à Limoux.\"},\n    {\"source_index\": null, \"explication\": \"Les sources évoquent Castelnaudary (commune différente) et des actions juridiques ou stratégies du RN sans confirmation de candidature en 2026 pour Limoux.\"}\n]}"
   }
 }

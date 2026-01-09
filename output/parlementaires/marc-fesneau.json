@@ -165,6 +165,13 @@
       "snippet": "\"La dynamique est du côté de Malik Benakcha\" : Étienne Panchout prend ses distances avec Mathilde Desjonquères&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Fri, 24 Oct 2025 07:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "Municipales 2026. François Deseille (Modem) : « Dijon est une ville centriste » - Le Bien Public",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWZNcGlFc0t6N3NySFJtVGZIRFdXbklwei1hTEZYazh2Tm9QRGNMZkdmX3VoSUt3elR3YzhDYXhIaFl1SFRDaU9Ma1hRM3hMdDk0amVaOFFoY044SVUtUU5nY3NWLUpLSzFFcUVFbEg4aVVHM0NJQUttcGNuSFpDU3d3UU9iUWdBTTVKN3NRUHBFZTFTV0VwU3V5NVFjeW5ZYS1wRy1B?oc=5",
+      "snippet": "Municipales 2026. François Deseille (Modem) : « Dijon est une ville centriste »&nbsp;&nbsp;Le Bien Public",
+      "date": "Thu, 24 Apr 2025 07:00:00 GMT",
+      "source": "Le Bien Public"
     }
   ],
   "analysis": {
@@ -172,18 +179,14 @@
     "justification": [
       {
         "source_index": 8,
-        "explication": "Aucune mention explicite de municipales 2026 ou candidature municipale pour Marc Fesneau, seulement une déclaration politique générale."
-      },
-      {
-        "source_index": null,
-        "explication": "Aucune autre source ne cite Marchenoir ni Marc Fesneau en lien avec les municipales 2026."
+        "explication": "Source mentionne Marc Fesneau mais ne traite ni des municipales 2026 ni de Marchenoir."
       }
     ],
     "used_sources": [
       8
     ],
-    "analysis_at": "2026-01-08T13:41:35.490599Z",
+    "analysis_at": "2026-01-09T14:20:28.723548Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[8],\"justification\":[{\"source_index\":8,\"explication\":\"Aucune mention explicite de municipales 2026 ou candidature municipale pour Marc Fesneau, seulement une déclaration politique générale.\"},{\"source_index\":null,\"explication\":\"Aucune autre source ne cite Marchenoir ni Marc Fesneau en lien avec les municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 8, \"explication\": \"Source mentionne Marc Fesneau mais ne traite ni des municipales 2026 ni de Marchenoir.\"}\n]}"
   }
 }

@@ -151,31 +151,49 @@
       "snippet": "Législatives 2024 : les premiers résultats en outre-mer donnent la gauche victorieuse&nbsp;&nbsp;Libération",
       "date": "Sun, 07 Jul 2024 07:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Elections : le bus des municipales a fait un arrêt à Fort-de-France - rci.fm",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWEtkYWhSUkRKWW1WZzdmUDdSQlJWSklGbkxfUTI0UUw2bFYwWXN0VGFJeVZRdWFHd2tkQWx2X3htY3BCenZhNS03X2ZWUGlGUFNIS2hvSWw3SlV0ZGE2RmFpajZmb2hWd0tJa21xa0tZUDRhSkhQcjZQcE9qZHhQbW5pMGRPVnpRQ0hqb0gxSkM3VGFzdGhqejlOUHRUNEdHM3NsdUNB?oc=5",
+      "snippet": "Elections : le bus des municipales a fait un arrêt à Fort-de-France&nbsp;&nbsp;rci.fm",
+      "date": "Thu, 08 Jan 2026 13:56:08 GMT",
+      "source": "rci.fm"
+    },
+    {
+      "title": "Les députés socialistes s'opposent à la réduction du périmètre du Pass'Sport - Imaz Press",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnp3REtKTVh3cF9SakVkdGpYdHVLVXdBRHlUUEpEdDNjR2JFZUhuRnBnOVZjUGZhVEpncWNrTTFFclpBQzN0V1Uzcm15T0x3V1NsbTZqUUl0b19nVENuX2VVVzVsZmc3QVhxNlp2QVRSQUVhcEhkS2RKRnhFOWhlaFZRMVVfbkN0T1pTVnBfaURNLTdEelg3SWtRcFo5Vjh3M1JabmFPQ0wyZEZES2gtVzlSVHlOS0g4TW5GOQ?oc=5",
+      "snippet": "Les députés socialistes s'opposent à la réduction du périmètre du Pass'Sport&nbsp;&nbsp;Imaz Press",
+      "date": "Fri, 27 Jun 2025 07:00:00 GMT",
+      "source": "Imaz Press"
+    },
+    {
+      "title": "Européennes 2024 : les candidats de la liste Parti socialiste (PS) / Place publique (PP) - Touteleurope.eu",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU2hUWXlxdTA1R1V2UXI1cGVOQjlMUkFXajFkTGZCM2ZNWS1NZnFOOVU5ZV9zcnZtR2VwWmNabFB1UDcyX1lpUTE0OVVyUEJJR2lsTFZBWERRaDdXMFNwRGRjbnhpNi1MWDZRaURhQ2xSWUh3NmtLOEJnTXM3NHNoYzY3b2F1MXpSS2NRcGlaMER4Vmk2dmE3eFlORk92dElBV3d5MDNBTVBrXzJvbWM3Q29FVV9ZVjVual9JMUhYdEZzNnpZb1JnejlCb0Z1U0ZDeXRaV2tMYXZVSEZfRHBwd0JwSlVuZU42ZFNhdUQyYU5LUQ?oc=5",
+      "snippet": "Européennes 2024 : les candidats de la liste Parti socialiste (PS) / Place publique (PP)&nbsp;&nbsp;Touteleurope.eu",
+      "date": "Tue, 21 May 2024 07:00:00 GMT",
+      "source": "Touteleurope.eu"
+    },
+    {
+      "title": "Vie chère en outre-mer, repas à 1 euro, scandale des crèches privées… Le PS dévoile une niche parlementaire éclectique - Libération",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNXB5TVpLVjFxcWJDYTJIZU1HQnI3dEgtRXA3Y0Vic1lJVGlEQVNkaXU5M1ZTdC02VjhSZHBwWWFtSEJmTElqaEpqbXVMeHo5OFlnUThSTjZ3WmNnWnptMDE3bFEtWFllM0xmajlyTDNHMTdVXzdfMmRsY21XbUNjQURyYkhXUnM3alk3YURwYXpqLUtQeTZoZFIwNF9fVG5kazlSQUxUd0FUZmdYMjZOZ1BIV0tBNEl6cE1oRmx6RHlVVWtSekdFMExHTktBSXVsU2VtWFdnaGJzREtjUURyS2drU1NVekp4SUJFWXpWVXVGN3REZlpNUnJieUtMemNuWEJWZEV5RVFMVjRPWkxsTmZscjJQWnc?oc=5",
+      "snippet": "Vie chère en outre-mer, repas à 1 euro, scandale des crèches privées… Le PS dévoile une niche parlementaire éclectique&nbsp;&nbsp;Libération",
+      "date": "Tue, 05 Nov 2024 08:00:00 GMT",
+      "source": "Libération"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 4,
-        "explication": "Béatrice Bellay officialise sa candidature aux municipales 2026 à Fort-de-France."
-      },
-      {
-        "source_index": 3,
-        "explication": "Alliance mentionnée incluant explicitement sa candidature municipale 2026."
-      },
-      {
         "source_index": 5,
-        "explication": "Confirme son alliance et implication dans la course pour la mairie de Fort-de-France en 2026."
+        "explication": "La source mentionne explicitement que Béatrice Bellay a officialisé sa candidature aux municipales de Fort-de-France pour l’échéance 2026."
       }
     ],
     "used_sources": [
-      3,
-      4,
       5
     ],
-    "analysis_at": "2026-01-08T13:46:19.166936Z",
+    "analysis_at": "2026-01-09T14:26:17.002328Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[3,4,5],\"justification\":[{\"source_index\":4,\"explication\":\"Béatrice Bellay officialise sa candidature aux municipales 2026 à Fort-de-France.\"},{\"source_index\":3,\"explication\":\"Alliance mentionnée incluant explicitement sa candidature municipale 2026.\"},{\"source_index\":5,\"explication\":\"Confirme son alliance et implication dans la course pour la mairie de Fort-de-France en 2026.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [5], \"justification\": [\n    {\"source_index\": 5,\n     \"explication\": \"La source mentionne explicitement que Béatrice Bellay a officialisé sa candidature aux municipales de Fort-de-France pour l’échéance 2026.\"}\n]}"
   }
 }

@@ -151,6 +151,28 @@
       "snippet": "Législatives 2024 : Quels sont les candidats qualifiés pour le second tour en Seine-Maritime&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 01 Jul 2024 07:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Législatives 2024 : Jumel et Dufour en difficulté, Lecoq et Benard en tête, fortunes diverses au Nouveau Front Populaire - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc2FZeDhKR18zYmVqcV9SY0R5N0Q3eGpUclNvb3VHV3cxNHZaZkFra0JWcUM5Y2pwUWtESHpFQTFNZVh2SUpJQ09wMVJyXzM1VFg3YkdqR0VLSnpNWnhRbkVnakNaLVB4SUJkSC1HejhMRk45VGRIdzg5OVluWW5tUjRBbW8tdVRWUTh0UUdzVDBJY2xIWlB5NlVaSGNoc1ZMV3N6YXVPV09Nbmx2VWlVZzZXbFVZOEFiVWIyRzVQOU81Y0dMMExlcnZMUWhVdWM5cUU2bk5RaGdDR1lCeWY1SDJGd3JOeXBXSG5EcWhBLTJQMmQ0Tm5KLTlR?oc=5",
+      "snippet": "Législatives 2024 : Jumel et Dufour en difficulté, Lecoq et Benard en tête, fortunes diverses au Nouveau Front Populaire&nbsp;&nbsp;francebleu.fr",
+      "snippet_source": "rss",
+      "date": "Sun, 30 Jun 2024 07:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Budget 2026 : une ambition pour la défense, moins pour la diplomatie - L'Humanité",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDZZcGdCYXctU3lROWJmc0lZRlpubTY5RTFaWW1FVnZFQVRBTU9VWElMWkpaOWRzYWdnMHpyUXJCcWJYSWtrdzFrSEkxYlJDNGhYWlJxTUhlVXppdm9OSnp2SVE5NWtRUEU2dnd4VmRzUzN5V1dMQmJMamR4RWd1bHFWcFpBdlkzMUtSV0pPYnpaLWtqX0tyVFgxejVLc0NFLTE4UC0wNGxyYjM0dWdUXzd5NDN5UDdn?oc=5",
+      "snippet": "Budget 2026 : une ambition pour la défense, moins pour la diplomatie&nbsp;&nbsp;L'Humanité",
+      "date": "Wed, 10 Dec 2025 18:40:08 GMT",
+      "source": "L'Humanité"
+    },
+    {
+      "title": "Seine-Maritime. Le député Hubert Wulfranc (PCF) annonce sa démission - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOUU3Uk9WU2p3UV93YS1kbE1lNS02Uzh2Y2hwcG1SZHNwcFlVN0wteU9pamd3aXNCVEhzcEJoanZlRmFDUVhKM0dlOFFscm5pS284LWE1RUcwVk9XcTUtM3hPU0RfVkhBRzU2TWg4dDVQUDNXZ2xGWUFfckNrSGVGb3VURmhFLU5RM2hqbDEyM2I4YWZFTEZnY2llOGR5enJyUmlMbjljaEJlendQS1M4NU1pQ09IbjBCNGJyTjhJSDl0ZlE0eXViYmlTcVdveHFlaWc?oc=5",
+      "snippet": "Seine-Maritime. Le député Hubert Wulfranc (PCF) annonce sa démission&nbsp;&nbsp;Actu.fr",
+      "date": "Fri, 15 Dec 2023 08:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
@@ -158,14 +180,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Édouard BÉNARD (PCF, Saint-Étienne-du-Rouvray) comme candidat ou non aux municipales 2026. La source 4 évoque une section du PCF (Argentan), mais sans lien avec sa commune ni sa candidature."
+        "explication": "Aucune source ne mentionne explicitement Édouard BÉNARD (PCF) ou Saint-Étienne-du-Rouvray en lien avec une candidature municipale 2026."
       }
     ],
-    "used_sources": [
-      4
-    ],
-    "analysis_at": "2026-01-08T13:29:42.724446Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:06:45.375985Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[4],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Édouard BÉNARD (PCF, Saint-Étienne-du-Rouvray) comme candidat ou non aux municipales 2026. La source 4 évoque une section du PCF (Argentan), mais sans lien avec sa commune ni sa candidature.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Édouard BÉNARD (PCF) ou Saint-Étienne-du-Rouvray en lien avec une candidature municipale 2026.\"}\n]}"
   }
 }

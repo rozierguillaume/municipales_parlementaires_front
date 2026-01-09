@@ -151,6 +151,20 @@
       "snippet": "\"Il faut stopper l’hémorragie\": sous la bannière du RN, cette infirmière libérale entre dans la course à l'élection municipale de Vallauris&nbsp;&nbsp;Nice-Matin",
       "date": "Wed, 25 Oct 2023 07:00:00 GMT",
       "source": "Nice-Matin"
+    },
+    {
+      "title": "Elections législatives: Lionel Tivoli (RN) reprend son fauteuil de député dans la 2e circonscription des Alpes-Maritimes - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWnpLZDlLUE5FMlJVUkJ5WHR5ai1LOXdPeHBtcVdIcnUtUEpaRjI1REVTRUxRaW05azFNeXp2TVdkclkwM1gzMGEwWS1KVVcyemRqeDJfejBKdkFRRWZlbEdScGpES0dNRloxNGRGcDY0OVRpT0dzYUtzWUY0MXRCLTZ1eG4wemFSU3NVLTVEWWZOUUd1d2hRZGVacU1XLXQzeWl1WlhwS0JNR3RHWjJrUHFqVzZ5S244QTdPZTBVVHUxVVU3aC1DVF91Y3BFUzBTMUltblh0bUNKN0ZaNTdVU1BvTnRqMDJzSmpsX3J4NTBXdnE0SmY4RGZWWTE?oc=5",
+      "snippet": "Elections législatives: Lionel Tivoli (RN) reprend son fauteuil de député dans la 2e circonscription des Alpes-Maritimes&nbsp;&nbsp;Nice-Matin",
+      "date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "source": "Nice-Matin"
+    },
+    {
+      "title": "Le candidat aux élections municipales Lionel Tivoli présente sa liste pour Vallauris-Golfe-Juan - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNGdfb2RpbGl4VHpZUXBvRk1SanN5YVhEOHU5djltT1JRRGdHYVFkbTY0dGVOMHNkUWh6bXp5TlZDdWRkdkVGbnlMOGx3TUs5SEFucktVSHpqOElud1lYZ1RMZjBsYWdZbFJ3UENkdklUdXhZS3hRZXNHQzZuOFZrbEtYSERza0FwczNBckxTU0VPaFpGdFZPZ2VFUVI0V0l4UHJWQUJBbmtvX3BRMER3VUF4UUVkRTlCdWxMWE55blc3SThFZEkzU3I2enFDSHRtZlJGTktjR1FxeWhGR2c?oc=5",
+      "snippet": "Le candidat aux élections municipales Lionel Tivoli présente sa liste pour Vallauris-Golfe-Juan&nbsp;&nbsp;Nice-Matin",
+      "date": "Sun, 01 Mar 2020 08:00:00 GMT",
+      "source": "Nice-Matin"
     }
   ],
   "analysis": {
@@ -158,14 +172,14 @@
     "justification": [
       {
         "source_index": 2,
-        "explication": "Source explicite mentionnant sa présence sur la liste municipale de Brigitte Vidal à Peymeinade pour les municipales 2026."
+        "explication": "Source explicite : 'Lionel Tivoli [...] sera sur la liste de Brigitte Vidal à Peymeinade' pour les municipales 2026."
       }
     ],
     "used_sources": [
       2
     ],
-    "analysis_at": "2026-01-08T13:56:02.147388Z",
+    "analysis_at": "2026-01-09T14:38:16.133664Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[2],\"justification\":[{\"source_index\":2,\"explication\":\"Source explicite mentionnant sa présence sur la liste municipale de Brigitte Vidal à Peymeinade pour les municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [2], \"justification\": [\n    {\"source_index\": 2, \"explication\": \"Source explicite : 'Lionel Tivoli [...] sera sur la liste de Brigitte Vidal à Peymeinade' pour les municipales 2026.\"}\n]}"
   }
 }

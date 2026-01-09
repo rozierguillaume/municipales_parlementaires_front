@@ -158,46 +158,30 @@
       "snippet": "Jean-Hugues Ratenon défie Patrice Selly à Saint-Benoît&nbsp;&nbsp;Linfo.re",
       "date": "Fri, 31 Jan 2025 08:00:00 GMT",
       "source": "Linfo.re"
+    },
+    {
+      "title": "[Politique] Les municipales en 2026, puis les régionales et départementales: trois blocs et élection à deux bandes - Le Quotidien de La Réunion",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaFA5Q1ZmOFVOMlZxOWhBbzVnNGJfU2YxN2xsdEJnbFV5a0Q2XzBNdUdoNzljS1V1Y2NRM0Fndi1CNkVab0hRTTRJbGlNczhZSzFWTmQyR0RnRGRHWjJ2dGE3ZldvcW9yVmVTRDJrNjhUSHdIeldWckZZaVFtQUNFUDZ6dUVQYWM0OTVRc0tzV1dsZ1lKa3VvdUhwN1BfcVJkRkNOcDhFSDhMaklDUTZPWjRQT3F4ZVp6YnpVdnVETEdxN2tvQ0MwdW9JUkJudkFIOEJHdU15dWNBWTVHbTJBSC1nU1lrM0kzbHdIOU05NllNTmUtLWU5dTNR?oc=5",
+      "snippet": "[Politique] Les municipales en 2026, puis les régionales et départementales: trois blocs et élection à deux bandes&nbsp;&nbsp;Le Quotidien de La Réunion",
+      "date": "Tue, 17 Jun 2025 07:00:00 GMT",
+      "source": "Le Quotidien de La Réunion"
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Titre mentionne explicitement 'Municipales à Saint-Benoît' en 2025-2026 et implique Ratenon comme acteur politique local."
+        "source_index": null,
+        "explication": "Aucune source ne mentionne explicitement une candidature municipale pour Jean-Hugues Ratenon aux élections de 2026."
       },
       {
-        "source_index": 4,
-        "explication": "Titre évoque une opposition directe entre Ratenon et Selly dans le contexte des municipales 2026."
-      },
-      {
-        "source_index": 8,
-        "explication": "Ratenon est cité comme soutien d'une candidature municipale (Payet) en 2026, confirmant son implication active dans les municipales."
-      },
-      {
-        "source_index": 9,
-        "explication": "Titre mentionne explicitement Ratenon dans un contexte de campagne municipale à Saint-Benoît pour 2026."
-      },
-      {
-        "source_index": 11,
-        "explication": "Ratenon dévoile des propositions pour Saint-Benoît, cadre typique d'une candidature municipale en préparation."
-      },
-      {
-        "source_index": 12,
-        "explication": "Titre et contenu suggèrent une campagne active de Ratenon pour les municipales 2026 à Saint-Benoît."
+        "source_index": null,
+        "explication": "Les titres évoquent des débats politiques locaux ou des soutiens à d'autres candidats (ex. Selly), mais sans confirmation de sa propre candidature en 2026."
       }
     ],
-    "used_sources": [
-      1,
-      4,
-      8,
-      9,
-      11,
-      12
-    ],
-    "analysis_at": "2026-01-08T13:40:26.577562Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:19:10.638425Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,4,8,9,11,12],\"justification\":[{\"source_index\":1,\"explication\":\"Titre mentionne explicitement 'Municipales à Saint-Benoît' en 2025-2026 et implique Ratenon comme acteur politique local.\"},{\"source_index\":4,\"explication\":\"Titre évoque une opposition directe entre Ratenon et Selly dans le contexte des municipales 2026.\"},{\"source_index\":8,\"explication\":\"Ratenon est cité comme soutien d'une candidature municipale (Payet) en 2026, confirmant son implication active dans les municipales.\"},{\"source_index\":9,\"explication\":\"Titre mentionne explicitement Ratenon dans un contexte de campagne municipale à Saint-Benoît pour 2026.\"},{\"source_index\":11,\"explication\":\"Ratenon dévoile des propositions pour Saint-Benoît, cadre typique d'une candidature municipale en préparation.\"},{\"source_index\":12,\"explication\":\"Titre et contenu suggèrent une campagne active de Ratenon pour les municipales 2026 à Saint-Benoît.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature municipale pour Jean-Hugues Ratenon aux élections de 2026.\"},\n    {\"source_index\": null, \"explication\": \"Les titres évoquent des débats politiques locaux ou des soutiens à d'autres candidats (ex. Selly), mais sans confirmation de sa propre candidature en 2026.\"}\n]}"
   }
 }

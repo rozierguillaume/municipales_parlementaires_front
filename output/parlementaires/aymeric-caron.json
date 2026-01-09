@@ -158,6 +158,13 @@
       "snippet": "Municipales 2026 à Marseille : Sébastien Delogu, député LFI, officialise sa candidature&nbsp;&nbsp;Actu.fr",
       "date": "Mon, 17 Nov 2025 08:00:00 GMT",
       "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales à Paris : « Je n’ai peur de personne », clame Sophia Chikirou, désormais candidate des Insoumis - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTzVRZ1cySFFnTnF0MkJ6OXhxQVFGYlZ5eWhkNC1FWU96bUNLYjFodkROYmJVS0RyM3pCQVNNNC11UWpEM0VMblRpcWx0d0llWmRndVJYdmxqWWRMRk51T2dsQkVrWTdqNWp4N3ZmOGJ1cTNYNUpyNndBLTh4c01waFRXTFRKdlhRTGR6YWhyNWZwbGZneF95S1ZSdXRxb2d1aF9TVTJVdDVVaW56V19RSXcxN0lFNVJfZ1ZpZUxhaHkzS250Ym5aenpJbkt3bEVRQkZlU0ZiNFB1RmpiM2RLVVBZdXo2bWNMWnMzSzVTVFdEaExzalQ5elMxVkg0S0tBTEtZZnh1dw?oc=5",
+      "snippet": "Municipales à Paris : « Je n’ai peur de personne », clame Sophia Chikirou, désormais candidate des Insoumis&nbsp;&nbsp;Le Parisien",
+      "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
@@ -165,14 +172,14 @@
     "justification": [
       {
         "source_index": 15,
-        "explication": "Source explicite : 'Aymeric Caron présentera un candidat face à Danièle Obono lors des municipales dans le 18e arrondissement de Paris' (2026)."
+        "explication": "Source affirme explicitement qu'Aymeric Caron présentera un candidat (donc candidature en jeu) pour les municipales 2026 dans le 18e arrondissement de Paris."
       }
     ],
     "used_sources": [
       15
     ],
-    "analysis_at": "2026-01-08T13:36:59.080427Z",
+    "analysis_at": "2026-01-09T14:15:08.699352Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[15],\"justification\":[{\"source_index\":15,\"explication\":\"Source explicite : 'Aymeric Caron présentera un candidat face à Danièle Obono lors des municipales dans le 18e arrondissement de Paris' (2026).\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [15], \"justification\": [\n    {\"source_index\": 15, \"explication\": \"Source affirme explicitement qu'Aymeric Caron présentera un candidat (donc candidature en jeu) pour les municipales 2026 dans le 18e arrondissement de Paris.\"}\n]}"
   }
 }

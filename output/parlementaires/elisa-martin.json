@@ -179,14 +179,14 @@
     "justification": [
       {
         "source_index": 13,
-        "explication": "Évoque une position politique d'Élisa Martin (LFI) sur la continuité municipale, mais sans mention explicite de sa candidature aux municipales 2026."
+        "explication": "Source mentionne Elisa Martin (LFI) mais ne confirme pas explicitement sa candidature aux municipales 2026."
       }
     ],
     "used_sources": [
       13
     ],
-    "analysis_at": "2026-01-08T13:38:04.256486Z",
+    "analysis_at": "2026-01-09T14:16:23.827816Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[13],\"justification\":[{\"source_index\":13,\"explication\":\"Évoque une position politique d'Élisa Martin (LFI) sur la continuité municipale, mais sans mention explicite de sa candidature aux municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 13, \"explication\": \"Source mentionne Elisa Martin (LFI) mais ne confirme pas explicitement sa candidature aux municipales 2026.\"}\n]}"
   }
 }

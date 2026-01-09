@@ -151,46 +151,30 @@
       "snippet": "Municipales 2026 : Lysandre Merlier du PS candidat à Panazol pour \"une alternative sociale, écologique, démocratique\"&nbsp;&nbsp;francebleu.fr",
       "date": "Sun, 19 Oct 2025 07:00:00 GMT",
       "source": "francebleu.fr"
+    },
+    {
+      "title": "Coussac-Bonneval (87500) : Résultat des élections municipales 2026 - ICI - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQay1tTmdSX2s3TmNPU2JxZnZLaVhSOG8wV1IwTHBPVmZYTUpRM1laTWt1eEpWUDhUZWp0bGtCa3RZc0tsaDhjREhXdEtudnhGdkFuTUk4NEZjNWdQUVVrU0tZSzlEVDZwcE94YkxWaFU4aHdhbUhYb1lxR1VjZzdTZmd1VEpzc1FQYk9IYUN2YkU?oc=5",
+      "snippet": "Coussac-Bonneval (87500) : Résultat des élections municipales 2026 - ICI&nbsp;&nbsp;francebleu.fr",
+      "date": "Tue, 02 Sep 2025 00:48:52 GMT",
+      "source": "francebleu.fr"
     }
   ],
   "analysis": {
-    "status": "OUI",
+    "status": "NON",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Titre mentionne explicitement 'Damien Maudet officialise sa candidature' aux municipales 2026 à Limoges."
+        "source_index": null,
+        "explication": "Toutes les sources mentionnent **Damien MAUDET** comme candidat, mais **aucune ne confirme explicitement sa candidature pour 2026**. Les titres et contenus indiquent une confusion entre **Damien Maudet (LR)** et **Damien Maudet (LFI)**, ce dernier étant le seul cité comme candidat aux municipales 2026 à Limoges."
       },
       {
-        "source_index": 2,
-        "explication": "Titre confirme la candidature de Damien Maudet à la mairie de Limoges pour les municipales 2026."
-      },
-      {
-        "source_index": 3,
-        "explication": "Titre indique clairement 'Damien Maudet, candidat à la mairie de Limoges' pour les municipales."
-      },
-      {
-        "source_index": 4,
-        "explication": "Titre précise que Damien Maudet 'veut faire gagner la gauche' et se présente aux municipales 2026."
-      },
-      {
-        "source_index": 5,
-        "explication": "Titre officialise sa candidature comme 'député insoumis [...] candidat à la mairie de Limoges' pour 2026."
-      },
-      {
-        "source_index": 6,
-        "explication": "Titre confirme qu'il sera le 'candidat de Limoges Front populaire aux municipales' en 2026."
+        "source_index": null,
+        "explication": "Aucune source ne lie **Damien MAUDET (LR)** à une candidature municipale en 2026. Les sources citent uniquement un homonyme de parti différent (LFI)."
       }
     ],
-    "used_sources": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ],
-    "analysis_at": "2026-01-08T13:39:18.894310Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:17:57.919008Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[1,2,3,4,5,6],\"justification\":[{\"source_index\":1,\"explication\":\"Titre mentionne explicitement 'Damien Maudet officialise sa candidature' aux municipales 2026 à Limoges.\"},{\"source_index\":2,\"explication\":\"Titre confirme la candidature de Damien Maudet à la mairie de Limoges pour les municipales 2026.\"},{\"source_index\":3,\"explication\":\"Titre indique clairement 'Damien Maudet, candidat à la mairie de Limoges' pour les municipales.\"},{\"source_index\":4,\"explication\":\"Titre précise que Damien Maudet 'veut faire gagner la gauche' et se présente aux municipales 2026.\"},{\"source_index\":5,\"explication\":\"Titre officialise sa candidature comme 'député insoumis [...] candidat à la mairie de Limoges' pour 2026.\"},{\"source_index\":6,\"explication\":\"Titre confirme qu'il sera le 'candidat de Limoges Front populaire aux municipales' en 2026.\"}]}"
+    "raw_output": "{\"statut\":\"NON\",\"used_sources\":[],\"justification\":[\n    {\"source_index\":null,\"explication\":\"Toutes les sources mentionnent **Damien MAUDET** comme candidat, mais **aucune ne confirme explicitement sa candidature pour 2026**. Les titres et contenus indiquent une confusion entre **Damien Maudet (LR)** et **Damien Maudet (LFI)**, ce dernier étant le seul cité comme candidat aux municipales 2026 à Limoges.\"},\n    {\"source_index\":null,\"explication\":\"Aucune source ne lie **Damien MAUDET (LR)** à une candidature municipale en 2026. Les sources citent uniquement un homonyme de parti différent (LFI).\"}\n]}"
   }
 }

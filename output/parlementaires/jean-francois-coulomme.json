@@ -151,19 +151,60 @@
       "snippet": "Chambéry. Municipales 2026 : les partis centristes dans l’attente&nbsp;&nbsp;Le Dauphiné Libéré",
       "date": "Mon, 07 Oct 2024 07:00:00 GMT",
       "source": "Le Dauphiné Libéré"
+    },
+    {
+      "title": "Législatives 2024 : en Savoie, le Nouveau Front Populaire investit des candidats LFI et Parti communiste - L'Essor Savoyard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdGdrVnE5RHlIWnpoRkxMN3lFY1FzX3ZQZmRlcFJvU0FQNFJ3bVlMLUkxdEdGYmlscGZrOVlvay02UWFoYzNlbWpQRHgzWTI2TW5WOUQ0ZFlYaDRfYkZ4VGVJeGxjU2xoRl9xQjdrWjJFR0lCUldzOS1QdTF2R2pUaXZZaDNHcEpsZUVwUUZpQmhUXzA1RTI3SXhjVFhqNlAySHRkUk5Zem1abnhTUmNJTDYzYWlvZEJRQlBQSXRPdFFseVNiSVJOc2xOblA0SzRHM2ZUb1F6dGJfMTQ?oc=5",
+      "snippet": "Législatives 2024 : en Savoie, le Nouveau Front Populaire investit des candidats LFI et Parti communiste&nbsp;&nbsp;L'Essor Savoyard",
+      "date": "Fri, 28 Jun 2024 07:00:00 GMT",
+      "source": "L'Essor Savoyard"
+    },
+    {
+      "title": "Savoie. À un an des élections municipales, ce qui se prépare en coulisses - Le Dauphiné Libéré",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanZIel91ODRCenBiajdsT3VURWxLZXc2UEtpZVF6NnBFZmJ6U0xkRk1vXzdjdWx4VkNobEJiSTJ1YWZ6YUpZWEt5MmJTa0hBck9mVmhpcUpmSl82Y0FKem50Wng5UVhZeUI3Vl9SQk1fWUQwYTBrNGVxcW43MjNlYnJfWkNSbm1oWWZDbEE1WFlKQTdmSTh5Y3pLWmNxQnl5RFlZaTJpTy1SQkl4WW9taVN3?oc=5",
+      "snippet": "Savoie. À un an des élections municipales, ce qui se prépare en coulisses&nbsp;&nbsp;Le Dauphiné Libéré",
+      "date": "Wed, 26 Mar 2025 07:00:00 GMT",
+      "source": "Le Dauphiné Libéré"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Jean-François Coulomme (SE) ou Les Déserts en lien avec une candidature, un retrait ou les municipales 2026."
+        "source_index": 1,
+        "explication": "Aucune mention explicite de Jean-François Coulomme ou des Déserts"
+      },
+      {
+        "source_index": 2,
+        "explication": "Évoque LFI et Chambéry, sans lien avec Coulomme ou Les Déserts"
+      },
+      {
+        "source_index": 3,
+        "explication": "Thème hors sujet (proposition de loi sur les cartes d'identité)"
+      },
+      {
+        "source_index": 4,
+        "explication": "Mentionne 'municipales 2026' mais concerne La Léchère, pas Les Déserts"
+      },
+      {
+        "source_index": 5,
+        "explication": "Hors sujet (chute du gouvernement)"
+      },
+      {
+        "source_index": 6,
+        "explication": "Hors sujet (vote de confiance et compromis politiques nationaux)"
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:36:02.158747Z",
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "analysis_at": "2026-01-09T14:14:07.669557Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Jean-François Coulomme (SE) ou Les Déserts en lien avec une candidature, un retrait ou les municipales 2026.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention explicite de Jean-François Coulomme ou des Déserts\"},\n    {\"source_index\": 2, \"explication\": \"Évoque LFI et Chambéry, sans lien avec Coulomme ou Les Déserts\"},\n    {\"source_index\": 3, \"explication\": \"Thème hors sujet (proposition de loi sur les cartes d'identité)\"},\n    {\"source_index\": 4, \"explication\": \"Mentionne 'municipales 2026' mais concerne La Léchère, pas Les Déserts\"},\n    {\"source_index\": 5, \"explication\": \"Hors sujet (chute du gouvernement)\"},\n    {\"source_index\": 6, \"explication\": \"Hors sujet (vote de confiance et compromis politiques nationaux)\"}\n]}"
   }
 }

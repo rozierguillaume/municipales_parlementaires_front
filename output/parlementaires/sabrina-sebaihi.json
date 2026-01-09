@@ -158,25 +158,43 @@
       "snippet": "Ivry : EELV et LREM ont désigné leur candidate pour les municipales&nbsp;&nbsp;Le Parisien",
       "date": "Mon, 17 Jun 2019 07:00:00 GMT",
       "source": "Le Parisien"
+    },
+    {
+      "title": "Sabrina Sebaihi, une proche de Yannick Jadot, va porter un nouveau courant chez Europe Écologie-Les Verts - lejdd.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHdNb3U1OHBGRHNwM0VseC1qNzJ3UmdkUkpmVG1aeE4zWnRZdzl6cU94V1ZwRGJrbEtwSjdLaUE2V2dweFhtbG9zc0NZRUtVaWxPcHpzVjk5eGdfaEJZb0g4UkFyN284MjFEa1NMZjRLWHRsTGE0UTB3ZkpHSENnb2k1eHp1ZEZld1FHSmxhYkxoMmtZR0ltMF9ONm9vU1g3NEpLVFR2SWFNUE0tLVJneEM5SEVWYUVQZTFLRjZ0YVYwQU1MdkQwTUUxSXZqYkFXeGdfb2x2MkZIUQ?oc=5",
+      "snippet": "Sabrina Sebaihi, une proche de Yannick Jadot, va porter un nouveau courant chez Europe Écologie-Les Verts&nbsp;&nbsp;lejdd.fr",
+      "snippet_source": "rss",
+      "date": "Thu, 25 Aug 2022 07:00:00 GMT",
+      "source": "lejdd.fr"
+    },
+    {
+      "title": "Municipales 2020. A Ivry-sur-Seine, la candidate EELV s'allie au maire sortant PCF, Philippe Bouyssou - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPV1JIUG9xTFJNRFY2aU4xak5yc01pWmNxaTQ4XzJQNF9sUHc5UnY3ZzNKMFdDVUJreV91d0lWbjJlZDY2QS11LXBvRDMzczZFTWdaOWt3Rm9aaW9hS0twN3VYMjRVQ2p6czQwVl9aeUlFZnA1UGozR0E2eldBNVZOVHNKeUQtamlLYWNIbzhQbnNTTGk0aXhmd0FpOGx6NEcyM1I0ZlpTMUo4dUN0S2NkSTZPcl9VcTM3b2xxdHhHbTlWVWppaFJITVdKdHdwaVBlSUExR05xZml4bm1uajM1djBXdWlCQ3hGWEZIbVlaU3JPb3pyMnc?oc=5",
+      "snippet": "Municipales 2020. A Ivry-sur-Seine, la candidate EELV s'allie au maire sortant PCF, Philippe Bouyssou&nbsp;&nbsp;Actu.fr",
+      "snippet_source": "rss",
+      "date": "Mon, 08 Jun 2020 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Présidentielle : une porte-parole de Yannick Jadot critique la stratégie d’EELV et l’aile gauche du parti - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQVFpvOUhIYzJfaDVmd0F1TlYtS001VXZVT1lJMmZNUm5TSG5wZnJlODBtWi14S1d6czl3X3BSaE9HbVd5ZlBzX3hSeWN2OXpoVkxLRld1TGdmcUN5NlhtOEJ2Um1vVW5LSGdlYThYcTU1bmREWTlHeDl6Rml2b05jMHo1UEZwRmtkVTVSV09jYk4wMnc4NVo3T1BUWGFWU2ZObHVZS0Z3QnlJdEFILWVGd0lsZklIU0lqMkxINXZkOWlxNUdzcDVzaklUMUoyVVRyb2Q5MTFVQlJrNzdTb0diOEpXT2RhcHhyWm9VY2dwcHJQSlF6TzIxZ29nM3Vtc3h5SDVPVjFwMWxacDlDeGxkSTZQaHdfNFMyS0tNa1Rlaw?oc=5",
+      "snippet": "Présidentielle : une porte-parole de Yannick Jadot critique la stratégie d’EELV et l’aile gauche du parti&nbsp;&nbsp;Le Parisien",
+      "snippet_source": "rss",
+      "date": "Wed, 20 Apr 2022 07:00:00 GMT",
+      "source": "Le Parisien"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 6,
-        "explication": "La source mentionne uniquement les municipales 2025 (implicite dans 'maire sortant') sans lien avec une candidature en 2026."
-      },
-      {
         "source_index": null,
-        "explication": "Aucune autre source ne contient d'indice explicite sur une candidature ou un retrait aux municipales 2026 pour Sabrina Sebaihi."
+        "explication": "Aucune source ne mentionne explicitement Sabrina Sebaihi comme candidate aux municipales de 2026."
       }
     ],
-    "used_sources": [
-      6
-    ],
-    "analysis_at": "2026-01-08T13:29:31.465350Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:06:34.448752Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[6],\"justification\":[{\"source_index\":6,\"explication\":\"La source mentionne uniquement les municipales 2025 (implicite dans 'maire sortant') sans lien avec une candidature en 2026.\"},{\"source_index\":null,\"explication\":\"Aucune autre source ne contient d'indice explicite sur une candidature ou un retrait aux municipales 2026 pour Sabrina Sebaihi.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Sabrina Sebaihi comme candidate aux municipales de 2026.\"}\n]}"
   }
 }

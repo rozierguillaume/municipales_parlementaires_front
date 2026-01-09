@@ -158,19 +158,79 @@
       "snippet": "Alcool à l’Assemblée nationale : \"Qu’on nous laisse défendre les vins de nos terroirs\"… Les élus d’Occitanie vent debout contre l’interdiction&nbsp;&nbsp;Midi Libre",
       "date": "Fri, 07 Nov 2025 08:00:00 GMT",
       "source": "Midi Libre"
+    },
+    {
+      "title": "Montpellier. Politique : savez-vous qui va remplacer Fanny Dombre-Coste ? - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjVYanV4TmF6RlYyeHd4bDJzR3ZSTGZhUk1JYXNIU0N4MTYwZnpVcDNJZ1lNSEd6SmhXY19vNzBFOHZfRkVyaHVFM01XTTBlcWdqbmhMblhuTTZ6MzlrbzlMRGdjVHRzQmZjNmx5Yk52TDh6S0NPY2F2N2RsdVlSU2xockM1NWg4WHBTRWRIMXZBQ1ZnUVJpMFI4ZnRSRGpjcTQ0UUFpT25oT1VVOWdRaXdLNGlJU2tEaWVrSUYxOXdTWVRJ?oc=5",
+      "snippet": "Montpellier. Politique : savez-vous qui va remplacer Fanny Dombre-Coste ?&nbsp;&nbsp;Actu.fr",
+      "date": "Sat, 07 Sep 2024 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Les députés LFI de l'Hérault veulent arrêter le projet du contournement ouest de Montpellier avec une proposition de loi - francebleu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMk5nNXRGVVNDZm0xTlBEc1NlaGJJQ1l0b2ZIMnJ5clRIS0pNR2ZjeklQN25pN2MzZ3FFLXlWY2phRmhGNmIyNjJmTFlGaWZlamdscDdmaDhJdzdndEhoaWd3U2ZKWjBBc3V4ZE1ST1FFNmpLU09VbFRMMGFYbi1relh5OVh0bVl4MHdqS0kwUU5kNUVlM3Z4Njk2REM4X21Id082TXdKemQxT3pqLVBjMVZianczaHVkRkNweU9xclJjTEFNd2dLbm1vZVctTDJIeG1xSVBZU1QwMXlFV3lsSl9zSF9UOHFsd0ZUMGlMVUtNRGh6YzJ0cnBjVjEyNGc?oc=5",
+      "snippet": "Les députés LFI de l'Hérault veulent arrêter le projet du contournement ouest de Montpellier avec une proposition de loi&nbsp;&nbsp;francebleu.fr",
+      "date": "Sat, 09 Nov 2024 08:00:00 GMT",
+      "source": "francebleu.fr"
+    },
+    {
+      "title": "Municipales à Montpellier : Michaël Delafosse présente ses 65 colistiers - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTV0S3RLbW9Cc3Rwd3hWMGNvN0xiU2o1YlBtd0w0bHpvSVdXREhSakRFc1ZXT0hsUXdqNHdxcmFkM1lSSHp1RFZZalVmRWs1bEpOc204TmZTSFg3ZkJxbXhUeGhVN2VaRGdRbkJzRUQzdk9LWHJEMDVfTHp4V244RVc0eDhtNHB4WjhHRFdnd0gtbFVuSkhCNDlQS09XcFAta19xYjJLZlNmWkl4Rzhzem1fMzItdEQ2d2tqVmM0bw?oc=5",
+      "snippet": "Municipales à Montpellier : Michaël Delafosse présente ses 65 colistiers&nbsp;&nbsp;Actu.fr",
+      "date": "Wed, 26 Feb 2020 08:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Près de Montpellier : Françoise Lesaunier nouvelle maire de Saint-Clément-de-Rivière - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdGhCaklaemhieXBBQlhwRFh3eHhHbW9yUzBLSnphVU5fRzZWT2hkbTh3aGtHZVRxT0tHMnBQR0Z4TE9Dem5ndHROYnpXandERG9vNGlFdVpjU3lzY3NSZm9lVDFFV2xsYVV1V0xGWmhoYUl1V0RPU2lJbS1VN2RBVTZmd3ZsUGdVYmgyWVhzUURMMkZpSzlhcVJUbHp1cnVsNV8yYjVaM2V6dHZEZUFWUzdvaklUbERPdl9pMXVHbk5BWE1rUGtDRC01Y2NBb2tfNDFwVUU5cVQyU1lYZWNBZmc4V0JDd3VB?oc=5",
+      "snippet": "Près de Montpellier : Françoise Lesaunier nouvelle maire de Saint-Clément-de-Rivière&nbsp;&nbsp;Actu.fr",
+      "date": "Wed, 24 Aug 2022 07:00:00 GMT",
+      "source": "Actu.fr"
     }
   ],
   "analysis": {
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature (ou un retrait) de Fanny Dombre-Coste aux municipales 2026 à Montpellier."
+        "source_index": 1,
+        "explication": "Aucune mention de Fanny Dombre-Coste ou des municipales 2026."
+      },
+      {
+        "source_index": 2,
+        "explication": "Pas de lien avec la personne ou les élections municipales 2026."
+      },
+      {
+        "source_index": 3,
+        "explication": "Absence totale de référence à une candidature municipale ou à l’échéance 2026."
+      },
+      {
+        "source_index": 4,
+        "explication": "Discussion sur Sébastien Lecornu et la gauche héraultaise, sans mention de Dombre-Coste ou des municipales 2026."
+      },
+      {
+        "source_index": 5,
+        "explication": "Interview de Fanny Dombre-Coste mais aucun lien avec une candidature municipale 2026."
+      },
+      {
+        "source_index": 6,
+        "explication": "Mention d’une liste à Montferrier, sans référence à Montpellier ou à Dombre-Coste."
+      },
+      {
+        "source_index": 7,
+        "explication": "Conflit politique local à Montpellier mais aucune candidature municipale 2026 évoquée."
       }
     ],
-    "used_sources": [],
-    "analysis_at": "2026-01-08T13:44:23.116841Z",
+    "used_sources": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "analysis_at": "2026-01-09T14:23:48.963361Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature (ou un retrait) de Fanny Dombre-Coste aux municipales 2026 à Montpellier.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": 1, \"explication\": \"Aucune mention de Fanny Dombre-Coste ou des municipales 2026.\"},\n    {\"source_index\": 2, \"explication\": \"Pas de lien avec la personne ou les élections municipales 2026.\"},\n    {\"source_index\": 3, \"explication\": \"Absence totale de référence à une candidature municipale ou à l’échéance 2026.\"},\n    {\"source_index\": 4, \"explication\": \"Discussion sur Sébastien Lecornu et la gauche héraultaise, sans mention de Dombre-Coste ou des municipales 2026.\"},\n    {\"source_index\": 5, \"explication\": \"Interview de Fanny Dombre-Coste mais aucun lien avec une candidature municipale 2026.\"},\n    {\"source_index\": 6, \"explication\": \"Mention d’une liste à Montferrier, sans référence à Montpellier ou à Dombre-Coste.\"},\n    {\"source_index\": 7, \"explication\": \"Conflit politique local à Montpellier mais aucune candidature municipale 2026 évoquée.\"}\n]}"
   }
 }

@@ -158,6 +158,13 @@
       "snippet": "Municipales 2026 : À Lyon, La France insoumise se prépare à déposer une liste autonome&nbsp;&nbsp;Tribune de Lyon",
       "date": "Thu, 22 May 2025 07:00:00 GMT",
       "source": "Tribune de Lyon"
+    },
+    {
+      "title": "Municipales à Grenoble : LFI fera cavalier seul au 1er tour en 2026 avec Allan Brunon - grenoblemag.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2Q1Y0FmRzAwQmQzVlJ3UHFOS3pQb2FHbDdKcHNua0prazFCdFh5dzhPYVFrbXJuR20xM3dscWtTOHh4UDVDM3A2SURHMnVtUDkxY2NTZVNwczZ4NkhrZzhKdVhUSDk4SjRpWnppYTdaM1BVY0VWZy1DN2lmeC1nRGhLQ0V0TnFPZVJyQlR2b2lpdVdqbW5mVVpqOFotUjV1dTFKSFJCNDRVRFRodXRBdW4wWFEwNl81SjVhQ3Vta2NrZw?oc=5",
+      "snippet": "Municipales à Grenoble : LFI fera cavalier seul au 1er tour en 2026 avec Allan Brunon&nbsp;&nbsp;grenoblemag.com",
+      "date": "Sun, 21 Sep 2025 07:00:00 GMT",
+      "source": "grenoblemag.com"
     }
   ],
   "analysis": {
@@ -165,14 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Gabriel Amard comme candidat aux municipales 2026 à Villeurbanne. La source 7 évoque son divorce avec le PS mais sans lien avec une candidature."
+        "explication": "Aucune source ne mentionne explicitement Gabriel AMARD comme candidat aux municipales 2026 à Villeurbanne."
       }
     ],
-    "used_sources": [
-      7
-    ],
-    "analysis_at": "2026-01-08T13:34:21.375508Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:12:18.092360Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[7],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Gabriel Amard comme candidat aux municipales 2026 à Villeurbanne. La source 7 évoque son divorce avec le PS mais sans lien avec une candidature.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Gabriel AMARD comme candidat aux municipales 2026 à Villeurbanne.\"}\n]}"
   }
 }

@@ -158,6 +158,29 @@
       "snippet": "A l’Assemblée nationale, Adrien Quatennens trouble le débat sur la réforme des retraites&nbsp;&nbsp;Libération",
       "date": "Wed, 08 Feb 2023 08:00:00 GMT",
       "source": "Libération"
+    },
+    {
+      "title": "Yannick Jadot tend une main prometteuse aux profs - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONTlPUVg3UzItWVJWckZsUERTWWhYRHB2ZlRBTjA2Q0dsc25kTmljYkpkeDlnMmE0N3hNSFp5OTJ3djl4bnQwSi1lamlkTFdubHBJdHhmbnVnZWx5c1A0ek5WYTFzQks1ZDNPWHdxTGY2cEZ0dUt0emF4RFpBUkpjQVk1VzZvM1BONnZXdDZXVGl3UF82TkYxWDh5R3poU1duQ2FIS2lsbEd6YWxYcnpQbUEtdUlsaVU5QlRKbVBaMmpjczlRMVk3Y1B3?oc=5",
+      "snippet": "Yannick Jadot tend une main prometteuse aux profs&nbsp;&nbsp;Libération",
+      "snippet_source": "rss",
+      "date": "Mon, 21 Mar 2022 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "A gauche, François Ruffin revendique le «capitanat» du «Front populaire» - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ2t1SndtcWw2ckpmaUJzeUxTTnNLSnZ1QUo0Z2FINnhtT1NNR0pWc3Uwd1ZiQm1MaVBaRkJCUmEycW9IUUV3TVVpVVNTVTRZM2lMc2hWQlI2YXVDZE1ZMzJ1MjFzVGpYUTZKaFdiazhuX2pUeFdXemhTTDJwbzNWRWV2TjVfVmxyOXBWWXpNU0hQZkdHZmhZMmhZM2Vvd0xYX0FjOGpIVGZIUmNNRkFFT1NMVE5LTzdpVUVaQTk5OHZ4RS1YRnVsWUhCVmxTWXVvTjlFdFBUemNBeU93ZzVRUVI3TjFOd0ZEQUQ5Yk1B?oc=5",
+      "snippet": "A gauche, François Ruffin revendique le «capitanat» du «Front populaire»&nbsp;&nbsp;Libération",
+      "snippet_source": "rss",
+      "date": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "source": "Libération"
+    },
+    {
+      "title": "Résultats des législatives 2024: qui sont les 76 députés déjà élus à l’issue du premier tour? - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdnNCRWJpb0RoQ0NqSHQwQ2ozZkRLazJJUmYzbVVyLUJCUTdXeUphdWZZVWQtR285OWhZNDhfODB5T0ZmMDRjV0xqV085T1plSHRuTlItVU16V3k5Rm1qYjFTMEJCcXpFb19XSVVjREE5cHlVOTRJcl8waGRDSDgzUFM3R3ZkTFhnbWRBWUZqZU1JNno3akhtMGFKWXczNmJpcWgybC0yVVNFeU43MjVXSTkxZlVKMUNmeXN0bDJsWFFYR1oycUtDckhtcFdCSHFnMFZ1UHllUC1WVWYxbU5zdEl3?oc=5",
+      "snippet": "Résultats des législatives 2024: qui sont les 76 députés déjà élus à l’issue du premier tour?&nbsp;&nbsp;Le Figaro",
+      "date": "Mon, 01 Jul 2024 07:00:00 GMT",
+      "source": "Le Figaro"
     }
   ],
   "analysis": {
@@ -165,12 +188,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement une candidature ou un retrait pour les municipales 2026 à Villejuif."
+        "explication": "Aucune source ne mentionne explicitement une candidature municipale de Sophie Taillé-Polian pour 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:29:35.877864Z",
+    "analysis_at": "2026-01-09T14:06:39.548107Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement une candidature ou un retrait pour les municipales 2026 à Villejuif.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement une candidature municipale de Sophie Taillé-Polian pour 2026.\"}\n]}"
   }
 }

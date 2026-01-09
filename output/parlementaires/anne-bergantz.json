@@ -116,12 +116,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne Anne BERGANTZ, les municipales 2026, Lévis-Saint-Nom ou une candidature/retrait explicite."
+        "explication": "Aucune source ne mentionne explicitement Anne BERGANTZ, une candidature municipale ou l’échéance 2026."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:40:41.090488Z",
+    "analysis_at": "2026-01-09T14:19:26.951634Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Anne BERGANTZ, les municipales 2026, Lévis-Saint-Nom ou une candidature/retrait explicite.\"}]}"
+    "raw_output": "{\n  \"statut\": \"INCERTAIN\",\n  \"used_sources\": [],\n  \"justification\": [\n    {\n      \"source_index\": null,\n      \"explication\": \"Aucune source ne mentionne explicitement Anne BERGANTZ, une candidature municipale ou l’échéance 2026.\"\n    }\n  ]\n}"
   }
 }

@@ -157,19 +157,13 @@
     "status": "INCERTAIN",
     "justification": [
       {
-        "source_index": 1,
-        "explication": "Source mentionne Abdelkader Lahmar mais uniquement dans un contexte de dénonce d’un rapprochement politique, sans lien explicite avec une candidature municipale 2026."
-      },
-      {
         "source_index": null,
-        "explication": "Aucune source ne confirme sa candidature ou son retrait aux municipales 2026 à Vaulx-en-Velin."
+        "explication": "Aucune source ne mentionne explicitement Abdelkader Lahmar comme candidat aux municipales 2026."
       }
     ],
-    "used_sources": [
-      1
-    ],
-    "analysis_at": "2026-01-08T13:38:29.356375Z",
+    "used_sources": [],
+    "analysis_at": "2026-01-09T14:16:46.399199Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[1],\"justification\":[{\"source_index\":1,\"explication\":\"Source mentionne Abdelkader Lahmar mais uniquement dans un contexte de dénonce d’un rapprochement politique, sans lien explicite avec une candidature municipale 2026.\"},{\"source_index\":null,\"explication\":\"Aucune source ne confirme sa candidature ou son retrait aux municipales 2026 à Vaulx-en-Velin.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Abdelkader Lahmar comme candidat aux municipales 2026.\"}\n]}"
   }
 }

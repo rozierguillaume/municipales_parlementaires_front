@@ -151,41 +151,53 @@
       "snippet": "Henri Alfandari candidat aux municipales 2026 à Tours : \"J’ai décidé de prendre mes responsabilités\"&nbsp;&nbsp;lanouvellerepublique.fr",
       "date": "Mon, 02 Jun 2025 07:00:00 GMT",
       "source": "lanouvellerepublique.fr"
+    },
+    {
+      "title": "\"Un lieu de rencontre et de travail\" : la permanence, plus qu’un local pour les municipales en Indre-et-Loire - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaElrNlFwekVPX1FUZG5ZUEpfeEJ4VW5ydWxobF8tSk1fQkVBMVhyMU9idlRkWDRXNkxXOWpFbHY1YU5kSS1rTEVOaF9TQmNxX1VpcEZrLXUtZVppdkV5b2FDY1FxaHNVZ2pERnd0bXo5UnVnSENGeWw2ZzMzWjJKQ05KS3hCVEtXSG5SWXpmZml5dTk5Vl9KNVFRa01NbDN4UGZ0YzBDTVU1MGlqbkNlb2RKaVNCWXZyZTYtTzFwZFRVdDUyWFdiMUdNRzZKYTJSUkxWS3pqSzI4dWhPUlZVdDNhMFpiei1VZTdfZlF3?oc=5",
+      "snippet": "\"Un lieu de rencontre et de travail\" : la permanence, plus qu’un local pour les municipales en Indre-et-Loire&nbsp;&nbsp;lanouvellerepublique.fr",
+      "date": "Thu, 08 Jan 2026 21:10:43 GMT",
+      "source": "lanouvellerepublique.fr"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "Source explicite : 'Candidat aux municipales à Tours' (décembre 2025)."
+        "source_index": 1,
+        "explication": "Mention explicite de permanence municipale pour les municipales 2026 à Tours liée à Henri Alfandari."
       },
       {
-        "source_index": 11,
-        "explication": "Propositions détaillées pour les municipales 2026 attribuées à Alfandari."
+        "source_index": 6,
+        "explication": "Titre affirme explicitement 'Candidat aux municipales à Tours, Henri Alfandari' en 2025-2026."
       },
       {
         "source_index": 12,
-        "explication": "Déclaration en tant que 'candidat Horizons' aux municipales 2026 (octobre 2025)."
+        "explication": "Propositions détaillées pour les municipales 2026 attribuées à Henri Alfandari."
       },
       {
         "source_index": 13,
-        "explication": "Projets présentés comme ceux d’un candidat aux municipales 2026."
+        "explication": "Titre et contenu confirment sa candidature aux municipales 2026 à Tours."
       },
       {
         "source_index": 14,
-        "explication": "Désignation officielle comme 'candidat Horizons' pour les municipales 2026 (octobre 2025)."
+        "explication": "Projets explicitement liés aux municipales 2026 pour Henri Alfandari."
+      },
+      {
+        "source_index": 15,
+        "explication": "Source affirme sa désignation officielle comme candidat Horizons pour les municipales 2026 à Tours."
       }
     ],
     "used_sources": [
-      5,
-      11,
+      1,
+      6,
       12,
       13,
-      14
+      14,
+      15
     ],
-    "analysis_at": "2026-01-08T13:33:41.682970Z",
+    "analysis_at": "2026-01-09T14:11:39.372836Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[5,11,12,13,14],\"justification\":[{\"source_index\":5,\"explication\":\"Source explicite : 'Candidat aux municipales à Tours' (décembre 2025).\"},{\"source_index\":11,\"explication\":\"Propositions détaillées pour les municipales 2026 attribuées à Alfandari.\"},{\"source_index\":12,\"explication\":\"Déclaration en tant que 'candidat Horizons' aux municipales 2026 (octobre 2025).\"},{\"source_index\":13,\"explication\":\"Projets présentés comme ceux d’un candidat aux municipales 2026.\"},{\"source_index\":14,\"explication\":\"Désignation officielle comme 'candidat Horizons' pour les municipales 2026 (octobre 2025).\"}]}"
+    "raw_output": "{\n  \"statut\": \"OUI\",\n  \"used_sources\": [\n    1, 6, 12, 13, 14, 15\n  ],\n  \"justification\":\n  [\n    {\n      \"source_index\": 1,\n      \"explication\": \"Mention explicite de permanence municipale pour les municipales 2026 à Tours liée à Henri Alfandari.\"\n    },\n    {\n      \"source_index\": 6,\n      \"explication\": \"Titre affirme explicitement 'Candidat aux municipales à Tours, Henri Alfandari' en 2025-2026.\"\n    },\n    {\n      \"source_index\": 12,\n      \"explication\": \"Propositions détaillées pour les municipales 2026 attribuées à Henri Alfandari.\"\n    },\n    {\n      \"source_index\": 13,\n      \"explication\": \"Titre et contenu confirment sa candidature aux municipales 2026 à Tours.\"\n    },\n    {\n      \"source_index\": 14,\n      \"explication\": \"Projets explicitement liés aux municipales 2026 pour Henri Alfandari.\"\n    },\n    {\n      \"source_index\": 15,\n      \"explication\": \"Source affirme sa désignation officielle comme candidat Horizons pour les municipales 2026 à Tours.\"\n    }\n  ]\n}"
   }
 }

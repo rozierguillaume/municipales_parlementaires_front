@@ -151,6 +151,20 @@
       "snippet": "Municipales à Paris : Aymeric Caron annonce que son parti ne fera pas alliance avec LFI&nbsp;&nbsp;Le Figaro",
       "date": "Fri, 14 Nov 2025 08:00:00 GMT",
       "source": "Le Figaro"
+    },
+    {
+      "title": "Municipales 2026 à Paris : chez LFI, \"on sait que ça sera Chikirou, c'est un secret de polichinelle\" - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbWg2SVB4RU5nb2tNU042dW5GSmRvZG5RNzYycXQzTXlBRG9MeC1rQ1hZdEFMbjQ5djNZMFI5S21sajFKZGFsZmhjOVQzOFl4dEEtMUhpVmJ2UjZTZktPRTBVODkyR3RscU9OY2wyVUxvSFlIQXhCMVpzWTRxTlFRbEx4NUZBNDJ4NF9RdDU0QlNFZFlubmhmeEJLQ09sd1pLZHpXQ3BzYTBpdERXR0NETTNZNTlqSjhTVldWbTh4c3NpQlBJX0pnLVlHVk9WRUdQNmZkcXdmLThOWThPbjZnVzhqYXA?oc=5",
+      "snippet": "Municipales 2026 à Paris : chez LFI, \"on sait que ça sera Chikirou, c'est un secret de polichinelle\"&nbsp;&nbsp;Actu.fr",
+      "date": "Sun, 05 Oct 2025 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Municipales 2026 à Nantes. William Aucant débarqué, les insoumis se retrouvent sans tête de liste - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRjMxd3FFc1B1YVRMZWxLV3gyYlQxdktidjI2Vlg4OENNUGIxY1VvRzktSGh5TzUzTmdDREczS3hoMmZfdjg1YnZuTFF6Vm1raUY0MnM0bXJ3VDktTGRzM3pYbEkxdnpJUy1BTXEwWEhOSUpKQUZfQXpEZ29vdVJoU0Vva2tWUF85NjhSdlBuSTFrdGQzX2RUenVBN3phMDhBeXN5dTBFUjVmMW80aUdJU2pfWXEzME1OTy1JY2FlVU40YnBtVDVZV3lHaE9RYXU4Sl82NnFtU2NBbGdITTJmZHJsOUJvY1hBeXJVSGh1UW1UTjNGLU81ZjV6SnRHNnVkemJIa2xhWHZ6cTBoanJj?oc=5",
+      "snippet": "Municipales 2026 à Nantes. William Aucant débarqué, les insoumis se retrouvent sans tête de liste&nbsp;&nbsp;Ouest-France",
+      "date": "Fri, 05 Sep 2025 07:00:00 GMT",
+      "source": "Ouest-France"
     }
   ],
   "analysis": {
@@ -158,19 +172,19 @@
     "justification": [
       {
         "source_index": 5,
-        "explication": "Source mentionne explicitement Danièle Obono comme candidate potentielle de LFI pour les municipales 2026 à Paris."
+        "explication": "Source cite explicitement Danièle Obono comme candidate LFI pour les municipales 2026 à Paris."
       },
       {
         "source_index": 7,
-        "explication": "Source confirme sa candidature face à un autre candidat dans le 18e arrondissement en 2026."
+        "explication": "Source confirme sa candidature face à Aymeric Caron dans le 18e arrondissement en 2026."
       }
     ],
     "used_sources": [
       5,
       7
     ],
-    "analysis_at": "2026-01-08T13:39:37.974582Z",
+    "analysis_at": "2026-01-09T14:18:17.723106Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[5,7],\"justification\":[{\"source_index\":5,\"explication\":\"Source mentionne explicitement Danièle Obono comme candidate potentielle de LFI pour les municipales 2026 à Paris.\"},{\"source_index\":7,\"explication\":\"Source confirme sa candidature face à un autre candidat dans le 18e arrondissement en 2026.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\", \"used_sources\": [5, 7], \"justification\": [\n    {\"source_index\": 5, \"explication\": \"Source cite explicitement Danièle Obono comme candidate LFI pour les municipales 2026 à Paris.\"},\n    {\"source_index\": 7, \"explication\": \"Source confirme sa candidature face à Aymeric Caron dans le 18e arrondissement en 2026.\"}\n]}"
   }
 }

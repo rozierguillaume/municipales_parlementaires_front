@@ -165,36 +165,43 @@
       "snippet": "Municipales 2026 à Aix-en-Provence : à gauche, l'union à l'épreuve des tensions&nbsp;&nbsp;La Provence",
       "date": "Fri, 14 Mar 2025 07:00:00 GMT",
       "source": "La Provence"
+    },
+    {
+      "title": "Le député socialiste d'Aix Marc Pena organise des vœux en petit comité avec ses militants - La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUmZXTzFncVQzQVNfVjh1T002YldWRUlKY3AzSFNqQTMxZ1k3Q3FUNzhhVUdYSzlWeVZGZEl2eHllVlZmVTc2aTFudU1MdTZwZDZrOF9aNFR0dEpHRHc5OUhTVjR1YWVTU0lMNW5lcjNfMHREVjVvanRydnNObHYwRTltY0tSOUF6aml3ZWRWSW1NUWRjTm04V2I2SkhxQWdPQnowNHNQdW5SR0JGWHFNRGEwVGppVjRuUlViekhmR0htM21VRC00MVg4Q2M1ZUh4eDkyMUZtbnJZQk1zeGhuT2ZR?oc=5",
+      "snippet": "Le député socialiste d'Aix Marc Pena organise des vœux en petit comité avec ses militants&nbsp;&nbsp;La Provence",
+      "date": "Thu, 08 Jan 2026 18:46:53 GMT",
+      "source": "La Provence"
     }
   ],
   "analysis": {
     "status": "OUI",
     "justification": [
       {
-        "source_index": 5,
-        "explication": "La gauche affiche son unité derrière Marc Pena aux municipales 2026."
-      },
-      {
         "source_index": 6,
-        "explication": "Déclaration officielle de candidature de Marc Pena pour les municipales 2026."
+        "explication": "Source cite explicitement Marc Pena comme candidat aux municipales 2026 à Aix-en-Provence."
       },
       {
-        "source_index": 10,
-        "explication": "Marc Pena est présenté comme candidat d'union à gauche pour les municipales 2026."
+        "source_index": 7,
+        "explication": "Déclaration officielle de candidature de Marc Pena pour les municipales 2026 mentionnée."
       },
       {
-        "source_index": 12,
-        "explication": "Exclusif : Marc Pena est explicitement désigné comme candidat aux municipales 2026 au nom de la gauche."
+        "source_index": 11,
+        "explication": "Marc Pena est désigné comme candidat d'union à gauche aux municipales 2026."
+      },
+      {
+        "source_index": 13,
+        "explication": "Source exclusive confirme sa candidature pour les municipales 2026 'au nom de la gauche'."
       }
     ],
     "used_sources": [
-      5,
       6,
-      10,
-      12
+      7,
+      11,
+      13
     ],
-    "analysis_at": "2026-01-08T13:46:52.999810Z",
+    "analysis_at": "2026-01-09T14:27:04.020036Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"OUI\",\"used_sources\":[5,6,10,12],\"justification\":[{\"source_index\":5,\"explication\":\"La gauche affiche son unité derrière Marc Pena aux municipales 2026.\"},{\"source_index\":6,\"explication\":\"Déclaration officielle de candidature de Marc Pena pour les municipales 2026.\"},{\"source_index\":10,\"explication\":\"Marc Pena est présenté comme candidat d'union à gauche pour les municipales 2026.\"},{\"source_index\":12,\"explication\":\"Exclusif : Marc Pena est explicitement désigné comme candidat aux municipales 2026 au nom de la gauche.\"}]}"
+    "raw_output": "{\"statut\": \"OUI\",\n\"used_sources\": [6, 7, 11, 13],\n\"justification\":\n   [\n    {\"source_index\": 6,\n     \"explication\": \"Source cite explicitement Marc Pena comme candidat aux municipales 2026 à Aix-en-Provence.\"},\n    {\"source_index\": 7,\n     \"explication\": \"Déclaration officielle de candidature de Marc Pena pour les municipales 2026 mentionnée.\"},\n    {\"source_index\": 11,\n     \"explication\": \"Marc Pena est désigné comme candidat d'union à gauche aux municipales 2026.\"},\n    {\"source_index\": 13,\n     \"explication\": \"Source exclusive confirme sa candidature pour les municipales 2026 'au nom de la gauche'.\"}\n   ]\n}"
   }
 }

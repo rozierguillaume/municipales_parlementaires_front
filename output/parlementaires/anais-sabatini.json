@@ -116,6 +116,27 @@
       "snippet": "\"Cachez ce logo RN que je ne saurais voir\" : ces candidats aux municipales qui évitent le logo du parti de Marine Le Pen à Cabestany, Canohès ou Rivesaltes&nbsp;&nbsp;L'Indépendant",
       "date": "Mon, 03 Feb 2025 08:00:00 GMT",
       "source": "L'Indépendant"
+    },
+    {
+      "title": "Latour-de-France/ Inauguration : un dojo solidaire dans l’enceinte de l’école Simone-Veil - ouillade.eu |",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQW1BdzRobXprejVQRDg5ZFN1U3AwM2JpaFNBLVp1c3pTQW9MQWowZldkUHlSWml6R0VDTjRlUDBmczUtMFVfODl4ejFSZmFrZ2dqVGlZd0tmRHk0QUEwbkNfU2l6MWtkeXlDVkNOYk9jSWNhYlBDcGdLOUh6SEVqQXVERDJqTzZ0Q1hYcWo4dy1wOGxhQ2pjR2NLVmZJSTZZZUNoeFkxZFNkdGgzb1gwbzNubjltMVUyVDVZ?oc=5",
+      "snippet": "Latour-de-France/ Inauguration : un dojo solidaire dans l’enceinte de l’école Simone-Veil&nbsp;&nbsp;ouillade.eu |",
+      "date": "Sun, 22 Sep 2024 07:00:00 GMT",
+      "source": "ouillade.eu |"
+    },
+    {
+      "title": "Législatives 2024. Voici tous les candidats qualifiés pour le second tour dans les Pyrénées-Orientales - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU2FmVkVVUi1jb3BxWXYzNTZ3eENhWmxnOGZvVVBVcngybkt0bHlqTWVxZkYtMWNNb0FRSVprQTlyelBzSjV6ZjZObk9BZ0V2ZWh5R3ZIbVFvelV3R3BsbFB1bGY2SXVURmtQQU1QZndkdnhBQ2JsamJhc0dIalBIZ2Ftc2E4Zkk1SmZMMjZmdHNEeFNVeVhmZXk0ZUZ3bXB1NzFJY2pjMGxycW5kV1JncHY2NDlpWjRRaDJLYmlUbjdHS3Y5Ty0zbjNndThsZU5kVEc0OUdvY3JfYVlMb182LWRDNDFycnlYT3pGZ1ZR?oc=5",
+      "snippet": "Législatives 2024. Voici tous les candidats qualifiés pour le second tour dans les Pyrénées-Orientales&nbsp;&nbsp;Actu.fr",
+      "date": "Wed, 03 Jul 2024 07:00:00 GMT",
+      "source": "Actu.fr"
+    },
+    {
+      "title": "Procès des assistants parlementaires du FN : \"Louis Aliot est sous OQTP : obligation de quitter le terrain politique\" tacle l’opposition à la mairie de Perpignan - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQc3duZGw0UlpzVFBoTFIwWUl0MjVsQnQtV2tkX1gyOWNySzV3VWRlY0pzellKX25rTnlIamswbkN4cjgwVVVrNi1uN2s0VnY3eVVFNHpYd01FX3NwNWY4aXZTWEpNSG5SeU1WaFNPMzRJLXRyWnYwZDEtRzBOYnNXcER6Z1U2SXJaeGd1Y25kQmxQd2Y2WGdxZmk3aFpjVDdSTEtKOS1UUWxQZHlHbUM0ZkdPaWx3OUVmZW40M3ROdnROenRzZ1NCN0Y4aEZocTJkZUhwN3J5SHZiT0pzeEEwblRVMlFYQVNTV2xvbEhwbmVwSWJhbTRoSzZIbUtQYnhzbmcxZjhUekdNeXcyN01raVV1STdjMHQtRi1QMFJDTTBmUQ?oc=5",
+      "snippet": "Procès des assistants parlementaires du FN : \"Louis Aliot est sous OQTP : obligation de quitter le terrain politique\" tacle l’opposition à la mairie de Perpignan&nbsp;&nbsp;L'Indépendant",
+      "date": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "source": "L'Indépendant"
     }
   ],
   "analysis": {
@@ -123,12 +144,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne Anaïs Sabatini (RN) en lien avec une candidature ou un retrait pour les municipales 2026 à Perpignan."
+        "explication": "Aucune source ne mentionne explicitement Anaïs Sabatini comme candidate aux municipales 2026 à Perpignan."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:54:24.057087Z",
+    "analysis_at": "2026-01-09T14:36:19.801712Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne Anaïs Sabatini (RN) en lien avec une candidature ou un retrait pour les municipales 2026 à Perpignan.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Anaïs Sabatini comme candidate aux municipales 2026 à Perpignan.\"}\n]}"
   }
 }

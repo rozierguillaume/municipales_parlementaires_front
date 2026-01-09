@@ -151,6 +151,20 @@
       "snippet": "Christian Jasko, candidat RN aux municipales : «A Compiègne, depuis quarante ans, on ne fait qu'assurer le service après-vente de Jean Legendre&nbsp;&nbsp;Oise Hebdo",
       "date": "Sat, 11 Oct 2025 07:00:00 GMT",
       "source": "Oise Hebdo"
+    },
+    {
+      "title": "Municipales 2026 à Dreux : la rupture est consommée entre le maire sortant et Les Républicains - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYlk1cDc1Qkt6YXJfV1ZXNDZTM3RFUzlsaXRsV1VudHEyTHJzejU3Uk04QVp4UnVMWnFpaDUtLVh0YUJrU2h0WC1FaWdST2VScjBvWk9haWo0MExnQ001M3FyQ2pYdmhhMFlDOVQ1dUwyS2NqbWpWNzdXVzR6SFg1bFVzZnR4enBOeDkzMWdHU1FOcXJHV3hvNzNRNlQ0ZFU5cWJtUlQ4TWpyajRnSjNkYmFpcXdwMVlaUGhhODZsSmlGTHllanZhUUduN0ZuLWNwZlp3VFJIckRFbDBpUTh1bmFlQ01ZVTNXdVVyYUFIc0hITmE2czdEVU41bG81SkZsMTlWSGZSYw?oc=5",
+      "snippet": "Municipales 2026 à Dreux : la rupture est consommée entre le maire sortant et Les Républicains&nbsp;&nbsp;Le Parisien",
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "Le Parisien"
+    },
+    {
+      "title": "Saint-Jean-d'Angély. Pierre-Michel March s'écarte d'une campagne qu'il juge sans hauteur - lhebdo17.fr",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmFpMVpFc1FsYlNScWEwcVhfMEVnZmpjQWs4dHpERl9TSTZrQm9mZzdLYmtoeVBFNVN6RGc5WkxwakpCMF85SXE1aGg0d0tVZjA3YlNDOEM3ZHh3VWk5cTczUGY5b2poaTJwYkV3SjduTk1tdkl2QzF0ZE5hN1h5dXktUDZnMVUyRFpSWExWWEhBWFhZOFg1ODJ0T1AySzh2SjZiU09mcGJWbjhZRk8xRkY1ZlB0QXJfR21mOFBzMXI3Zkh5?oc=5",
+      "snippet": "Saint-Jean-d'Angély. Pierre-Michel March s'écarte d'une campagne qu'il juge sans hauteur&nbsp;&nbsp;lhebdo17.fr",
+      "date": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "lhebdo17.fr"
     }
   ],
   "analysis": {
@@ -158,12 +172,12 @@
     "justification": [
       {
         "source_index": null,
-        "explication": "Aucune source ne mentionne explicitement Frédéric-Pierre VOS (LR) comme candidat ou non aux municipales 2026 à Compiègne."
+        "explication": "Aucune source ne mentionne explicitement Frédéric-Pierre VOS comme candidat aux municipales 2026 à Compiègne."
       }
     ],
     "used_sources": [],
-    "analysis_at": "2026-01-08T13:56:09.947419Z",
+    "analysis_at": "2026-01-09T14:38:24.848167Z",
     "analysis_version": "v3-date-cutoff-2025-08",
-    "raw_output": "{\"statut\":\"INCERTAIN\",\"used_sources\":[],\"justification\":[{\"source_index\":null,\"explication\":\"Aucune source ne mentionne explicitement Frédéric-Pierre VOS (LR) comme candidat ou non aux municipales 2026 à Compiègne.\"}]}"
+    "raw_output": "{\"statut\": \"INCERTAIN\", \"used_sources\": [], \"justification\": [\n    {\"source_index\": null, \"explication\": \"Aucune source ne mentionne explicitement Frédéric-Pierre VOS comme candidat aux municipales 2026 à Compiègne.\"}\n]}"
   }
 }
